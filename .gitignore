@@ -1,0 +1,13 @@
+weights/
+*.pt
+*.onnx
+*.safetensors
+*.npy
+__pycache__/
+*.pyc
+.DS_Store
+runs/
+datasets/
+*.zip
+venv/
+datasets/
