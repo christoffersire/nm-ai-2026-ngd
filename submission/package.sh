@@ -2,19 +2,33 @@
 # Package submission zip from trained model weights.
 #
 # Usage:
-#   ./submission/package.sh <path-to-best.pt> [output-name]
+#   ./submission/package.sh <detector.pt> [classifier.pt] [output-name]
 #
-# Example:
-#   ./submission/package.sh runs/detect/full-class-v1/weights/best.pt
-#   ./submission/package.sh ~/Downloads/best.pt submission-v2
+# Examples:
+#   ./submission/package.sh weights/best.pt                              # detector-only
+#   ./submission/package.sh weights/best.pt weights/cls-best.pt          # two-stage
+#   ./submission/package.sh weights/best.pt weights/cls-best.pt sub-v2   # two-stage, custom name
 
 set -euo pipefail
 
 SCRIPT_DIR="$(cd "$(dirname "$0")" && pwd)"
 PROJECT_DIR="$(dirname "$SCRIPT_DIR")"
 
-WEIGHTS="${1:?Usage: $0 <path-to-best.pt> [output-name]}"
-OUTPUT_NAME="${2:-submission}"
+DETECTOR="${1:?Usage: $0 <detector.pt> [classifier.pt] [output-name]}"
+
+# Detect if second arg is a .pt file (classifier) or output name
+CLASSIFIER=""
+OUTPUT_NAME="submission"
+
+if [ -n "${2:-}" ]; then
+    if [[ "$2" == *.pt ]]; then
+        CLASSIFIER="$2"
+        OUTPUT_NAME="${3:-submission}"
+    else
+        OUTPUT_NAME="$2"
+    fi
+fi
+
 OUTPUT_ZIP="${PROJECT_DIR}/${OUTPUT_NAME}.zip"
 
 # Staging directory
@@ -29,10 +43,20 @@ cp "$SCRIPT_DIR/run.py" "$STAGING/run.py"
 # Copy config
 cp "$SCRIPT_DIR/config.json" "$STAGING/config.json"
 
-# Copy model weights as detector.pt
-cp "$WEIGHTS" "$STAGING/detector.pt"
+# Copy detector weights
+cp "$DETECTOR" "$STAGING/detector.pt"
 WEIGHT_SIZE=$(du -m "$STAGING/detector.pt" | cut -f1)
-echo "  Model weights: ${WEIGHT_SIZE} MB"
+echo "  Detector weights: ${WEIGHT_SIZE} MB"
+
+# Copy classifier weights (if provided)
+if [ -n "$CLASSIFIER" ]; then
+    cp "$CLASSIFIER" "$STAGING/classifier.pt"
+    CLS_SIZE=$(du -m "$STAGING/classifier.pt" | cut -f1)
+    echo "  Classifier weights: ${CLS_SIZE} MB"
+    echo "  Mode: two-stage"
+else
+    echo "  Mode: detector-only"
+fi
 
 # Build zip
 cd "$STAGING"

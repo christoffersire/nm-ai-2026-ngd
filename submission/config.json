@@ -1,7 +1,16 @@
 {
   "nc": 356,
-  "conf_threshold": 0.25,
+  "conf_threshold": 0.05,
   "iou_nms_threshold": 0.5,
   "max_predictions_per_image": 500,
-  "model_file": "detector.pt"
+  "model_file": "detector.pt",
+  "classifier_file": "classifier.pt",
+  "use_classifier": true,
+  "crop_padding": 0.1,
+  "classifier_imgsz": 224,
+  "classifier_batch_size": 64,
+  "fusion_policy": "B",
+  "classifier_conf_threshold": 0.5,
+  "selective_det_threshold": 0.7,
+  "score_formula": "det_score"
 }

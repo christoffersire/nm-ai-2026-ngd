@@ -44,14 +44,17 @@ def run_inference(model, image_dir: Path, val_ids: set, conf: float, iou: float)
         if image_id not in val_ids:
             continue
 
-        results = model.predict(
-            source=str(img_path),
-            conf=conf,
-            iou=iou,
-            max_det=500,
-            verbose=False,
-            device=device,
-        )
+        try:
+            results = model.predict(
+                source=str(img_path),
+                conf=conf,
+                iou=iou,
+                max_det=500,
+                verbose=False,
+                device=device,
+            )
+        except Exception:
+            continue
 
         for r in results:
             if r.boxes is None or len(r.boxes) == 0:
