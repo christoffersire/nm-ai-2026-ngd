@@ -1,0 +1,7 @@
+{
+  "nc": 356,
+  "conf_threshold": 0.25,
+  "iou_nms_threshold": 0.5,
+  "max_predictions_per_image": 500,
+  "model_file": "detector.pt"
+}

@@ -15,11 +15,27 @@ from ultralytics import YOLO
 
 # --- Configuration ---
 SCRIPT_DIR = Path(__file__).resolve().parent
-MODEL_PATH = SCRIPT_DIR / "detector.pt"
-CONF_THRESHOLD = 0.25
-IOU_NMS_THRESHOLD = 0.5
-MAX_PREDICTIONS_PER_IMAGE = 500
-NC = 356  # categories 0-355
+CONFIG_PATH = SCRIPT_DIR / "config.json"
+
+# Load config (with defaults)
+_DEFAULTS = {
+    "nc": 356,
+    "conf_threshold": 0.25,
+    "iou_nms_threshold": 0.5,
+    "max_predictions_per_image": 500,
+    "model_file": "detector.pt",
+}
+
+if CONFIG_PATH.exists():
+    with open(CONFIG_PATH) as _f:
+        _cfg = json.load(_f)
+    _DEFAULTS.update(_cfg)
+
+NC = _DEFAULTS["nc"]
+CONF_THRESHOLD = _DEFAULTS["conf_threshold"]
+IOU_NMS_THRESHOLD = _DEFAULTS["iou_nms_threshold"]
+MAX_PREDICTIONS_PER_IMAGE = _DEFAULTS["max_predictions_per_image"]
+MODEL_PATH = SCRIPT_DIR / _DEFAULTS["model_file"]
 
 
 def extract_image_id(filename: str) -> int | None:
