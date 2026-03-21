@@ -1,5 +1,5 @@
 {
-  "total_products": 329,
+  "total_products": 356,
   "products_with_images": 327,
   "products_without_images": 2,
   "total_images": 1582,
@@ -4560,6 +4560,276 @@
       "image_types": [
         "back",
         "front",
+        "main"
+      ]
+    },
+    {
+      "product_code": "7035620008429",
+      "product_name": "Eldorado Økologiske Gårdsegg",
+      "annotation_count": 0,
+      "corrected_count": 0,
+      "has_images": true,
+      "image_types": [
+        "main"
+      ]
+    },
+    {
+      "product_code": "7035620024542",
+      "product_name": "Jacobs 10 Gårdsegg",
+      "annotation_count": 0,
+      "corrected_count": 0,
+      "has_images": true,
+      "image_types": [
+        "main"
+      ]
+    },
+    {
+      "product_code": "7312080005756",
+      "product_name": "Leksands Rutbit",
+      "annotation_count": 0,
+      "corrected_count": 0,
+      "has_images": true,
+      "image_types": [
+        "main"
+      ]
+    },
+    {
+      "product_code": "7035620045349",
+      "product_name": "SJOKORINGER 375G ELDORADO",
+      "annotation_count": 0,
+      "corrected_count": 0,
+      "has_images": true,
+      "image_types": [
+        "main"
+      ]
+    },
+    {
+      "product_code": "7044416013684",
+      "product_name": "MÜSLI FRUKT MÜSLI 700G AXA",
+      "annotation_count": 0,
+      "corrected_count": 0,
+      "has_images": true,
+      "image_types": [
+        "main"
+      ]
+    },
+    {
+      "product_code": "7037150150012",
+      "product_name": "FRIELE FROKOST HEL 500G",
+      "annotation_count": 0,
+      "corrected_count": 0,
+      "has_images": true,
+      "image_types": [
+        "main"
+      ]
+    },
+    {
+      "product_code": "7090037971650",
+      "product_name": "SVARTHAVREGRYN LETTKOKTE 900G DEN SORTE",
+      "annotation_count": 0,
+      "corrected_count": 0,
+      "has_images": true,
+      "image_types": [
+        "main"
+      ]
+    },
+    {
+      "product_code": "7090026200075",
+      "product_name": "Økologiske Egg 10stk",
+      "annotation_count": 0,
+      "corrected_count": 0,
+      "has_images": true,
+      "image_types": [
+        "main"
+      ]
+    },
+    {
+      "product_code": "7040913336707",
+      "product_name": "EVERGOOD CLASSIC PRESSMALT 250G",
+      "annotation_count": 0,
+      "corrected_count": 0,
+      "has_images": true,
+      "image_types": [
+        "main"
+      ]
+    },
+    {
+      "product_code": "7037150121012",
+      "product_name": "FRIELE FROKOST KOKMALT 250G",
+      "annotation_count": 0,
+      "corrected_count": 0,
+      "has_images": true,
+      "image_types": [
+        "main"
+      ]
+    },
+    {
+      "product_code": "7035620062780",
+      "product_name": "Sætre GullBar",
+      "annotation_count": 0,
+      "corrected_count": 0,
+      "has_images": true,
+      "image_types": [
+        "main"
+      ]
+    },
+    {
+      "product_code": "7037150323010",
+      "product_name": "FRIELE FROKOST KOFFEINFRI FILTERMALT 250G",
+      "annotation_count": 0,
+      "corrected_count": 0,
+      "has_images": true,
+      "image_types": [
+        "main"
+      ]
+    },
+    {
+      "product_code": "7036110210803",
+      "product_name": "MELANGE FLYTENDE MARGARIN M/SMØR 500ML",
+      "annotation_count": 0,
+      "corrected_count": 0,
+      "has_images": true,
+      "image_types": [
+        "main"
+      ]
+    },
+    {
+      "product_code": "7035450010029",
+      "product_name": "Galåvolden Store Gårdsegg 10stk",
+      "annotation_count": 0,
+      "corrected_count": 0,
+      "has_images": true,
+      "image_types": [
+        "main"
+      ]
+    },
+    {
+      "product_code": "7035450006046",
+      "product_name": "Galåvolden Store Gårdsegg 6stk",
+      "annotation_count": 0,
+      "corrected_count": 0,
+      "has_images": true,
+      "image_types": [
+        "main"
+      ]
+    },
+    {
+      "product_code": "7037159623005",
+      "product_name": "FRIELE INSTANT 200G",
+      "annotation_count": 0,
+      "corrected_count": 0,
+      "has_images": true,
+      "image_types": [
+        "main"
+      ]
+    },
+    {
+      "product_code": "7035620050411",
+      "product_name": "Eldorado Flytende Gårdsegg",
+      "annotation_count": 0,
+      "corrected_count": 0,
+      "has_images": true,
+      "image_types": [
+        "main"
+      ]
+    },
+    {
+      "product_code": "7090011630191",
+      "product_name": "Økologiske Egg Brune 6stk",
+      "annotation_count": 0,
+      "corrected_count": 0,
+      "has_images": true,
+      "image_types": [
+        "main"
+      ]
+    },
+    {
+      "product_code": "7090032710018",
+      "product_name": "Sunnmørsegg",
+      "annotation_count": 0,
+      "corrected_count": 0,
+      "has_images": true,
+      "image_types": [
+        "main"
+      ]
+    },
+    {
+      "product_code": "7071319024981",
+      "product_name": "SMØREMYK MELKEFRI 400G BERIT",
+      "annotation_count": 0,
+      "corrected_count": 0,
+      "has_images": true,
+      "image_types": [
+        "main"
+      ]
+    },
+    {
+      "product_code": "7035620008429",
+      "product_name": "Eldorado Egg fra Toten",
+      "annotation_count": 0,
+      "corrected_count": 0,
+      "has_images": true,
+      "image_types": [
+        "main"
+      ]
+    },
+    {
+      "product_code": "5010029201246",
+      "product_name": "ALPEN MÜSLI WEETABIX",
+      "annotation_count": 0,
+      "corrected_count": 0,
+      "has_images": true,
+      "image_types": [
+        "main"
+      ]
+    },
+    {
+      "product_code": "7090007271032",
+      "product_name": "EGG L 10STK TOTEN",
+      "annotation_count": 0,
+      "corrected_count": 0,
+      "has_images": true,
+      "image_types": [
+        "main"
+      ]
+    },
+    {
+      "product_code": "7090032710018",
+      "product_name": "Sunnmørsegg 10stk",
+      "annotation_count": 0,
+      "corrected_count": 0,
+      "has_images": true,
+      "image_types": [
+        "main"
+      ]
+    },
+    {
+      "product_code": "7090036370195",
+      "product_name": "Tørresvik Gård Kvalitetsegg 10stk",
+      "annotation_count": 0,
+      "corrected_count": 0,
+      "has_images": true,
+      "image_types": [
+        "main"
+      ]
+    },
+    {
+      "product_code": "7040913336776",
+      "product_name": "EVERGOOD CLASSIC HELE BØNNER 500G",
+      "annotation_count": 0,
+      "corrected_count": 0,
+      "has_images": true,
+      "image_types": [
+        "main"
+      ]
+    },
+    {
+      "product_code": "7040913337391",
+      "product_name": "ALI ORIGINAL HELE BØNNER 250G",
+      "annotation_count": 0,
+      "corrected_count": 0,
+      "has_images": true,
+      "image_types": [
         "main"
       ]
     }
