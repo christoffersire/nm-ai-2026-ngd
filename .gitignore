@@ -9,6 +9,7 @@ weights/
 __pycache__/
 *.pyc
 venv/
+.env
 
 # Data (large files)
 data/raw/
