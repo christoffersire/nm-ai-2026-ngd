@@ -129,7 +129,8 @@ Upload zip at app.ainm.no. Max 420 MB, ≤3 weight files, ≤10 .py files.
 
 ### Submission Limits
 
-- 3 submissions per day (2 infrastructure freebies), 2 in-flight max
+- 6 submissions per day (2 infrastructure freebies), 2 in-flight max
+- Timeout: 360s total (300s inference + 60s cold start headroom)
 
 ## Current Results
 
@@ -138,14 +139,24 @@ Upload zip at app.ainm.no. Max 420 MB, ≤3 weight files, ≤10 .py files.
 | v1 | YOLOv8m (split, .pt) | 0.0 | — | Failed — .pt loading incompatible |
 | v2 | YOLOv8m (split, ONNX) | 0.7795 | 24.6s | First working submission |
 | v5 | Ensemble (2× medium, WBF) | 0.7860 | 47.6s | Two medium models |
-| v7 | YOLO11x (all-data, ONNX, TTA flip) | **0.9019** | 36.9s | Best submitted |
+| v7 | YOLO11x (all-data, ONNX, TTA flip) | **0.9019** | 36.9s | Improved aug, 200 epochs |
 | v8 | YOLO11x + classifier | 0.8978 | — | Classifier hurt score |
-| v13 | Ensemble v3-1280 + v3-1536 (WBF) | pending | 268s | Fixed data, 300 epochs |
+| v13 | Ensemble v3-1280 + v3-1536 (WBF) | **0.9127** | 268s | 10 manual fixes, 300 epochs |
+| v14a | Ensemble v4-1280 + v4-1536 (WBF) | pending | ~268s | 1,488 mislabels removed, 150ep |
+| v14b | Same + both models flip TTA | pending | ~358s | Tests full TTA within 360s budget |
+
+## Data Cleaning
+
+- **4,272 annotations (18.8%) intentionally corrupted** by competition organizers
+- 3-model vision verification (Claude + GPT + Gemini): crop vs reference image, majority vote
+- **1,488 confirmed mislabels removed** → 21,241 clean training annotations
+- All 356 categories verified against Kassal.app API; 29 EAN codes added
+- Reference images for 353/356 categories (only cat 285 Leka Egg missing)
 
 ## Key Findings
 
-- **Training recipe matters most**: `close_mosaic=15`, `degrees=5`, `shear=2`, 200 epochs → +0.116 on leaderboard
-- **Data quality**: ~4,272 annotations intentionally corrupted; fixing 10 mislabels + 2 corrupted images improved val mAP
+- **Training recipe matters most**: `close_mosaic=15`, `degrees=5`, `shear=2`, 200+ epochs → +0.116 on leaderboard
+- **Data cleaning is the biggest lever**: 10 manual fixes → +0.0108 (v7→v13); 1,488 automated fixes pending
 - **Copy-paste augmentation hurts** on dense shelf images
 - **Synthetic shelf data hurts** — doesn't match real distribution
 - **Classifier stage hurts** — detector's own classification is strong enough

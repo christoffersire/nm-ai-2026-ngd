@@ -1,5 +1,5 @@
 {
-  "total_products": 356,
+  "total_products": 358,
   "products_with_images": 327,
   "products_without_images": 2,
   "total_images": 1582,
@@ -4826,6 +4826,26 @@
     {
       "product_code": "7040913337391",
       "product_name": "ALI ORIGINAL HELE BØNNER 250G",
+      "annotation_count": 0,
+      "corrected_count": 0,
+      "has_images": true,
+      "image_types": [
+        "main"
+      ]
+    },
+    {
+      "product_code": "7090046320012",
+      "product_name": "Gårdsegg fra Fana 10stk",
+      "annotation_count": 0,
+      "corrected_count": 0,
+      "has_images": true,
+      "image_types": [
+        "main"
+      ]
+    },
+    {
+      "product_code": "7090036370256",
+      "product_name": "Tørresvik Gårdsegg 6stk",
       "annotation_count": 0,
       "corrected_count": 0,
       "has_images": true,
