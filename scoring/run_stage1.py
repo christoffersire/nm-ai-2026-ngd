@@ -12,11 +12,15 @@ import sys
 sys.path.insert(0, str(Path(__file__).resolve().parent))
 from scorer import hybrid_score
 
-IMAGES_DIR = str(Path.home() / "Downloads" / "train" / "images")
-GT_PATH = str(Path.home() / "Downloads" / "train" / "annotations.json")
-VAL_SPLIT_PATH = str(Path.home() / "nm-ai-2026-ngd" / "data" / "val_split.json")
-CONFIG_PATH = str(Path.home() / "nm-ai-2026-ngd" / "submission" / "config.json")
-TTA_SCRIPT = str(Path.home() / "nm-ai-2026-ngd" / "submission" / "run_onnx_tta.py")
+PROJECT_DIR = Path(__file__).resolve().parent.parent
+DATA_DIR = PROJECT_DIR / "data"
+RAW_DIR = DATA_DIR / "raw"
+
+IMAGES_DIR = str(RAW_DIR / "images")
+GT_PATH = str(RAW_DIR / "annotations.json")
+VAL_SPLIT_PATH = str(DATA_DIR / "val_split.json")
+CONFIG_PATH = str(PROJECT_DIR / "submission" / "config.json")
+TTA_SCRIPT = str(PROJECT_DIR / "submission" / "run_onnx_tta.py")
 
 
 def main():

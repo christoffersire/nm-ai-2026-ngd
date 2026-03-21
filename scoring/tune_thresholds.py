@@ -5,7 +5,7 @@ Usage:
   python scoring/tune_thresholds.py \
     --model runs/detect/full-class-v1/weights/best.pt \
     --dataset datasets/full-class/data.yaml \
-    --ground-truth ~/Downloads/train/annotations.json \
+    --ground-truth data/raw/annotations.json \
     --val-split data/val_split.json
 
 Runs inference at each (conf, nms) pair on validation images,

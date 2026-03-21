@@ -6,9 +6,13 @@ from pathlib import Path
 from collections import Counter
 
 
-ANNOTATIONS_PATH = Path.home() / "Downloads" / "train" / "annotations.json"
-PRODUCT_META_PATH = Path.home() / "Downloads" / "NM_NGD_product_images" / "metadata.json"
-PRODUCT_IMAGES_DIR = Path.home() / "Downloads" / "NM_NGD_product_images"
+PROJECT_DIR = Path(__file__).resolve().parent.parent.parent
+DATA_DIR = PROJECT_DIR / "data"
+RAW_DIR = DATA_DIR / "raw"
+
+ANNOTATIONS_PATH = RAW_DIR / "annotations.json"
+PRODUCT_META_PATH = RAW_DIR / "product_images" / "metadata.json"
+PRODUCT_IMAGES_DIR = RAW_DIR / "product_images"
 
 
 def main():
@@ -133,7 +137,7 @@ def main():
     print(f"ID range: {ids_sorted[0]}-{ids_sorted[-1]}")
 
     # Save mapping for later use
-    mapping_path = Path.home() / "nm-ai-2026-ngd" / "data" / "category_mapping.json"
+    mapping_path = DATA_DIR / "category_mapping.json"
     mapping_path.write_text(json.dumps(mapping, indent=2, ensure_ascii=False))
     print(f"\nCategory mapping saved to {mapping_path}")
 

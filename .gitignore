@@ -1,13 +1,27 @@
+# Model weights
 weights/
 *.pt
 *.onnx
 *.safetensors
 *.npy
+
+# Python
 __pycache__/
 *.pyc
-.DS_Store
-runs/
-datasets/
-*.zip
 venv/
+
+# Data (large files)
+data/raw/
+data/product_images/
 datasets/
+
+# Training runs
+runs/
+
+# Submissions & archives
+*.zip
+archive/
+
+# OS
+.DS_Store
+.playwright-mcp/
