@@ -11,8 +11,8 @@ Usage:
   python train/eval_two_stage.py \
     --detector runs/detect/full-class-v1/weights/best.pt \
     --classifier runs/classify/classifier-s-v1/weights/best.pt \
-    --images ~/Downloads/train/images \
-    --ground-truth ~/Downloads/train/annotations.json \
+    --images data/raw/images \
+    --ground-truth data/raw/annotations.json \
     --val-split data/val_split.json
 """
 import argparse

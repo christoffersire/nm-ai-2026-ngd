@@ -4,8 +4,8 @@ Visualize predictions vs ground truth on validation images.
 Usage:
   python scoring/visualize.py \
     --model runs/detect/full-class-v1/weights/best.pt \
-    --images ~/Downloads/train/images \
-    --ground-truth ~/Downloads/train/annotations.json \
+    --images data/raw/images \
+    --ground-truth data/raw/annotations.json \
     --val-split data/val_split.json \
     --output scoring/vis_output \
     --max-images 10

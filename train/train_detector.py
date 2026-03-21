@@ -34,11 +34,19 @@ def main():
         patience=args.patience,
         name=args.name,
         device=args.device,
-        # Augmentation — important for small dataset with rare classes
+        # Augmentation — tuned for small dataset with dense shelves
         mosaic=1.0,
         mixup=0.15,
         scale=0.5,
         fliplr=0.5,
+        degrees=5.0,
+        translate=0.1,
+        shear=2.0,
+        hsv_h=0.015,
+        hsv_s=0.5,
+        hsv_v=0.3,
+        erasing=0.4,
+        close_mosaic=15,
         # Training config
         optimizer="AdamW",
         lr0=0.001,

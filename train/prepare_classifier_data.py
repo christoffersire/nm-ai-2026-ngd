@@ -1,13 +1,15 @@
 """
-Prepare classifier training data from shelf image annotations.
+Prepare classifier training data from shelf image annotations + CDN product images.
 
 Crops GT bounding boxes with padding and generates jittered variants
-to simulate detector imperfection. Organizes into ultralytics classify
-folder structure.
+to simulate detector imperfection. Adds CDN product images as additional
+training samples (especially important for rare classes). Organizes into
+ultralytics classify folder structure.
 
 Usage:
   python train/prepare_classifier_data.py
   python train/prepare_classifier_data.py --jitter-count 3 --crop-size 256
+  python train/prepare_classifier_data.py --all-data  # use all 248 images for train
 """
 import argparse
 import json
@@ -15,14 +17,20 @@ import random
 from pathlib import Path
 from collections import defaultdict, Counter
 
-from PIL import Image
+from PIL import Image, ImageEnhance, ImageFilter
 
 
-# --- Paths (use Path.home() for portability between local and VM) ---
-ANNOTATIONS_PATH = Path.home() / "Downloads" / "train" / "annotations.json"
-IMAGES_DIR = Path.home() / "Downloads" / "train" / "images"
-VAL_SPLIT_PATH = Path.home() / "nm-ai-2026-ngd" / "data" / "val_split.json"
-OUTPUT_BASE = Path.home() / "nm-ai-2026-ngd" / "datasets" / "classifier"
+# --- Paths ---
+PROJECT_DIR = Path(__file__).resolve().parent.parent
+DATA_DIR = PROJECT_DIR / "data"
+RAW_DIR = DATA_DIR / "raw"
+
+ANNOTATIONS_PATH = RAW_DIR / "annotations.json"
+IMAGES_DIR = RAW_DIR / "images"
+VAL_SPLIT_PATH = DATA_DIR / "val_split.json"
+PRODUCT_IMAGES_DIR = DATA_DIR / "product_images"
+CATEGORY_MAPPING_PATH = DATA_DIR / "category_mapping.json"
+OUTPUT_BASE = PROJECT_DIR / "datasets" / "classifier"
 
 SEED = 42
 PADDING = 0.1  # 10% padding around GT bbox
@@ -101,11 +109,47 @@ def generate_jittered_crops(img, bbox, count=2, pos_jitter=0.05, scale_jitter=0.
     return crops
 
 
+def augment_product_image(img, crop_size):
+    """Generate augmented variants of a CDN product image to simulate shelf conditions."""
+    variants = []
+
+    for _ in range(5):
+        aug = img.copy()
+
+        # Random brightness (0.6-1.2 to simulate shelf lighting)
+        aug = ImageEnhance.Brightness(aug).enhance(random.uniform(0.6, 1.2))
+
+        # Random contrast (0.7-1.2)
+        aug = ImageEnhance.Contrast(aug).enhance(random.uniform(0.7, 1.2))
+
+        # Random saturation (0.6-1.1)
+        aug = ImageEnhance.Color(aug).enhance(random.uniform(0.6, 1.1))
+
+        # Slight blur (shelf photos aren't as sharp)
+        if random.random() < 0.5:
+            aug = aug.filter(ImageFilter.GaussianBlur(radius=random.uniform(0.3, 1.5)))
+
+        # Random crop (simulate partial visibility / padding variation)
+        w, h = aug.size
+        crop_frac = random.uniform(0.8, 1.0)
+        cw, ch = int(w * crop_frac), int(h * crop_frac)
+        left = random.randint(0, w - cw)
+        top = random.randint(0, h - ch)
+        aug = aug.crop((left, top, left + cw, top + ch))
+
+        aug = aug.resize((crop_size, crop_size), Image.LANCZOS)
+        variants.append(aug)
+
+    return variants
+
+
 def main():
     parser = argparse.ArgumentParser()
     parser.add_argument("--crop-size", type=int, default=224, help="Output crop size")
     parser.add_argument("--jitter-count", type=int, default=2, help="Jittered variants per GT crop")
     parser.add_argument("--no-jitter", action="store_true", help="Skip jitter generation")
+    parser.add_argument("--all-data", action="store_true", help="Use all 248 images for training (no val split)")
+    parser.add_argument("--cdn-augments", type=int, default=5, help="Augmented variants per CDN product image")
     args = parser.parse_args()
 
     random.seed(SEED)
@@ -116,8 +160,12 @@ def main():
 
     with open(VAL_SPLIT_PATH) as f:
         split = json.load(f)
-        train_ids = set(split["train_ids"])
-        val_ids = set(split["val_ids"])
+        if args.all_data:
+            train_ids = set(split["train_ids"]) | set(split["val_ids"])
+            val_ids = set()
+        else:
+            train_ids = set(split["train_ids"])
+            val_ids = set(split["val_ids"])
 
     # Build lookups
     id_to_img = {img["id"]: img for img in data["images"]}
@@ -207,15 +255,68 @@ def main():
                     jcrop_resized.save(OUTPUT_BASE / split_name / f"{cat_id:03d}" / jcrop_name, quality=95)
                     jitter_counts[cat_id] += 1
 
+    # --- Add CDN product images ---
+    cdn_counts = Counter()
+
+    if PRODUCT_IMAGES_DIR.exists():
+        print(f"\n=== Adding CDN product images ===")
+        cdn_images = sorted(PRODUCT_IMAGES_DIR.glob("cat*.jpg"))
+        print(f"Found {len(cdn_images)} CDN product images")
+
+        for cdn_path in cdn_images:
+            # Parse cat ID from filename: cat001_1234567890.jpg
+            name_parts = cdn_path.stem.split("_")
+            try:
+                cat_id = int(name_parts[0].replace("cat", ""))
+            except (ValueError, IndexError):
+                continue
+
+            if cat_id >= nc:
+                continue
+
+            try:
+                cdn_img = Image.open(cdn_path).convert("RGB")
+            except Exception:
+                continue
+
+            # Save the original resized
+            resized = cdn_img.resize((args.crop_size, args.crop_size), Image.LANCZOS)
+            save_name = f"cdn_{cdn_path.stem}.jpg"
+            (OUTPUT_BASE / "train" / f"{cat_id:03d}").mkdir(parents=True, exist_ok=True)
+            resized.save(OUTPUT_BASE / "train" / f"{cat_id:03d}" / save_name, quality=95)
+            cdn_counts[cat_id] += 1
+            train_counts[cat_id] += 1
+
+            # Generate augmented variants
+            if args.cdn_augments > 0:
+                augmented = augment_product_image(cdn_img, args.crop_size)
+                for j, aug_img in enumerate(augmented[:args.cdn_augments]):
+                    aug_name = f"cdn_{cdn_path.stem}_aug{j}.jpg"
+                    aug_img.save(OUTPUT_BASE / "train" / f"{cat_id:03d}" / aug_name, quality=95)
+                    cdn_counts[cat_id] += 1
+                    train_counts[cat_id] += 1
+
+        print(f"CDN images added: {sum(cdn_counts.values())} ({len(cdn_counts)} categories)")
+    else:
+        print(f"\n[WARN] No CDN product images found at {PRODUCT_IMAGES_DIR}")
+        print(f"  Run: python data/download_product_images.py")
+
+    # Note: manually collected images should use the same naming convention
+    # as CDN images (cat{id}_{ean}.jpg) and be placed in the same directory.
+    # They will be picked up automatically by the CDN image glob above.
+
     # Print statistics
     total_train = sum(train_counts.values())
     total_jitter = sum(jitter_counts.values())
+    total_cdn = sum(cdn_counts.values())
     total_val = sum(val_counts.values())
 
+    total_gt = total_train - total_jitter - total_cdn
     print(f"\n=== Dataset Statistics ===")
-    print(f"Train GT crops:     {total_train}")
+    print(f"Train GT crops:     {total_gt}")
     print(f"Train jitter crops: {total_jitter}")
-    print(f"Train total:        {total_train + total_jitter}")
+    print(f"Train CDN images:   {total_cdn}")
+    print(f"Train total:        {total_train}")
     print(f"Val crops:          {total_val}")
     print(f"Skipped:            {skipped}")
     print(f"Categories used:    {len(train_counts)} train, {len(val_counts)} val")
@@ -225,12 +326,12 @@ def main():
     zero_shot_val = [cat_id for cat_id in range(nc) if val_counts[cat_id] == 0]
 
     print(f"\n=== Class Balance ===")
-    print(f"Low-shot classes (≤5 GT train crops): {len(low_shot)}")
-    print(f"Zero-shot val classes:                {len(zero_shot_val)}")
+    print(f"Low-shot classes (≤5 total train): {len(low_shot)}")
+    print(f"Zero-shot val classes:             {len(zero_shot_val)}")
 
     # Distribution buckets
     buckets = [(1, 1), (2, 5), (6, 10), (11, 20), (21, 50), (51, 100), (101, float("inf"))]
-    print(f"\nTrain GT crop distribution:")
+    print(f"\nTrain crop distribution (including CDN):")
     for lo, hi in buckets:
         count = sum(1 for c in train_counts.values() if lo <= c <= hi)
         label = f"{lo}-{hi}" if hi != float("inf") else f"{lo}+"

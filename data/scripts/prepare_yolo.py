@@ -24,10 +24,14 @@ from collections import Counter, defaultdict
 
 
 # --- Paths ---
-ANNOTATIONS_PATH = Path.home() / "Downloads" / "train" / "annotations.json"
-IMAGES_DIR = Path.home() / "Downloads" / "train" / "images"
-OUTPUT_BASE = Path.home() / "nm-ai-2026-ngd" / "datasets"
-VAL_SPLIT_PATH = Path.home() / "nm-ai-2026-ngd" / "data" / "val_split.json"
+PROJECT_DIR = Path(__file__).resolve().parent.parent.parent
+DATA_DIR = PROJECT_DIR / "data"
+RAW_DIR = DATA_DIR / "raw"
+
+ANNOTATIONS_PATH = RAW_DIR / "annotations.json"
+IMAGES_DIR = RAW_DIR / "images"
+OUTPUT_BASE = PROJECT_DIR / "datasets"
+VAL_SPLIT_PATH = DATA_DIR / "val_split.json"
 
 VAL_RATIO = 0.2  # ~48 val images
 SEED = 42

@@ -12,9 +12,13 @@ from pathlib import Path
 from collections import defaultdict
 
 
-ANNOTATIONS_PATH = Path.home() / "Downloads" / "train" / "annotations.json"
-IMAGES_DIR = Path.home() / "Downloads" / "train" / "images"
-OUTPUT_BASE = Path.home() / "nm-ai-2026-ngd" / "datasets"
+PROJECT_DIR = Path(__file__).resolve().parent.parent.parent
+DATA_DIR = PROJECT_DIR / "data"
+RAW_DIR = DATA_DIR / "raw"
+
+ANNOTATIONS_PATH = RAW_DIR / "annotations.json"
+IMAGES_DIR = RAW_DIR / "images"
+OUTPUT_BASE = PROJECT_DIR / "datasets"
 
 
 def coco_to_yolo_bbox(bbox, img_w, img_h):
