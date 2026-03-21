@@ -23,6 +23,9 @@ runs/
 *.zip
 archive/
 
+# Generated review HTML (large, embedded images)
+data/review*.html
+
 # OS
 .DS_Store
 .playwright-mcp/
