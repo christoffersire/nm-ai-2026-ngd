@@ -1,0 +1,1955 @@
+{
+  "_description": "Manual annotation corrections. Each entry changes one annotation's category_id. Source of truth — apply with apply_patches.py.",
+  "patches": [
+    {
+      "annotation_id": 7697,
+      "image_id": 73,
+      "old_category_id": 195,
+      "new_category_id": 159,
+      "old_name": "Økologiske Egg Brune 6stk",
+      "new_name": "Galåvolden Store Gårdsegg 10stk",
+      "reason": "Visual review: crop shows 10stk Galåvolden box, not 6stk brown eggs",
+      "date": "2026-03-21"
+    },
+    {
+      "annotation_id": 7688,
+      "image_id": 72,
+      "old_category_id": 267,
+      "new_category_id": 232,
+      "old_name": "EGGEHVITE 500G ELDORADO",
+      "new_name": "EGG ØKOLOGISK M/L/XL 6STK PRIOR",
+      "reason": "Visual review: crop shows 6stk Prior egg box, mislabeled as eggehvite",
+      "date": "2026-03-21"
+    },
+    {
+      "annotation_id": 8281,
+      "image_id": 79,
+      "old_category_id": 267,
+      "new_category_id": 80,
+      "old_name": "EGGEHVITE 500G ELDORADO",
+      "new_name": "FROKOSTEGG FRITTGÅENDE L 12STK PRIOR",
+      "reason": "Visual review: crop shows 12stk Prior frokostegg, mislabeled as eggehvite",
+      "date": "2026-03-21"
+    },
+    {
+      "annotation_id": 8204,
+      "image_id": 78,
+      "old_category_id": 267,
+      "new_category_id": 176,
+      "old_name": "EGGEHVITE 500G ELDORADO",
+      "new_name": "BORDMARGARIN 400G FIRST PRICE",
+      "reason": "Visual review: crop shows First Price bordmargarin — completely wrong shelf section, not an egg product",
+      "date": "2026-03-21"
+    },
+    {
+      "annotation_id": 8161,
+      "image_id": 78,
+      "old_category_id": 135,
+      "new_category_id": 269,
+      "old_name": "GÅRDSEGG EKSTRA STORE 6STK EK",
+      "new_name": "Eldorado Egg fra Toten",
+      "reason": "Visual review: crop shows Eldorado Egg fra Toten, not Gårdsegg Ekstra Store",
+      "date": "2026-03-21"
+    },
+    {
+      "annotation_id": 7632,
+      "image_id": 72,
+      "old_category_id": 95,
+      "new_category_id": 283,
+      "old_name": "EGG M/L ØKOLOGISKE 10STK VILJE",
+      "new_name": "GÅRDSEGG M/L 12STK ELDORADO",
+      "reason": "Visual review: crop shows Eldorado gårdsegg 12stk box",
+      "date": "2026-03-21"
+    },
+    {
+      "annotation_id": 8069,
+      "image_id": 76,
+      "old_category_id": 105,
+      "new_category_id": 283,
+      "old_name": "EGG ØKOLOGISK M/L 12STK VINGULMARK",
+      "new_name": "GÅRDSEGG M/L 12STK ELDORADO",
+      "reason": "Visual review: crop shows Eldorado gårdsegg 12stk box",
+      "date": "2026-03-21"
+    },
+    {
+      "annotation_id": 8067,
+      "image_id": 76,
+      "old_category_id": 105,
+      "new_category_id": 283,
+      "old_name": "EGG ØKOLOGISK M/L 12STK VINGULMARK",
+      "new_name": "GÅRDSEGG M/L 12STK ELDORADO",
+      "reason": "Visual review: crop shows Eldorado gårdsegg 12stk box",
+      "date": "2026-03-21"
+    },
+    {
+      "annotation_id": 8066,
+      "image_id": 76,
+      "old_category_id": 105,
+      "new_category_id": 283,
+      "old_name": "EGG ØKOLOGISK M/L 12STK VINGULMARK",
+      "new_name": "GÅRDSEGG M/L 12STK ELDORADO",
+      "reason": "Visual review: crop shows Eldorado gårdsegg 12stk box",
+      "date": "2026-03-21"
+    },
+    {
+      "annotation_id": 7633,
+      "image_id": 72,
+      "old_category_id": 105,
+      "new_category_id": 283,
+      "old_name": "EGG ØKOLOGISK M/L 12STK VINGULMARK",
+      "new_name": "GÅRDSEGG M/L 12STK ELDORADO",
+      "reason": "Visual review: crop shows Eldorado gårdsegg 12stk box",
+      "date": "2026-03-21"
+    },
+    {
+      "annotation_id": 8070,
+      "image_id": 76,
+      "old_category_id": 105,
+      "new_category_id": 283,
+      "old_name": "EGG ØKOLOGISK M/L 12STK VINGULMARK",
+      "new_name": "GÅRDSEGG M/L 12STK ELDORADO",
+      "reason": "Visual review: crop shows Eldorado gårdsegg 12stk box",
+      "date": "2026-03-21"
+    },
+    {
+      "annotation_id": 8071,
+      "image_id": 76,
+      "old_category_id": 105,
+      "new_category_id": 283,
+      "old_name": "EGG ØKOLOGISK M/L 12STK VINGULMARK",
+      "new_name": "GÅRDSEGG M/L 12STK ELDORADO",
+      "reason": "Visual review: crop shows Eldorado gårdsegg 12stk box",
+      "date": "2026-03-21"
+    },
+    {
+      "annotation_id": 18980,
+      "image_id": 247,
+      "old_category_id": 12,
+      "new_category_id": 236,
+      "old_name": "Leksands Rutbit",
+      "new_name": "LEKSANDS KNEKKE RUTBIT 200G",
+      "reason": "Same product (Leksands Rutbit 200g), yellow packaging (older) merged into red packaging category. Same EAN 7312080005756.",
+      "date": "2026-03-21"
+    },
+    {
+      "annotation_id": 18981,
+      "image_id": 247,
+      "old_category_id": 12,
+      "new_category_id": 236,
+      "old_name": "Leksands Rutbit",
+      "new_name": "LEKSANDS KNEKKE RUTBIT 200G",
+      "reason": "Same product (Leksands Rutbit 200g), yellow packaging (older) merged into red packaging category. Same EAN 7312080005756.",
+      "date": "2026-03-21"
+    },
+    {
+      "annotation_id": 18986,
+      "image_id": 247,
+      "old_category_id": 12,
+      "new_category_id": 236,
+      "old_name": "Leksands Rutbit",
+      "new_name": "LEKSANDS KNEKKE RUTBIT 200G",
+      "reason": "Same product (Leksands Rutbit 200g), yellow packaging (older) merged into red packaging category. Same EAN 7312080005756.",
+      "date": "2026-03-21"
+    },
+    {
+      "annotation_id": 18987,
+      "image_id": 247,
+      "old_category_id": 12,
+      "new_category_id": 236,
+      "old_name": "Leksands Rutbit",
+      "new_name": "LEKSANDS KNEKKE RUTBIT 200G",
+      "reason": "Same product (Leksands Rutbit 200g), yellow packaging (older) merged into red packaging category. Same EAN 7312080005756.",
+      "date": "2026-03-21"
+    },
+    {
+      "annotation_id": 19120,
+      "image_id": 248,
+      "old_category_id": 12,
+      "new_category_id": 236,
+      "old_name": "Leksands Rutbit",
+      "new_name": "LEKSANDS KNEKKE RUTBIT 200G",
+      "reason": "Same product (Leksands Rutbit 200g), yellow packaging (older) merged into red packaging category. Same EAN 7312080005756.",
+      "date": "2026-03-21"
+    },
+    {
+      "annotation_id": 19121,
+      "image_id": 248,
+      "old_category_id": 12,
+      "new_category_id": 236,
+      "old_name": "Leksands Rutbit",
+      "new_name": "LEKSANDS KNEKKE RUTBIT 200G",
+      "reason": "Same product (Leksands Rutbit 200g), yellow packaging (older) merged into red packaging category. Same EAN 7312080005756.",
+      "date": "2026-03-21"
+    },
+    {
+      "annotation_id": 19244,
+      "image_id": 249,
+      "old_category_id": 12,
+      "new_category_id": 236,
+      "old_name": "Leksands Rutbit",
+      "new_name": "LEKSANDS KNEKKE RUTBIT 200G",
+      "reason": "Same product (Leksands Rutbit 200g), yellow packaging (older) merged into red packaging category. Same EAN 7312080005756.",
+      "date": "2026-03-21"
+    },
+    {
+      "annotation_id": 19245,
+      "image_id": 249,
+      "old_category_id": 12,
+      "new_category_id": 236,
+      "old_name": "Leksands Rutbit",
+      "new_name": "LEKSANDS KNEKKE RUTBIT 200G",
+      "reason": "Same product (Leksands Rutbit 200g), yellow packaging (older) merged into red packaging category. Same EAN 7312080005756.",
+      "date": "2026-03-21"
+    },
+    {
+      "annotation_id": 19420,
+      "image_id": 251,
+      "old_category_id": 12,
+      "new_category_id": 236,
+      "old_name": "Leksands Rutbit",
+      "new_name": "LEKSANDS KNEKKE RUTBIT 200G",
+      "reason": "Same product (Leksands Rutbit 200g), yellow packaging (older) merged into red packaging category. Same EAN 7312080005756.",
+      "date": "2026-03-21"
+    },
+    {
+      "annotation_id": 19422,
+      "image_id": 251,
+      "old_category_id": 12,
+      "new_category_id": 236,
+      "old_name": "Leksands Rutbit",
+      "new_name": "LEKSANDS KNEKKE RUTBIT 200G",
+      "reason": "Same product (Leksands Rutbit 200g), yellow packaging (older) merged into red packaging category. Same EAN 7312080005756.",
+      "date": "2026-03-21"
+    },
+    {
+      "annotation_id": 19512,
+      "image_id": 252,
+      "old_category_id": 12,
+      "new_category_id": 236,
+      "old_name": "Leksands Rutbit",
+      "new_name": "LEKSANDS KNEKKE RUTBIT 200G",
+      "reason": "Same product (Leksands Rutbit 200g), yellow packaging (older) merged into red packaging category. Same EAN 7312080005756.",
+      "date": "2026-03-21"
+    },
+    {
+      "annotation_id": 19513,
+      "image_id": 252,
+      "old_category_id": 12,
+      "new_category_id": 236,
+      "old_name": "Leksands Rutbit",
+      "new_name": "LEKSANDS KNEKKE RUTBIT 200G",
+      "reason": "Same product (Leksands Rutbit 200g), yellow packaging (older) merged into red packaging category. Same EAN 7312080005756.",
+      "date": "2026-03-21"
+    },
+    {
+      "annotation_id": 20029,
+      "image_id": 258,
+      "old_category_id": 12,
+      "new_category_id": 236,
+      "old_name": "Leksands Rutbit",
+      "new_name": "LEKSANDS KNEKKE RUTBIT 200G",
+      "reason": "Same product (Leksands Rutbit 200g), yellow packaging (older) merged into red packaging category. Same EAN 7312080005756.",
+      "date": "2026-03-21"
+    },
+    {
+      "annotation_id": 20030,
+      "image_id": 258,
+      "old_category_id": 12,
+      "new_category_id": 236,
+      "old_name": "Leksands Rutbit",
+      "new_name": "LEKSANDS KNEKKE RUTBIT 200G",
+      "reason": "Same product (Leksands Rutbit 200g), yellow packaging (older) merged into red packaging category. Same EAN 7312080005756.",
+      "date": "2026-03-21"
+    },
+    {
+      "annotation_id": 20883,
+      "image_id": 264,
+      "old_category_id": 12,
+      "new_category_id": 236,
+      "old_name": "Leksands Rutbit",
+      "new_name": "LEKSANDS KNEKKE RUTBIT 200G",
+      "reason": "Same product (Leksands Rutbit 200g), yellow packaging (older) merged into red packaging category. Same EAN 7312080005756.",
+      "date": "2026-03-21"
+    },
+    {
+      "annotation_id": 20999,
+      "image_id": 265,
+      "old_category_id": 12,
+      "new_category_id": 236,
+      "old_name": "Leksands Rutbit",
+      "new_name": "LEKSANDS KNEKKE RUTBIT 200G",
+      "reason": "Same product (Leksands Rutbit 200g), yellow packaging (older) merged into red packaging category. Same EAN 7312080005756.",
+      "date": "2026-03-21"
+    },
+    {
+      "annotation_id": 21000,
+      "image_id": 265,
+      "old_category_id": 12,
+      "new_category_id": 236,
+      "old_name": "Leksands Rutbit",
+      "new_name": "LEKSANDS KNEKKE RUTBIT 200G",
+      "reason": "Same product (Leksands Rutbit 200g), yellow packaging (older) merged into red packaging category. Same EAN 7312080005756.",
+      "date": "2026-03-21"
+    },
+    {
+      "annotation_id": 21001,
+      "image_id": 265,
+      "old_category_id": 12,
+      "new_category_id": 236,
+      "old_name": "Leksands Rutbit",
+      "new_name": "LEKSANDS KNEKKE RUTBIT 200G",
+      "reason": "Same product (Leksands Rutbit 200g), yellow packaging (older) merged into red packaging category. Same EAN 7312080005756.",
+      "date": "2026-03-21"
+    },
+    {
+      "annotation_id": 21002,
+      "image_id": 265,
+      "old_category_id": 12,
+      "new_category_id": 236,
+      "old_name": "Leksands Rutbit",
+      "new_name": "LEKSANDS KNEKKE RUTBIT 200G",
+      "reason": "Same product (Leksands Rutbit 200g), yellow packaging (older) merged into red packaging category. Same EAN 7312080005756.",
+      "date": "2026-03-21"
+    },
+    {
+      "annotation_id": 21807,
+      "image_id": 272,
+      "old_category_id": 12,
+      "new_category_id": 236,
+      "old_name": "Leksands Rutbit",
+      "new_name": "LEKSANDS KNEKKE RUTBIT 200G",
+      "reason": "Same product (Leksands Rutbit 200g), yellow packaging (older) merged into red packaging category. Same EAN 7312080005756.",
+      "date": "2026-03-21"
+    },
+    {
+      "annotation_id": 21808,
+      "image_id": 272,
+      "old_category_id": 12,
+      "new_category_id": 236,
+      "old_name": "Leksands Rutbit",
+      "new_name": "LEKSANDS KNEKKE RUTBIT 200G",
+      "reason": "Same product (Leksands Rutbit 200g), yellow packaging (older) merged into red packaging category. Same EAN 7312080005756.",
+      "date": "2026-03-21"
+    },
+    {
+      "annotation_id": 21934,
+      "image_id": 273,
+      "old_category_id": 12,
+      "new_category_id": 236,
+      "old_name": "Leksands Rutbit",
+      "new_name": "LEKSANDS KNEKKE RUTBIT 200G",
+      "reason": "Same product (Leksands Rutbit 200g), yellow packaging (older) merged into red packaging category. Same EAN 7312080005756.",
+      "date": "2026-03-21"
+    },
+    {
+      "annotation_id": 21935,
+      "image_id": 273,
+      "old_category_id": 12,
+      "new_category_id": 236,
+      "old_name": "Leksands Rutbit",
+      "new_name": "LEKSANDS KNEKKE RUTBIT 200G",
+      "reason": "Same product (Leksands Rutbit 200g), yellow packaging (older) merged into red packaging category. Same EAN 7312080005756.",
+      "date": "2026-03-21"
+    },
+    {
+      "annotation_id": 22840,
+      "image_id": 282,
+      "old_category_id": 12,
+      "new_category_id": 236,
+      "old_name": "Leksands Rutbit",
+      "new_name": "LEKSANDS KNEKKE RUTBIT 200G",
+      "reason": "Same product (Leksands Rutbit 200g), yellow packaging (older) merged into red packaging category. Same EAN 7312080005756.",
+      "date": "2026-03-21"
+    },
+    {
+      "annotation_id": 22841,
+      "image_id": 282,
+      "old_category_id": 12,
+      "new_category_id": 236,
+      "old_name": "Leksands Rutbit",
+      "new_name": "LEKSANDS KNEKKE RUTBIT 200G",
+      "reason": "Same product (Leksands Rutbit 200g), yellow packaging (older) merged into red packaging category. Same EAN 7312080005756.",
+      "date": "2026-03-21"
+    },
+    {
+      "annotation_id": 22842,
+      "image_id": 282,
+      "old_category_id": 12,
+      "new_category_id": 236,
+      "old_name": "Leksands Rutbit",
+      "new_name": "LEKSANDS KNEKKE RUTBIT 200G",
+      "reason": "Same product (Leksands Rutbit 200g), yellow packaging (older) merged into red packaging category. Same EAN 7312080005756.",
+      "date": "2026-03-21"
+    },
+    {
+      "annotation_id": 23732,
+      "image_id": 290,
+      "old_category_id": 12,
+      "new_category_id": 236,
+      "old_name": "Leksands Rutbit",
+      "new_name": "LEKSANDS KNEKKE RUTBIT 200G",
+      "reason": "Same product (Leksands Rutbit 200g), yellow packaging (older) merged into red packaging category. Same EAN 7312080005756.",
+      "date": "2026-03-21"
+    },
+    {
+      "annotation_id": 23733,
+      "image_id": 290,
+      "old_category_id": 12,
+      "new_category_id": 236,
+      "old_name": "Leksands Rutbit",
+      "new_name": "LEKSANDS KNEKKE RUTBIT 200G",
+      "reason": "Same product (Leksands Rutbit 200g), yellow packaging (older) merged into red packaging category. Same EAN 7312080005756.",
+      "date": "2026-03-21"
+    },
+    {
+      "annotation_id": 23735,
+      "image_id": 290,
+      "old_category_id": 12,
+      "new_category_id": 236,
+      "old_name": "Leksands Rutbit",
+      "new_name": "LEKSANDS KNEKKE RUTBIT 200G",
+      "reason": "Same product (Leksands Rutbit 200g), yellow packaging (older) merged into red packaging category. Same EAN 7312080005756.",
+      "date": "2026-03-21"
+    },
+    {
+      "annotation_id": 24399,
+      "image_id": 296,
+      "old_category_id": 12,
+      "new_category_id": 236,
+      "old_name": "Leksands Rutbit",
+      "new_name": "LEKSANDS KNEKKE RUTBIT 200G",
+      "reason": "Same product (Leksands Rutbit 200g), yellow packaging (older) merged into red packaging category. Same EAN 7312080005756.",
+      "date": "2026-03-21"
+    },
+    {
+      "annotation_id": 24400,
+      "image_id": 296,
+      "old_category_id": 12,
+      "new_category_id": 236,
+      "old_name": "Leksands Rutbit",
+      "new_name": "LEKSANDS KNEKKE RUTBIT 200G",
+      "reason": "Same product (Leksands Rutbit 200g), yellow packaging (older) merged into red packaging category. Same EAN 7312080005756.",
+      "date": "2026-03-21"
+    },
+    {
+      "annotation_id": 24402,
+      "image_id": 296,
+      "old_category_id": 12,
+      "new_category_id": 236,
+      "old_name": "Leksands Rutbit",
+      "new_name": "LEKSANDS KNEKKE RUTBIT 200G",
+      "reason": "Same product (Leksands Rutbit 200g), yellow packaging (older) merged into red packaging category. Same EAN 7312080005756.",
+      "date": "2026-03-21"
+    },
+    {
+      "annotation_id": 24403,
+      "image_id": 296,
+      "old_category_id": 12,
+      "new_category_id": 236,
+      "old_name": "Leksands Rutbit",
+      "new_name": "LEKSANDS KNEKKE RUTBIT 200G",
+      "reason": "Same product (Leksands Rutbit 200g), yellow packaging (older) merged into red packaging category. Same EAN 7312080005756.",
+      "date": "2026-03-21"
+    },
+    {
+      "annotation_id": 24489,
+      "image_id": 297,
+      "old_category_id": 12,
+      "new_category_id": 236,
+      "old_name": "Leksands Rutbit",
+      "new_name": "LEKSANDS KNEKKE RUTBIT 200G",
+      "reason": "Same product (Leksands Rutbit 200g), yellow packaging (older) merged into red packaging category. Same EAN 7312080005756.",
+      "date": "2026-03-21"
+    },
+    {
+      "annotation_id": 24490,
+      "image_id": 297,
+      "old_category_id": 12,
+      "new_category_id": 236,
+      "old_name": "Leksands Rutbit",
+      "new_name": "LEKSANDS KNEKKE RUTBIT 200G",
+      "reason": "Same product (Leksands Rutbit 200g), yellow packaging (older) merged into red packaging category. Same EAN 7312080005756.",
+      "date": "2026-03-21"
+    },
+    {
+      "annotation_id": 24491,
+      "image_id": 297,
+      "old_category_id": 12,
+      "new_category_id": 236,
+      "old_name": "Leksands Rutbit",
+      "new_name": "LEKSANDS KNEKKE RUTBIT 200G",
+      "reason": "Same product (Leksands Rutbit 200g), yellow packaging (older) merged into red packaging category. Same EAN 7312080005756.",
+      "date": "2026-03-21"
+    },
+    {
+      "annotation_id": 24675,
+      "image_id": 298,
+      "old_category_id": 12,
+      "new_category_id": 236,
+      "old_name": "Leksands Rutbit",
+      "new_name": "LEKSANDS KNEKKE RUTBIT 200G",
+      "reason": "Same product (Leksands Rutbit 200g), yellow packaging (older) merged into red packaging category. Same EAN 7312080005756.",
+      "date": "2026-03-21"
+    },
+    {
+      "annotation_id": 24676,
+      "image_id": 298,
+      "old_category_id": 12,
+      "new_category_id": 236,
+      "old_name": "Leksands Rutbit",
+      "new_name": "LEKSANDS KNEKKE RUTBIT 200G",
+      "reason": "Same product (Leksands Rutbit 200g), yellow packaging (older) merged into red packaging category. Same EAN 7312080005756.",
+      "date": "2026-03-21"
+    },
+    {
+      "annotation_id": 24677,
+      "image_id": 298,
+      "old_category_id": 12,
+      "new_category_id": 236,
+      "old_name": "Leksands Rutbit",
+      "new_name": "LEKSANDS KNEKKE RUTBIT 200G",
+      "reason": "Same product (Leksands Rutbit 200g), yellow packaging (older) merged into red packaging category. Same EAN 7312080005756.",
+      "date": "2026-03-21"
+    },
+    {
+      "annotation_id": 24678,
+      "image_id": 298,
+      "old_category_id": 12,
+      "new_category_id": 236,
+      "old_name": "Leksands Rutbit",
+      "new_name": "LEKSANDS KNEKKE RUTBIT 200G",
+      "reason": "Same product (Leksands Rutbit 200g), yellow packaging (older) merged into red packaging category. Same EAN 7312080005756.",
+      "date": "2026-03-21"
+    },
+    {
+      "annotation_id": 24679,
+      "image_id": 298,
+      "old_category_id": 12,
+      "new_category_id": 236,
+      "old_name": "Leksands Rutbit",
+      "new_name": "LEKSANDS KNEKKE RUTBIT 200G",
+      "reason": "Same product (Leksands Rutbit 200g), yellow packaging (older) merged into red packaging category. Same EAN 7312080005756.",
+      "date": "2026-03-21"
+    },
+    {
+      "annotation_id": 25061,
+      "image_id": 302,
+      "old_category_id": 12,
+      "new_category_id": 236,
+      "old_name": "Leksands Rutbit",
+      "new_name": "LEKSANDS KNEKKE RUTBIT 200G",
+      "reason": "Same product (Leksands Rutbit 200g), yellow packaging (older) merged into red packaging category. Same EAN 7312080005756.",
+      "date": "2026-03-21"
+    },
+    {
+      "annotation_id": 25062,
+      "image_id": 302,
+      "old_category_id": 12,
+      "new_category_id": 236,
+      "old_name": "Leksands Rutbit",
+      "new_name": "LEKSANDS KNEKKE RUTBIT 200G",
+      "reason": "Same product (Leksands Rutbit 200g), yellow packaging (older) merged into red packaging category. Same EAN 7312080005756.",
+      "date": "2026-03-21"
+    },
+    {
+      "annotation_id": 25162,
+      "image_id": 303,
+      "old_category_id": 12,
+      "new_category_id": 236,
+      "old_name": "Leksands Rutbit",
+      "new_name": "LEKSANDS KNEKKE RUTBIT 200G",
+      "reason": "Same product (Leksands Rutbit 200g), yellow packaging (older) merged into red packaging category. Same EAN 7312080005756.",
+      "date": "2026-03-21"
+    },
+    {
+      "annotation_id": 25164,
+      "image_id": 303,
+      "old_category_id": 12,
+      "new_category_id": 236,
+      "old_name": "Leksands Rutbit",
+      "new_name": "LEKSANDS KNEKKE RUTBIT 200G",
+      "reason": "Same product (Leksands Rutbit 200g), yellow packaging (older) merged into red packaging category. Same EAN 7312080005756.",
+      "date": "2026-03-21"
+    },
+    {
+      "annotation_id": 25165,
+      "image_id": 303,
+      "old_category_id": 12,
+      "new_category_id": 236,
+      "old_name": "Leksands Rutbit",
+      "new_name": "LEKSANDS KNEKKE RUTBIT 200G",
+      "reason": "Same product (Leksands Rutbit 200g), yellow packaging (older) merged into red packaging category. Same EAN 7312080005756.",
+      "date": "2026-03-21"
+    },
+    {
+      "annotation_id": 25166,
+      "image_id": 303,
+      "old_category_id": 12,
+      "new_category_id": 236,
+      "old_name": "Leksands Rutbit",
+      "new_name": "LEKSANDS KNEKKE RUTBIT 200G",
+      "reason": "Same product (Leksands Rutbit 200g), yellow packaging (older) merged into red packaging category. Same EAN 7312080005756.",
+      "date": "2026-03-21"
+    },
+    {
+      "annotation_id": 25167,
+      "image_id": 303,
+      "old_category_id": 12,
+      "new_category_id": 236,
+      "old_name": "Leksands Rutbit",
+      "new_name": "LEKSANDS KNEKKE RUTBIT 200G",
+      "reason": "Same product (Leksands Rutbit 200g), yellow packaging (older) merged into red packaging category. Same EAN 7312080005756.",
+      "date": "2026-03-21"
+    },
+    {
+      "annotation_id": 25168,
+      "image_id": 303,
+      "old_category_id": 12,
+      "new_category_id": 236,
+      "old_name": "Leksands Rutbit",
+      "new_name": "LEKSANDS KNEKKE RUTBIT 200G",
+      "reason": "Same product (Leksands Rutbit 200g), yellow packaging (older) merged into red packaging category. Same EAN 7312080005756.",
+      "date": "2026-03-21"
+    },
+    {
+      "annotation_id": 25169,
+      "image_id": 303,
+      "old_category_id": 12,
+      "new_category_id": 236,
+      "old_name": "Leksands Rutbit",
+      "new_name": "LEKSANDS KNEKKE RUTBIT 200G",
+      "reason": "Same product (Leksands Rutbit 200g), yellow packaging (older) merged into red packaging category. Same EAN 7312080005756.",
+      "date": "2026-03-21"
+    },
+    {
+      "annotation_id": 25355,
+      "image_id": 304,
+      "old_category_id": 12,
+      "new_category_id": 236,
+      "old_name": "Leksands Rutbit",
+      "new_name": "LEKSANDS KNEKKE RUTBIT 200G",
+      "reason": "Same product (Leksands Rutbit 200g), yellow packaging (older) merged into red packaging category. Same EAN 7312080005756.",
+      "date": "2026-03-21"
+    },
+    {
+      "annotation_id": 25356,
+      "image_id": 304,
+      "old_category_id": 12,
+      "new_category_id": 236,
+      "old_name": "Leksands Rutbit",
+      "new_name": "LEKSANDS KNEKKE RUTBIT 200G",
+      "reason": "Same product (Leksands Rutbit 200g), yellow packaging (older) merged into red packaging category. Same EAN 7312080005756.",
+      "date": "2026-03-21"
+    },
+    {
+      "annotation_id": 25362,
+      "image_id": 304,
+      "old_category_id": 12,
+      "new_category_id": 236,
+      "old_name": "Leksands Rutbit",
+      "new_name": "LEKSANDS KNEKKE RUTBIT 200G",
+      "reason": "Same product (Leksands Rutbit 200g), yellow packaging (older) merged into red packaging category. Same EAN 7312080005756.",
+      "date": "2026-03-21"
+    },
+    {
+      "annotation_id": 25363,
+      "image_id": 304,
+      "old_category_id": 12,
+      "new_category_id": 236,
+      "old_name": "Leksands Rutbit",
+      "new_name": "LEKSANDS KNEKKE RUTBIT 200G",
+      "reason": "Same product (Leksands Rutbit 200g), yellow packaging (older) merged into red packaging category. Same EAN 7312080005756.",
+      "date": "2026-03-21"
+    },
+    {
+      "annotation_id": 25417,
+      "image_id": 305,
+      "old_category_id": 12,
+      "new_category_id": 236,
+      "old_name": "Leksands Rutbit",
+      "new_name": "LEKSANDS KNEKKE RUTBIT 200G",
+      "reason": "Same product (Leksands Rutbit 200g), yellow packaging (older) merged into red packaging category. Same EAN 7312080005756.",
+      "date": "2026-03-21"
+    },
+    {
+      "annotation_id": 25418,
+      "image_id": 305,
+      "old_category_id": 12,
+      "new_category_id": 236,
+      "old_name": "Leksands Rutbit",
+      "new_name": "LEKSANDS KNEKKE RUTBIT 200G",
+      "reason": "Same product (Leksands Rutbit 200g), yellow packaging (older) merged into red packaging category. Same EAN 7312080005756.",
+      "date": "2026-03-21"
+    },
+    {
+      "annotation_id": 25419,
+      "image_id": 305,
+      "old_category_id": 12,
+      "new_category_id": 236,
+      "old_name": "Leksands Rutbit",
+      "new_name": "LEKSANDS KNEKKE RUTBIT 200G",
+      "reason": "Same product (Leksands Rutbit 200g), yellow packaging (older) merged into red packaging category. Same EAN 7312080005756.",
+      "date": "2026-03-21"
+    },
+    {
+      "annotation_id": 25593,
+      "image_id": 306,
+      "old_category_id": 12,
+      "new_category_id": 236,
+      "old_name": "Leksands Rutbit",
+      "new_name": "LEKSANDS KNEKKE RUTBIT 200G",
+      "reason": "Same product (Leksands Rutbit 200g), yellow packaging (older) merged into red packaging category. Same EAN 7312080005756.",
+      "date": "2026-03-21"
+    },
+    {
+      "annotation_id": 25594,
+      "image_id": 306,
+      "old_category_id": 12,
+      "new_category_id": 236,
+      "old_name": "Leksands Rutbit",
+      "new_name": "LEKSANDS KNEKKE RUTBIT 200G",
+      "reason": "Same product (Leksands Rutbit 200g), yellow packaging (older) merged into red packaging category. Same EAN 7312080005756.",
+      "date": "2026-03-21"
+    },
+    {
+      "annotation_id": 25595,
+      "image_id": 306,
+      "old_category_id": 12,
+      "new_category_id": 236,
+      "old_name": "Leksands Rutbit",
+      "new_name": "LEKSANDS KNEKKE RUTBIT 200G",
+      "reason": "Same product (Leksands Rutbit 200g), yellow packaging (older) merged into red packaging category. Same EAN 7312080005756.",
+      "date": "2026-03-21"
+    },
+    {
+      "annotation_id": 25596,
+      "image_id": 306,
+      "old_category_id": 12,
+      "new_category_id": 236,
+      "old_name": "Leksands Rutbit",
+      "new_name": "LEKSANDS KNEKKE RUTBIT 200G",
+      "reason": "Same product (Leksands Rutbit 200g), yellow packaging (older) merged into red packaging category. Same EAN 7312080005756.",
+      "date": "2026-03-21"
+    },
+    {
+      "annotation_id": 26284,
+      "image_id": 311,
+      "old_category_id": 12,
+      "new_category_id": 236,
+      "old_name": "Leksands Rutbit",
+      "new_name": "LEKSANDS KNEKKE RUTBIT 200G",
+      "reason": "Same product (Leksands Rutbit 200g), yellow packaging (older) merged into red packaging category. Same EAN 7312080005756.",
+      "date": "2026-03-21"
+    },
+    {
+      "annotation_id": 26285,
+      "image_id": 311,
+      "old_category_id": 12,
+      "new_category_id": 236,
+      "old_name": "Leksands Rutbit",
+      "new_name": "LEKSANDS KNEKKE RUTBIT 200G",
+      "reason": "Same product (Leksands Rutbit 200g), yellow packaging (older) merged into red packaging category. Same EAN 7312080005756.",
+      "date": "2026-03-21"
+    },
+    {
+      "annotation_id": 26425,
+      "image_id": 313,
+      "old_category_id": 12,
+      "new_category_id": 236,
+      "old_name": "Leksands Rutbit",
+      "new_name": "LEKSANDS KNEKKE RUTBIT 200G",
+      "reason": "Same product (Leksands Rutbit 200g), yellow packaging (older) merged into red packaging category. Same EAN 7312080005756.",
+      "date": "2026-03-21"
+    },
+    {
+      "annotation_id": 26811,
+      "image_id": 315,
+      "old_category_id": 12,
+      "new_category_id": 236,
+      "old_name": "Leksands Rutbit",
+      "new_name": "LEKSANDS KNEKKE RUTBIT 200G",
+      "reason": "Same product (Leksands Rutbit 200g), yellow packaging (older) merged into red packaging category. Same EAN 7312080005756.",
+      "date": "2026-03-21"
+    },
+    {
+      "annotation_id": 26812,
+      "image_id": 315,
+      "old_category_id": 12,
+      "new_category_id": 236,
+      "old_name": "Leksands Rutbit",
+      "new_name": "LEKSANDS KNEKKE RUTBIT 200G",
+      "reason": "Same product (Leksands Rutbit 200g), yellow packaging (older) merged into red packaging category. Same EAN 7312080005756.",
+      "date": "2026-03-21"
+    },
+    {
+      "annotation_id": 26813,
+      "image_id": 315,
+      "old_category_id": 12,
+      "new_category_id": 236,
+      "old_name": "Leksands Rutbit",
+      "new_name": "LEKSANDS KNEKKE RUTBIT 200G",
+      "reason": "Same product (Leksands Rutbit 200g), yellow packaging (older) merged into red packaging category. Same EAN 7312080005756.",
+      "date": "2026-03-21"
+    },
+    {
+      "annotation_id": 26814,
+      "image_id": 315,
+      "old_category_id": 12,
+      "new_category_id": 236,
+      "old_name": "Leksands Rutbit",
+      "new_name": "LEKSANDS KNEKKE RUTBIT 200G",
+      "reason": "Same product (Leksands Rutbit 200g), yellow packaging (older) merged into red packaging category. Same EAN 7312080005756.",
+      "date": "2026-03-21"
+    },
+    {
+      "annotation_id": 26924,
+      "image_id": 316,
+      "old_category_id": 12,
+      "new_category_id": 236,
+      "old_name": "Leksands Rutbit",
+      "new_name": "LEKSANDS KNEKKE RUTBIT 200G",
+      "reason": "Same product (Leksands Rutbit 200g), yellow packaging (older) merged into red packaging category. Same EAN 7312080005756.",
+      "date": "2026-03-21"
+    },
+    {
+      "annotation_id": 26925,
+      "image_id": 316,
+      "old_category_id": 12,
+      "new_category_id": 236,
+      "old_name": "Leksands Rutbit",
+      "new_name": "LEKSANDS KNEKKE RUTBIT 200G",
+      "reason": "Same product (Leksands Rutbit 200g), yellow packaging (older) merged into red packaging category. Same EAN 7312080005756.",
+      "date": "2026-03-21"
+    },
+    {
+      "annotation_id": 26926,
+      "image_id": 316,
+      "old_category_id": 12,
+      "new_category_id": 236,
+      "old_name": "Leksands Rutbit",
+      "new_name": "LEKSANDS KNEKKE RUTBIT 200G",
+      "reason": "Same product (Leksands Rutbit 200g), yellow packaging (older) merged into red packaging category. Same EAN 7312080005756.",
+      "date": "2026-03-21"
+    },
+    {
+      "annotation_id": 26927,
+      "image_id": 316,
+      "old_category_id": 12,
+      "new_category_id": 236,
+      "old_name": "Leksands Rutbit",
+      "new_name": "LEKSANDS KNEKKE RUTBIT 200G",
+      "reason": "Same product (Leksands Rutbit 200g), yellow packaging (older) merged into red packaging category. Same EAN 7312080005756.",
+      "date": "2026-03-21"
+    },
+    {
+      "annotation_id": 26928,
+      "image_id": 316,
+      "old_category_id": 12,
+      "new_category_id": 236,
+      "old_name": "Leksands Rutbit",
+      "new_name": "LEKSANDS KNEKKE RUTBIT 200G",
+      "reason": "Same product (Leksands Rutbit 200g), yellow packaging (older) merged into red packaging category. Same EAN 7312080005756.",
+      "date": "2026-03-21"
+    },
+    {
+      "annotation_id": 26929,
+      "image_id": 316,
+      "old_category_id": 12,
+      "new_category_id": 236,
+      "old_name": "Leksands Rutbit",
+      "new_name": "LEKSANDS KNEKKE RUTBIT 200G",
+      "reason": "Same product (Leksands Rutbit 200g), yellow packaging (older) merged into red packaging category. Same EAN 7312080005756.",
+      "date": "2026-03-21"
+    },
+    {
+      "annotation_id": 26930,
+      "image_id": 316,
+      "old_category_id": 12,
+      "new_category_id": 236,
+      "old_name": "Leksands Rutbit",
+      "new_name": "LEKSANDS KNEKKE RUTBIT 200G",
+      "reason": "Same product (Leksands Rutbit 200g), yellow packaging (older) merged into red packaging category. Same EAN 7312080005756.",
+      "date": "2026-03-21"
+    },
+    {
+      "annotation_id": 26931,
+      "image_id": 316,
+      "old_category_id": 12,
+      "new_category_id": 236,
+      "old_name": "Leksands Rutbit",
+      "new_name": "LEKSANDS KNEKKE RUTBIT 200G",
+      "reason": "Same product (Leksands Rutbit 200g), yellow packaging (older) merged into red packaging category. Same EAN 7312080005756.",
+      "date": "2026-03-21"
+    },
+    {
+      "annotation_id": 27174,
+      "image_id": 317,
+      "old_category_id": 12,
+      "new_category_id": 236,
+      "old_name": "Leksands Rutbit",
+      "new_name": "LEKSANDS KNEKKE RUTBIT 200G",
+      "reason": "Same product (Leksands Rutbit 200g), yellow packaging (older) merged into red packaging category. Same EAN 7312080005756.",
+      "date": "2026-03-21"
+    },
+    {
+      "annotation_id": 27175,
+      "image_id": 317,
+      "old_category_id": 12,
+      "new_category_id": 236,
+      "old_name": "Leksands Rutbit",
+      "new_name": "LEKSANDS KNEKKE RUTBIT 200G",
+      "reason": "Same product (Leksands Rutbit 200g), yellow packaging (older) merged into red packaging category. Same EAN 7312080005756.",
+      "date": "2026-03-21"
+    },
+    {
+      "annotation_id": 27176,
+      "image_id": 317,
+      "old_category_id": 12,
+      "new_category_id": 236,
+      "old_name": "Leksands Rutbit",
+      "new_name": "LEKSANDS KNEKKE RUTBIT 200G",
+      "reason": "Same product (Leksands Rutbit 200g), yellow packaging (older) merged into red packaging category. Same EAN 7312080005756.",
+      "date": "2026-03-21"
+    },
+    {
+      "annotation_id": 27177,
+      "image_id": 317,
+      "old_category_id": 12,
+      "new_category_id": 236,
+      "old_name": "Leksands Rutbit",
+      "new_name": "LEKSANDS KNEKKE RUTBIT 200G",
+      "reason": "Same product (Leksands Rutbit 200g), yellow packaging (older) merged into red packaging category. Same EAN 7312080005756.",
+      "date": "2026-03-21"
+    },
+    {
+      "annotation_id": 27524,
+      "image_id": 321,
+      "old_category_id": 12,
+      "new_category_id": 236,
+      "old_name": "Leksands Rutbit",
+      "new_name": "LEKSANDS KNEKKE RUTBIT 200G",
+      "reason": "Same product (Leksands Rutbit 200g), yellow packaging (older) merged into red packaging category. Same EAN 7312080005756.",
+      "date": "2026-03-21"
+    },
+    {
+      "annotation_id": 27525,
+      "image_id": 321,
+      "old_category_id": 12,
+      "new_category_id": 236,
+      "old_name": "Leksands Rutbit",
+      "new_name": "LEKSANDS KNEKKE RUTBIT 200G",
+      "reason": "Same product (Leksands Rutbit 200g), yellow packaging (older) merged into red packaging category. Same EAN 7312080005756.",
+      "date": "2026-03-21"
+    },
+    {
+      "annotation_id": 27526,
+      "image_id": 321,
+      "old_category_id": 12,
+      "new_category_id": 236,
+      "old_name": "Leksands Rutbit",
+      "new_name": "LEKSANDS KNEKKE RUTBIT 200G",
+      "reason": "Same product (Leksands Rutbit 200g), yellow packaging (older) merged into red packaging category. Same EAN 7312080005756.",
+      "date": "2026-03-21"
+    },
+    {
+      "annotation_id": 27527,
+      "image_id": 321,
+      "old_category_id": 12,
+      "new_category_id": 236,
+      "old_name": "Leksands Rutbit",
+      "new_name": "LEKSANDS KNEKKE RUTBIT 200G",
+      "reason": "Same product (Leksands Rutbit 200g), yellow packaging (older) merged into red packaging category. Same EAN 7312080005756.",
+      "date": "2026-03-21"
+    },
+    {
+      "annotation_id": 27740,
+      "image_id": 323,
+      "old_category_id": 12,
+      "new_category_id": 236,
+      "old_name": "Leksands Rutbit",
+      "new_name": "LEKSANDS KNEKKE RUTBIT 200G",
+      "reason": "Same product (Leksands Rutbit 200g), yellow packaging (older) merged into red packaging category. Same EAN 7312080005756.",
+      "date": "2026-03-21"
+    },
+    {
+      "annotation_id": 27741,
+      "image_id": 323,
+      "old_category_id": 12,
+      "new_category_id": 236,
+      "old_name": "Leksands Rutbit",
+      "new_name": "LEKSANDS KNEKKE RUTBIT 200G",
+      "reason": "Same product (Leksands Rutbit 200g), yellow packaging (older) merged into red packaging category. Same EAN 7312080005756.",
+      "date": "2026-03-21"
+    },
+    {
+      "annotation_id": 27903,
+      "image_id": 324,
+      "old_category_id": 12,
+      "new_category_id": 236,
+      "old_name": "Leksands Rutbit",
+      "new_name": "LEKSANDS KNEKKE RUTBIT 200G",
+      "reason": "Same product (Leksands Rutbit 200g), yellow packaging (older) merged into red packaging category. Same EAN 7312080005756.",
+      "date": "2026-03-21"
+    },
+    {
+      "annotation_id": 27904,
+      "image_id": 324,
+      "old_category_id": 12,
+      "new_category_id": 236,
+      "old_name": "Leksands Rutbit",
+      "new_name": "LEKSANDS KNEKKE RUTBIT 200G",
+      "reason": "Same product (Leksands Rutbit 200g), yellow packaging (older) merged into red packaging category. Same EAN 7312080005756.",
+      "date": "2026-03-21"
+    },
+    {
+      "annotation_id": 28041,
+      "image_id": 326,
+      "old_category_id": 12,
+      "new_category_id": 236,
+      "old_name": "Leksands Rutbit",
+      "new_name": "LEKSANDS KNEKKE RUTBIT 200G",
+      "reason": "Same product (Leksands Rutbit 200g), yellow packaging (older) merged into red packaging category. Same EAN 7312080005756.",
+      "date": "2026-03-21"
+    },
+    {
+      "annotation_id": 28042,
+      "image_id": 326,
+      "old_category_id": 12,
+      "new_category_id": 236,
+      "old_name": "Leksands Rutbit",
+      "new_name": "LEKSANDS KNEKKE RUTBIT 200G",
+      "reason": "Same product (Leksands Rutbit 200g), yellow packaging (older) merged into red packaging category. Same EAN 7312080005756.",
+      "date": "2026-03-21"
+    },
+    {
+      "annotation_id": 28186,
+      "image_id": 327,
+      "old_category_id": 12,
+      "new_category_id": 236,
+      "old_name": "Leksands Rutbit",
+      "new_name": "LEKSANDS KNEKKE RUTBIT 200G",
+      "reason": "Same product (Leksands Rutbit 200g), yellow packaging (older) merged into red packaging category. Same EAN 7312080005756.",
+      "date": "2026-03-21"
+    },
+    {
+      "annotation_id": 28187,
+      "image_id": 327,
+      "old_category_id": 12,
+      "new_category_id": 236,
+      "old_name": "Leksands Rutbit",
+      "new_name": "LEKSANDS KNEKKE RUTBIT 200G",
+      "reason": "Same product (Leksands Rutbit 200g), yellow packaging (older) merged into red packaging category. Same EAN 7312080005756.",
+      "date": "2026-03-21"
+    },
+    {
+      "annotation_id": 28705,
+      "image_id": 332,
+      "old_category_id": 12,
+      "new_category_id": 236,
+      "old_name": "Leksands Rutbit",
+      "new_name": "LEKSANDS KNEKKE RUTBIT 200G",
+      "reason": "Same product (Leksands Rutbit 200g), yellow packaging (older) merged into red packaging category. Same EAN 7312080005756.",
+      "date": "2026-03-21"
+    },
+    {
+      "annotation_id": 28706,
+      "image_id": 332,
+      "old_category_id": 12,
+      "new_category_id": 236,
+      "old_name": "Leksands Rutbit",
+      "new_name": "LEKSANDS KNEKKE RUTBIT 200G",
+      "reason": "Same product (Leksands Rutbit 200g), yellow packaging (older) merged into red packaging category. Same EAN 7312080005756.",
+      "date": "2026-03-21"
+    },
+    {
+      "annotation_id": 28711,
+      "image_id": 332,
+      "old_category_id": 12,
+      "new_category_id": 236,
+      "old_name": "Leksands Rutbit",
+      "new_name": "LEKSANDS KNEKKE RUTBIT 200G",
+      "reason": "Same product (Leksands Rutbit 200g), yellow packaging (older) merged into red packaging category. Same EAN 7312080005756.",
+      "date": "2026-03-21"
+    },
+    {
+      "annotation_id": 28712,
+      "image_id": 332,
+      "old_category_id": 12,
+      "new_category_id": 236,
+      "old_name": "Leksands Rutbit",
+      "new_name": "LEKSANDS KNEKKE RUTBIT 200G",
+      "reason": "Same product (Leksands Rutbit 200g), yellow packaging (older) merged into red packaging category. Same EAN 7312080005756.",
+      "date": "2026-03-21"
+    },
+    {
+      "annotation_id": 28808,
+      "image_id": 333,
+      "old_category_id": 12,
+      "new_category_id": 236,
+      "old_name": "Leksands Rutbit",
+      "new_name": "LEKSANDS KNEKKE RUTBIT 200G",
+      "reason": "Same product (Leksands Rutbit 200g), yellow packaging (older) merged into red packaging category. Same EAN 7312080005756.",
+      "date": "2026-03-21"
+    },
+    {
+      "annotation_id": 28809,
+      "image_id": 333,
+      "old_category_id": 12,
+      "new_category_id": 236,
+      "old_name": "Leksands Rutbit",
+      "new_name": "LEKSANDS KNEKKE RUTBIT 200G",
+      "reason": "Same product (Leksands Rutbit 200g), yellow packaging (older) merged into red packaging category. Same EAN 7312080005756.",
+      "date": "2026-03-21"
+    },
+    {
+      "annotation_id": 29288,
+      "image_id": 337,
+      "old_category_id": 12,
+      "new_category_id": 236,
+      "old_name": "Leksands Rutbit",
+      "new_name": "LEKSANDS KNEKKE RUTBIT 200G",
+      "reason": "Same product (Leksands Rutbit 200g), yellow packaging (older) merged into red packaging category. Same EAN 7312080005756.",
+      "date": "2026-03-21"
+    },
+    {
+      "annotation_id": 29289,
+      "image_id": 337,
+      "old_category_id": 12,
+      "new_category_id": 236,
+      "old_name": "Leksands Rutbit",
+      "new_name": "LEKSANDS KNEKKE RUTBIT 200G",
+      "reason": "Same product (Leksands Rutbit 200g), yellow packaging (older) merged into red packaging category. Same EAN 7312080005756.",
+      "date": "2026-03-21"
+    },
+    {
+      "annotation_id": 29290,
+      "image_id": 337,
+      "old_category_id": 12,
+      "new_category_id": 236,
+      "old_name": "Leksands Rutbit",
+      "new_name": "LEKSANDS KNEKKE RUTBIT 200G",
+      "reason": "Same product (Leksands Rutbit 200g), yellow packaging (older) merged into red packaging category. Same EAN 7312080005756.",
+      "date": "2026-03-21"
+    },
+    {
+      "annotation_id": 29291,
+      "image_id": 337,
+      "old_category_id": 12,
+      "new_category_id": 236,
+      "old_name": "Leksands Rutbit",
+      "new_name": "LEKSANDS KNEKKE RUTBIT 200G",
+      "reason": "Same product (Leksands Rutbit 200g), yellow packaging (older) merged into red packaging category. Same EAN 7312080005756.",
+      "date": "2026-03-21"
+    },
+    {
+      "annotation_id": 29377,
+      "image_id": 338,
+      "old_category_id": 12,
+      "new_category_id": 236,
+      "old_name": "Leksands Rutbit",
+      "new_name": "LEKSANDS KNEKKE RUTBIT 200G",
+      "reason": "Same product (Leksands Rutbit 200g), yellow packaging (older) merged into red packaging category. Same EAN 7312080005756.",
+      "date": "2026-03-21"
+    },
+    {
+      "annotation_id": 29378,
+      "image_id": 338,
+      "old_category_id": 12,
+      "new_category_id": 236,
+      "old_name": "Leksands Rutbit",
+      "new_name": "LEKSANDS KNEKKE RUTBIT 200G",
+      "reason": "Same product (Leksands Rutbit 200g), yellow packaging (older) merged into red packaging category. Same EAN 7312080005756.",
+      "date": "2026-03-21"
+    },
+    {
+      "annotation_id": 29379,
+      "image_id": 338,
+      "old_category_id": 12,
+      "new_category_id": 236,
+      "old_name": "Leksands Rutbit",
+      "new_name": "LEKSANDS KNEKKE RUTBIT 200G",
+      "reason": "Same product (Leksands Rutbit 200g), yellow packaging (older) merged into red packaging category. Same EAN 7312080005756.",
+      "date": "2026-03-21"
+    },
+    {
+      "annotation_id": 29533,
+      "image_id": 339,
+      "old_category_id": 12,
+      "new_category_id": 236,
+      "old_name": "Leksands Rutbit",
+      "new_name": "LEKSANDS KNEKKE RUTBIT 200G",
+      "reason": "Same product (Leksands Rutbit 200g), yellow packaging (older) merged into red packaging category. Same EAN 7312080005756.",
+      "date": "2026-03-21"
+    },
+    {
+      "annotation_id": 30221,
+      "image_id": 345,
+      "old_category_id": 12,
+      "new_category_id": 236,
+      "old_name": "Leksands Rutbit",
+      "new_name": "LEKSANDS KNEKKE RUTBIT 200G",
+      "reason": "Same product (Leksands Rutbit 200g), yellow packaging (older) merged into red packaging category. Same EAN 7312080005756.",
+      "date": "2026-03-21"
+    },
+    {
+      "annotation_id": 30222,
+      "image_id": 345,
+      "old_category_id": 12,
+      "new_category_id": 236,
+      "old_name": "Leksands Rutbit",
+      "new_name": "LEKSANDS KNEKKE RUTBIT 200G",
+      "reason": "Same product (Leksands Rutbit 200g), yellow packaging (older) merged into red packaging category. Same EAN 7312080005756.",
+      "date": "2026-03-21"
+    },
+    {
+      "annotation_id": 30411,
+      "image_id": 346,
+      "old_category_id": 12,
+      "new_category_id": 236,
+      "old_name": "Leksands Rutbit",
+      "new_name": "LEKSANDS KNEKKE RUTBIT 200G",
+      "reason": "Same product (Leksands Rutbit 200g), yellow packaging (older) merged into red packaging category. Same EAN 7312080005756.",
+      "date": "2026-03-21"
+    },
+    {
+      "annotation_id": 30412,
+      "image_id": 346,
+      "old_category_id": 12,
+      "new_category_id": 236,
+      "old_name": "Leksands Rutbit",
+      "new_name": "LEKSANDS KNEKKE RUTBIT 200G",
+      "reason": "Same product (Leksands Rutbit 200g), yellow packaging (older) merged into red packaging category. Same EAN 7312080005756.",
+      "date": "2026-03-21"
+    },
+    {
+      "annotation_id": 30413,
+      "image_id": 346,
+      "old_category_id": 12,
+      "new_category_id": 236,
+      "old_name": "Leksands Rutbit",
+      "new_name": "LEKSANDS KNEKKE RUTBIT 200G",
+      "reason": "Same product (Leksands Rutbit 200g), yellow packaging (older) merged into red packaging category. Same EAN 7312080005756.",
+      "date": "2026-03-21"
+    },
+    {
+      "annotation_id": 30414,
+      "image_id": 346,
+      "old_category_id": 12,
+      "new_category_id": 236,
+      "old_name": "Leksands Rutbit",
+      "new_name": "LEKSANDS KNEKKE RUTBIT 200G",
+      "reason": "Same product (Leksands Rutbit 200g), yellow packaging (older) merged into red packaging category. Same EAN 7312080005756.",
+      "date": "2026-03-21"
+    },
+    {
+      "annotation_id": 30614,
+      "image_id": 348,
+      "old_category_id": 12,
+      "new_category_id": 236,
+      "old_name": "Leksands Rutbit",
+      "new_name": "LEKSANDS KNEKKE RUTBIT 200G",
+      "reason": "Same product (Leksands Rutbit 200g), yellow packaging (older) merged into red packaging category. Same EAN 7312080005756.",
+      "date": "2026-03-21"
+    },
+    {
+      "annotation_id": 30615,
+      "image_id": 348,
+      "old_category_id": 12,
+      "new_category_id": 236,
+      "old_name": "Leksands Rutbit",
+      "new_name": "LEKSANDS KNEKKE RUTBIT 200G",
+      "reason": "Same product (Leksands Rutbit 200g), yellow packaging (older) merged into red packaging category. Same EAN 7312080005756.",
+      "date": "2026-03-21"
+    },
+    {
+      "annotation_id": 30616,
+      "image_id": 348,
+      "old_category_id": 12,
+      "new_category_id": 236,
+      "old_name": "Leksands Rutbit",
+      "new_name": "LEKSANDS KNEKKE RUTBIT 200G",
+      "reason": "Same product (Leksands Rutbit 200g), yellow packaging (older) merged into red packaging category. Same EAN 7312080005756.",
+      "date": "2026-03-21"
+    },
+    {
+      "annotation_id": 30617,
+      "image_id": 348,
+      "old_category_id": 12,
+      "new_category_id": 236,
+      "old_name": "Leksands Rutbit",
+      "new_name": "LEKSANDS KNEKKE RUTBIT 200G",
+      "reason": "Same product (Leksands Rutbit 200g), yellow packaging (older) merged into red packaging category. Same EAN 7312080005756.",
+      "date": "2026-03-21"
+    },
+    {
+      "annotation_id": 31088,
+      "image_id": 352,
+      "old_category_id": 12,
+      "new_category_id": 236,
+      "old_name": "Leksands Rutbit",
+      "new_name": "LEKSANDS KNEKKE RUTBIT 200G",
+      "reason": "Same product (Leksands Rutbit 200g), yellow packaging (older) merged into red packaging category. Same EAN 7312080005756.",
+      "date": "2026-03-21"
+    },
+    {
+      "annotation_id": 31089,
+      "image_id": 352,
+      "old_category_id": 12,
+      "new_category_id": 236,
+      "old_name": "Leksands Rutbit",
+      "new_name": "LEKSANDS KNEKKE RUTBIT 200G",
+      "reason": "Same product (Leksands Rutbit 200g), yellow packaging (older) merged into red packaging category. Same EAN 7312080005756.",
+      "date": "2026-03-21"
+    },
+    {
+      "annotation_id": 31614,
+      "image_id": 357,
+      "old_category_id": 12,
+      "new_category_id": 236,
+      "old_name": "Leksands Rutbit",
+      "new_name": "LEKSANDS KNEKKE RUTBIT 200G",
+      "reason": "Same product (Leksands Rutbit 200g), yellow packaging (older) merged into red packaging category. Same EAN 7312080005756.",
+      "date": "2026-03-21"
+    },
+    {
+      "annotation_id": 31615,
+      "image_id": 357,
+      "old_category_id": 12,
+      "new_category_id": 236,
+      "old_name": "Leksands Rutbit",
+      "new_name": "LEKSANDS KNEKKE RUTBIT 200G",
+      "reason": "Same product (Leksands Rutbit 200g), yellow packaging (older) merged into red packaging category. Same EAN 7312080005756.",
+      "date": "2026-03-21"
+    },
+    {
+      "annotation_id": 31616,
+      "image_id": 357,
+      "old_category_id": 12,
+      "new_category_id": 236,
+      "old_name": "Leksands Rutbit",
+      "new_name": "LEKSANDS KNEKKE RUTBIT 200G",
+      "reason": "Same product (Leksands Rutbit 200g), yellow packaging (older) merged into red packaging category. Same EAN 7312080005756.",
+      "date": "2026-03-21"
+    },
+    {
+      "annotation_id": 31617,
+      "image_id": 357,
+      "old_category_id": 12,
+      "new_category_id": 236,
+      "old_name": "Leksands Rutbit",
+      "new_name": "LEKSANDS KNEKKE RUTBIT 200G",
+      "reason": "Same product (Leksands Rutbit 200g), yellow packaging (older) merged into red packaging category. Same EAN 7312080005756.",
+      "date": "2026-03-21"
+    },
+    {
+      "annotation_id": 31665,
+      "image_id": 358,
+      "old_category_id": 12,
+      "new_category_id": 236,
+      "old_name": "Leksands Rutbit",
+      "new_name": "LEKSANDS KNEKKE RUTBIT 200G",
+      "reason": "Same product (Leksands Rutbit 200g), yellow packaging (older) merged into red packaging category. Same EAN 7312080005756.",
+      "date": "2026-03-21"
+    },
+    {
+      "annotation_id": 31666,
+      "image_id": 358,
+      "old_category_id": 12,
+      "new_category_id": 236,
+      "old_name": "Leksands Rutbit",
+      "new_name": "LEKSANDS KNEKKE RUTBIT 200G",
+      "reason": "Same product (Leksands Rutbit 200g), yellow packaging (older) merged into red packaging category. Same EAN 7312080005756.",
+      "date": "2026-03-21"
+    },
+    {
+      "annotation_id": 31667,
+      "image_id": 358,
+      "old_category_id": 12,
+      "new_category_id": 236,
+      "old_name": "Leksands Rutbit",
+      "new_name": "LEKSANDS KNEKKE RUTBIT 200G",
+      "reason": "Same product (Leksands Rutbit 200g), yellow packaging (older) merged into red packaging category. Same EAN 7312080005756.",
+      "date": "2026-03-21"
+    },
+    {
+      "annotation_id": 32151,
+      "image_id": 361,
+      "old_category_id": 12,
+      "new_category_id": 236,
+      "old_name": "Leksands Rutbit",
+      "new_name": "LEKSANDS KNEKKE RUTBIT 200G",
+      "reason": "Same product (Leksands Rutbit 200g), yellow packaging (older) merged into red packaging category. Same EAN 7312080005756.",
+      "date": "2026-03-21"
+    },
+    {
+      "annotation_id": 32152,
+      "image_id": 361,
+      "old_category_id": 12,
+      "new_category_id": 236,
+      "old_name": "Leksands Rutbit",
+      "new_name": "LEKSANDS KNEKKE RUTBIT 200G",
+      "reason": "Same product (Leksands Rutbit 200g), yellow packaging (older) merged into red packaging category. Same EAN 7312080005756.",
+      "date": "2026-03-21"
+    },
+    {
+      "annotation_id": 32153,
+      "image_id": 361,
+      "old_category_id": 12,
+      "new_category_id": 236,
+      "old_name": "Leksands Rutbit",
+      "new_name": "LEKSANDS KNEKKE RUTBIT 200G",
+      "reason": "Same product (Leksands Rutbit 200g), yellow packaging (older) merged into red packaging category. Same EAN 7312080005756.",
+      "date": "2026-03-21"
+    },
+    {
+      "annotation_id": 32154,
+      "image_id": 361,
+      "old_category_id": 12,
+      "new_category_id": 236,
+      "old_name": "Leksands Rutbit",
+      "new_name": "LEKSANDS KNEKKE RUTBIT 200G",
+      "reason": "Same product (Leksands Rutbit 200g), yellow packaging (older) merged into red packaging category. Same EAN 7312080005756.",
+      "date": "2026-03-21"
+    },
+    {
+      "annotation_id": 32267,
+      "image_id": 362,
+      "old_category_id": 12,
+      "new_category_id": 236,
+      "old_name": "Leksands Rutbit",
+      "new_name": "LEKSANDS KNEKKE RUTBIT 200G",
+      "reason": "Same product (Leksands Rutbit 200g), yellow packaging (older) merged into red packaging category. Same EAN 7312080005756.",
+      "date": "2026-03-21"
+    },
+    {
+      "annotation_id": 32268,
+      "image_id": 362,
+      "old_category_id": 12,
+      "new_category_id": 236,
+      "old_name": "Leksands Rutbit",
+      "new_name": "LEKSANDS KNEKKE RUTBIT 200G",
+      "reason": "Same product (Leksands Rutbit 200g), yellow packaging (older) merged into red packaging category. Same EAN 7312080005756.",
+      "date": "2026-03-21"
+    },
+    {
+      "annotation_id": 32304,
+      "image_id": 363,
+      "old_category_id": 12,
+      "new_category_id": 236,
+      "old_name": "Leksands Rutbit",
+      "new_name": "LEKSANDS KNEKKE RUTBIT 200G",
+      "reason": "Same product (Leksands Rutbit 200g), yellow packaging (older) merged into red packaging category. Same EAN 7312080005756.",
+      "date": "2026-03-21"
+    },
+    {
+      "annotation_id": 32305,
+      "image_id": 363,
+      "old_category_id": 12,
+      "new_category_id": 236,
+      "old_name": "Leksands Rutbit",
+      "new_name": "LEKSANDS KNEKKE RUTBIT 200G",
+      "reason": "Same product (Leksands Rutbit 200g), yellow packaging (older) merged into red packaging category. Same EAN 7312080005756.",
+      "date": "2026-03-21"
+    },
+    {
+      "annotation_id": 32338,
+      "image_id": 363,
+      "old_category_id": 12,
+      "new_category_id": 236,
+      "old_name": "Leksands Rutbit",
+      "new_name": "LEKSANDS KNEKKE RUTBIT 200G",
+      "reason": "Same product (Leksands Rutbit 200g), yellow packaging (older) merged into red packaging category. Same EAN 7312080005756.",
+      "date": "2026-03-21"
+    },
+    {
+      "annotation_id": 32339,
+      "image_id": 363,
+      "old_category_id": 12,
+      "new_category_id": 236,
+      "old_name": "Leksands Rutbit",
+      "new_name": "LEKSANDS KNEKKE RUTBIT 200G",
+      "reason": "Same product (Leksands Rutbit 200g), yellow packaging (older) merged into red packaging category. Same EAN 7312080005756.",
+      "date": "2026-03-21"
+    },
+    {
+      "annotation_id": 32340,
+      "image_id": 363,
+      "old_category_id": 12,
+      "new_category_id": 236,
+      "old_name": "Leksands Rutbit",
+      "new_name": "LEKSANDS KNEKKE RUTBIT 200G",
+      "reason": "Same product (Leksands Rutbit 200g), yellow packaging (older) merged into red packaging category. Same EAN 7312080005756.",
+      "date": "2026-03-21"
+    },
+    {
+      "annotation_id": 32549,
+      "image_id": 365,
+      "old_category_id": 12,
+      "new_category_id": 236,
+      "old_name": "Leksands Rutbit",
+      "new_name": "LEKSANDS KNEKKE RUTBIT 200G",
+      "reason": "Same product (Leksands Rutbit 200g), yellow packaging (older) merged into red packaging category. Same EAN 7312080005756.",
+      "date": "2026-03-21"
+    },
+    {
+      "annotation_id": 33260,
+      "image_id": 371,
+      "old_category_id": 12,
+      "new_category_id": 236,
+      "old_name": "Leksands Rutbit",
+      "new_name": "LEKSANDS KNEKKE RUTBIT 200G",
+      "reason": "Same product (Leksands Rutbit 200g), yellow packaging (older) merged into red packaging category. Same EAN 7312080005756.",
+      "date": "2026-03-21"
+    },
+    {
+      "annotation_id": 33480,
+      "image_id": 374,
+      "old_category_id": 12,
+      "new_category_id": 236,
+      "old_name": "Leksands Rutbit",
+      "new_name": "LEKSANDS KNEKKE RUTBIT 200G",
+      "reason": "Same product (Leksands Rutbit 200g), yellow packaging (older) merged into red packaging category. Same EAN 7312080005756.",
+      "date": "2026-03-21"
+    },
+    {
+      "annotation_id": 33481,
+      "image_id": 374,
+      "old_category_id": 12,
+      "new_category_id": 236,
+      "old_name": "Leksands Rutbit",
+      "new_name": "LEKSANDS KNEKKE RUTBIT 200G",
+      "reason": "Same product (Leksands Rutbit 200g), yellow packaging (older) merged into red packaging category. Same EAN 7312080005756.",
+      "date": "2026-03-21"
+    },
+    {
+      "annotation_id": 33482,
+      "image_id": 374,
+      "old_category_id": 12,
+      "new_category_id": 236,
+      "old_name": "Leksands Rutbit",
+      "new_name": "LEKSANDS KNEKKE RUTBIT 200G",
+      "reason": "Same product (Leksands Rutbit 200g), yellow packaging (older) merged into red packaging category. Same EAN 7312080005756.",
+      "date": "2026-03-21"
+    },
+    {
+      "annotation_id": 33483,
+      "image_id": 374,
+      "old_category_id": 12,
+      "new_category_id": 236,
+      "old_name": "Leksands Rutbit",
+      "new_name": "LEKSANDS KNEKKE RUTBIT 200G",
+      "reason": "Same product (Leksands Rutbit 200g), yellow packaging (older) merged into red packaging category. Same EAN 7312080005756.",
+      "date": "2026-03-21"
+    },
+    {
+      "annotation_id": 33484,
+      "image_id": 374,
+      "old_category_id": 12,
+      "new_category_id": 236,
+      "old_name": "Leksands Rutbit",
+      "new_name": "LEKSANDS KNEKKE RUTBIT 200G",
+      "reason": "Same product (Leksands Rutbit 200g), yellow packaging (older) merged into red packaging category. Same EAN 7312080005756.",
+      "date": "2026-03-21"
+    },
+    {
+      "annotation_id": 33485,
+      "image_id": 374,
+      "old_category_id": 12,
+      "new_category_id": 236,
+      "old_name": "Leksands Rutbit",
+      "new_name": "LEKSANDS KNEKKE RUTBIT 200G",
+      "reason": "Same product (Leksands Rutbit 200g), yellow packaging (older) merged into red packaging category. Same EAN 7312080005756.",
+      "date": "2026-03-21"
+    },
+    {
+      "annotation_id": 33942,
+      "image_id": 378,
+      "old_category_id": 12,
+      "new_category_id": 236,
+      "old_name": "Leksands Rutbit",
+      "new_name": "LEKSANDS KNEKKE RUTBIT 200G",
+      "reason": "Same product (Leksands Rutbit 200g), yellow packaging (older) merged into red packaging category. Same EAN 7312080005756.",
+      "date": "2026-03-21"
+    },
+    {
+      "annotation_id": 33943,
+      "image_id": 378,
+      "old_category_id": 12,
+      "new_category_id": 236,
+      "old_name": "Leksands Rutbit",
+      "new_name": "LEKSANDS KNEKKE RUTBIT 200G",
+      "reason": "Same product (Leksands Rutbit 200g), yellow packaging (older) merged into red packaging category. Same EAN 7312080005756.",
+      "date": "2026-03-21"
+    },
+    {
+      "annotation_id": 34111,
+      "image_id": 380,
+      "old_category_id": 12,
+      "new_category_id": 236,
+      "old_name": "Leksands Rutbit",
+      "new_name": "LEKSANDS KNEKKE RUTBIT 200G",
+      "reason": "Same product (Leksands Rutbit 200g), yellow packaging (older) merged into red packaging category. Same EAN 7312080005756.",
+      "date": "2026-03-21"
+    },
+    {
+      "annotation_id": 34227,
+      "image_id": 381,
+      "old_category_id": 12,
+      "new_category_id": 236,
+      "old_name": "Leksands Rutbit",
+      "new_name": "LEKSANDS KNEKKE RUTBIT 200G",
+      "reason": "Same product (Leksands Rutbit 200g), yellow packaging (older) merged into red packaging category. Same EAN 7312080005756.",
+      "date": "2026-03-21"
+    },
+    {
+      "annotation_id": 34299,
+      "image_id": 382,
+      "old_category_id": 12,
+      "new_category_id": 236,
+      "old_name": "Leksands Rutbit",
+      "new_name": "LEKSANDS KNEKKE RUTBIT 200G",
+      "reason": "Same product (Leksands Rutbit 200g), yellow packaging (older) merged into red packaging category. Same EAN 7312080005756.",
+      "date": "2026-03-21"
+    },
+    {
+      "annotation_id": 34300,
+      "image_id": 382,
+      "old_category_id": 12,
+      "new_category_id": 236,
+      "old_name": "Leksands Rutbit",
+      "new_name": "LEKSANDS KNEKKE RUTBIT 200G",
+      "reason": "Same product (Leksands Rutbit 200g), yellow packaging (older) merged into red packaging category. Same EAN 7312080005756.",
+      "date": "2026-03-21"
+    },
+    {
+      "annotation_id": 7653,
+      "image_id": 72,
+      "old_category_id": 269,
+      "new_category_id": 6,
+      "old_name": "Eldorado Egg fra Toten",
+      "new_name": "Eldorado Økologiske Gårdsegg",
+      "reason": "Same EAN 7035620008429 — same product (Økologiske Egg fra Toten 10stk M/L Eldorado), merged into cat#6.",
+      "date": "2026-03-21"
+    },
+    {
+      "annotation_id": 7654,
+      "image_id": 72,
+      "old_category_id": 269,
+      "new_category_id": 6,
+      "old_name": "Eldorado Egg fra Toten",
+      "new_name": "Eldorado Økologiske Gårdsegg",
+      "reason": "Same EAN 7035620008429 — same product (Økologiske Egg fra Toten 10stk M/L Eldorado), merged into cat#6.",
+      "date": "2026-03-21"
+    },
+    {
+      "annotation_id": 7656,
+      "image_id": 72,
+      "old_category_id": 269,
+      "new_category_id": 6,
+      "old_name": "Eldorado Egg fra Toten",
+      "new_name": "Eldorado Økologiske Gårdsegg",
+      "reason": "Same EAN 7035620008429 — same product (Økologiske Egg fra Toten 10stk M/L Eldorado), merged into cat#6.",
+      "date": "2026-03-21"
+    },
+    {
+      "annotation_id": 7657,
+      "image_id": 72,
+      "old_category_id": 269,
+      "new_category_id": 6,
+      "old_name": "Eldorado Egg fra Toten",
+      "new_name": "Eldorado Økologiske Gårdsegg",
+      "reason": "Same EAN 7035620008429 — same product (Økologiske Egg fra Toten 10stk M/L Eldorado), merged into cat#6.",
+      "date": "2026-03-21"
+    },
+    {
+      "annotation_id": 7658,
+      "image_id": 72,
+      "old_category_id": 269,
+      "new_category_id": 6,
+      "old_name": "Eldorado Egg fra Toten",
+      "new_name": "Eldorado Økologiske Gårdsegg",
+      "reason": "Same EAN 7035620008429 — same product (Økologiske Egg fra Toten 10stk M/L Eldorado), merged into cat#6.",
+      "date": "2026-03-21"
+    },
+    {
+      "annotation_id": 7743,
+      "image_id": 73,
+      "old_category_id": 269,
+      "new_category_id": 6,
+      "old_name": "Eldorado Egg fra Toten",
+      "new_name": "Eldorado Økologiske Gårdsegg",
+      "reason": "Same EAN 7035620008429 — same product (Økologiske Egg fra Toten 10stk M/L Eldorado), merged into cat#6.",
+      "date": "2026-03-21"
+    },
+    {
+      "annotation_id": 7749,
+      "image_id": 73,
+      "old_category_id": 269,
+      "new_category_id": 6,
+      "old_name": "Eldorado Egg fra Toten",
+      "new_name": "Eldorado Økologiske Gårdsegg",
+      "reason": "Same EAN 7035620008429 — same product (Økologiske Egg fra Toten 10stk M/L Eldorado), merged into cat#6.",
+      "date": "2026-03-21"
+    },
+    {
+      "annotation_id": 7758,
+      "image_id": 74,
+      "old_category_id": 269,
+      "new_category_id": 6,
+      "old_name": "Eldorado Egg fra Toten",
+      "new_name": "Eldorado Økologiske Gårdsegg",
+      "reason": "Same EAN 7035620008429 — same product (Økologiske Egg fra Toten 10stk M/L Eldorado), merged into cat#6.",
+      "date": "2026-03-21"
+    },
+    {
+      "annotation_id": 7759,
+      "image_id": 74,
+      "old_category_id": 269,
+      "new_category_id": 6,
+      "old_name": "Eldorado Egg fra Toten",
+      "new_name": "Eldorado Økologiske Gårdsegg",
+      "reason": "Same EAN 7035620008429 — same product (Økologiske Egg fra Toten 10stk M/L Eldorado), merged into cat#6.",
+      "date": "2026-03-21"
+    },
+    {
+      "annotation_id": 8121,
+      "image_id": 77,
+      "old_category_id": 269,
+      "new_category_id": 6,
+      "old_name": "Eldorado Egg fra Toten",
+      "new_name": "Eldorado Økologiske Gårdsegg",
+      "reason": "Same EAN 7035620008429 — same product (Økologiske Egg fra Toten 10stk M/L Eldorado), merged into cat#6.",
+      "date": "2026-03-21"
+    },
+    {
+      "annotation_id": 8122,
+      "image_id": 77,
+      "old_category_id": 269,
+      "new_category_id": 6,
+      "old_name": "Eldorado Egg fra Toten",
+      "new_name": "Eldorado Økologiske Gårdsegg",
+      "reason": "Same EAN 7035620008429 — same product (Økologiske Egg fra Toten 10stk M/L Eldorado), merged into cat#6.",
+      "date": "2026-03-21"
+    },
+    {
+      "annotation_id": 8123,
+      "image_id": 77,
+      "old_category_id": 269,
+      "new_category_id": 6,
+      "old_name": "Eldorado Egg fra Toten",
+      "new_name": "Eldorado Økologiske Gårdsegg",
+      "reason": "Same EAN 7035620008429 — same product (Økologiske Egg fra Toten 10stk M/L Eldorado), merged into cat#6.",
+      "date": "2026-03-21"
+    },
+    {
+      "annotation_id": 8124,
+      "image_id": 77,
+      "old_category_id": 269,
+      "new_category_id": 6,
+      "old_name": "Eldorado Egg fra Toten",
+      "new_name": "Eldorado Økologiske Gårdsegg",
+      "reason": "Same EAN 7035620008429 — same product (Økologiske Egg fra Toten 10stk M/L Eldorado), merged into cat#6.",
+      "date": "2026-03-21"
+    },
+    {
+      "annotation_id": 8319,
+      "image_id": 80,
+      "old_category_id": 269,
+      "new_category_id": 6,
+      "old_name": "Eldorado Egg fra Toten",
+      "new_name": "Eldorado Økologiske Gårdsegg",
+      "reason": "Same EAN 7035620008429 — same product (Økologiske Egg fra Toten 10stk M/L Eldorado), merged into cat#6.",
+      "date": "2026-03-21"
+    },
+    {
+      "annotation_id": 8320,
+      "image_id": 80,
+      "old_category_id": 269,
+      "new_category_id": 6,
+      "old_name": "Eldorado Egg fra Toten",
+      "new_name": "Eldorado Økologiske Gårdsegg",
+      "reason": "Same EAN 7035620008429 — same product (Økologiske Egg fra Toten 10stk M/L Eldorado), merged into cat#6.",
+      "date": "2026-03-21"
+    },
+    {
+      "annotation_id": 8321,
+      "image_id": 80,
+      "old_category_id": 269,
+      "new_category_id": 6,
+      "old_name": "Eldorado Egg fra Toten",
+      "new_name": "Eldorado Økologiske Gårdsegg",
+      "reason": "Same EAN 7035620008429 — same product (Økologiske Egg fra Toten 10stk M/L Eldorado), merged into cat#6.",
+      "date": "2026-03-21"
+    },
+    {
+      "annotation_id": 8322,
+      "image_id": 80,
+      "old_category_id": 269,
+      "new_category_id": 6,
+      "old_name": "Eldorado Egg fra Toten",
+      "new_name": "Eldorado Økologiske Gårdsegg",
+      "reason": "Same EAN 7035620008429 — same product (Økologiske Egg fra Toten 10stk M/L Eldorado), merged into cat#6.",
+      "date": "2026-03-21"
+    },
+    {
+      "annotation_id": 9315,
+      "image_id": 97,
+      "old_category_id": 269,
+      "new_category_id": 6,
+      "old_name": "Eldorado Egg fra Toten",
+      "new_name": "Eldorado Økologiske Gårdsegg",
+      "reason": "Same EAN 7035620008429 — same product (Økologiske Egg fra Toten 10stk M/L Eldorado), merged into cat#6.",
+      "date": "2026-03-21"
+    },
+    {
+      "annotation_id": 9316,
+      "image_id": 97,
+      "old_category_id": 269,
+      "new_category_id": 6,
+      "old_name": "Eldorado Egg fra Toten",
+      "new_name": "Eldorado Økologiske Gårdsegg",
+      "reason": "Same EAN 7035620008429 — same product (Økologiske Egg fra Toten 10stk M/L Eldorado), merged into cat#6.",
+      "date": "2026-03-21"
+    },
+    {
+      "annotation_id": 9317,
+      "image_id": 97,
+      "old_category_id": 269,
+      "new_category_id": 6,
+      "old_name": "Eldorado Egg fra Toten",
+      "new_name": "Eldorado Økologiske Gårdsegg",
+      "reason": "Same EAN 7035620008429 — same product (Økologiske Egg fra Toten 10stk M/L Eldorado), merged into cat#6.",
+      "date": "2026-03-21"
+    },
+    {
+      "annotation_id": 9424,
+      "image_id": 100,
+      "old_category_id": 269,
+      "new_category_id": 6,
+      "old_name": "Eldorado Egg fra Toten",
+      "new_name": "Eldorado Økologiske Gårdsegg",
+      "reason": "Same EAN 7035620008429 — same product (Økologiske Egg fra Toten 10stk M/L Eldorado), merged into cat#6.",
+      "date": "2026-03-21"
+    },
+    {
+      "annotation_id": 9425,
+      "image_id": 100,
+      "old_category_id": 269,
+      "new_category_id": 6,
+      "old_name": "Eldorado Egg fra Toten",
+      "new_name": "Eldorado Økologiske Gårdsegg",
+      "reason": "Same EAN 7035620008429 — same product (Økologiske Egg fra Toten 10stk M/L Eldorado), merged into cat#6.",
+      "date": "2026-03-21"
+    },
+    {
+      "annotation_id": 9426,
+      "image_id": 100,
+      "old_category_id": 269,
+      "new_category_id": 6,
+      "old_name": "Eldorado Egg fra Toten",
+      "new_name": "Eldorado Økologiske Gårdsegg",
+      "reason": "Same EAN 7035620008429 — same product (Økologiske Egg fra Toten 10stk M/L Eldorado), merged into cat#6.",
+      "date": "2026-03-21"
+    },
+    {
+      "annotation_id": 9615,
+      "image_id": 103,
+      "old_category_id": 269,
+      "new_category_id": 6,
+      "old_name": "Eldorado Egg fra Toten",
+      "new_name": "Eldorado Økologiske Gårdsegg",
+      "reason": "Same EAN 7035620008429 — same product (Økologiske Egg fra Toten 10stk M/L Eldorado), merged into cat#6.",
+      "date": "2026-03-21"
+    },
+    {
+      "annotation_id": 9650,
+      "image_id": 105,
+      "old_category_id": 269,
+      "new_category_id": 6,
+      "old_name": "Eldorado Egg fra Toten",
+      "new_name": "Eldorado Økologiske Gårdsegg",
+      "reason": "Same EAN 7035620008429 — same product (Økologiske Egg fra Toten 10stk M/L Eldorado), merged into cat#6.",
+      "date": "2026-03-21"
+    },
+    {
+      "annotation_id": 9651,
+      "image_id": 105,
+      "old_category_id": 269,
+      "new_category_id": 6,
+      "old_name": "Eldorado Egg fra Toten",
+      "new_name": "Eldorado Økologiske Gårdsegg",
+      "reason": "Same EAN 7035620008429 — same product (Økologiske Egg fra Toten 10stk M/L Eldorado), merged into cat#6.",
+      "date": "2026-03-21"
+    },
+    {
+      "annotation_id": 9727,
+      "image_id": 105,
+      "old_category_id": 269,
+      "new_category_id": 6,
+      "old_name": "Eldorado Egg fra Toten",
+      "new_name": "Eldorado Økologiske Gårdsegg",
+      "reason": "Same EAN 7035620008429 — same product (Økologiske Egg fra Toten 10stk M/L Eldorado), merged into cat#6.",
+      "date": "2026-03-21"
+    },
+    {
+      "annotation_id": 9917,
+      "image_id": 109,
+      "old_category_id": 269,
+      "new_category_id": 6,
+      "old_name": "Eldorado Egg fra Toten",
+      "new_name": "Eldorado Økologiske Gårdsegg",
+      "reason": "Same EAN 7035620008429 — same product (Økologiske Egg fra Toten 10stk M/L Eldorado), merged into cat#6.",
+      "date": "2026-03-21"
+    },
+    {
+      "annotation_id": 9918,
+      "image_id": 109,
+      "old_category_id": 269,
+      "new_category_id": 6,
+      "old_name": "Eldorado Egg fra Toten",
+      "new_name": "Eldorado Økologiske Gårdsegg",
+      "reason": "Same EAN 7035620008429 — same product (Økologiske Egg fra Toten 10stk M/L Eldorado), merged into cat#6.",
+      "date": "2026-03-21"
+    },
+    {
+      "annotation_id": 10030,
+      "image_id": 111,
+      "old_category_id": 269,
+      "new_category_id": 6,
+      "old_name": "Eldorado Egg fra Toten",
+      "new_name": "Eldorado Økologiske Gårdsegg",
+      "reason": "Same EAN 7035620008429 — same product (Økologiske Egg fra Toten 10stk M/L Eldorado), merged into cat#6.",
+      "date": "2026-03-21"
+    },
+    {
+      "annotation_id": 10031,
+      "image_id": 111,
+      "old_category_id": 269,
+      "new_category_id": 6,
+      "old_name": "Eldorado Egg fra Toten",
+      "new_name": "Eldorado Økologiske Gårdsegg",
+      "reason": "Same EAN 7035620008429 — same product (Økologiske Egg fra Toten 10stk M/L Eldorado), merged into cat#6.",
+      "date": "2026-03-21"
+    },
+    {
+      "annotation_id": 10032,
+      "image_id": 111,
+      "old_category_id": 269,
+      "new_category_id": 6,
+      "old_name": "Eldorado Egg fra Toten",
+      "new_name": "Eldorado Økologiske Gårdsegg",
+      "reason": "Same EAN 7035620008429 — same product (Økologiske Egg fra Toten 10stk M/L Eldorado), merged into cat#6.",
+      "date": "2026-03-21"
+    },
+    {
+      "annotation_id": 10033,
+      "image_id": 111,
+      "old_category_id": 269,
+      "new_category_id": 6,
+      "old_name": "Eldorado Egg fra Toten",
+      "new_name": "Eldorado Økologiske Gårdsegg",
+      "reason": "Same EAN 7035620008429 — same product (Økologiske Egg fra Toten 10stk M/L Eldorado), merged into cat#6.",
+      "date": "2026-03-21"
+    }
+  ]
+}

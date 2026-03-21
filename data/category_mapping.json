@@ -1,4 +1,11 @@
 {
+  "312": {
+    "product_code": "7090036370195",
+    "product_name": "TØRRESVIK GÅRD KVALITETSEGG 12STK",
+    "_name_correction": "Category name says 10stk but product is 12stk — confirmed via lokalmat.no network tab (gtinConsumer: 7090036370195, name: Tørresvik – Egg 12 Pk m – Frittgående)",
+    "_kassal_note": "Not found in Kassal (local farm product, not in major chains)",
+    "_correction_date": "2026-03-21"
+  },
   "304": {
     "product_code": "7040913336691",
     "product_name": "EVERGOOD CLASSIC KOKMALT 250G",
@@ -712,13 +719,18 @@
   },
   "300": {
     "product_code": "7041110121738",
-    "product_name": "",
+    "product_name": "Dent Trio 24g",
     "has_images": true,
     "image_types": [
       "front",
       "main"
     ],
-    "annotation_count": 1
+    "annotation_count": 1,
+    "_kassal_confirmed_name": "Dent Trio 24g",
+    "_kassal_stores": "Joker, SPAR, Coop, Meny, Oda, Bunnpris, Europris, Havaristen",
+    "_kassal_price": 8,
+    "_kassal_image_url": "https://bilder.ngdata.no/7041110121738/kmh/large.jpg",
+    "_correction_date": "2026-03-21"
   },
   "75": {
     "product_code": "8710398516947",
@@ -1751,7 +1763,7 @@
   },
   "158": {
     "product_code": "7312080004230",
-    "product_name": "SURDEIG KNEKKEBRØD WASA",
+    "product_name": "Surdeig Knekkebrød 200g Leksands",
     "has_images": true,
     "image_types": [
       "back",
@@ -1760,7 +1772,12 @@
       "main",
       "right"
     ],
-    "annotation_count": 70
+    "annotation_count": 70,
+    "_kassal_confirmed_name": "Surdeig Knekkebrød 200g Leksands",
+    "_kassal_stores": "Meny",
+    "_kassal_price": 37.9,
+    "_kassal_image_url": "https://bilder.ngdata.no/7312080004230/meny/large.jpg",
+    "_correction_date": "2026-03-21"
   },
   "14": {
     "product_code": "7035620026911",
@@ -2005,7 +2022,7 @@
   },
   "231": {
     "product_code": "7035620028649",
-    "product_name": "MELLOMBAR CHIA,QUINOA&NØTTER 138G",
+    "product_name": "Mellombar Chia,Quinoa&Nøtter 138g Eldorado",
     "has_images": true,
     "image_types": [
       "back",
@@ -2014,7 +2031,12 @@
       "main",
       "right"
     ],
-    "annotation_count": 49
+    "annotation_count": 49,
+    "_kassal_confirmed_name": "Mellombar Chia,Quinoa&Nøtter 138g Eldorado",
+    "_kassal_stores": "SPAR, Meny, Joker, KIWI",
+    "_kassal_price": 21.9,
+    "_kassal_image_url": "https://bilder.ngdata.no/7035620028649/kmh/large.jpg",
+    "_correction_date": "2026-03-21"
   },
   "344": {
     "product_code": "7040913337452",
@@ -2087,7 +2109,7 @@
   },
   "238": {
     "product_code": "7039410010111",
-    "product_name": "KAMILLE TE ØKOLOGISK 24PK",
+    "product_name": "Kamille Te Økologisk 24pos Fairtrade",
     "has_images": true,
     "image_types": [
       "back",
@@ -2097,7 +2119,12 @@
       "right",
       "top"
     ],
-    "annotation_count": 44
+    "annotation_count": 44,
+    "_kassal_confirmed_name": "Confecta Kamillete Øko-Fairtrade 24 teposer 28,8g",
+    "_kassal_stores": "Coop, Meny, Joker, SPAR",
+    "_kassal_price": 54.9,
+    "_kassal_image_url": "https://bilder.ngdata.no/7039410010111/meny/large.jpg",
+    "_correction_date": "2026-03-21"
   },
   "25": {
     "product_code": "7040913337476",
@@ -2221,7 +2248,7 @@
   },
   "148": {
     "product_code": "7035620046711",
-    "product_name": "GRANOLA SJOKOLADE&NØTTER 375G JACOBS",
+    "product_name": "Granola Sjokolade &Nøtter 375g Jacobs Utvalgte",
     "has_images": true,
     "image_types": [
       "back",
@@ -2230,7 +2257,12 @@
       "main",
       "right"
     ],
-    "annotation_count": 39
+    "annotation_count": 39,
+    "_kassal_confirmed_name": "Granola Sjokolade &Nøtter 375g Jacobs Utvalgte",
+    "_kassal_stores": "Meny, SPAR",
+    "_kassal_price": 47.9,
+    "_kassal_image_url": "https://bilder.ngdata.no/7035620046711/meny/large.jpg",
+    "_correction_date": "2026-03-21"
   },
   "287": {
     "product_code": "70177077693",
@@ -2358,7 +2390,7 @@
   },
   "228": {
     "product_code": "3800205877561",
-    "product_name": "BRUSCHETTE FINE CHEESE MARETTI",
+    "product_name": "Bruschette Fine Cheese 150g Sel Maretti",
     "has_images": true,
     "image_types": [
       "back",
@@ -2367,7 +2399,12 @@
       "main",
       "right"
     ],
-    "annotation_count": 31
+    "annotation_count": 31,
+    "_kassal_confirmed_name": "Bruschette Fine Cheese 150g Sel Maretti",
+    "_kassal_stores": "Meny, Joker",
+    "_kassal_price": 30.5,
+    "_kassal_image_url": "https://bilder.ngdata.no/3800205877561/meny/large.jpg",
+    "_correction_date": "2026-03-21"
   },
   "240": {
     "product_code": "7039010562904",
@@ -2384,7 +2421,7 @@
   },
   "316": {
     "product_code": "7039317004077",
-    "product_name": "FIBERRIK SOLSIKKE 125G SÆTRE",
+    "product_name": "Fiberrik Solsikke 125g",
     "has_images": true,
     "image_types": [
       "back",
@@ -2393,7 +2430,12 @@
       "main",
       "right"
     ],
-    "annotation_count": 29
+    "annotation_count": 29,
+    "_kassal_confirmed_name": "Fiberrik Solsikke 125g Prepack Sætre",
+    "_kassal_stores": "Meny, Coop, Oda, SPAR, Havaristen",
+    "_kassal_price": 20,
+    "_kassal_image_url": "https://bilder.ngdata.no/7039317004077/meny/large.jpg",
+    "_correction_date": "2026-03-21"
   },
   "105": {
     "product_code": "7090031030100",
@@ -2483,7 +2525,7 @@
   },
   "336": {
     "product_code": "7090037971551",
-    "product_name": "SVARTHAVRERIS ØKOLOGISK DEN SORTE HAVRE",
+    "product_name": "Havreris Økologisk 500g Den Sorte Havre",
     "has_images": true,
     "image_types": [
       "back",
@@ -2492,7 +2534,12 @@
       "main",
       "right"
     ],
-    "annotation_count": 26
+    "annotation_count": 26,
+    "_kassal_confirmed_name": "Havreris Økologisk 500g Den Sorte Havre",
+    "_kassal_stores": "Meny, Joker, Slowly.no",
+    "_kassal_price": 49,
+    "_kassal_image_url": "https://bilder.ngdata.no/7090037971551/meny/large.jpg",
+    "_correction_date": "2026-03-21"
   },
   "20": {
     "product_code": "5063270101797",
@@ -2671,7 +2718,7 @@
   },
   "112": {
     "product_code": "7040913337001",
-    "product_name": "ESPRESSO ITALIAN HELE BØNNER 500G JACOBS",
+    "product_name": "Espresso Italian Hele Bønner 500g Jacobs Utvalgte",
     "has_images": true,
     "image_types": [
       "back",
@@ -2680,7 +2727,12 @@
       "main",
       "right"
     ],
-    "annotation_count": 18
+    "annotation_count": 18,
+    "_kassal_confirmed_name": "Espresso Italian Hele Bønner 500g Jacobs Utvalgte",
+    "_kassal_stores": "SPAR, Meny, Bunnpris, KIWI, Joker",
+    "_kassal_price": 147,
+    "_kassal_image_url": "https://bilder.ngdata.no/7040913337001/kmh/large.jpg",
+    "_correction_date": "2026-03-21"
   },
   "101": {
     "product_code": "7300400127394",
@@ -2815,7 +2867,7 @@
   },
   "247": {
     "product_code": "7040913336912",
-    "product_name": "MOUNT KENYA FILTERMALT 200G JACOBS",
+    "product_name": "Mount Kenya Filtermalt 200g Jacobs Utvalgte",
     "has_images": true,
     "image_types": [
       "back",
@@ -2824,7 +2876,12 @@
       "main",
       "right"
     ],
-    "annotation_count": 15
+    "annotation_count": 15,
+    "_kassal_confirmed_name": "Mount Kenya Filtermalt 200g Jacobs Utvalgte",
+    "_kassal_stores": "SPAR, Meny, Joker, KIWI",
+    "_kassal_price": 59.9,
+    "_kassal_image_url": "https://bilder.ngdata.no/7040913336912/kmh/large.jpg",
+    "_correction_date": "2026-03-21"
   },
   "118": {
     "product_code": "7040913336950",
@@ -3216,7 +3273,7 @@
   },
   "353": {
     "product_code": "7040913336905",
-    "product_name": "EXCELSO COLOMBIA FILTERMALT 200G JACOBS",
+    "product_name": "Excelso Colombia Filtermalt 200g Jacobs Utvalgte",
     "has_images": true,
     "image_types": [
       "back",
@@ -3225,7 +3282,12 @@
       "main",
       "right"
     ],
-    "annotation_count": 6
+    "annotation_count": 6,
+    "_kassal_confirmed_name": "Excelso Colombia Filtermalt 200g Jacobs Utvalgte",
+    "_kassal_stores": "SPAR, Meny, Joker",
+    "_kassal_price": 99.9,
+    "_kassal_image_url": "https://bilder.ngdata.no/7040913336905/kmh/large.jpg",
+    "_correction_date": "2026-03-21"
   },
   "59": {
     "product_code": "7044416017453",
@@ -3373,7 +3435,7 @@
   },
   "147": {
     "product_code": "7039410000082",
-    "product_name": "ROOIBOS TE ØKOLOGISK 20PS",
+    "product_name": "Rooibos Te Økologisk 20pos Confecta",
     "has_images": true,
     "image_types": [
       "back",
@@ -3383,7 +3445,12 @@
       "right",
       "top"
     ],
-    "annotation_count": 4
+    "annotation_count": 4,
+    "_kassal_confirmed_name": "Rooibos Fairtrade Te Økologisk 20pk",
+    "_kassal_stores": "Coop, Meny, SPAR",
+    "_kassal_price": 43.9,
+    "_kassal_image_url": "https://bilder.ngdata.no/7039410000082/meny/large.jpg",
+    "_correction_date": "2026-03-21"
   },
   "77": {
     "product_code": "7040110310807",
@@ -3509,7 +3576,7 @@
   },
   "161": {
     "product_code": "7071319034003",
-    "product_name": "HAVRERINGER 250G SYNNØVE FINDEN",
+    "product_name": "Havreringer glutenfri 250g Synnøve Finden",
     "has_images": true,
     "image_types": [
       "back",
@@ -3518,7 +3585,12 @@
       "main",
       "right"
     ],
-    "annotation_count": 3
+    "annotation_count": 3,
+    "_kassal_confirmed_name": "Havreringer glutenfri 250g Synnøve Finden",
+    "_kassal_stores": "Meny",
+    "_kassal_price": 55.9,
+    "_kassal_image_url": "https://bilder.ngdata.no/7071319034003/meny/large.jpg",
+    "_correction_date": "2026-03-21"
   },
   "346": {
     "product_code": "7300400482295",
@@ -3569,13 +3641,18 @@
   },
   "190": {
     "product_code": "7035620008542",
-    "product_name": "EARL GREY TEA ØKOLOGISK 15POS JACOBS",
+    "product_name": "Earl Grey Tea Økologisk 15pos Jacobs Utvalgte",
     "has_images": true,
     "image_types": [
       "front",
       "main"
     ],
-    "annotation_count": 2
+    "annotation_count": 2,
+    "_kassal_confirmed_name": "Earl Grey Tea Økologisk 15pos Jacobs Utvalgte",
+    "_kassal_stores": "Meny, KIWI, Joker, SPAR",
+    "_kassal_price": 43.9,
+    "_kassal_image_url": "https://bilder.ngdata.no/7035620008542/meny/large.jpg",
+    "_correction_date": "2026-03-21"
   },
   "172": {
     "product_code": "7037159628000",
@@ -3884,7 +3961,7 @@
   },
   "167": {
     "product_code": "7040913336882",
-    "product_name": "TROPISK AROMA FILTERMALT 200G JACOBS",
+    "product_name": "Tropisk Aroma Filtermalt 200g Jacobs Utvalgte",
     "has_images": true,
     "image_types": [
       "back",
@@ -3893,11 +3970,16 @@
       "main",
       "right"
     ],
-    "annotation_count": 1
+    "annotation_count": 1,
+    "_kassal_confirmed_name": "Tropisk Aroma Filtermalt 200g Jacobs Utvalgte",
+    "_kassal_stores": "Meny, SPAR",
+    "_kassal_price": 81.9,
+    "_kassal_image_url": "https://bilder.ngdata.no/7040913336882/meny/large.jpg",
+    "_correction_date": "2026-03-21"
   },
   "115": {
     "product_code": "7040913336981",
-    "product_name": "EXCELSO COLOMBIA HELE BØNNER 500G JACOBS",
+    "product_name": "Excelso Colombia Hele Bønner 500g Jacobs Utvalgte",
     "has_images": true,
     "image_types": [
       "back",
@@ -3906,7 +3988,12 @@
       "main",
       "right"
     ],
-    "annotation_count": 1
+    "annotation_count": 1,
+    "_kassal_confirmed_name": "Excelso Colombia Hele Bønner 500g Jacobs Utvalgte",
+    "_kassal_stores": "Meny, SPAR",
+    "_kassal_price": 189,
+    "_kassal_image_url": "https://bilder.ngdata.no/7040913336981/meny/large.jpg",
+    "_correction_date": "2026-03-21"
   },
   "211": {
     "product_code": "7044416009960",
@@ -4133,5 +4220,84 @@
       "main"
     ],
     "annotation_count": 1
+  },
+  "30": {
+    "product_code": "7035620045349",
+    "_kassal_confirmed_name": "Sjokoringer 375g Eldorado",
+    "_correction_date": "2026-03-21"
+  },
+  "185": {
+    "product_code": "7035620050411",
+    "_kassal_confirmed_name": "Gårdsegg Flytende 500g Eldorado",
+    "_correction_date": "2026-03-21"
+  },
+  "348": {
+    "product_code": "7040913337391",
+    "_kassal_confirmed_name": "Ali Original Hele Bønner 250g",
+    "_correction_date": "2026-03-21"
+  },
+  "144": {
+    "product_code": "7037150121012",
+    "_kassal_confirmed_name": "Friele Frokost Kokmalt 250g",
+    "_correction_date": "2026-03-21"
+  },
+  "216": {
+    "product_code": "7090032710018",
+    "_kassal_confirmed_name": "Sunnmørsegg Frittgående M/L 10stk",
+    "_correction_date": "2026-03-21"
+  },
+  "288": {
+    "product_code": "7090032710018",
+    "_note": "DUPLICATE EAN with cat#216 — same product, verify annotations",
+    "_kassal_confirmed_name": "Sunnmørsegg 10stk",
+    "_correction_date": "2026-03-21"
+  },
+  "286": {
+    "product_code": "7090007271032",
+    "_kassal_confirmed_name": "Egg L 10stk Toten",
+    "_correction_date": "2026-03-21"
+  },
+  "129": {
+    "product_code": "7090037971650",
+    "_kassal_confirmed_name": "Svarthavregryn Lettkokte 900g Den Sorte Havre",
+    "_correction_date": "2026-03-21"
+  },
+  "153": {
+    "product_code": "7037150323010",
+    "_kassal_confirmed_name": "Friele Frokost Koffeinfri Filtermalt 250g",
+    "_correction_date": "2026-03-21"
+  },
+  "6": {
+    "product_code": "7035620008429",
+    "_kassal_confirmed_name": "Egg Økologisk M/L 10stk Eldorado",
+    "_correction_date": "2026-03-21"
+  },
+  "141": {
+    "product_code": "7040913336707",
+    "_kassal_confirmed_name": "Evergood Classic Pressmalt 250g",
+    "_correction_date": "2026-03-21"
+  },
+  "341": {
+    "product_code": "7040913336776",
+    "_kassal_confirmed_name": "Evergood Classic Hele Bønner 500g",
+    "_correction_date": "2026-03-21"
+  },
+  "12": {
+    "product_code": "7312080005756",
+    "product_name": "Leksands Rutbit",
+    "_note": "MERGED into cat#236 — yellow packaging relabeled to red packaging category",
+    "_correction_date": "2026-03-21"
+  },
+  "269": {
+    "product_code": "7035620008429",
+    "product_name": "Eldorado Egg fra Toten",
+    "_note": "MERGED into cat#6 — same EAN 7035620008429",
+    "_correction_date": "2026-03-21"
+  },
+  "36": {
+    "product_code": "7310130011566",
+    "product_name": "MÜSLI FRUKT MÜSLI 750G AXA",
+    "_name_correction": "Category name said 700G but product image clearly shows 750g",
+    "_correction_date": "2026-03-21"
   }
 }
