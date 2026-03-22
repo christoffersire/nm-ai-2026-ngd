@@ -141,51 +141,54 @@ Upload zip at app.ainm.no. Max 420 MB, ≤3 weight files, ≤10 .py files.
 | v5 | 2× medium ensemble (WBF) | 0.7860 | 47.6s | Marginal gain |
 | v7 | YOLO11x (TTA flip) | 0.9019 | 36.9s | Improved aug, 200ep |
 | v8 | YOLO11x + classifier | 0.8978 | — | Classifier hurt |
-| **v13** | **Ensemble v3-1280 + v3-1536** | **0.9127** | **70.2s** | **Best — 10 manual fixes, 300ep** |
+| v13 | Ensemble v3-1280 + v3-1536 | 0.9127 | 70.2s | Previous best — 10 manual fixes, 300ep |
 | v14a | v4 ensemble (1488 removed, 150ep) | 0.8899 | 70.8s | Removal hurt |
 | v14b | v4 + full TTA both | 0.8926 | 98.1s | Full TTA hurt |
 | v14c | 300ep 1280 + 150ep 1536 | 0.8980 | 71.6s | Still worse than v13 |
 | v14d | 300ep both (cleaned data) | 0.8848 | 68.9s | Worst — removal hurt most |
 | v15a | v13 weights + full TTA both | 0.9113 | 95.8s | Full TTA hurt by -0.0014 |
-| v16 | v16-1280 + v3-1536 (conf=0.01) | 0.9117 | 73.3s | Lower conf hurt |
-| v16b | v16-1280 + v3-1536 (conf=0.05) | 0.9119 | 69.4s | 61 unknown relabels didn't help |
+| v16 | v16-1280 + **v13**-1536 (conf=0.01) | 0.9117 | 73.3s | Mismatched ensemble — models trained on different data |
+| v16b | v16-1280 + **v13**-1536 (conf=0.05) | 0.9119 | 69.4s | Same mismatch — couldn't evaluate data changes fairly |
 | v13b | v13 + multi-scale TTA (1280+960) | 0.9117 | 126.6s | Multi-scale hurt by -0.0010 |
+| **v16-full** | **v16-1280 + v16-1536 (matched)** | **0.9134** | **~70s** | **New best! Both models on same v16 data** |
 
 ## Data Cleaning
 
 ### What worked
 - **10 manual label fixes** → +0.0108 (v7→v13)
+- **61 unknown_product relabels** → +0.0007 (v13→v16-full) when both models trained on same data
 - **Gemini text-reading** on product crops to identify mislabels — ~57% accuracy when text is readable
 - **Kassal.app API** cross-referencing for product verification
+- **Matched ensemble is critical** — both models MUST be trained on the same data or they disagree on relabeled annotations
 
 ### What didn't work
 - **Broad automated removal** of 1,488 annotations → -0.02 (v14 series)
 - **3-model vision verification** (Claude+GPT+Gemini crop vs reference) — 35-88% false positive rate due to packaging variants
 - **Embedding-based relabeling** — matched by visual similarity, not product identity
+- **Mismatched ensemble** — retraining only one model on new data while keeping the other on old data causes regression (v16/v16b)
 
-### Current verified fixes (for v17/v18 training)
-- 61 unknown_product relabels (manually verified via Gemini text + visual review)
-- 8 KOKMALT→FILTERMALT fixes (text-confirmed)
-- 7 CHEERIOS/CRUESLI fixes (text-confirmed)
-- 3 small high-corruption fixes (text-confirmed)
-- 1 ann 7697 revert (Galåvolden, visually confirmed)
-- Total: 80 label changes, 0 removals
+### Current verified fixes
+- 61 unknown_product relabels (in v16, proven to help with matched ensemble)
+- 8 KOKMALT→FILTERMALT fixes (text-confirmed, in v17)
+- 7 CHEERIOS/CRUESLI fixes (text-confirmed, in v17)
+- 3 small high-corruption fixes (text-confirmed, in v17)
+- Total: 79 label changes, 0 removals
 
-### Key lesson
+### Key lessons
 - Removing annotations HURTS — even if they're wrong, the model needs the bounding box data
 - Only RELABEL with explicit text evidence — no visual-similarity guessing
 - Packaging variants cause massive false positives in automated verification
+- **Both ensemble models must be trained on identical data** — mismatched training masks real improvements
 - Small categories with high corruption rates (2-8 anns, 100% corrupt) are highest impact
 
 ## Key Findings
 
 - **Training recipe**: `close_mosaic=15`, `degrees=5`, `shear=2`, 300 epochs → +0.116 on leaderboard
-- **Data quality is the biggest lever**: 10 manual fixes → +0.0108
+- **Data quality is the biggest lever**: 10 manual fixes → +0.0108, 61 relabels → +0.0007
+- **Matched ensemble is essential**: mismatched data between models causes regression even when data changes are correct
 - **Removing data is worse than keeping wrong labels** — v14 proved this conclusively
 - **Full TTA on both models hurts** by -0.0014 (v15a confirmed)
 - **Multi-scale TTA (1280+960) hurts** by -0.0010 (v13b confirmed)
-- **conf=0.01 vs 0.05**: slight negative impact on public score
-- **Unknown product relabeling (61 fixes) didn't help** — v16b scored 0.9119 vs v13's 0.9127
 - **Copy-paste augmentation hurts** on dense shelf images
 - **Classifier stage hurts** — detector's own classification is better
 - **ONNX required** — sandbox ultralytics 8.1.0 can't load newer .pt files
