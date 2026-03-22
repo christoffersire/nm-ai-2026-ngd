@@ -1,0 +1,10 @@
+# Store HTML-gallerier (regenereres med skriptene)
+*.html
+# Cached bilder
+kassal_images/
+off_images/
+# CLIP-cache
+clip_embeddings.pt
+# Store JSON-cacher
+off_cache.json
+hash_cache.json

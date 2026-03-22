@@ -1,0 +1,7 @@
+category_id,category_name,annotation_count,problem_type,source,suggested_ean,suggested_name,name_sim,visual_sim,confidence,target_cat_id,kassal_url,notes
+59,MÜSLI BLÅBÆR 630G AXA,8,discontinued,visual_hash,,Økologiske Egg 10stk,0.195,0.836,high,138,,
+59,MÜSLI BLÅBÆR 630G AXA,8,discontinued,visual_hash,7035620050688,GÅRDSEGG M/L 12STK ELDORADO,0.167,0.793,medium,283,,
+59,MÜSLI BLÅBÆR 630G AXA,8,discontinued,visual_hash,7039610005887,EGG ØKOLOGISK M/L/XL 6STK PRIOR,0.231,0.793,medium,232,,
+170,MÜSLI ENERGI 650G AXA,8,discontinued,visual_hash,7039610005887,EGG ØKOLOGISK M/L/XL 6STK PRIOR,0.231,0.816,high,232,,
+170,MÜSLI ENERGI 650G AXA,8,discontinued,visual_hash,7310130011566,MÜSLI FRUKT MÜSLI 700G AXA,0.638,0.805,high,36,,
+170,MÜSLI ENERGI 650G AXA,8,discontinued,visual_hash,7300400115636,KNEKKEBRØD RUNDA KANEL 330G WASA,0.34,0.805,high,39,,
