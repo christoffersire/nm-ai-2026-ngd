@@ -1,0 +1,50 @@
+[
+  {
+    "ann_id": 1085,
+    "old_cat": 304,
+    "new_cat": 100,
+    "source": "KOKMALT\u2192FILTERMALT text-confirmed"
+  },
+  {
+    "ann_id": 1117,
+    "old_cat": 304,
+    "new_cat": 100,
+    "source": "KOKMALT\u2192FILTERMALT text-confirmed"
+  },
+  {
+    "ann_id": 1136,
+    "old_cat": 304,
+    "new_cat": 100,
+    "source": "KOKMALT\u2192FILTERMALT text-confirmed"
+  },
+  {
+    "ann_id": 2327,
+    "old_cat": 304,
+    "new_cat": 100,
+    "source": "KOKMALT\u2192FILTERMALT text-confirmed"
+  },
+  {
+    "ann_id": 5008,
+    "old_cat": 304,
+    "new_cat": 100,
+    "source": "KOKMALT\u2192FILTERMALT text-confirmed"
+  },
+  {
+    "ann_id": 6295,
+    "old_cat": 304,
+    "new_cat": 100,
+    "source": "KOKMALT\u2192FILTERMALT text-confirmed"
+  },
+  {
+    "ann_id": 6516,
+    "old_cat": 304,
+    "new_cat": 100,
+    "source": "KOKMALT\u2192FILTERMALT text-confirmed"
+  },
+  {
+    "ann_id": 7100,
+    "old_cat": 304,
+    "new_cat": 100,
+    "source": "KOKMALT\u2192FILTERMALT text-confirmed"
+  }
+]

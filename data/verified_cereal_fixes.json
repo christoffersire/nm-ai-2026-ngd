@@ -1,0 +1,44 @@
+[
+  {
+    "ann_id": 10269,
+    "old_cat": 97,
+    "new_cat": 181,
+    "source": "CHEERIOS MULTI\u2192HAVRE text-confirmed"
+  },
+  {
+    "ann_id": 11136,
+    "old_cat": 97,
+    "new_cat": 181,
+    "source": "CHEERIOS MULTI\u2192HAVRE text-confirmed"
+  },
+  {
+    "ann_id": 16425,
+    "old_cat": 97,
+    "new_cat": 181,
+    "source": "CHEERIOS MULTI\u2192HAVRE text-confirmed"
+  },
+  {
+    "ann_id": 11398,
+    "old_cat": 181,
+    "new_cat": 97,
+    "source": "CHEERIOS HAVRE\u2192MULTI text-confirmed"
+  },
+  {
+    "ann_id": 11399,
+    "old_cat": 181,
+    "new_cat": 97,
+    "source": "CHEERIOS HAVRE\u2192MULTI text-confirmed"
+  },
+  {
+    "ann_id": 12134,
+    "old_cat": 181,
+    "new_cat": 97,
+    "source": "CHEERIOS HAVRE\u2192MULTI text-confirmed"
+  },
+  {
+    "ann_id": 11755,
+    "old_cat": 194,
+    "new_cat": 75,
+    "source": "CRUESLI SOLFROKOST\u21924NUTS text-confirmed"
+  }
+]

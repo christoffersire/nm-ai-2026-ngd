@@ -1,0 +1,6232 @@
+{
+  "results": [
+    {
+      "text_found": "{\"text",
+      "confidence": "low",
+      "ann_id": 10199,
+      "current_cat": 75
+    },
+    {
+      "text_found": "{\"text_",
+      "confidence": "low",
+      "ann_id": 10200,
+      "current_cat": 75
+    },
+    {
+      "text_found": "{\"text",
+      "confidence": "low",
+      "ann_id": 10201,
+      "current_cat": 194
+    },
+    {
+      "text_found": "Solfrokost",
+      "product": "Cruesli",
+      "confidence": "high",
+      "ann_id": 10202,
+      "current_cat": 194
+    },
+    {
+      "text_found": "{\"text_",
+      "confidence": "low",
+      "ann_id": 10203,
+      "current_cat": 194
+    },
+    {
+      "text_found": "{\n  \"",
+      "confidence": "low",
+      "ann_id": 10219,
+      "current_cat": 268
+    },
+    {
+      "text_found": "{\"text_found\":",
+      "confidence": "low",
+      "ann_id": 10220,
+      "current_cat": 268
+    },
+    {
+      "text_found": "SKOGSBÆR",
+      "product": "SUPERGRØT",
+      "confidence": "high",
+      "ann_id": 10221,
+      "current_cat": 186
+    },
+    {
+      "text_found": "SKOGSBÆR",
+      "product": "SUPERGRØT",
+      "confidence": "high",
+      "ann_id": 10222,
+      "current_cat": 186
+    },
+    {
+      "text_found": "{\"text_",
+      "confidence": "low",
+      "ann_id": 10223,
+      "current_cat": 186
+    },
+    {
+      "text_found": "{\"text_found",
+      "confidence": "low",
+      "ann_id": 10224,
+      "current_cat": 186
+    },
+    {
+      "text_found": "{\"text_",
+      "confidence": "low",
+      "ann_id": 10235,
+      "current_cat": 181
+    },
+    {
+      "text_found": "{\"text_found",
+      "confidence": "low",
+      "ann_id": 10236,
+      "current_cat": 181
+    },
+    {
+      "text_found": "{\"text_",
+      "confidence": "low",
+      "ann_id": 10237,
+      "current_cat": 181
+    },
+    {
+      "text_found": "{\"text_found\":",
+      "confidence": "low",
+      "ann_id": 10256,
+      "current_cat": 268
+    },
+    {
+      "text_found": "{\"text",
+      "confidence": "low",
+      "ann_id": 10257,
+      "current_cat": 268
+    },
+    {
+      "text_found": "{\"text_found\":",
+      "confidence": "low",
+      "ann_id": 10258,
+      "current_cat": 268
+    },
+    {
+      "text_found": "Solfrokost",
+      "product": "Cruesli",
+      "confidence": "high",
+      "ann_id": 10259,
+      "current_cat": 194
+    },
+    {
+      "text_found": "{\"text_",
+      "confidence": "low",
+      "ann_id": 10260,
+      "current_cat": 194
+    },
+    {
+      "text_found": "{\"text_found\": \"",
+      "confidence": "low",
+      "ann_id": 10261,
+      "current_cat": 75
+    },
+    {
+      "text_found": "{\"text_found\": \"4 NUTS\", \"product\":",
+      "confidence": "low",
+      "ann_id": 10262,
+      "current_cat": 75
+    },
+    {
+      "text_found": "Havre - Kaura",
+      "product": "Cheerios",
+      "confidence": "high",
+      "ann_id": 10269,
+      "current_cat": 97
+    },
+    {
+      "text_found": "{\"text_found\": \"Havre - Kaura\", \"product\": \"",
+      "confidence": "low",
+      "ann_id": 10270,
+      "current_cat": 97
+    },
+    {
+      "text_found": "MULTIGRAIN",
+      "product": "Cheerios",
+      "confidence": "high",
+      "ann_id": 10271,
+      "current_cat": 97
+    },
+    {
+      "text_found": "{\"text_found\": \"Multigrain\", \"product\": \"Cheer",
+      "confidence": "low",
+      "ann_id": 10272,
+      "current_cat": 97
+    },
+    {
+      "text_found": "{",
+      "confidence": "low",
+      "ann_id": 10300,
+      "current_cat": 75
+    },
+    {
+      "text_found": "{\"text_found\": \"4 N",
+      "confidence": "low",
+      "ann_id": 10309,
+      "current_cat": 75
+    },
+    {
+      "text_found": "{\"text_found",
+      "confidence": "low",
+      "ann_id": 10310,
+      "current_cat": 75
+    },
+    {
+      "text_found": "{\"text_found\":",
+      "confidence": "low",
+      "ann_id": 10346,
+      "current_cat": 181
+    },
+    {
+      "text_found": "Havre-Kaura",
+      "product": "Cheerios",
+      "confidence": "high",
+      "ann_id": 10347,
+      "current_cat": 181
+    },
+    {
+      "text_found": "Havre-Kaura",
+      "product": "Cheerios",
+      "confidence": "high",
+      "ann_id": 10348,
+      "current_cat": 181
+    },
+    {
+      "text_found": "{\"text_found\":",
+      "confidence": "low",
+      "ann_id": 10349,
+      "current_cat": 97
+    },
+    {
+      "text_found": "{\"text_found\":",
+      "confidence": "low",
+      "ann_id": 10366,
+      "current_cat": 186
+    },
+    {
+      "text_found": "{\n  \"text",
+      "confidence": "low",
+      "ann_id": 10367,
+      "current_cat": 186
+    },
+    {
+      "text_found": "{\"text_found\":",
+      "confidence": "low",
+      "ann_id": 10368,
+      "current_cat": 186
+    },
+    {
+      "text_found": "{\"text_found",
+      "confidence": "low",
+      "ann_id": 10369,
+      "current_cat": 186
+    },
+    {
+      "text_found": "{\"text_found\":",
+      "confidence": "low",
+      "ann_id": 10370,
+      "current_cat": 268
+    },
+    {
+      "text_found": "{\"text",
+      "confidence": "low",
+      "ann_id": 10371,
+      "current_cat": 268
+    },
+    {
+      "text_found": "{\n  \"text_found\": \"KANEL & PUFFET QUINOA\",\n  \"",
+      "confidence": "low",
+      "ann_id": 10373,
+      "current_cat": 268
+    },
+    {
+      "text_found": "{\n  \"",
+      "confidence": "low",
+      "ann_id": 10378,
+      "current_cat": 194
+    },
+    {
+      "text_found": "Solfrokost",
+      "product": "Cruesli",
+      "confidence": "high",
+      "ann_id": 10379,
+      "current_cat": 194
+    },
+    {
+      "text_found": "{\"text_found\":",
+      "confidence": "low",
+      "ann_id": 10380,
+      "current_cat": 194
+    },
+    {
+      "text_found": "{\"text_found\":",
+      "confidence": "low",
+      "ann_id": 10381,
+      "current_cat": 97
+    },
+    {
+      "text_found": "MULTIGRAIN",
+      "product": "Cheerios",
+      "confidence": "high",
+      "ann_id": 10382,
+      "current_cat": 97
+    },
+    {
+      "text_found": "Havre - Kaura",
+      "product": "Cheerios",
+      "confidence": "high",
+      "ann_id": 10383,
+      "current_cat": 181
+    },
+    {
+      "text_found": "{\"text_found",
+      "confidence": "low",
+      "ann_id": 10384,
+      "current_cat": 181
+    },
+    {
+      "text_found": "Havre - Kaura",
+      "product": "Cheerios",
+      "confidence": "high",
+      "ann_id": 10385,
+      "current_cat": 181
+    },
+    {
+      "text_found": "4 Nuts",
+      "product": "Cruesli",
+      "confidence": "high",
+      "ann_id": 10411,
+      "current_cat": 75
+    },
+    {
+      "text_found": "{\"text_",
+      "confidence": "low",
+      "ann_id": 10412,
+      "current_cat": 75
+    },
+    {
+      "text_found": "SOLFROKOST",
+      "product": "Cruesli",
+      "confidence": "high",
+      "ann_id": 10413,
+      "current_cat": 194
+    },
+    {
+      "text_found": "{\"text_found",
+      "confidence": "low",
+      "ann_id": 10414,
+      "current_cat": 194
+    },
+    {
+      "text_found": "{\"text_found\": \"A",
+      "confidence": "low",
+      "ann_id": 10430,
+      "current_cat": 97
+    },
+    {
+      "text_found": "{\"text_found",
+      "confidence": "low",
+      "ann_id": 10441,
+      "current_cat": 186
+    },
+    {
+      "text_found": "RÅRØRT & PURPUR",
+      "product": "SUPERGRØT",
+      "confidence": "high",
+      "ann_id": 10442,
+      "current_cat": 268
+    },
+    {
+      "text_found": "{\"text_found\": \"OVER",
+      "confidence": "low",
+      "ann_id": 10443,
+      "current_cat": 268
+    },
+    {
+      "text_found": "{\n  \"",
+      "confidence": "low",
+      "ann_id": 10471,
+      "current_cat": 75
+    },
+    {
+      "text_found": "4 NUTS",
+      "product": "Cruesli",
+      "confidence": "high",
+      "ann_id": 10472,
+      "current_cat": 75
+    },
+    {
+      "text_found": "Solfrokost",
+      "product": "Cruesli",
+      "confidence": "high",
+      "ann_id": 10473,
+      "current_cat": 194
+    },
+    {
+      "text_found": "{\"text_found\": \"Solfrokost\", \"product\": \"",
+      "confidence": "low",
+      "ann_id": 10474,
+      "current_cat": 194
+    },
+    {
+      "text_found": "{\"text",
+      "confidence": "low",
+      "ann_id": 10475,
+      "current_cat": 194
+    },
+    {
+      "text_found": "{\"text_found\":",
+      "confidence": "low",
+      "ann_id": 10504,
+      "current_cat": 181
+    },
+    {
+      "text_found": "MULTIGRAIN",
+      "product": "Cheerios",
+      "confidence": "high",
+      "ann_id": 10505,
+      "current_cat": 97
+    },
+    {
+      "text_found": "Havre - Kaura",
+      "product": "Cheerios",
+      "confidence": "high",
+      "ann_id": 10533,
+      "current_cat": 181
+    },
+    {
+      "text_found": "{\"text_found",
+      "confidence": "low",
+      "ann_id": 10534,
+      "current_cat": 181
+    },
+    {
+      "text_found": "MULTIGRAIN",
+      "product": "Cheerios",
+      "confidence": "high",
+      "ann_id": 10535,
+      "current_cat": 97
+    },
+    {
+      "text_found": "{\"text_found",
+      "confidence": "low",
+      "ann_id": 10536,
+      "current_cat": 97
+    },
+    {
+      "text_found": "MULTIGRAIN",
+      "product": "Cheerios",
+      "confidence": "high",
+      "ann_id": 10537,
+      "current_cat": 97
+    },
+    {
+      "text_found": "{\"text_found",
+      "confidence": "low",
+      "ann_id": 10586,
+      "current_cat": 75
+    },
+    {
+      "text_found": "{\"text_found",
+      "confidence": "low",
+      "ann_id": 10587,
+      "current_cat": 75
+    },
+    {
+      "text_found": "Solfrokost",
+      "product": "Cruesli",
+      "confidence": "high",
+      "ann_id": 10588,
+      "current_cat": 194
+    },
+    {
+      "text_found": "{\"text_found",
+      "confidence": "low",
+      "ann_id": 10589,
+      "current_cat": 194
+    },
+    {
+      "text_found": "SOLFROKOST",
+      "product": "Cruesli",
+      "confidence": "high",
+      "ann_id": 10590,
+      "current_cat": 194
+    },
+    {
+      "text_found": "{\"text_found\":",
+      "confidence": "low",
+      "ann_id": 10621,
+      "current_cat": 181
+    },
+    {
+      "text_found": "Haure-Kaura",
+      "product": "Cheerios",
+      "confidence": "high",
+      "ann_id": 10622,
+      "current_cat": 181
+    },
+    {
+      "text_found": "Havre/Oats",
+      "product": "Cheerios",
+      "confidence": "high",
+      "ann_id": 10623,
+      "current_cat": 181
+    },
+    {
+      "text_found": "MULTIGRAIN",
+      "product": "Cheerios",
+      "confidence": "high",
+      "ann_id": 10624,
+      "current_cat": 97
+    },
+    {
+      "text_found": "{\"text_found\": \"MULTIGRAIN\", \"product\": \"",
+      "confidence": "low",
+      "ann_id": 10625,
+      "current_cat": 97
+    },
+    {
+      "text_found": "{\"text_found\":",
+      "confidence": "low",
+      "ann_id": 10626,
+      "current_cat": 97
+    },
+    {
+      "text_found": "{\"text_found",
+      "confidence": "low",
+      "ann_id": 10648,
+      "current_cat": 75
+    },
+    {
+      "text_found": "{\"text_found",
+      "confidence": "low",
+      "ann_id": 10649,
+      "current_cat": 75
+    },
+    {
+      "text_found": "{",
+      "confidence": "low",
+      "ann_id": 10650,
+      "current_cat": 194
+    },
+    {
+      "text_found": "MULTIGRAIN",
+      "product": "Cheerios",
+      "confidence": "high",
+      "ann_id": 10653,
+      "current_cat": 97
+    },
+    {
+      "text_found": "{\n  \"text",
+      "confidence": "low",
+      "ann_id": 10665,
+      "current_cat": 97
+    },
+    {
+      "text_found": "Oat",
+      "product": "Cheerios",
+      "confidence": "high",
+      "ann_id": 10666,
+      "current_cat": 181
+    },
+    {
+      "text_found": "{\"text",
+      "confidence": "low",
+      "ann_id": 10667,
+      "current_cat": 97
+    },
+    {
+      "text_found": "{\n  \"",
+      "confidence": "low",
+      "ann_id": 10668,
+      "current_cat": 97
+    },
+    {
+      "text_found": "{\"text_found",
+      "confidence": "low",
+      "ann_id": 10752,
+      "current_cat": 181
+    },
+    {
+      "text_found": "Havre-Kaura",
+      "product": "Cheerios",
+      "confidence": "high",
+      "ann_id": 10753,
+      "current_cat": 181
+    },
+    {
+      "text_found": "MULTIGRAIN",
+      "product": "Cheerios",
+      "confidence": "high",
+      "ann_id": 10754,
+      "current_cat": 97
+    },
+    {
+      "text_found": "{\"text_found\":",
+      "confidence": "low",
+      "ann_id": 10764,
+      "current_cat": 181
+    },
+    {
+      "text_found": "{\"text_found\": \"MULTIGRAIN\", \"product\": \"Che",
+      "confidence": "low",
+      "ann_id": 10766,
+      "current_cat": 97
+    },
+    {
+      "text_found": "MULTIGRAIN",
+      "product": "Cheerios",
+      "confidence": "high",
+      "ann_id": 10767,
+      "current_cat": 97
+    },
+    {
+      "text_found": "{\"text_found\":",
+      "confidence": "low",
+      "ann_id": 10795,
+      "current_cat": 97
+    },
+    {
+      "text_found": "{",
+      "confidence": "low",
+      "ann_id": 10796,
+      "current_cat": 97
+    },
+    {
+      "text_found": "{\"text",
+      "confidence": "low",
+      "ann_id": 10797,
+      "current_cat": 181
+    },
+    {
+      "text_found": "{\"text_found",
+      "confidence": "low",
+      "ann_id": 10798,
+      "current_cat": 181
+    },
+    {
+      "text_found": "MULTIGRAIN",
+      "product": "Cheerios",
+      "confidence": "high",
+      "ann_id": 10799,
+      "current_cat": 97
+    },
+    {
+      "text_found": "{\"text_found\":",
+      "confidence": "low",
+      "ann_id": 10805,
+      "current_cat": 194
+    },
+    {
+      "text_found": "{\"text_found\": null,",
+      "confidence": "low",
+      "ann_id": 10814,
+      "current_cat": 186
+    },
+    {
+      "text_found": "{\"text_found\": null",
+      "confidence": "low",
+      "ann_id": 10816,
+      "current_cat": 194
+    },
+    {
+      "text_found": "{\"text_found\":",
+      "confidence": "low",
+      "ann_id": 10902,
+      "current_cat": 97
+    },
+    {
+      "text_found": "{\"text_found",
+      "confidence": "low",
+      "ann_id": 10903,
+      "current_cat": 194
+    },
+    {
+      "text_found": "4 Nuts/Nøtter",
+      "product": "Cruesli",
+      "confidence": "high",
+      "ann_id": 10904,
+      "current_cat": 75
+    },
+    {
+      "text_found": "KAKAO & PUFFET QUINOA",
+      "product": "SUPERGRØT",
+      "confidence": "high",
+      "ann_id": 10913,
+      "current_cat": 268
+    },
+    {
+      "text_found": "{",
+      "confidence": "low",
+      "ann_id": 10914,
+      "current_cat": 268
+    },
+    {
+      "text_found": "Havre - Kaura",
+      "product": "Cheerios",
+      "confidence": "high",
+      "ann_id": 10915,
+      "current_cat": 181
+    },
+    {
+      "text_found": "Oat",
+      "product": "Cheerios",
+      "confidence": "high",
+      "ann_id": 10916,
+      "current_cat": 181
+    },
+    {
+      "text_found": "MULTIGRAIN",
+      "product": "Cheerios",
+      "confidence": "high",
+      "ann_id": 10917,
+      "current_cat": 97
+    },
+    {
+      "text_found": "{\"text_found\": \"",
+      "confidence": "low",
+      "ann_id": 10972,
+      "current_cat": 181
+    },
+    {
+      "text_found": "Havre & Honning",
+      "product": "Cheerios",
+      "confidence": "high",
+      "ann_id": 10973,
+      "current_cat": 181
+    },
+    {
+      "text_found": "MULTIGRAIN",
+      "product": "Cheerios",
+      "confidence": "high",
+      "ann_id": 11007,
+      "current_cat": 97
+    },
+    {
+      "text_found": "{\n  \"text_found\": \"MULTIGRAIN\",\n  \"product\": \"Cheerios\",\n  \"",
+      "confidence": "low",
+      "ann_id": 11008,
+      "current_cat": 97
+    },
+    {
+      "text_found": "MULTIGRAIN",
+      "product": "Cheerios",
+      "confidence": "high",
+      "ann_id": 11009,
+      "current_cat": 97
+    },
+    {
+      "text_found": "{\"text",
+      "confidence": "low",
+      "ann_id": 11014,
+      "current_cat": 75
+    },
+    {
+      "text_found": "{\"text_found\":",
+      "confidence": "low",
+      "ann_id": 11015,
+      "current_cat": 194
+    },
+    {
+      "text_found": "{\"text_found\": \"4",
+      "confidence": "low",
+      "ann_id": 11016,
+      "current_cat": 194
+    },
+    {
+      "text_found": "{\"text_found\":",
+      "confidence": "low",
+      "ann_id": 11017,
+      "current_cat": 194
+    },
+    {
+      "text_found": "{\"text_found",
+      "confidence": "low",
+      "ann_id": 11021,
+      "current_cat": 186
+    },
+    {
+      "text_found": "{\"text_found\":",
+      "confidence": "low",
+      "ann_id": 11022,
+      "current_cat": 186
+    },
+    {
+      "text_found": "{\"text_",
+      "confidence": "low",
+      "ann_id": 11023,
+      "current_cat": 186
+    },
+    {
+      "text_found": "{\n  \"text",
+      "confidence": "low",
+      "ann_id": 11024,
+      "current_cat": 186
+    },
+    {
+      "text_found": "{",
+      "confidence": "low",
+      "ann_id": 11025,
+      "current_cat": 186
+    },
+    {
+      "text_found": "{\"text_found",
+      "confidence": "low",
+      "ann_id": 11054,
+      "current_cat": 194
+    },
+    {
+      "text_found": "{\"text_found\":",
+      "confidence": "low",
+      "ann_id": 11074,
+      "current_cat": 181
+    },
+    {
+      "text_found": "{\"text_",
+      "confidence": "low",
+      "ann_id": 11075,
+      "current_cat": 181
+    },
+    {
+      "text_found": "Original",
+      "product": "Weetabix",
+      "confidence": "high",
+      "ann_id": 11076,
+      "current_cat": 181
+    },
+    {
+      "text_found": "{\n  \"text_found\": \"MULTIGRAIN\",\n  \"product\": \"Cheerios\",",
+      "confidence": "low",
+      "ann_id": 11091,
+      "current_cat": 181
+    },
+    {
+      "text_found": "Oat",
+      "product": "Cheerios",
+      "confidence": "high",
+      "ann_id": 11092,
+      "current_cat": 97
+    },
+    {
+      "text_found": "Oat",
+      "product": "Cheerios",
+      "confidence": "high",
+      "ann_id": 11093,
+      "current_cat": 181
+    },
+    {
+      "text_found": "{\"text_found\":",
+      "confidence": "low",
+      "ann_id": 11107,
+      "current_cat": 75
+    },
+    {
+      "text_found": "4 NUTS",
+      "product": "Cruesli",
+      "confidence": "high",
+      "ann_id": 11108,
+      "current_cat": 75
+    },
+    {
+      "text_found": "SOLFROKOST",
+      "product": "Cruesli",
+      "confidence": "high",
+      "ann_id": 11109,
+      "current_cat": 194
+    },
+    {
+      "text_found": "Hasselnött",
+      "product": "Müsli",
+      "confidence": "high",
+      "ann_id": 11111,
+      "current_cat": 194
+    },
+    {
+      "text_found": "{\"text_found",
+      "confidence": "low",
+      "ann_id": 11134,
+      "current_cat": 181
+    },
+    {
+      "text_found": "Havre - Kaura",
+      "product": "Cheerios",
+      "confidence": "high",
+      "ann_id": 11135,
+      "current_cat": 181
+    },
+    {
+      "text_found": "Havre - Kaura",
+      "product": "Cheerios",
+      "confidence": "high",
+      "ann_id": 11136,
+      "current_cat": 97
+    },
+    {
+      "text_found": "MULTIGRAIN",
+      "product": "Cheerios",
+      "confidence": "high",
+      "ann_id": 11137,
+      "current_cat": 97
+    },
+    {
+      "text_found": "MULTIGRAIN",
+      "product": "Cheerios",
+      "confidence": "high",
+      "ann_id": 11138,
+      "current_cat": 97
+    },
+    {
+      "text_found": "MULTIGRAIN",
+      "product": "Cheerios",
+      "confidence": "high",
+      "ann_id": 11139,
+      "current_cat": 97
+    },
+    {
+      "text_found": "{\"text_found\":",
+      "confidence": "low",
+      "ann_id": 11151,
+      "current_cat": 75
+    },
+    {
+      "text_found": "{\"text_found",
+      "confidence": "low",
+      "ann_id": 11169,
+      "current_cat": 268
+    },
+    {
+      "text_found": "{\"text_found\":",
+      "confidence": "low",
+      "ann_id": 11170,
+      "current_cat": 268
+    },
+    {
+      "text_found": "{\"text_found\":",
+      "confidence": "low",
+      "ann_id": 11171,
+      "current_cat": 186
+    },
+    {
+      "text_found": "{",
+      "confidence": "low",
+      "ann_id": 11172,
+      "current_cat": 186
+    },
+    {
+      "text_found": "{",
+      "confidence": "low",
+      "ann_id": 11173,
+      "current_cat": 186
+    },
+    {
+      "text_found": "{\"text",
+      "confidence": "low",
+      "ann_id": 11174,
+      "current_cat": 268
+    },
+    {
+      "text_found": "{\"text_found\":",
+      "confidence": "low",
+      "ann_id": 11175,
+      "current_cat": 268
+    },
+    {
+      "text_found": "{\"text_",
+      "confidence": "low",
+      "ann_id": 11176,
+      "current_cat": 268
+    },
+    {
+      "text_found": "Solfrokost",
+      "product": "Cruesli",
+      "confidence": "high",
+      "ann_id": 11236,
+      "current_cat": 194
+    },
+    {
+      "text_found": "{\"text_found\":",
+      "confidence": "low",
+      "ann_id": 11237,
+      "current_cat": 75
+    },
+    {
+      "text_found": "{\"text_found\": \"Havre - Kaura\", \"product\": \"",
+      "confidence": "low",
+      "ann_id": 11245,
+      "current_cat": 181
+    },
+    {
+      "text_found": "Havre - Kaura",
+      "product": "Cheerios",
+      "confidence": "high",
+      "ann_id": 11246,
+      "current_cat": 181
+    },
+    {
+      "text_found": "MULTIGRAIN",
+      "product": "Cheerios",
+      "confidence": "high",
+      "ann_id": 11247,
+      "current_cat": 97
+    },
+    {
+      "text_found": "MULTIGRAIN",
+      "product": "Cheerios",
+      "confidence": "high",
+      "ann_id": 11248,
+      "current_cat": 97
+    },
+    {
+      "text_found": "4 NØTTER",
+      "product": "Cruesli",
+      "confidence": "high",
+      "ann_id": 11270,
+      "current_cat": 75
+    },
+    {
+      "text_found": "{\"text",
+      "confidence": "low",
+      "ann_id": 11271,
+      "current_cat": 75
+    },
+    {
+      "text_found": "not visible",
+      "product": "Cruesli",
+      "confidence": "high",
+      "ann_id": 11272,
+      "current_cat": 75
+    },
+    {
+      "text_found": "{\"text",
+      "confidence": "low",
+      "ann_id": 11273,
+      "current_cat": 194
+    },
+    {
+      "text_found": "{\"text_found\":",
+      "confidence": "low",
+      "ann_id": 11274,
+      "current_cat": 194
+    },
+    {
+      "text_found": "Oat",
+      "product": "Cheerios",
+      "confidence": "high",
+      "ann_id": 11294,
+      "current_cat": 181
+    },
+    {
+      "text_found": "Oat",
+      "product": "Cheerios",
+      "confidence": "high",
+      "ann_id": 11295,
+      "current_cat": 181
+    },
+    {
+      "text_found": "Oat",
+      "product": "Cheerios",
+      "confidence": "high",
+      "ann_id": 11296,
+      "current_cat": 181
+    },
+    {
+      "text_found": "{\n  \"text_found\": \"MULTIGRAIN\",\n  \"product\": \"Cheerios\",\n  \"confidence",
+      "confidence": "low",
+      "ann_id": 11297,
+      "current_cat": 97
+    },
+    {
+      "text_found": "MULTIGRAIN",
+      "product": "Cheerios",
+      "confidence": "high",
+      "ann_id": 11298,
+      "current_cat": 97
+    },
+    {
+      "text_found": "MULTIGRAIN",
+      "product": "Cheerios",
+      "confidence": "high",
+      "ann_id": 11299,
+      "current_cat": 97
+    },
+    {
+      "text_found": "{\"text_found\":",
+      "confidence": "low",
+      "ann_id": 11334,
+      "current_cat": 268
+    },
+    {
+      "text_found": "{\"text_found\": \"KANEL",
+      "confidence": "low",
+      "ann_id": 11335,
+      "current_cat": 186
+    },
+    {
+      "text_found": "{\"text_found\":",
+      "confidence": "low",
+      "ann_id": 11336,
+      "current_cat": 186
+    },
+    {
+      "text_found": "{\"text_found\":",
+      "confidence": "low",
+      "ann_id": 11337,
+      "current_cat": 268
+    },
+    {
+      "text_found": "{\n  \"text",
+      "confidence": "low",
+      "ann_id": 11338,
+      "current_cat": 268
+    },
+    {
+      "text_found": "{\"text_",
+      "confidence": "low",
+      "ann_id": 11339,
+      "current_cat": 186
+    },
+    {
+      "text_found": "{\"text_found\": \"4 N",
+      "confidence": "low",
+      "ann_id": 11346,
+      "current_cat": 75
+    },
+    {
+      "text_found": "{\n  \"",
+      "confidence": "low",
+      "ann_id": 11347,
+      "current_cat": 75
+    },
+    {
+      "text_found": "{\"text_found",
+      "confidence": "low",
+      "ann_id": 11348,
+      "current_cat": 75
+    },
+    {
+      "text_found": "{\"text_",
+      "confidence": "low",
+      "ann_id": 11349,
+      "current_cat": 194
+    },
+    {
+      "text_found": "{\"text",
+      "confidence": "low",
+      "ann_id": 11350,
+      "current_cat": 194
+    },
+    {
+      "text_found": "{\"text_found\": \"",
+      "confidence": "low",
+      "ann_id": 11351,
+      "current_cat": 194
+    },
+    {
+      "text_found": "{\n  \"text_found\": \"MULTIGRAIN\",\n  \"product",
+      "confidence": "low",
+      "ann_id": 11397,
+      "current_cat": 97
+    },
+    {
+      "text_found": "MULTIGRAIN",
+      "product": "Cheerios",
+      "confidence": "high",
+      "ann_id": 11398,
+      "current_cat": 181
+    },
+    {
+      "text_found": "MULTIGRAIN",
+      "product": "Cheerios",
+      "confidence": "high",
+      "ann_id": 11399,
+      "current_cat": 181
+    },
+    {
+      "text_found": "Havre - Kaura",
+      "product": "Cheerios",
+      "confidence": "high",
+      "ann_id": 11400,
+      "current_cat": 181
+    },
+    {
+      "text_found": "{\"text_found\": \"Oat\", \"product",
+      "confidence": "low",
+      "ann_id": 11401,
+      "current_cat": 181
+    },
+    {
+      "text_found": "Oat",
+      "product": "Cheerios",
+      "confidence": "high",
+      "ann_id": 11402,
+      "current_cat": 97
+    },
+    {
+      "text_found": "SKOGSBÆR",
+      "product": "SUPERGRØT",
+      "confidence": "high",
+      "ann_id": 11406,
+      "current_cat": 186
+    },
+    {
+      "text_found": "{\"text_found\":",
+      "confidence": "low",
+      "ann_id": 11407,
+      "current_cat": 186
+    },
+    {
+      "text_found": "SKOGSBÆR",
+      "product": "SUPERGRØT",
+      "confidence": "high",
+      "ann_id": 11408,
+      "current_cat": 186
+    },
+    {
+      "text_found": "SKOGSBÆR",
+      "product": "SUPERGRØT",
+      "confidence": "high",
+      "ann_id": 11409,
+      "current_cat": 186
+    },
+    {
+      "text_found": "{\n  \"text_found\": \"KANEL &",
+      "confidence": "low",
+      "ann_id": 11414,
+      "current_cat": 268
+    },
+    {
+      "text_found": "KANEL & PUFFET QUINOA",
+      "product": "SUPERGRØT",
+      "confidence": "high",
+      "ann_id": 11415,
+      "current_cat": 268
+    },
+    {
+      "text_found": "{\n  \"text_found\": \"KANEL & PUFFET QUINO",
+      "confidence": "low",
+      "ann_id": 11416,
+      "current_cat": 268
+    },
+    {
+      "text_found": "{\n  \"text",
+      "confidence": "low",
+      "ann_id": 11417,
+      "current_cat": 268
+    },
+    {
+      "text_found": "{\"text_found\":",
+      "confidence": "low",
+      "ann_id": 11418,
+      "current_cat": 194
+    },
+    {
+      "text_found": "{\"text",
+      "confidence": "low",
+      "ann_id": 11419,
+      "current_cat": 194
+    },
+    {
+      "text_found": "Solfrokost",
+      "product": "Cruesli",
+      "confidence": "high",
+      "ann_id": 11420,
+      "current_cat": 194
+    },
+    {
+      "text_found": "4 Nuts",
+      "product": "Cruesli",
+      "confidence": "high",
+      "ann_id": 11421,
+      "current_cat": 75
+    },
+    {
+      "text_found": "{\"text",
+      "confidence": "low",
+      "ann_id": 11422,
+      "current_cat": 75
+    },
+    {
+      "text_found": "{\"text",
+      "confidence": "low",
+      "ann_id": 11423,
+      "current_cat": 75
+    },
+    {
+      "text_found": "{\"text_",
+      "confidence": "low",
+      "ann_id": 11428,
+      "current_cat": 194
+    },
+    {
+      "text_found": "{\"text_found\": \"KANEL & PUFFET QUINOA\", \"product\": \"SUPERGRØT\", \"confidence\": \"",
+      "confidence": "low",
+      "ann_id": 11452,
+      "current_cat": 268
+    },
+    {
+      "text_found": "{\"text_found\":",
+      "confidence": "low",
+      "ann_id": 11453,
+      "current_cat": 268
+    },
+    {
+      "text_found": "{\"text_found\": \"KANEL & PUFFET QUINOA\", \"product\": \"SUPERGRØT\", \"confidence",
+      "confidence": "low",
+      "ann_id": 11454,
+      "current_cat": 268
+    },
+    {
+      "text_found": "KANEL & PUFFET QUINOA",
+      "product": "SUPERGRØT",
+      "confidence": "high",
+      "ann_id": 11455,
+      "current_cat": 268
+    },
+    {
+      "text_found": "{",
+      "confidence": "low",
+      "ann_id": 11456,
+      "current_cat": 268
+    },
+    {
+      "text_found": "MULTIGRAIN",
+      "product": "Cheerios",
+      "confidence": "high",
+      "ann_id": 11474,
+      "current_cat": 97
+    },
+    {
+      "text_found": "MULTIGRAIN",
+      "product": "Cheerios",
+      "confidence": "high",
+      "ann_id": 11475,
+      "current_cat": 97
+    },
+    {
+      "text_found": "Havre-Kaura",
+      "product": "Cheerios",
+      "confidence": "high",
+      "ann_id": 11476,
+      "current_cat": 181
+    },
+    {
+      "text_found": "{\"text_found\": \"Oat\", \"product\": \"Cheerios\", \"confidence",
+      "confidence": "low",
+      "ann_id": 11477,
+      "current_cat": 181
+    },
+    {
+      "text_found": "Oat",
+      "product": "Cheerios",
+      "confidence": "high",
+      "ann_id": 11478,
+      "current_cat": 181
+    },
+    {
+      "text_found": "KANEL & PUFFET QUINOA",
+      "product": "SUPERGRØT",
+      "confidence": "high",
+      "ann_id": 11479,
+      "current_cat": 268
+    },
+    {
+      "text_found": "SKOGSBÆR",
+      "product": "SUPERGRØT",
+      "confidence": "high",
+      "ann_id": 11497,
+      "current_cat": 186
+    },
+    {
+      "text_found": "{\"text_found",
+      "confidence": "low",
+      "ann_id": 11498,
+      "current_cat": 186
+    },
+    {
+      "text_found": "{\"text_found\":",
+      "confidence": "low",
+      "ann_id": 11499,
+      "current_cat": 186
+    },
+    {
+      "text_found": "{\"text",
+      "confidence": "low",
+      "ann_id": 11500,
+      "current_cat": 186
+    },
+    {
+      "text_found": "{\"text_found\":",
+      "confidence": "low",
+      "ann_id": 11501,
+      "current_cat": 186
+    },
+    {
+      "text_found": "4 NUTS",
+      "product": "Cruesli",
+      "confidence": "high",
+      "ann_id": 11563,
+      "current_cat": 75
+    },
+    {
+      "text_found": "Solfrokost",
+      "product": "Cruesli",
+      "confidence": "high",
+      "ann_id": 11564,
+      "current_cat": 194
+    },
+    {
+      "text_found": "{\n  \"text_found\": \"SOLFROKOST\",\n  \"",
+      "confidence": "low",
+      "ann_id": 11565,
+      "current_cat": 194
+    },
+    {
+      "text_found": "MULTIGRAIN",
+      "product": "Cheerios",
+      "confidence": "high",
+      "ann_id": 11586,
+      "current_cat": 97
+    },
+    {
+      "text_found": "MULTIGRAIN",
+      "product": "Cheerios",
+      "confidence": "high",
+      "ann_id": 11587,
+      "current_cat": 97
+    },
+    {
+      "text_found": "MULTIGRAIN",
+      "product": "Cheerios",
+      "confidence": "high",
+      "ann_id": 11588,
+      "current_cat": 97
+    },
+    {
+      "text_found": "MULTIGRAIN",
+      "product": "Cheerios",
+      "confidence": "high",
+      "ann_id": 11589,
+      "current_cat": 97
+    },
+    {
+      "text_found": "{\"text_",
+      "confidence": "low",
+      "ann_id": 11590,
+      "current_cat": 181
+    },
+    {
+      "text_found": "Havre - Kaura",
+      "product": "Cheerios",
+      "confidence": "high",
+      "ann_id": 11591,
+      "current_cat": 181
+    },
+    {
+      "text_found": "{",
+      "confidence": "low",
+      "ann_id": 11618,
+      "current_cat": 186
+    },
+    {
+      "text_found": "{",
+      "confidence": "low",
+      "ann_id": 11619,
+      "current_cat": 186
+    },
+    {
+      "text_found": "{\"text_found\":",
+      "confidence": "low",
+      "ann_id": 11620,
+      "current_cat": 186
+    },
+    {
+      "text_found": "{\"text_found\":",
+      "confidence": "low",
+      "ann_id": 11621,
+      "current_cat": 268
+    },
+    {
+      "text_found": "{\"text_",
+      "confidence": "low",
+      "ann_id": 11622,
+      "current_cat": 268
+    },
+    {
+      "text_found": "{\"text_found\": \"Banan & Sjokolade\", \"product\": \"Supergrø",
+      "confidence": "low",
+      "ann_id": 11623,
+      "current_cat": 186
+    },
+    {
+      "text_found": "{",
+      "confidence": "low",
+      "ann_id": 11624,
+      "current_cat": 268
+    },
+    {
+      "text_found": "Havre-Kaura",
+      "product": "Cheerios",
+      "confidence": "high",
+      "ann_id": 11633,
+      "current_cat": 181
+    },
+    {
+      "text_found": "Havre-Kaura",
+      "product": "Cheerios",
+      "confidence": "high",
+      "ann_id": 11634,
+      "current_cat": 181
+    },
+    {
+      "text_found": "MULTIGRAIN",
+      "product": "Cheerios",
+      "confidence": "high",
+      "ann_id": 11640,
+      "current_cat": 97
+    },
+    {
+      "text_found": "MULTIGRAIN",
+      "product": "Cheerios",
+      "confidence": "high",
+      "ann_id": 11641,
+      "current_cat": 97
+    },
+    {
+      "text_found": "MULTIGRAIN",
+      "product": "Cheerios",
+      "confidence": "high",
+      "ann_id": 11642,
+      "current_cat": 97
+    },
+    {
+      "text_found": "4 Nuts/Nøtter",
+      "product": "Cruesli",
+      "confidence": "high",
+      "ann_id": 11755,
+      "current_cat": 194
+    },
+    {
+      "text_found": "{\"text",
+      "confidence": "low",
+      "ann_id": 11775,
+      "current_cat": 97
+    },
+    {
+      "text_found": "Oat",
+      "product": "Cheerios",
+      "confidence": "high",
+      "ann_id": 11776,
+      "current_cat": 97
+    },
+    {
+      "text_found": "{\"text_found\": \"difficult",
+      "confidence": "low",
+      "ann_id": 11781,
+      "current_cat": 268
+    },
+    {
+      "text_found": "{\"text_found\":",
+      "confidence": "low",
+      "ann_id": 11782,
+      "current_cat": 268
+    },
+    {
+      "text_found": "{\"text",
+      "confidence": "low",
+      "ann_id": 11783,
+      "current_cat": 268
+    },
+    {
+      "text_found": "{\"text_found\":",
+      "confidence": "low",
+      "ann_id": 11784,
+      "current_cat": 268
+    },
+    {
+      "text_found": "{",
+      "confidence": "low",
+      "ann_id": 11785,
+      "current_cat": 268
+    },
+    {
+      "text_found": "{\"text_found\":",
+      "confidence": "low",
+      "ann_id": 11794,
+      "current_cat": 194
+    },
+    {
+      "text_found": "{\"text_found\":",
+      "confidence": "low",
+      "ann_id": 11812,
+      "current_cat": 194
+    },
+    {
+      "text_found": "{\"text",
+      "confidence": "low",
+      "ann_id": 11813,
+      "current_cat": 75
+    },
+    {
+      "text_found": "{\"text",
+      "confidence": "low",
+      "ann_id": 11828,
+      "current_cat": 181
+    },
+    {
+      "text_found": "MULTIGRAIN",
+      "product": "Cheerios",
+      "confidence": "high",
+      "ann_id": 11829,
+      "current_cat": 97
+    },
+    {
+      "text_found": "{\"text_found\": \"",
+      "confidence": "low",
+      "ann_id": 11830,
+      "current_cat": 181
+    },
+    {
+      "text_found": "KANEL & PUFFET QUINOA",
+      "product": "SUPERGRØT",
+      "confidence": "high",
+      "ann_id": 11838,
+      "current_cat": 268
+    },
+    {
+      "text_found": "KANEL & PLOMME",
+      "product": "SUPERGRØT",
+      "confidence": "high",
+      "ann_id": 11839,
+      "current_cat": 268
+    },
+    {
+      "text_found": "Havre-Kaura",
+      "product": "Cheerios",
+      "confidence": "high",
+      "ann_id": 11913,
+      "current_cat": 181
+    },
+    {
+      "text_found": "{\"text_found",
+      "confidence": "low",
+      "ann_id": 11914,
+      "current_cat": 97
+    },
+    {
+      "text_found": "{\"text_found\":",
+      "confidence": "low",
+      "ann_id": 11961,
+      "current_cat": 75
+    },
+    {
+      "text_found": "{\"text_",
+      "confidence": "low",
+      "ann_id": 11962,
+      "current_cat": 75
+    },
+    {
+      "text_found": "Solfrokost",
+      "product": "Cruesli",
+      "confidence": "high",
+      "ann_id": 11963,
+      "current_cat": 194
+    },
+    {
+      "text_found": "Solfrokost",
+      "product": "Cruesli",
+      "confidence": "high",
+      "ann_id": 11964,
+      "current_cat": 194
+    },
+    {
+      "text_found": "MULTIGRAIN",
+      "product": "Cheerios",
+      "confidence": "high",
+      "ann_id": 11970,
+      "current_cat": 97
+    },
+    {
+      "text_found": "{\n  \"",
+      "confidence": "low",
+      "ann_id": 11971,
+      "current_cat": 97
+    },
+    {
+      "text_found": "Havre - Kaura",
+      "product": "Cheerios",
+      "confidence": "high",
+      "ann_id": 11972,
+      "current_cat": 181
+    },
+    {
+      "text_found": "{\"text_found\": \"Havre - Kaura\", \"product\": \"",
+      "confidence": "low",
+      "ann_id": 11973,
+      "current_cat": 181
+    },
+    {
+      "text_found": "KANEL & PUFFET QUINOA",
+      "product": "SUPERGRØT",
+      "confidence": "high",
+      "ann_id": 11978,
+      "current_cat": 268
+    },
+    {
+      "text_found": "{\"text",
+      "confidence": "low",
+      "ann_id": 11979,
+      "current_cat": 268
+    },
+    {
+      "text_found": "{\n  \"",
+      "confidence": "low",
+      "ann_id": 11980,
+      "current_cat": 268
+    },
+    {
+      "text_found": "KANEL & PUFFET QUINOA",
+      "product": "SUPERGRØT",
+      "confidence": "high",
+      "ann_id": 11981,
+      "current_cat": 268
+    },
+    {
+      "text_found": "{\"text_found",
+      "confidence": "low",
+      "ann_id": 11982,
+      "current_cat": 268
+    },
+    {
+      "text_found": "{",
+      "confidence": "low",
+      "ann_id": 11983,
+      "current_cat": 268
+    },
+    {
+      "text_found": "WHOLEGRAIN WHEAT AND OAT",
+      "product": "Fitness",
+      "confidence": "high",
+      "ann_id": 12016,
+      "current_cat": 181
+    },
+    {
+      "text_found": "{\"text_found\": \"WHOLEGRAIN WHEAT AND OAT\", \"product\": \"Nestle Fitness",
+      "confidence": "low",
+      "ann_id": 12017,
+      "current_cat": 181
+    },
+    {
+      "text_found": "{\"text_found\": \"4 NUTS",
+      "confidence": "low",
+      "ann_id": 12031,
+      "current_cat": 75
+    },
+    {
+      "text_found": "Havre-Kaura",
+      "product": "Cheerios",
+      "confidence": "high",
+      "ann_id": 12038,
+      "current_cat": 181
+    },
+    {
+      "text_found": "Havre - Kaura",
+      "product": "Cheerios",
+      "confidence": "high",
+      "ann_id": 12039,
+      "current_cat": 181
+    },
+    {
+      "text_found": "MULTIGRAIN",
+      "product": "Cheerios",
+      "confidence": "high",
+      "ann_id": 12040,
+      "current_cat": 97
+    },
+    {
+      "text_found": "{\"text",
+      "confidence": "low",
+      "ann_id": 12050,
+      "current_cat": 186
+    },
+    {
+      "text_found": "{\n  \"text",
+      "confidence": "low",
+      "ann_id": 12051,
+      "current_cat": 268
+    },
+    {
+      "text_found": "{\n  \"text",
+      "confidence": "low",
+      "ann_id": 12052,
+      "current_cat": 186
+    },
+    {
+      "text_found": "{\n  \"",
+      "confidence": "low",
+      "ann_id": 12053,
+      "current_cat": 186
+    },
+    {
+      "text_found": "{\"text_found\":",
+      "confidence": "low",
+      "ann_id": 12054,
+      "current_cat": 186
+    },
+    {
+      "text_found": "{\n  \"",
+      "confidence": "low",
+      "ann_id": 12059,
+      "current_cat": 194
+    },
+    {
+      "text_found": "Solfrokost",
+      "product": "Cruesli",
+      "confidence": "high",
+      "ann_id": 12060,
+      "current_cat": 194
+    },
+    {
+      "text_found": "{\"text_found",
+      "confidence": "low",
+      "ann_id": 12061,
+      "current_cat": 75
+    },
+    {
+      "text_found": "4 NUTS",
+      "product": "Cruesli",
+      "confidence": "high",
+      "ann_id": 12123,
+      "current_cat": 75
+    },
+    {
+      "text_found": "{\"text_found\": \"4 NUTS/NØTTER\", \"product\": \"Cruesli\",",
+      "confidence": "low",
+      "ann_id": 12124,
+      "current_cat": 75
+    },
+    {
+      "text_found": "Solfrokost",
+      "product": "Cruesli",
+      "confidence": "high",
+      "ann_id": 12125,
+      "current_cat": 194
+    },
+    {
+      "text_found": "{\"text_",
+      "confidence": "low",
+      "ann_id": 12126,
+      "current_cat": 194
+    },
+    {
+      "text_found": "{\"text_found\":",
+      "confidence": "low",
+      "ann_id": 12131,
+      "current_cat": 181
+    },
+    {
+      "text_found": "Havre-Ringe",
+      "product": "Cheerios",
+      "confidence": "high",
+      "ann_id": 12132,
+      "current_cat": 181
+    },
+    {
+      "text_found": "{\"text_found",
+      "confidence": "low",
+      "ann_id": 12133,
+      "current_cat": 181
+    },
+    {
+      "text_found": "MULTIGRAIN",
+      "product": "Cheerios",
+      "confidence": "high",
+      "ann_id": 12134,
+      "current_cat": 181
+    },
+    {
+      "text_found": "{\"text_found\":",
+      "confidence": "low",
+      "ann_id": 12165,
+      "current_cat": 186
+    },
+    {
+      "text_found": "{\"text_found\":",
+      "confidence": "low",
+      "ann_id": 12166,
+      "current_cat": 186
+    },
+    {
+      "text_found": "{\"text_found",
+      "confidence": "low",
+      "ann_id": 12167,
+      "current_cat": 186
+    },
+    {
+      "text_found": "{\"text",
+      "confidence": "low",
+      "ann_id": 12168,
+      "current_cat": 186
+    },
+    {
+      "text_found": "{\"text",
+      "confidence": "low",
+      "ann_id": 12169,
+      "current_cat": 268
+    },
+    {
+      "text_found": "{\"text_found",
+      "confidence": "low",
+      "ann_id": 12170,
+      "current_cat": 268
+    },
+    {
+      "text_found": "{\n  \"text",
+      "confidence": "low",
+      "ann_id": 12171,
+      "current_cat": 268
+    },
+    {
+      "text_found": "{\n  \"",
+      "confidence": "low",
+      "ann_id": 12172,
+      "current_cat": 268
+    },
+    {
+      "text_found": "{\"text_",
+      "confidence": "low",
+      "ann_id": 12173,
+      "current_cat": 268
+    },
+    {
+      "text_found": "Multigrain",
+      "product": "Cheerios",
+      "confidence": "high",
+      "ann_id": 12233,
+      "current_cat": 97
+    },
+    {
+      "text_found": "Havre - Kaura",
+      "product": "Cheerios",
+      "confidence": "high",
+      "ann_id": 12234,
+      "current_cat": 181
+    },
+    {
+      "text_found": "{\n  \"text_found\": \"Haure - Kaura\",\n  \"product\": \"Cheerios\",\n  \"confidence\": \"hig",
+      "confidence": "low",
+      "ann_id": 12235,
+      "current_cat": 181
+    },
+    {
+      "text_found": "{\"text",
+      "confidence": "low",
+      "ann_id": 12260,
+      "current_cat": 194
+    },
+    {
+      "text_found": "4 NUTS GRANOLA",
+      "product": "Cruesli",
+      "confidence": "high",
+      "ann_id": 12261,
+      "current_cat": 75
+    },
+    {
+      "text_found": "{\"text_found\":",
+      "confidence": "low",
+      "ann_id": 12382,
+      "current_cat": 181
+    },
+    {
+      "text_found": "Oat",
+      "product": "Cheerios",
+      "confidence": "high",
+      "ann_id": 12383,
+      "current_cat": 181
+    },
+    {
+      "text_found": "{\"text_",
+      "confidence": "low",
+      "ann_id": 12384,
+      "current_cat": 181
+    },
+    {
+      "text_found": "MULTIGRAIN",
+      "product": "Cheerios",
+      "confidence": "high",
+      "ann_id": 12385,
+      "current_cat": 97
+    },
+    {
+      "text_found": "MULTIGRAIN",
+      "product": "Cheerios",
+      "confidence": "high",
+      "ann_id": 12396,
+      "current_cat": 97
+    },
+    {
+      "text_found": "{",
+      "confidence": "low",
+      "ann_id": 12418,
+      "current_cat": 194
+    },
+    {
+      "text_found": "{\"text_found\":",
+      "confidence": "low",
+      "ann_id": 12419,
+      "current_cat": 75
+    },
+    {
+      "text_found": "4 NUTS GRANOLA",
+      "product": "Cruesli",
+      "confidence": "high",
+      "ann_id": 12420,
+      "current_cat": 75
+    },
+    {
+      "text_found": "Havre-Kaura",
+      "product": "Cheerios",
+      "confidence": "high",
+      "ann_id": 12449,
+      "current_cat": 181
+    },
+    {
+      "text_found": "{\"text_found\":",
+      "confidence": "low",
+      "ann_id": 12450,
+      "current_cat": 181
+    },
+    {
+      "text_found": "MULTIGRAIN",
+      "product": "Cheerios",
+      "confidence": "high",
+      "ann_id": 12452,
+      "current_cat": 97
+    },
+    {
+      "text_found": "MULTIGRAIN",
+      "product": "Cheerios",
+      "confidence": "high",
+      "ann_id": 12453,
+      "current_cat": 97
+    },
+    {
+      "text_found": "{\"text_found\":",
+      "confidence": "low",
+      "ann_id": 12477,
+      "current_cat": 268
+    },
+    {
+      "text_found": "{",
+      "confidence": "low",
+      "ann_id": 12478,
+      "current_cat": 268
+    },
+    {
+      "text_found": "{",
+      "confidence": "low",
+      "ann_id": 12479,
+      "current_cat": 268
+    },
+    {
+      "text_found": "SKOGSBÆR",
+      "product": "SUPERGRØT",
+      "confidence": "high",
+      "ann_id": 12480,
+      "current_cat": 186
+    },
+    {
+      "text_found": "{\n  \"",
+      "confidence": "low",
+      "ann_id": 12481,
+      "current_cat": 268
+    },
+    {
+      "text_found": "{\n  \"",
+      "confidence": "low",
+      "ann_id": 12482,
+      "current_cat": 268
+    },
+    {
+      "text_found": "KANEL & PUFFET QUINOA",
+      "product": "SUPERGRØT",
+      "confidence": "high",
+      "ann_id": 12483,
+      "current_cat": 268
+    },
+    {
+      "text_found": "{\"text_found",
+      "confidence": "low",
+      "ann_id": 12484,
+      "current_cat": 268
+    },
+    {
+      "text_found": "KANEL & PUFFET QUINOA",
+      "product": "SUPERGRØT",
+      "confidence": "high",
+      "ann_id": 12485,
+      "current_cat": 268
+    },
+    {
+      "text_found": "{",
+      "confidence": "low",
+      "ann_id": 12486,
+      "current_cat": 268
+    },
+    {
+      "text_found": "{\"text_found",
+      "confidence": "low",
+      "ann_id": 12487,
+      "current_cat": 186
+    },
+    {
+      "text_found": "{\n  \"",
+      "confidence": "low",
+      "ann_id": 12640,
+      "current_cat": 75
+    },
+    {
+      "text_found": "{\"text_",
+      "confidence": "low",
+      "ann_id": 12641,
+      "current_cat": 194
+    },
+    {
+      "text_found": "{\"text_found\": \"Solsikke & Ros",
+      "confidence": "low",
+      "ann_id": 12642,
+      "current_cat": 194
+    },
+    {
+      "text_found": "{\"text_found\": \"MULT",
+      "confidence": "low",
+      "ann_id": 12663,
+      "current_cat": 97
+    },
+    {
+      "text_found": "MULTIGRAIN",
+      "product": "Cheerios",
+      "confidence": "high",
+      "ann_id": 12664,
+      "current_cat": 97
+    },
+    {
+      "text_found": "MULTIGRAIN",
+      "product": "Cheerios",
+      "confidence": "high",
+      "ann_id": 12665,
+      "current_cat": 97
+    },
+    {
+      "text_found": "Havre-Kaura",
+      "product": "Cheerios",
+      "confidence": "high",
+      "ann_id": 12668,
+      "current_cat": 181
+    },
+    {
+      "text_found": "Havre-Kaura",
+      "product": "Cheerios",
+      "confidence": "high",
+      "ann_id": 12669,
+      "current_cat": 181
+    },
+    {
+      "text_found": "{\"text_found\":",
+      "confidence": "low",
+      "ann_id": 12686,
+      "current_cat": 268
+    },
+    {
+      "text_found": "{\"text_found",
+      "confidence": "low",
+      "ann_id": 12687,
+      "current_cat": 186
+    },
+    {
+      "text_found": "{\"text",
+      "confidence": "low",
+      "ann_id": 12688,
+      "current_cat": 186
+    },
+    {
+      "text_found": "Havre og Blåbær",
+      "product": "Supergrøt",
+      "confidence": "high",
+      "ann_id": 12689,
+      "current_cat": 268
+    },
+    {
+      "text_found": "{\"text_found\":",
+      "confidence": "low",
+      "ann_id": 12690,
+      "current_cat": 268
+    },
+    {
+      "text_found": "{\n  \"",
+      "confidence": "low",
+      "ann_id": 12691,
+      "current_cat": 268
+    },
+    {
+      "text_found": "{\"text_found\":",
+      "confidence": "low",
+      "ann_id": 12692,
+      "current_cat": 268
+    },
+    {
+      "text_found": "{\"text",
+      "confidence": "low",
+      "ann_id": 12693,
+      "current_cat": 268
+    },
+    {
+      "text_found": "{\"text_found\":",
+      "confidence": "low",
+      "ann_id": 12697,
+      "current_cat": 194
+    },
+    {
+      "text_found": "MULTIGRAIN",
+      "product": "Cheerios",
+      "confidence": "high",
+      "ann_id": 12713,
+      "current_cat": 97
+    },
+    {
+      "text_found": "MULTIGRAIN",
+      "product": "Cheerios",
+      "confidence": "high",
+      "ann_id": 12714,
+      "current_cat": 97
+    },
+    {
+      "text_found": "MULTIGRAIN",
+      "product": "Cheerios",
+      "confidence": "high",
+      "ann_id": 12715,
+      "current_cat": 97
+    },
+    {
+      "text_found": "Havre - Kaura",
+      "product": "Cheerios",
+      "confidence": "high",
+      "ann_id": 12717,
+      "current_cat": 181
+    },
+    {
+      "text_found": "{\"text_found\":",
+      "confidence": "low",
+      "ann_id": 12723,
+      "current_cat": 75
+    },
+    {
+      "text_found": "{\n  \"text",
+      "confidence": "low",
+      "ann_id": 12724,
+      "current_cat": 194
+    },
+    {
+      "text_found": "MULTIGRAIN",
+      "product": "Cheerios",
+      "confidence": "high",
+      "ann_id": 12762,
+      "current_cat": 97
+    },
+    {
+      "text_found": "{\"text_found",
+      "confidence": "low",
+      "ann_id": 12763,
+      "current_cat": 181
+    },
+    {
+      "text_found": "4 NUTS",
+      "product": "Cruesli",
+      "confidence": "high",
+      "ann_id": 12766,
+      "current_cat": 75
+    },
+    {
+      "text_found": "{\"text_",
+      "confidence": "low",
+      "ann_id": 12768,
+      "current_cat": 194
+    },
+    {
+      "text_found": "{\"text_found\":",
+      "confidence": "low",
+      "ann_id": 12769,
+      "current_cat": 268
+    },
+    {
+      "text_found": "{",
+      "confidence": "low",
+      "ann_id": 12770,
+      "current_cat": 268
+    },
+    {
+      "text_found": "{\"text_found",
+      "confidence": "low",
+      "ann_id": 12780,
+      "current_cat": 194
+    },
+    {
+      "text_found": "{\"text_",
+      "confidence": "low",
+      "ann_id": 12792,
+      "current_cat": 97
+    },
+    {
+      "text_found": "KANEL & PUFFET QUINOA",
+      "product": "SUPERGRØT",
+      "confidence": "high",
+      "ann_id": 12795,
+      "current_cat": 268
+    },
+    {
+      "text_found": "{\"text_",
+      "confidence": "low",
+      "ann_id": 12796,
+      "current_cat": 268
+    },
+    {
+      "text_found": "{\"text_found\":",
+      "confidence": "low",
+      "ann_id": 12820,
+      "current_cat": 268
+    },
+    {
+      "text_found": "{\"text_found",
+      "confidence": "low",
+      "ann_id": 12834,
+      "current_cat": 181
+    },
+    {
+      "text_found": "Oat",
+      "product": "Cheerios",
+      "confidence": "high",
+      "ann_id": 12835,
+      "current_cat": 181
+    },
+    {
+      "text_found": "{\"text_found",
+      "confidence": "low",
+      "ann_id": 12836,
+      "current_cat": 97
+    },
+    {
+      "text_found": "Solfrokost",
+      "product": "Cruesli",
+      "confidence": "high",
+      "ann_id": 12839,
+      "current_cat": 194
+    },
+    {
+      "text_found": "{\"text_found\":",
+      "confidence": "low",
+      "ann_id": 12840,
+      "current_cat": 75
+    },
+    {
+      "text_found": "{\n  \"",
+      "confidence": "low",
+      "ann_id": 12965,
+      "current_cat": 75
+    },
+    {
+      "text_found": "{\n  \"text",
+      "confidence": "low",
+      "ann_id": 12966,
+      "current_cat": 75
+    },
+    {
+      "text_found": "4 NUTS/NØTTER",
+      "product": "Cruesli",
+      "confidence": "high",
+      "ann_id": 12967,
+      "current_cat": 75
+    },
+    {
+      "text_found": "{\n  \"text",
+      "confidence": "low",
+      "ann_id": 12968,
+      "current_cat": 194
+    },
+    {
+      "text_found": "{\"text_",
+      "confidence": "low",
+      "ann_id": 12969,
+      "current_cat": 194
+    },
+    {
+      "text_found": "Havre",
+      "product": "Cheerios",
+      "confidence": "high",
+      "ann_id": 13008,
+      "current_cat": 181
+    },
+    {
+      "text_found": "MULTIGRAIN",
+      "product": "Cheerios",
+      "confidence": "high",
+      "ann_id": 13009,
+      "current_cat": 97
+    },
+    {
+      "text_found": "MULTIGRAIN",
+      "product": "Cheerios",
+      "confidence": "high",
+      "ann_id": 13010,
+      "current_cat": 97
+    },
+    {
+      "text_found": "{\"text_found\": \"Haure-Ka",
+      "confidence": "low",
+      "ann_id": 13021,
+      "current_cat": 181
+    },
+    {
+      "text_found": "Havre - Kaura",
+      "product": "Cheerios",
+      "confidence": "high",
+      "ann_id": 13022,
+      "current_cat": 181
+    },
+    {
+      "text_found": "{\"text_found\": \"MULTIGRAIN\", \"product\": \"Cheerios",
+      "confidence": "low",
+      "ann_id": 13023,
+      "current_cat": 97
+    },
+    {
+      "text_found": "{",
+      "confidence": "low",
+      "ann_id": 13031,
+      "current_cat": 186
+    },
+    {
+      "text_found": "{\"text_found\": \"FR",
+      "confidence": "low",
+      "ann_id": 13032,
+      "current_cat": 186
+    },
+    {
+      "text_found": "{",
+      "confidence": "low",
+      "ann_id": 13033,
+      "current_cat": 186
+    },
+    {
+      "text_found": "{\"text_found",
+      "confidence": "low",
+      "ann_id": 13034,
+      "current_cat": 186
+    },
+    {
+      "text_found": "{\n  \"text",
+      "confidence": "low",
+      "ann_id": 13036,
+      "current_cat": 268
+    },
+    {
+      "text_found": "{\"text",
+      "confidence": "low",
+      "ann_id": 13037,
+      "current_cat": 268
+    },
+    {
+      "text_found": "{\"text",
+      "confidence": "low",
+      "ann_id": 13073,
+      "current_cat": 75
+    },
+    {
+      "text_found": "{\"text_found\": \"",
+      "confidence": "low",
+      "ann_id": 13074,
+      "current_cat": 75
+    },
+    {
+      "text_found": "{\"text",
+      "confidence": "low",
+      "ann_id": 13075,
+      "current_cat": 194
+    },
+    {
+      "text_found": "MULTIGRAIN",
+      "product": "Cheerios",
+      "confidence": "high",
+      "ann_id": 13081,
+      "current_cat": 97
+    },
+    {
+      "text_found": "MULTIGRAIN",
+      "product": "Cheerios",
+      "confidence": "high",
+      "ann_id": 13082,
+      "current_cat": 97
+    },
+    {
+      "text_found": "MULTIGRAIN",
+      "product": "Cheerios",
+      "confidence": "high",
+      "ann_id": 13083,
+      "current_cat": 97
+    },
+    {
+      "text_found": "{\"text_",
+      "confidence": "low",
+      "ann_id": 13084,
+      "current_cat": 181
+    },
+    {
+      "text_found": "{\"text_found",
+      "confidence": "low",
+      "ann_id": 13085,
+      "current_cat": 181
+    },
+    {
+      "text_found": "{\"text_",
+      "confidence": "low",
+      "ann_id": 13086,
+      "current_cat": 181
+    },
+    {
+      "text_found": "{\"text_found\": \"",
+      "confidence": "low",
+      "ann_id": 13087,
+      "current_cat": 194
+    },
+    {
+      "text_found": "{\"text_",
+      "confidence": "low",
+      "ann_id": 13088,
+      "current_cat": 194
+    },
+    {
+      "text_found": "{\"text_found\":",
+      "confidence": "low",
+      "ann_id": 13097,
+      "current_cat": 186
+    },
+    {
+      "text_found": "{\"text_found\":",
+      "confidence": "low",
+      "ann_id": 13098,
+      "current_cat": 186
+    },
+    {
+      "text_found": "{\"text",
+      "confidence": "low",
+      "ann_id": 13099,
+      "current_cat": 186
+    },
+    {
+      "text_found": "{\"text",
+      "confidence": "low",
+      "ann_id": 13100,
+      "current_cat": 186
+    },
+    {
+      "text_found": "{\"text_found\": \"un",
+      "confidence": "low",
+      "ann_id": 13101,
+      "current_cat": 186
+    },
+    {
+      "text_found": "{\"text",
+      "confidence": "low",
+      "ann_id": 13102,
+      "current_cat": 186
+    },
+    {
+      "text_found": "{\"text_found\":",
+      "confidence": "low",
+      "ann_id": 13103,
+      "current_cat": 186
+    },
+    {
+      "text_found": "{\"text_found\": \"unreadable",
+      "confidence": "low",
+      "ann_id": 13104,
+      "current_cat": 268
+    },
+    {
+      "text_found": "{\"text_found\": \"Unable",
+      "confidence": "low",
+      "ann_id": 13105,
+      "current_cat": 268
+    },
+    {
+      "text_found": "{\"text",
+      "confidence": "low",
+      "ann_id": 13106,
+      "current_cat": 268
+    },
+    {
+      "text_found": "{\"text_found\":",
+      "confidence": "low",
+      "ann_id": 13107,
+      "current_cat": 268
+    },
+    {
+      "text_found": "{\"text_found\": \"Skogs",
+      "confidence": "low",
+      "ann_id": 13108,
+      "current_cat": 268
+    },
+    {
+      "text_found": "{\"text_",
+      "confidence": "low",
+      "ann_id": 13109,
+      "current_cat": 268
+    },
+    {
+      "text_found": "{\"text_found",
+      "confidence": "low",
+      "ann_id": 13143,
+      "current_cat": 194
+    },
+    {
+      "text_found": "{",
+      "confidence": "low",
+      "ann_id": 13144,
+      "current_cat": 194
+    },
+    {
+      "text_found": "{\"text_",
+      "confidence": "low",
+      "ann_id": 13145,
+      "current_cat": 75
+    },
+    {
+      "text_found": "{\"text",
+      "confidence": "low",
+      "ann_id": 13153,
+      "current_cat": 75
+    },
+    {
+      "text_found": "{\"text_found\":",
+      "confidence": "low",
+      "ann_id": 13155,
+      "current_cat": 186
+    },
+    {
+      "text_found": "{\"text_found\":",
+      "confidence": "low",
+      "ann_id": 13156,
+      "current_cat": 186
+    },
+    {
+      "text_found": "{\"text",
+      "confidence": "low",
+      "ann_id": 13157,
+      "current_cat": 186
+    },
+    {
+      "text_found": "{\"text_",
+      "confidence": "low",
+      "ann_id": 13158,
+      "current_cat": 186
+    },
+    {
+      "text_found": "{\"text_found\": \"",
+      "confidence": "low",
+      "ann_id": 13159,
+      "current_cat": 268
+    },
+    {
+      "text_found": "{\"text_found",
+      "confidence": "low",
+      "ann_id": 13160,
+      "current_cat": 268
+    },
+    {
+      "text_found": "{\"text_",
+      "confidence": "low",
+      "ann_id": 13161,
+      "current_cat": 268
+    },
+    {
+      "text_found": "{\"text_",
+      "confidence": "low",
+      "ann_id": 13162,
+      "current_cat": 181
+    },
+    {
+      "text_found": "{\"text_found\":",
+      "confidence": "low",
+      "ann_id": 13163,
+      "current_cat": 181
+    },
+    {
+      "text_found": "MULTIGRAIN",
+      "product": "Cheerios",
+      "confidence": "high",
+      "ann_id": 13164,
+      "current_cat": 97
+    },
+    {
+      "text_found": "{",
+      "confidence": "low",
+      "ann_id": 13165,
+      "current_cat": 181
+    },
+    {
+      "text_found": "Solfrokost",
+      "product": "Cruesli",
+      "confidence": "high",
+      "ann_id": 13166,
+      "current_cat": 194
+    },
+    {
+      "text_found": "{\"text_found",
+      "confidence": "low",
+      "ann_id": 13227,
+      "current_cat": 181
+    },
+    {
+      "text_found": "{\"text_found",
+      "confidence": "low",
+      "ann_id": 13228,
+      "current_cat": 181
+    },
+    {
+      "text_found": "MULTIGRAIN",
+      "product": "Cheerios",
+      "confidence": "high",
+      "ann_id": 13229,
+      "current_cat": 97
+    },
+    {
+      "text_found": "Havre - Kaura",
+      "product": "Cheerios",
+      "confidence": "high",
+      "ann_id": 13241,
+      "current_cat": 181
+    },
+    {
+      "text_found": "MULTIGRAIN",
+      "product": "Cheerios",
+      "confidence": "high",
+      "ann_id": 13245,
+      "current_cat": 97
+    },
+    {
+      "text_found": "MULTIGRAIN",
+      "product": "Cheerios",
+      "confidence": "high",
+      "ann_id": 13246,
+      "current_cat": 97
+    },
+    {
+      "text_found": "{\"text_found\":",
+      "confidence": "low",
+      "ann_id": 13455,
+      "current_cat": 97
+    },
+    {
+      "text_found": "MULTIGRAIN",
+      "product": "Cheerios",
+      "confidence": "high",
+      "ann_id": 13456,
+      "current_cat": 97
+    },
+    {
+      "text_found": "MULTIGRAIN",
+      "product": "Cheerios",
+      "confidence": "high",
+      "ann_id": 13457,
+      "current_cat": 97
+    },
+    {
+      "text_found": "{\"text_found\":",
+      "confidence": "low",
+      "ann_id": 13458,
+      "current_cat": 181
+    },
+    {
+      "text_found": "{\"text",
+      "confidence": "low",
+      "ann_id": 13459,
+      "current_cat": 181
+    },
+    {
+      "text_found": "Oat",
+      "product": "Cheerios",
+      "confidence": "high",
+      "ann_id": 13490,
+      "current_cat": 181
+    },
+    {
+      "text_found": "{\"text_found\":",
+      "confidence": "low",
+      "ann_id": 13491,
+      "current_cat": 181
+    },
+    {
+      "text_found": "Oat",
+      "product": "Cheerios",
+      "confidence": "high",
+      "ann_id": 13492,
+      "current_cat": 181
+    },
+    {
+      "text_found": "{\"text",
+      "confidence": "low",
+      "ann_id": 13493,
+      "current_cat": 181
+    },
+    {
+      "text_found": "{\"text_found\": \"Havrekranser\", \"product\": \"Cheerios\", \"confidence",
+      "confidence": "low",
+      "ann_id": 13494,
+      "current_cat": 97
+    },
+    {
+      "text_found": "{\"text_",
+      "confidence": "low",
+      "ann_id": 13502,
+      "current_cat": 97
+    },
+    {
+      "text_found": "{\"text_",
+      "confidence": "low",
+      "ann_id": 13503,
+      "current_cat": 97
+    },
+    {
+      "text_found": "{\"text_found\":",
+      "confidence": "low",
+      "ann_id": 13504,
+      "current_cat": 97
+    },
+    {
+      "text_found": "{\"text_",
+      "confidence": "low",
+      "ann_id": 13526,
+      "current_cat": 75
+    },
+    {
+      "text_found": "Solfrokost",
+      "product": "Cruesli",
+      "confidence": "high",
+      "ann_id": 13527,
+      "current_cat": 194
+    },
+    {
+      "text_found": "Havre-Kaura",
+      "product": "Cheerios",
+      "confidence": "high",
+      "ann_id": 13544,
+      "current_cat": 181
+    },
+    {
+      "text_found": "{\"text_",
+      "confidence": "low",
+      "ann_id": 13545,
+      "current_cat": 97
+    },
+    {
+      "text_found": "{\"text_found\":",
+      "confidence": "low",
+      "ann_id": 13556,
+      "current_cat": 268
+    },
+    {
+      "text_found": "{\"text",
+      "confidence": "low",
+      "ann_id": 13557,
+      "current_cat": 268
+    },
+    {
+      "text_found": "{\"text_",
+      "confidence": "low",
+      "ann_id": 13579,
+      "current_cat": 181
+    },
+    {
+      "text_found": "MULTIGRAIN",
+      "product": "Cheerios",
+      "confidence": "high",
+      "ann_id": 13580,
+      "current_cat": 97
+    },
+    {
+      "text_found": "4 Nuts",
+      "product": "Cruesli",
+      "confidence": "high",
+      "ann_id": 13699,
+      "current_cat": 75
+    },
+    {
+      "text_found": "4 NUTS",
+      "product": "Cruesli",
+      "confidence": "high",
+      "ann_id": 13700,
+      "current_cat": 75
+    },
+    {
+      "text_found": "{",
+      "confidence": "low",
+      "ann_id": 13701,
+      "current_cat": 194
+    },
+    {
+      "text_found": "{\"text_found\":",
+      "confidence": "low",
+      "ann_id": 13702,
+      "current_cat": 194
+    },
+    {
+      "text_found": "{\"text",
+      "confidence": "low",
+      "ann_id": 13703,
+      "current_cat": 194
+    },
+    {
+      "text_found": "{",
+      "confidence": "low",
+      "ann_id": 13711,
+      "current_cat": 181
+    },
+    {
+      "text_found": "{\"text_",
+      "confidence": "low",
+      "ann_id": 13712,
+      "current_cat": 181
+    },
+    {
+      "text_found": "Havre - Kaura",
+      "product": "Cheerios",
+      "confidence": "high",
+      "ann_id": 13713,
+      "current_cat": 181
+    },
+    {
+      "text_found": "{\"text",
+      "confidence": "low",
+      "ann_id": 13714,
+      "current_cat": 97
+    },
+    {
+      "text_found": "MULTIGRAIN",
+      "product": "Cheerios",
+      "confidence": "high",
+      "ann_id": 13732,
+      "current_cat": 97
+    },
+    {
+      "text_found": "{\"text_found",
+      "confidence": "low",
+      "ann_id": 13733,
+      "current_cat": 97
+    },
+    {
+      "text_found": "{\"text_found\": \"4 NUTS\", \"product\": \"Cruesli\", \"confidence\": \"high",
+      "confidence": "low",
+      "ann_id": 13799,
+      "current_cat": 75
+    },
+    {
+      "text_found": "{\"text_found\":",
+      "confidence": "low",
+      "ann_id": 13800,
+      "current_cat": 75
+    },
+    {
+      "text_found": "{",
+      "confidence": "low",
+      "ann_id": 13801,
+      "current_cat": 75
+    },
+    {
+      "text_found": "SOLFROKOST",
+      "product": "Quaker Cruesli",
+      "confidence": "high",
+      "ann_id": 13802,
+      "current_cat": 194
+    },
+    {
+      "text_found": "{",
+      "confidence": "low",
+      "ann_id": 13803,
+      "current_cat": 194
+    },
+    {
+      "text_found": "Oat",
+      "product": "Cheerios",
+      "confidence": "high",
+      "ann_id": 13856,
+      "current_cat": 181
+    },
+    {
+      "text_found": "Oat",
+      "product": "Cheerios",
+      "confidence": "high",
+      "ann_id": 13857,
+      "current_cat": 181
+    },
+    {
+      "text_found": "Oat",
+      "product": "Cheerios",
+      "confidence": "high",
+      "ann_id": 13858,
+      "current_cat": 181
+    },
+    {
+      "text_found": "SKOGSBÆR",
+      "product": "SUPERGRØT",
+      "confidence": "high",
+      "ann_id": 13864,
+      "current_cat": 186
+    },
+    {
+      "text_found": "{\"text",
+      "confidence": "low",
+      "ann_id": 13865,
+      "current_cat": 186
+    },
+    {
+      "text_found": "{\"text_found\": \"SES",
+      "confidence": "low",
+      "ann_id": 13866,
+      "current_cat": 268
+    },
+    {
+      "text_found": "{\"text_found\":",
+      "confidence": "low",
+      "ann_id": 13867,
+      "current_cat": 268
+    },
+    {
+      "text_found": "{\"text_found\":",
+      "confidence": "low",
+      "ann_id": 13868,
+      "current_cat": 268
+    },
+    {
+      "text_found": "{\n  \"",
+      "confidence": "low",
+      "ann_id": 13869,
+      "current_cat": 268
+    },
+    {
+      "text_found": "{\"text_",
+      "confidence": "low",
+      "ann_id": 13870,
+      "current_cat": 268
+    },
+    {
+      "text_found": "Skogsbær",
+      "product": "SUPERGRØT",
+      "confidence": "high",
+      "ann_id": 13871,
+      "current_cat": 186
+    },
+    {
+      "text_found": "{\"text_found\":",
+      "confidence": "low",
+      "ann_id": 13872,
+      "current_cat": 186
+    },
+    {
+      "text_found": "MULTIGRAIN",
+      "product": "Cheerios",
+      "confidence": "high",
+      "ann_id": 13875,
+      "current_cat": 97
+    },
+    {
+      "text_found": "MULTIGRAIN",
+      "product": "Cheerios",
+      "confidence": "high",
+      "ann_id": 13876,
+      "current_cat": 97
+    },
+    {
+      "text_found": "{\"text_found\": \"Havre-Ringe\", \"product\": \"Cheerios",
+      "confidence": "low",
+      "ann_id": 13971,
+      "current_cat": 181
+    },
+    {
+      "text_found": "Havre - Kaura",
+      "product": "Cheerios",
+      "confidence": "high",
+      "ann_id": 13972,
+      "current_cat": 181
+    },
+    {
+      "text_found": "{\"text_found\":",
+      "confidence": "low",
+      "ann_id": 13973,
+      "current_cat": 181
+    },
+    {
+      "text_found": "MULTIGRAIN",
+      "product": "Cheerios",
+      "confidence": "high",
+      "ann_id": 13974,
+      "current_cat": 97
+    },
+    {
+      "text_found": "MULTIGRAIN",
+      "product": "Cheerios",
+      "confidence": "high",
+      "ann_id": 13975,
+      "current_cat": 97
+    },
+    {
+      "text_found": "MULTIFRUKT",
+      "product": "Cruesli",
+      "confidence": "high",
+      "ann_id": 13991,
+      "current_cat": 194
+    },
+    {
+      "text_found": "Solfrokost",
+      "product": "Cruesli",
+      "confidence": "high",
+      "ann_id": 13992,
+      "current_cat": 194
+    },
+    {
+      "text_found": "Solfrokost",
+      "product": "Cruesli",
+      "confidence": "high",
+      "ann_id": 13993,
+      "current_cat": 194
+    },
+    {
+      "text_found": "{\"text_found\":",
+      "confidence": "low",
+      "ann_id": 14001,
+      "current_cat": 75
+    },
+    {
+      "text_found": "{\"text",
+      "confidence": "low",
+      "ann_id": 14002,
+      "current_cat": 75
+    },
+    {
+      "text_found": "{\"text_",
+      "confidence": "low",
+      "ann_id": 14003,
+      "current_cat": 75
+    },
+    {
+      "text_found": "{\"text_found\": \"4 NØT",
+      "confidence": "low",
+      "ann_id": 14007,
+      "current_cat": 75
+    },
+    {
+      "text_found": "{",
+      "confidence": "low",
+      "ann_id": 14054,
+      "current_cat": 186
+    },
+    {
+      "text_found": "{\"text_found\":",
+      "confidence": "low",
+      "ann_id": 14055,
+      "current_cat": 186
+    },
+    {
+      "text_found": "{\n  \"text",
+      "confidence": "low",
+      "ann_id": 14056,
+      "current_cat": 186
+    },
+    {
+      "text_found": "{\"text_found\":",
+      "confidence": "low",
+      "ann_id": 14057,
+      "current_cat": 186
+    },
+    {
+      "text_found": "{\"text_found\":",
+      "confidence": "low",
+      "ann_id": 14058,
+      "current_cat": 268
+    },
+    {
+      "text_found": "{\"text_",
+      "confidence": "low",
+      "ann_id": 14059,
+      "current_cat": 268
+    },
+    {
+      "text_found": "{",
+      "confidence": "low",
+      "ann_id": 14060,
+      "current_cat": 268
+    },
+    {
+      "text_found": "4 NUTS",
+      "product": "Cruesli",
+      "confidence": "high",
+      "ann_id": 14351,
+      "current_cat": 75
+    },
+    {
+      "text_found": "{\"text_found\": \"4 Nuts\", \"product\": \"Cru",
+      "confidence": "low",
+      "ann_id": 14352,
+      "current_cat": 75
+    },
+    {
+      "text_found": "{\"text_",
+      "confidence": "low",
+      "ann_id": 14353,
+      "current_cat": 194
+    },
+    {
+      "text_found": "{",
+      "confidence": "low",
+      "ann_id": 14354,
+      "current_cat": 194
+    },
+    {
+      "text_found": "Havre - Kaura",
+      "product": "Cheerios",
+      "confidence": "high",
+      "ann_id": 14386,
+      "current_cat": 181
+    },
+    {
+      "text_found": "{\n  \"text_found\": \"Havre",
+      "confidence": "low",
+      "ann_id": 14387,
+      "current_cat": 181
+    },
+    {
+      "text_found": "{\"text_found\":",
+      "confidence": "low",
+      "ann_id": 14388,
+      "current_cat": 181
+    },
+    {
+      "text_found": "MULTIGRAIN",
+      "product": "Cheerios",
+      "confidence": "high",
+      "ann_id": 14389,
+      "current_cat": 97
+    },
+    {
+      "text_found": "MULTIGRAIN",
+      "product": "Cheerios",
+      "confidence": "high",
+      "ann_id": 14390,
+      "current_cat": 97
+    },
+    {
+      "text_found": "MULTIGRAIN",
+      "product": "Cheerios",
+      "confidence": "high",
+      "ann_id": 14391,
+      "current_cat": 97
+    },
+    {
+      "text_found": "{\"text_found\": \"CLASS",
+      "confidence": "low",
+      "ann_id": 14444,
+      "current_cat": 75
+    },
+    {
+      "text_found": "{\"text_found\":",
+      "confidence": "low",
+      "ann_id": 14445,
+      "current_cat": 194
+    },
+    {
+      "text_found": "{\"text_",
+      "confidence": "low",
+      "ann_id": 14452,
+      "current_cat": 97
+    },
+    {
+      "text_found": "Whole Grain",
+      "product": "Cheerios",
+      "confidence": "high",
+      "ann_id": 14453,
+      "current_cat": 181
+    },
+    {
+      "text_found": "Havre + Quinoa",
+      "product": "Cheerios",
+      "confidence": "high",
+      "ann_id": 14454,
+      "current_cat": 181
+    },
+    {
+      "text_found": "Solfrokost",
+      "product": "Quaker Cruesli",
+      "confidence": "high",
+      "ann_id": 14572,
+      "current_cat": 194
+    },
+    {
+      "text_found": "{\"text_found\":",
+      "confidence": "low",
+      "ann_id": 14573,
+      "current_cat": 194
+    },
+    {
+      "text_found": "{\"text_found\":",
+      "confidence": "low",
+      "ann_id": 14574,
+      "current_cat": 194
+    },
+    {
+      "text_found": "{\"text_found",
+      "confidence": "low",
+      "ann_id": 14575,
+      "current_cat": 75
+    },
+    {
+      "text_found": "4 NUTS",
+      "product": "Cruesli",
+      "confidence": "high",
+      "ann_id": 14576,
+      "current_cat": 75
+    },
+    {
+      "text_found": "5 NUTS",
+      "product": "Cruesli",
+      "confidence": "high",
+      "ann_id": 14577,
+      "current_cat": 75
+    },
+    {
+      "text_found": "MULTIGRAIN",
+      "product": "Cheerios",
+      "confidence": "high",
+      "ann_id": 14621,
+      "current_cat": 97
+    },
+    {
+      "text_found": "{",
+      "confidence": "low",
+      "ann_id": 14622,
+      "current_cat": 181
+    },
+    {
+      "text_found": "{\n  \"text",
+      "confidence": "low",
+      "ann_id": 14623,
+      "current_cat": 181
+    },
+    {
+      "text_found": "{\"text_found\": \"Havre + Havre\", \"product\": \"",
+      "confidence": "low",
+      "ann_id": 14624,
+      "current_cat": 181
+    },
+    {
+      "text_found": "MULTIGRAIN",
+      "product": "Cheerios",
+      "confidence": "high",
+      "ann_id": 14643,
+      "current_cat": 97
+    },
+    {
+      "text_found": "MULTIGRAIN",
+      "product": "Cheerios",
+      "confidence": "high",
+      "ann_id": 14644,
+      "current_cat": 97
+    },
+    {
+      "text_found": "{\"text",
+      "confidence": "low",
+      "ann_id": 14649,
+      "current_cat": 268
+    },
+    {
+      "text_found": "{\"text_found\":",
+      "confidence": "low",
+      "ann_id": 14650,
+      "current_cat": 268
+    },
+    {
+      "text_found": "{",
+      "confidence": "low",
+      "ann_id": 14651,
+      "current_cat": 186
+    },
+    {
+      "text_found": "{\"text_found\":",
+      "confidence": "low",
+      "ann_id": 14652,
+      "current_cat": 268
+    },
+    {
+      "text_found": "{\"text_found\":",
+      "confidence": "low",
+      "ann_id": 14653,
+      "current_cat": 186
+    },
+    {
+      "text_found": "{\"text_",
+      "confidence": "low",
+      "ann_id": 14654,
+      "current_cat": 186
+    },
+    {
+      "text_found": "{\"text",
+      "confidence": "low",
+      "ann_id": 14655,
+      "current_cat": 186
+    },
+    {
+      "text_found": "{\"text_found",
+      "confidence": "low",
+      "ann_id": 14656,
+      "current_cat": 186
+    },
+    {
+      "text_found": "Havre - Kaura",
+      "product": "Cheerios",
+      "confidence": "high",
+      "ann_id": 15058,
+      "current_cat": 181
+    },
+    {
+      "text_found": "MULTIGRAIN",
+      "product": "Cheerios",
+      "confidence": "high",
+      "ann_id": 15059,
+      "current_cat": 97
+    },
+    {
+      "text_found": "{\"text_found\": \"4 Nuts /",
+      "confidence": "low",
+      "ann_id": 15067,
+      "current_cat": 75
+    },
+    {
+      "text_found": "{\"text_",
+      "confidence": "low",
+      "ann_id": 15118,
+      "current_cat": 97
+    },
+    {
+      "text_found": "{\n  \"text_found\": \"HAVRECRUNCH\",\n  \"product\": \"Cheerios\",\n  \"",
+      "confidence": "low",
+      "ann_id": 15119,
+      "current_cat": 97
+    },
+    {
+      "text_found": "MULTIGRAIN",
+      "product": "Cheerios",
+      "confidence": "high",
+      "ann_id": 15120,
+      "current_cat": 97
+    },
+    {
+      "text_found": "{\"text_found\":",
+      "confidence": "low",
+      "ann_id": 15121,
+      "current_cat": 181
+    },
+    {
+      "text_found": "{\"text",
+      "confidence": "low",
+      "ann_id": 15122,
+      "current_cat": 181
+    },
+    {
+      "text_found": "MULTIGRAIN",
+      "product": "Cheerios",
+      "confidence": "high",
+      "ann_id": 15218,
+      "current_cat": 97
+    },
+    {
+      "text_found": "{\"text_found\": \"Oats\", \"product\": \"Cheer",
+      "confidence": "low",
+      "ann_id": 15220,
+      "current_cat": 181
+    },
+    {
+      "text_found": "{\"text_found\": \"Honey Nut\", \"product\": \"Cheerios",
+      "confidence": "low",
+      "ann_id": 15221,
+      "current_cat": 181
+    },
+    {
+      "text_found": "Oats",
+      "product": "Cheerios",
+      "confidence": "high",
+      "ann_id": 15239,
+      "current_cat": 181
+    },
+    {
+      "text_found": "{\"text_found\": \"Klassisk Havregrøt\", \"product\":",
+      "confidence": "low",
+      "ann_id": 15242,
+      "current_cat": 268
+    },
+    {
+      "text_found": "{\"text_found\":",
+      "confidence": "low",
+      "ann_id": 15243,
+      "current_cat": 268
+    },
+    {
+      "text_found": "{\"text_found\": \"Kan",
+      "confidence": "low",
+      "ann_id": 15244,
+      "current_cat": 268
+    },
+    {
+      "text_found": "{\"text_found",
+      "confidence": "low",
+      "ann_id": 15245,
+      "current_cat": 268
+    },
+    {
+      "text_found": "{\"text_found\": \"EXTRA",
+      "confidence": "low",
+      "ann_id": 15246,
+      "current_cat": 268
+    },
+    {
+      "text_found": "{\"text_found\": \"KANEL & EPLE\", \"product\": \"SUPERGRØT\", \"confidence\": \"",
+      "confidence": "low",
+      "ann_id": 15247,
+      "current_cat": 268
+    },
+    {
+      "text_found": "{\"text",
+      "confidence": "low",
+      "ann_id": 15248,
+      "current_cat": 268
+    },
+    {
+      "text_found": "{\"text_found\":",
+      "confidence": "low",
+      "ann_id": 15249,
+      "current_cat": 268
+    },
+    {
+      "text_found": "{\"text_found\":",
+      "confidence": "low",
+      "ann_id": 15252,
+      "current_cat": 75
+    },
+    {
+      "text_found": "{\"text_",
+      "confidence": "low",
+      "ann_id": 15338,
+      "current_cat": 75
+    },
+    {
+      "text_found": "{\"text",
+      "confidence": "low",
+      "ann_id": 15339,
+      "current_cat": 75
+    },
+    {
+      "text_found": "{\"text_found",
+      "confidence": "low",
+      "ann_id": 15340,
+      "current_cat": 194
+    },
+    {
+      "text_found": "Sjokolade",
+      "product": "Cruesli",
+      "confidence": "high",
+      "ann_id": 15341,
+      "current_cat": 194
+    },
+    {
+      "text_found": "4 Nøtter",
+      "product": "Cruesli",
+      "confidence": "high",
+      "ann_id": 15342,
+      "current_cat": 194
+    },
+    {
+      "text_found": "{\"text_found\":",
+      "confidence": "low",
+      "ann_id": 15370,
+      "current_cat": 181
+    },
+    {
+      "text_found": "{\"text",
+      "confidence": "low",
+      "ann_id": 15371,
+      "current_cat": 181
+    },
+    {
+      "text_found": "{\"text_found\": \"Oat\", \"product\": \"",
+      "confidence": "low",
+      "ann_id": 15372,
+      "current_cat": 181
+    },
+    {
+      "text_found": "{\"text_found\": \"\", \"product\": \"\", \"confidence\": \"",
+      "confidence": "low",
+      "ann_id": 15386,
+      "current_cat": 186
+    },
+    {
+      "text_found": "MULTIGRAIN",
+      "product": "Cheerios",
+      "confidence": "high",
+      "ann_id": 15414,
+      "current_cat": 97
+    },
+    {
+      "text_found": "MULTIGRAIN",
+      "product": "Cheerios",
+      "confidence": "high",
+      "ann_id": 15415,
+      "current_cat": 97
+    },
+    {
+      "text_found": "{\"text_found",
+      "confidence": "low",
+      "ann_id": 15433,
+      "current_cat": 75
+    },
+    {
+      "text_found": "{\"text_found\":",
+      "confidence": "low",
+      "ann_id": 15434,
+      "current_cat": 75
+    },
+    {
+      "text_found": "Solfrokost",
+      "product": "Cruesli",
+      "confidence": "high",
+      "ann_id": 15435,
+      "current_cat": 194
+    },
+    {
+      "text_found": "{\"text",
+      "confidence": "low",
+      "ann_id": 15436,
+      "current_cat": 194
+    },
+    {
+      "text_found": "Havre - Kaura",
+      "product": "Cheerios",
+      "confidence": "high",
+      "ann_id": 15443,
+      "current_cat": 181
+    },
+    {
+      "text_found": "{\"text_found",
+      "confidence": "low",
+      "ann_id": 15444,
+      "current_cat": 181
+    },
+    {
+      "text_found": "Haore-Kaura",
+      "product": "Cheerios",
+      "confidence": "high",
+      "ann_id": 15445,
+      "current_cat": 181
+    },
+    {
+      "text_found": "Havre - Kaura",
+      "product": "Cheerios",
+      "confidence": "high",
+      "ann_id": 15446,
+      "current_cat": 181
+    },
+    {
+      "text_found": "Kanel & Puffet Quinoa",
+      "product": "Supergrøt",
+      "confidence": "high",
+      "ann_id": 15463,
+      "current_cat": 268
+    },
+    {
+      "text_found": "KANEL & PUFFET QUINOA",
+      "product": "SUPERGRØT",
+      "confidence": "high",
+      "ann_id": 15464,
+      "current_cat": 268
+    },
+    {
+      "text_found": "{\"text_found\":",
+      "confidence": "low",
+      "ann_id": 15493,
+      "current_cat": 181
+    },
+    {
+      "text_found": "MULTIGRAIN",
+      "product": "Cheerios",
+      "confidence": "high",
+      "ann_id": 15494,
+      "current_cat": 97
+    },
+    {
+      "text_found": "MULTIGRAIN",
+      "product": "Cheerios",
+      "confidence": "high",
+      "ann_id": 15495,
+      "current_cat": 97
+    },
+    {
+      "text_found": "MULTIGRAIN",
+      "product": "Cheerios",
+      "confidence": "high",
+      "ann_id": 15503,
+      "current_cat": 97
+    },
+    {
+      "text_found": "MULTIGRAIN",
+      "product": "Cheerios",
+      "confidence": "high",
+      "ann_id": 15509,
+      "current_cat": 97
+    },
+    {
+      "text_found": "MULTIGRAIN",
+      "product": "Cheerios",
+      "confidence": "high",
+      "ann_id": 15510,
+      "current_cat": 97
+    },
+    {
+      "text_found": "Oat",
+      "product": "Cheerios",
+      "confidence": "high",
+      "ann_id": 15560,
+      "current_cat": 181
+    },
+    {
+      "text_found": "{\"text_found",
+      "confidence": "low",
+      "ann_id": 15561,
+      "current_cat": 181
+    },
+    {
+      "text_found": "MULTIGRAIN",
+      "product": "Cheerios",
+      "confidence": "high",
+      "ann_id": 15562,
+      "current_cat": 97
+    },
+    {
+      "text_found": "MULTIGRAIN",
+      "product": "Cheerios",
+      "confidence": "high",
+      "ann_id": 15563,
+      "current_cat": 97
+    },
+    {
+      "text_found": "{\"text",
+      "confidence": "low",
+      "ann_id": 15573,
+      "current_cat": 75
+    },
+    {
+      "text_found": "{\"text",
+      "confidence": "low",
+      "ann_id": 15574,
+      "current_cat": 75
+    },
+    {
+      "text_found": "{\n  \"text",
+      "confidence": "low",
+      "ann_id": 15575,
+      "current_cat": 194
+    },
+    {
+      "text_found": "{\n  \"text",
+      "confidence": "low",
+      "ann_id": 15576,
+      "current_cat": 194
+    },
+    {
+      "text_found": "{\"text_found\":",
+      "confidence": "low",
+      "ann_id": 15825,
+      "current_cat": 194
+    },
+    {
+      "text_found": "4 NØTTER",
+      "product": "Cruesli",
+      "confidence": "high",
+      "ann_id": 15826,
+      "current_cat": 194
+    },
+    {
+      "text_found": "{\"text_found\": \"MILD\", \"product\":",
+      "confidence": "low",
+      "ann_id": 15827,
+      "current_cat": 75
+    },
+    {
+      "text_found": "CLASSIC",
+      "product": "Cruesli",
+      "confidence": "high",
+      "ann_id": 15828,
+      "current_cat": 75
+    },
+    {
+      "text_found": "{\"text_found\":",
+      "confidence": "low",
+      "ann_id": 15854,
+      "current_cat": 181
+    },
+    {
+      "text_found": "Oat",
+      "product": "Cheerios",
+      "confidence": "high",
+      "ann_id": 15855,
+      "current_cat": 181
+    },
+    {
+      "text_found": "{\"text_found\": \"MULTIG",
+      "confidence": "low",
+      "ann_id": 15856,
+      "current_cat": 97
+    },
+    {
+      "text_found": "MULTIGRAIN",
+      "product": "Cheerios",
+      "confidence": "high",
+      "ann_id": 15857,
+      "current_cat": 97
+    },
+    {
+      "text_found": "{\"text_found",
+      "confidence": "low",
+      "ann_id": 15883,
+      "current_cat": 194
+    },
+    {
+      "text_found": "{\"text_found\":",
+      "confidence": "low",
+      "ann_id": 15884,
+      "current_cat": 194
+    },
+    {
+      "text_found": "{\"text_found\": \"Frø & Havre\", \"product\": \"Cruesli\", \"confidence\": \"high",
+      "confidence": "low",
+      "ann_id": 15885,
+      "current_cat": 194
+    },
+    {
+      "text_found": "{\"text",
+      "confidence": "low",
+      "ann_id": 15886,
+      "current_cat": 75
+    },
+    {
+      "text_found": "{\"text_found\":",
+      "confidence": "low",
+      "ann_id": 15887,
+      "current_cat": 75
+    },
+    {
+      "text_found": "4 NØTTER / 4 NUTS",
+      "product": "Cruesli",
+      "confidence": "high",
+      "ann_id": 15888,
+      "current_cat": 75
+    },
+    {
+      "text_found": "Oat",
+      "product": "Cheerios",
+      "confidence": "high",
+      "ann_id": 15910,
+      "current_cat": 181
+    },
+    {
+      "text_found": "{\"text_found\":",
+      "confidence": "low",
+      "ann_id": 15911,
+      "current_cat": 181
+    },
+    {
+      "text_found": "{\"text",
+      "confidence": "low",
+      "ann_id": 15912,
+      "current_cat": 181
+    },
+    {
+      "text_found": "MULTIGRAIN",
+      "product": "Cheerios",
+      "confidence": "high",
+      "ann_id": 15913,
+      "current_cat": 97
+    },
+    {
+      "text_found": "{\n  \"",
+      "confidence": "low",
+      "ann_id": 15914,
+      "current_cat": 97
+    },
+    {
+      "text_found": "PRACHTKGRAIN",
+      "product": "Cheerios",
+      "confidence": "high",
+      "ann_id": 15915,
+      "current_cat": 97
+    },
+    {
+      "text_found": "{\n  \"text",
+      "confidence": "low",
+      "ann_id": 15962,
+      "current_cat": 194
+    },
+    {
+      "text_found": "{\n  \"text",
+      "confidence": "low",
+      "ann_id": 15963,
+      "current_cat": 194
+    },
+    {
+      "text_found": "{\"text",
+      "confidence": "low",
+      "ann_id": 15964,
+      "current_cat": 75
+    },
+    {
+      "text_found": "{\"text_found\": \"",
+      "confidence": "low",
+      "ann_id": 15965,
+      "current_cat": 75
+    },
+    {
+      "text_found": "{\"text_found\":",
+      "confidence": "low",
+      "ann_id": 15973,
+      "current_cat": 181
+    },
+    {
+      "text_found": "{\"text_found\": \"",
+      "confidence": "low",
+      "ann_id": 15974,
+      "current_cat": 181
+    },
+    {
+      "text_found": "{\"text_found\":",
+      "confidence": "low",
+      "ann_id": 15975,
+      "current_cat": 97
+    },
+    {
+      "text_found": "{\"text",
+      "confidence": "low",
+      "ann_id": 16010,
+      "current_cat": 181
+    },
+    {
+      "text_found": "{\"text_found",
+      "confidence": "low",
+      "ann_id": 16011,
+      "current_cat": 181
+    },
+    {
+      "text_found": "{\"text",
+      "confidence": "low",
+      "ann_id": 16012,
+      "current_cat": 181
+    },
+    {
+      "text_found": "{\"text_",
+      "confidence": "low",
+      "ann_id": 16013,
+      "current_cat": 97
+    },
+    {
+      "text_found": "{\"text_found\":",
+      "confidence": "low",
+      "ann_id": 16014,
+      "current_cat": 97
+    },
+    {
+      "text_found": "{\"text_",
+      "confidence": "low",
+      "ann_id": 16024,
+      "current_cat": 194
+    },
+    {
+      "text_found": "{\"text",
+      "confidence": "low",
+      "ann_id": 16067,
+      "current_cat": 194
+    },
+    {
+      "text_found": "Solfrokost",
+      "product": "Cruesli",
+      "confidence": "high",
+      "ann_id": 16068,
+      "current_cat": 194
+    },
+    {
+      "text_found": "4 NUTS",
+      "product": "Cruesli",
+      "confidence": "high",
+      "ann_id": 16081,
+      "current_cat": 75
+    },
+    {
+      "text_found": "{\n  \"",
+      "confidence": "low",
+      "ann_id": 16082,
+      "current_cat": 75
+    },
+    {
+      "text_found": "Havre - Kaura",
+      "product": "Cheerios",
+      "confidence": "high",
+      "ann_id": 16089,
+      "current_cat": 181
+    },
+    {
+      "text_found": "Havre-Kaura",
+      "product": "Cheerios",
+      "confidence": "high",
+      "ann_id": 16090,
+      "current_cat": 181
+    },
+    {
+      "text_found": "{\"text_found\": \"Solfrokost\", \"product\":",
+      "confidence": "low",
+      "ann_id": 16192,
+      "current_cat": 194
+    },
+    {
+      "text_found": "4 NUTS",
+      "product": "Cruesli",
+      "confidence": "high",
+      "ann_id": 16193,
+      "current_cat": 75
+    },
+    {
+      "text_found": "4 Nuts",
+      "product": "Cruesli",
+      "confidence": "high",
+      "ann_id": 16194,
+      "current_cat": 75
+    },
+    {
+      "text_found": "MULTIGRAIN",
+      "product": "Cheerios",
+      "confidence": "high",
+      "ann_id": 16196,
+      "current_cat": 97
+    },
+    {
+      "text_found": "{\"text_found\": \"Havre - Kaura",
+      "confidence": "low",
+      "ann_id": 16197,
+      "current_cat": 181
+    },
+    {
+      "text_found": "Solfrokost",
+      "product": "Cruesli",
+      "confidence": "high",
+      "ann_id": 16214,
+      "current_cat": 194
+    },
+    {
+      "text_found": "{\"text_",
+      "confidence": "low",
+      "ann_id": 16222,
+      "current_cat": 268
+    },
+    {
+      "text_found": "KANEL & EPLEBITER",
+      "product": "SUPERGRØT",
+      "confidence": "high",
+      "ann_id": 16223,
+      "current_cat": 268
+    },
+    {
+      "text_found": "{\"text_found",
+      "confidence": "low",
+      "ann_id": 16224,
+      "current_cat": 268
+    },
+    {
+      "text_found": "{\"text_found\":",
+      "confidence": "low",
+      "ann_id": 16329,
+      "current_cat": 194
+    },
+    {
+      "text_found": "Solfrokost",
+      "product": "Cruesli",
+      "confidence": "high",
+      "ann_id": 16330,
+      "current_cat": 194
+    },
+    {
+      "text_found": "{\"text_found",
+      "confidence": "low",
+      "ann_id": 16331,
+      "current_cat": 75
+    },
+    {
+      "text_found": "4 NUTS / 4 NØTTER",
+      "product": "Cruesli",
+      "confidence": "high",
+      "ann_id": 16332,
+      "current_cat": 75
+    },
+    {
+      "text_found": "Oat",
+      "product": "Cheerios",
+      "confidence": "high",
+      "ann_id": 16344,
+      "current_cat": 181
+    },
+    {
+      "text_found": "Oat",
+      "product": "Cheerios",
+      "confidence": "high",
+      "ann_id": 16345,
+      "current_cat": 181
+    },
+    {
+      "text_found": "{\"text_found\": \"MULTIGRAIN\", \"product\": \"Che",
+      "confidence": "low",
+      "ann_id": 16362,
+      "current_cat": 97
+    },
+    {
+      "text_found": "MULTIGRAIN",
+      "product": "Cheerios",
+      "confidence": "high",
+      "ann_id": 16363,
+      "current_cat": 97
+    },
+    {
+      "text_found": "{\"text",
+      "confidence": "low",
+      "ann_id": 16386,
+      "current_cat": 268
+    },
+    {
+      "text_found": "{\"text_found\": \"Skogs",
+      "confidence": "low",
+      "ann_id": 16387,
+      "current_cat": 268
+    },
+    {
+      "text_found": "{\"text_found\":",
+      "confidence": "low",
+      "ann_id": 16388,
+      "current_cat": 268
+    },
+    {
+      "text_found": "{\n  \"",
+      "confidence": "low",
+      "ann_id": 16389,
+      "current_cat": 268
+    },
+    {
+      "text_found": "{\"text",
+      "confidence": "low",
+      "ann_id": 16405,
+      "current_cat": 268
+    },
+    {
+      "text_found": "Eple & Puffet Quinoa",
+      "product": "SUPERGRØT",
+      "confidence": "high",
+      "ann_id": 16406,
+      "current_cat": 268
+    },
+    {
+      "text_found": "{\"text_found\": \"4 N",
+      "confidence": "low",
+      "ann_id": 16417,
+      "current_cat": 75
+    },
+    {
+      "text_found": "4 NUTS",
+      "product": "Cruesli",
+      "confidence": "high",
+      "ann_id": 16418,
+      "current_cat": 75
+    },
+    {
+      "text_found": "Solfrokost",
+      "product": "Cruesli",
+      "confidence": "high",
+      "ann_id": 16419,
+      "current_cat": 194
+    },
+    {
+      "text_found": "{\n  \"",
+      "confidence": "low",
+      "ann_id": 16420,
+      "current_cat": 194
+    },
+    {
+      "text_found": "MULTIGRAIN",
+      "product": "Cheerios",
+      "confidence": "high",
+      "ann_id": 16423,
+      "current_cat": 97
+    },
+    {
+      "text_found": "MULTIGRAIN",
+      "product": "Cheerios",
+      "confidence": "high",
+      "ann_id": 16424,
+      "current_cat": 97
+    },
+    {
+      "text_found": "Havre-Kaura",
+      "product": "Cheerios",
+      "confidence": "high",
+      "ann_id": 16425,
+      "current_cat": 97
+    },
+    {
+      "text_found": "Havre - Kaura",
+      "product": "Cheerios",
+      "confidence": "high",
+      "ann_id": 16426,
+      "current_cat": 181
+    },
+    {
+      "text_found": "{\"text_found",
+      "confidence": "low",
+      "ann_id": 16626,
+      "current_cat": 194
+    },
+    {
+      "text_found": "{\"text_",
+      "confidence": "low",
+      "ann_id": 16627,
+      "current_cat": 194
+    },
+    {
+      "text_found": "{\"text_found\":",
+      "confidence": "low",
+      "ann_id": 16628,
+      "current_cat": 75
+    },
+    {
+      "text_found": "{\"text",
+      "confidence": "low",
+      "ann_id": 16629,
+      "current_cat": 75
+    },
+    {
+      "text_found": "{\"text_found\":",
+      "confidence": "low",
+      "ann_id": 16669,
+      "current_cat": 181
+    },
+    {
+      "text_found": "{\"text",
+      "confidence": "low",
+      "ann_id": 16670,
+      "current_cat": 181
+    },
+    {
+      "text_found": "Multigrain",
+      "product": "Cheerios",
+      "confidence": "high",
+      "ann_id": 16671,
+      "current_cat": 97
+    },
+    {
+      "text_found": "MULTIGRAIN",
+      "product": "Cheerios",
+      "confidence": "high",
+      "ann_id": 16672,
+      "current_cat": 97
+    },
+    {
+      "text_found": "{\"text_found\":",
+      "confidence": "low",
+      "ann_id": 16754,
+      "current_cat": 194
+    },
+    {
+      "text_found": "{\"text_found\": \"Honning & Mandler\", \"product\": \"Cruesli",
+      "confidence": "low",
+      "ann_id": 16755,
+      "current_cat": 194
+    },
+    {
+      "text_found": "{\"text_found\":",
+      "confidence": "low",
+      "ann_id": 16756,
+      "current_cat": 194
+    },
+    {
+      "text_found": "{\n  \"",
+      "confidence": "low",
+      "ann_id": 16757,
+      "current_cat": 75
+    },
+    {
+      "text_found": "{\"text_found\": \"N/A (cannot be read)\", \"product\": \"Quaker Crues",
+      "confidence": "low",
+      "ann_id": 16758,
+      "current_cat": 75
+    },
+    {
+      "text_found": "{\"text_found\":",
+      "confidence": "low",
+      "ann_id": 16799,
+      "current_cat": 97
+    },
+    {
+      "text_found": "MULTIGRAIN",
+      "product": "Cheerios",
+      "confidence": "high",
+      "ann_id": 16800,
+      "current_cat": 97
+    },
+    {
+      "text_found": "Havre - Käurvä",
+      "product": "Cheerios",
+      "confidence": "high",
+      "ann_id": 16801,
+      "current_cat": 181
+    },
+    {
+      "text_found": "Havre-Kaura",
+      "product": "Cheerios",
+      "confidence": "high",
+      "ann_id": 16802,
+      "current_cat": 181
+    },
+    {
+      "text_found": "{\"text_",
+      "confidence": "low",
+      "ann_id": 16803,
+      "current_cat": 181
+    },
+    {
+      "text_found": "{",
+      "confidence": "low",
+      "ann_id": 16834,
+      "current_cat": 268
+    },
+    {
+      "text_found": "{\"text_found\":",
+      "confidence": "low",
+      "ann_id": 16835,
+      "current_cat": 268
+    },
+    {
+      "text_found": "{",
+      "confidence": "low",
+      "ann_id": 16836,
+      "current_cat": 268
+    },
+    {
+      "text_found": "{\n  \"",
+      "confidence": "low",
+      "ann_id": 16837,
+      "current_cat": 268
+    },
+    {
+      "text_found": "{",
+      "confidence": "low",
+      "ann_id": 16838,
+      "current_cat": 268
+    },
+    {
+      "text_found": "{\"text_found\":",
+      "confidence": "low",
+      "ann_id": 16839,
+      "current_cat": 268
+    },
+    {
+      "text_found": "{\"text_found",
+      "confidence": "low",
+      "ann_id": 16840,
+      "current_cat": 186
+    },
+    {
+      "text_found": "{\"text_found\":",
+      "confidence": "low",
+      "ann_id": 16841,
+      "current_cat": 186
+    },
+    {
+      "text_found": "{\"text",
+      "confidence": "low",
+      "ann_id": 16942,
+      "current_cat": 75
+    },
+    {
+      "text_found": "{\"text_found",
+      "confidence": "low",
+      "ann_id": 16943,
+      "current_cat": 75
+    },
+    {
+      "text_found": "{\"text_found\": \"",
+      "confidence": "low",
+      "ann_id": 16944,
+      "current_cat": 194
+    },
+    {
+      "text_found": "{\"text_found\":",
+      "confidence": "low",
+      "ann_id": 16945,
+      "current_cat": 194
+    },
+    {
+      "text_found": "MULTIGRAIN",
+      "product": "Cheerios",
+      "confidence": "high",
+      "ann_id": 16962,
+      "current_cat": 97
+    },
+    {
+      "text_found": "MULTIGRAIN",
+      "product": "Cheerios",
+      "confidence": "high",
+      "ann_id": 16963,
+      "current_cat": 97
+    },
+    {
+      "text_found": "MULTIGRAIN",
+      "product": "Cheerios",
+      "confidence": "high",
+      "ann_id": 16964,
+      "current_cat": 97
+    },
+    {
+      "text_found": "Havre - Kaura",
+      "product": "Cheerios",
+      "confidence": "high",
+      "ann_id": 16973,
+      "current_cat": 181
+    },
+    {
+      "text_found": "Havre - Kaura",
+      "product": "Cheerios",
+      "confidence": "high",
+      "ann_id": 16974,
+      "current_cat": 181
+    },
+    {
+      "text_found": "{\"text_found\": \"Havre - Kaura\", \"product\": \"Cheerios\",",
+      "confidence": "low",
+      "ann_id": 16975,
+      "current_cat": 181
+    },
+    {
+      "text_found": "{\"text_found\":",
+      "confidence": "low",
+      "ann_id": 17003,
+      "current_cat": 75
+    },
+    {
+      "text_found": "{",
+      "confidence": "low",
+      "ann_id": 17004,
+      "current_cat": 75
+    },
+    {
+      "text_found": "{\"text_",
+      "confidence": "low",
+      "ann_id": 17005,
+      "current_cat": 75
+    },
+    {
+      "text_found": "Solfrokost",
+      "product": "Cruesli",
+      "confidence": "high",
+      "ann_id": 17006,
+      "current_cat": 194
+    },
+    {
+      "text_found": "{\"text_found\":",
+      "confidence": "low",
+      "ann_id": 17007,
+      "current_cat": 194
+    },
+    {
+      "text_found": "{\"text_found\":",
+      "confidence": "low",
+      "ann_id": 17008,
+      "current_cat": 194
+    },
+    {
+      "text_found": "Solfrokost",
+      "product": "Cruesli",
+      "confidence": "high",
+      "ann_id": 17009,
+      "current_cat": 194
+    },
+    {
+      "text_found": "{\"text_found\":",
+      "confidence": "low",
+      "ann_id": 17016,
+      "current_cat": 186
+    },
+    {
+      "text_found": "Havre - Nøtter",
+      "product": "Cheerios",
+      "confidence": "high",
+      "ann_id": 17064,
+      "current_cat": 181
+    },
+    {
+      "text_found": "Havre Nature",
+      "product": "Cheerios",
+      "confidence": "high",
+      "ann_id": 17065,
+      "current_cat": 181
+    },
+    {
+      "text_found": "{\"text_",
+      "confidence": "low",
+      "ann_id": 17066,
+      "current_cat": 181
+    },
+    {
+      "text_found": "MULTIGRAIN",
+      "product": "Cheerios",
+      "confidence": "high",
+      "ann_id": 17067,
+      "current_cat": 97
+    },
+    {
+      "text_found": "MULTIGRAIN",
+      "product": "Cheerios",
+      "confidence": "high",
+      "ann_id": 17068,
+      "current_cat": 97
+    },
+    {
+      "text_found": "MULTIGRAIN",
+      "product": "Cheerios",
+      "confidence": "high",
+      "ann_id": 17069,
+      "current_cat": 97
+    },
+    {
+      "text_found": "{\"text",
+      "confidence": "low",
+      "ann_id": 17088,
+      "current_cat": 268
+    },
+    {
+      "text_found": "{\"text_found\": \"4 N",
+      "confidence": "low",
+      "ann_id": 17089,
+      "current_cat": 268
+    },
+    {
+      "text_found": "{\"text_found",
+      "confidence": "low",
+      "ann_id": 17090,
+      "current_cat": 268
+    },
+    {
+      "text_found": "{",
+      "confidence": "low",
+      "ann_id": 17091,
+      "current_cat": 268
+    },
+    {
+      "text_found": "{\"text_",
+      "confidence": "low",
+      "ann_id": 17092,
+      "current_cat": 186
+    },
+    {
+      "text_found": "{\"text_",
+      "confidence": "low",
+      "ann_id": 17093,
+      "current_cat": 186
+    },
+    {
+      "text_found": "{\"text_found\": \"Hav",
+      "confidence": "low",
+      "ann_id": 17094,
+      "current_cat": 186
+    },
+    {
+      "text_found": "{\"text",
+      "confidence": "low",
+      "ann_id": 17115,
+      "current_cat": 194
+    },
+    {
+      "text_found": "{\"text_",
+      "confidence": "low",
+      "ann_id": 17116,
+      "current_cat": 75
+    },
+    {
+      "text_found": "{\"text_",
+      "confidence": "low",
+      "ann_id": 17117,
+      "current_cat": 75
+    },
+    {
+      "text_found": "4 NUTS",
+      "product": "Cruesli",
+      "confidence": "high",
+      "ann_id": 17118,
+      "current_cat": 75
+    },
+    {
+      "text_found": "{",
+      "confidence": "low",
+      "ann_id": 17119,
+      "current_cat": 75
+    },
+    {
+      "text_found": "{\"text_found\":",
+      "confidence": "low",
+      "ann_id": 17165,
+      "current_cat": 97
+    },
+    {
+      "text_found": "MULTIGRAIN",
+      "product": "Cheerios",
+      "confidence": "high",
+      "ann_id": 17166,
+      "current_cat": 97
+    },
+    {
+      "text_found": "MULTIGRAIN",
+      "product": "Cheerios",
+      "confidence": "high",
+      "ann_id": 17167,
+      "current_cat": 97
+    },
+    {
+      "text_found": "Multigrain",
+      "product": "Cheerios",
+      "confidence": "high",
+      "ann_id": 17168,
+      "current_cat": 97
+    },
+    {
+      "text_found": "{\"text_found",
+      "confidence": "low",
+      "ann_id": 17169,
+      "current_cat": 181
+    },
+    {
+      "text_found": "{\"text_found\": \"Whole Grain\", \"product\": \"Cheer",
+      "confidence": "low",
+      "ann_id": 17170,
+      "current_cat": 181
+    },
+    {
+      "text_found": "{\"text_found",
+      "confidence": "low",
+      "ann_id": 17190,
+      "current_cat": 268
+    },
+    {
+      "text_found": "{\n  \"",
+      "confidence": "low",
+      "ann_id": 17191,
+      "current_cat": 268
+    },
+    {
+      "text_found": "KANEL & PUFFET QUINOA",
+      "product": "SUPERGRØT",
+      "confidence": "high",
+      "ann_id": 17192,
+      "current_cat": 268
+    },
+    {
+      "text_found": "{\n  \"",
+      "confidence": "low",
+      "ann_id": 17193,
+      "current_cat": 268
+    },
+    {
+      "text_found": "{",
+      "confidence": "low",
+      "ann_id": 17194,
+      "current_cat": 186
+    },
+    {
+      "text_found": "{\"text",
+      "confidence": "low",
+      "ann_id": 17195,
+      "current_cat": 186
+    },
+    {
+      "text_found": "{\"text_found",
+      "confidence": "low",
+      "ann_id": 17196,
+      "current_cat": 186
+    },
+    {
+      "text_found": "{\"text_found\":",
+      "confidence": "low",
+      "ann_id": 17197,
+      "current_cat": 186
+    },
+    {
+      "text_found": "{\n  \"text_found\": \"Hanta-Kaura\",\n  \"product\": \"Cheerios",
+      "confidence": "low",
+      "ann_id": 17327,
+      "current_cat": 181
+    },
+    {
+      "text_found": "{\"text_found",
+      "confidence": "low",
+      "ann_id": 17328,
+      "current_cat": 181
+    },
+    {
+      "text_found": "Havre & Kanel",
+      "product": "Cheerios",
+      "confidence": "high",
+      "ann_id": 17329,
+      "current_cat": 181
+    },
+    {
+      "text_found": "MULTIGRAIN",
+      "product": "Cheerios",
+      "confidence": "high",
+      "ann_id": 17330,
+      "current_cat": 97
+    },
+    {
+      "text_found": "{\n  \"text_found\": \"MULTIGRAIN\",\n  \"product\": \"Cheerios\",",
+      "confidence": "low",
+      "ann_id": 17331,
+      "current_cat": 97
+    },
+    {
+      "text_found": "{\"text_found",
+      "confidence": "low",
+      "ann_id": 17332,
+      "current_cat": 97
+    },
+    {
+      "text_found": "{\"text_found\":",
+      "confidence": "low",
+      "ann_id": 17395,
+      "current_cat": 194
+    },
+    {
+      "text_found": "{\n  \"text",
+      "confidence": "low",
+      "ann_id": 17396,
+      "current_cat": 75
+    },
+    {
+      "text_found": "{\"text_found\": \"Unreadable",
+      "confidence": "low",
+      "ann_id": 17397,
+      "current_cat": 75
+    },
+    {
+      "text_found": "{\"text_found",
+      "confidence": "low",
+      "ann_id": 17403,
+      "current_cat": 194
+    },
+    {
+      "text_found": "4 NUTS",
+      "product": "Cruesli",
+      "confidence": "high",
+      "ann_id": 17420,
+      "current_cat": 75
+    },
+    {
+      "text_found": "4 NUTS",
+      "product": "Cruesli",
+      "confidence": "high",
+      "ann_id": 17421,
+      "current_cat": 75
+    },
+    {
+      "text_found": "{\"text_found\":",
+      "confidence": "low",
+      "ann_id": 17422,
+      "current_cat": 75
+    },
+    {
+      "text_found": "Solfrokost",
+      "product": "Cruesli",
+      "confidence": "high",
+      "ann_id": 17423,
+      "current_cat": 194
+    },
+    {
+      "text_found": "{\"text_found\": \"",
+      "confidence": "low",
+      "ann_id": 17424,
+      "current_cat": 194
+    },
+    {
+      "text_found": "{",
+      "confidence": "low",
+      "ann_id": 17425,
+      "current_cat": 194
+    },
+    {
+      "text_found": "{\"text_found\":",
+      "confidence": "low",
+      "ann_id": 17460,
+      "current_cat": 181
+    },
+    {
+      "text_found": "{\"text_found\":",
+      "confidence": "low",
+      "ann_id": 17461,
+      "current_cat": 181
+    },
+    {
+      "text_found": "{\"text_found\": \"",
+      "confidence": "low",
+      "ann_id": 17462,
+      "current_cat": 181
+    },
+    {
+      "text_found": "MULTIGRAIN",
+      "product": "Cheerios",
+      "confidence": "high",
+      "ann_id": 17463,
+      "current_cat": 97
+    },
+    {
+      "text_found": "{\"text_found",
+      "confidence": "low",
+      "ann_id": 17464,
+      "current_cat": 97
+    },
+    {
+      "text_found": "{\"text_found\": \"Havre",
+      "confidence": "low",
+      "ann_id": 17465,
+      "current_cat": 97
+    },
+    {
+      "text_found": "{\"text_found\": \"",
+      "confidence": "low",
+      "ann_id": 17496,
+      "current_cat": 268
+    },
+    {
+      "text_found": "{\"text_found\": \"",
+      "confidence": "low",
+      "ann_id": 17497,
+      "current_cat": 268
+    },
+    {
+      "text_found": "{\"text_found\": \"ORIGINAL",
+      "confidence": "low",
+      "ann_id": 17498,
+      "current_cat": 268
+    },
+    {
+      "text_found": "{\"text",
+      "confidence": "low",
+      "ann_id": 17499,
+      "current_cat": 268
+    },
+    {
+      "text_found": "{\"text_found\": \"No legible",
+      "confidence": "low",
+      "ann_id": 17500,
+      "current_cat": 268
+    },
+    {
+      "text_found": "{\"text_found\":",
+      "confidence": "low",
+      "ann_id": 17501,
+      "current_cat": 186
+    },
+    {
+      "text_found": "{\"text_found\":",
+      "confidence": "low",
+      "ann_id": 17502,
+      "current_cat": 186
+    },
+    {
+      "text_found": "{\"text_found\":",
+      "confidence": "low",
+      "ann_id": 17503,
+      "current_cat": 186
+    },
+    {
+      "text_found": "{\"text_found\":",
+      "confidence": "low",
+      "ann_id": 17504,
+      "current_cat": 186
+    },
+    {
+      "text_found": "{\"text_found\": \"G",
+      "confidence": "low",
+      "ann_id": 17505,
+      "current_cat": 186
+    },
+    {
+      "text_found": "{\"text_found\":",
+      "confidence": "low",
+      "ann_id": 17536,
+      "current_cat": 75
+    },
+    {
+      "text_found": "{\"text_found\":",
+      "confidence": "low",
+      "ann_id": 17537,
+      "current_cat": 75
+    },
+    {
+      "text_found": "{\"text_",
+      "confidence": "low",
+      "ann_id": 17553,
+      "current_cat": 194
+    },
+    {
+      "text_found": "{\"text_found\": \"S",
+      "confidence": "low",
+      "ann_id": 17554,
+      "current_cat": 194
+    },
+    {
+      "text_found": "{\"text_found\": \"",
+      "confidence": "low",
+      "ann_id": 17566,
+      "current_cat": 97
+    },
+    {
+      "text_found": "{\"text_found",
+      "confidence": "low",
+      "ann_id": 17567,
+      "current_cat": 97
+    },
+    {
+      "text_found": "Multigrain",
+      "product": "Cheerios",
+      "confidence": "high",
+      "ann_id": 17568,
+      "current_cat": 97
+    },
+    {
+      "text_found": "MULTIGRAIN",
+      "product": "Cheerios",
+      "confidence": "high",
+      "ann_id": 17569,
+      "current_cat": 97
+    },
+    {
+      "text_found": "{\"text",
+      "confidence": "low",
+      "ann_id": 17570,
+      "current_cat": 181
+    },
+    {
+      "text_found": "{\"text",
+      "confidence": "low",
+      "ann_id": 17571,
+      "current_cat": 181
+    },
+    {
+      "text_found": "{\"text_found",
+      "confidence": "low",
+      "ann_id": 17572,
+      "current_cat": 181
+    },
+    {
+      "text_found": "Havre-Kaura",
+      "product": "Cheerios",
+      "confidence": "high",
+      "ann_id": 17573,
+      "current_cat": 181
+    },
+    {
+      "text_found": "{\"text_found\":",
+      "confidence": "low",
+      "ann_id": 17600,
+      "current_cat": 186
+    },
+    {
+      "text_found": "SKOGSBÆR",
+      "product": "SUPERGRØT",
+      "confidence": "high",
+      "ann_id": 17601,
+      "current_cat": 186
+    },
+    {
+      "text_found": "SKOGSBÆR",
+      "product": "SUPERGRØT",
+      "confidence": "high",
+      "ann_id": 17602,
+      "current_cat": 186
+    },
+    {
+      "text_found": "KANEL & PUFFET QUINOA",
+      "product": "SUPERGRØT",
+      "confidence": "high",
+      "ann_id": 17603,
+      "current_cat": 268
+    },
+    {
+      "text_found": "{\"text_found",
+      "confidence": "low",
+      "ann_id": 17604,
+      "current_cat": 268
+    },
+    {
+      "text_found": "KANEL & PUFFET QUINOA",
+      "product": "SUPERGRØT",
+      "confidence": "high",
+      "ann_id": 17605,
+      "current_cat": 268
+    },
+    {
+      "text_found": "{\"text",
+      "confidence": "low",
+      "ann_id": 17606,
+      "current_cat": 186
+    },
+    {
+      "text_found": "{\"text_found",
+      "confidence": "low",
+      "ann_id": 17628,
+      "current_cat": 181
+    },
+    {
+      "text_found": "MULTIGRAIN",
+      "product": "Cheerios",
+      "confidence": "high",
+      "ann_id": 17629,
+      "current_cat": 97
+    },
+    {
+      "text_found": "Solfrokost",
+      "product": "Cruesli",
+      "confidence": "high",
+      "ann_id": 17630,
+      "current_cat": 75
+    },
+    {
+      "text_found": "{\"text_found\":",
+      "confidence": "low",
+      "ann_id": 17631,
+      "current_cat": 194
+    },
+    {
+      "text_found": "{\"text_found\": \"",
+      "confidence": "low",
+      "ann_id": 17707,
+      "current_cat": 181
+    },
+    {
+      "text_found": "Oats",
+      "product": "Cheerios",
+      "confidence": "high",
+      "ann_id": 17708,
+      "current_cat": 181
+    },
+    {
+      "text_found": "{\"text_found",
+      "confidence": "low",
+      "ann_id": 17725,
+      "current_cat": 75
+    },
+    {
+      "text_found": "{\"text_found\":",
+      "confidence": "low",
+      "ann_id": 17726,
+      "current_cat": 194
+    },
+    {
+      "text_found": "{\"text_found\":",
+      "confidence": "low",
+      "ann_id": 17727,
+      "current_cat": 194
+    },
+    {
+      "text_found": "Multigrain",
+      "product": "Cheerios",
+      "confidence": "high",
+      "ann_id": 17734,
+      "current_cat": 97
+    },
+    {
+      "text_found": "{\"text_found\":",
+      "confidence": "low",
+      "ann_id": 17735,
+      "current_cat": 97
+    },
+    {
+      "text_found": "{\"text_found\": \"",
+      "confidence": "low",
+      "ann_id": 17736,
+      "current_cat": 181
+    },
+    {
+      "text_found": null,
+      "product": null,
+      "confidence": "low",
+      "ann_id": 17747,
+      "current_cat": 268
+    },
+    {
+      "ann_id": 17747,
+      "current_cat": 268,
+      "confidence": "error"
+    },
+    {
+      "text_found": "{\"text_found\":",
+      "confidence": "low",
+      "ann_id": 17748,
+      "current_cat": 268
+    },
+    {
+      "text_found": null,
+      "product": null,
+      "confidence": "low",
+      "ann_id": 17749,
+      "current_cat": 186
+    },
+    {
+      "ann_id": 17749,
+      "current_cat": 186,
+      "confidence": "error"
+    },
+    {
+      "text_found": null,
+      "product": null,
+      "confidence": "low",
+      "ann_id": 17750,
+      "current_cat": 186
+    },
+    {
+      "ann_id": 17750,
+      "current_cat": 186,
+      "confidence": "error"
+    },
+    {
+      "text_found": "Miel & Amaranto",
+      "product": "Cheerios",
+      "confidence": "high",
+      "ann_id": 17935,
+      "current_cat": 181
+    },
+    {
+      "text_found": "Havre / Oats",
+      "product": "Cheerios",
+      "confidence": "high",
+      "ann_id": 17936,
+      "current_cat": 181
+    },
+    {
+      "text_found": "MULTIGRAIN",
+      "product": "Cheerios",
+      "confidence": "high",
+      "ann_id": 17937,
+      "current_cat": 97
+    },
+    {
+      "text_found": "MULTIGRAIN",
+      "product": "Cheerios",
+      "confidence": "high",
+      "ann_id": 17938,
+      "current_cat": 97
+    },
+    {
+      "text_found": "{\"text_found",
+      "confidence": "low",
+      "ann_id": 17945,
+      "current_cat": 194
+    },
+    {
+      "text_found": "{\"text_found\": \"",
+      "confidence": "low",
+      "ann_id": 17946,
+      "current_cat": 194
+    },
+    {
+      "text_found": "{\"text_found\":",
+      "confidence": "low",
+      "ann_id": 17947,
+      "current_cat": 194
+    },
+    {
+      "text_found": "CLASSIC",
+      "product": "Cruesli",
+      "confidence": "high",
+      "ann_id": 17952,
+      "current_cat": 75
+    },
+    {
+      "text_found": "{\"text",
+      "confidence": "low",
+      "ann_id": 17953,
+      "current_cat": 75
+    },
+    {
+      "text_found": "SØT & SALT",
+      "product": "Cruesli",
+      "confidence": "high",
+      "ann_id": 17954,
+      "current_cat": 75
+    },
+    {
+      "text_found": "{\"text",
+      "confidence": "low",
+      "ann_id": 18014,
+      "current_cat": 186
+    },
+    {
+      "text_found": "{\"text",
+      "confidence": "low",
+      "ann_id": 18015,
+      "current_cat": 186
+    },
+    {
+      "text_found": "{\"text_found",
+      "confidence": "low",
+      "ann_id": 18016,
+      "current_cat": 186
+    },
+    {
+      "text_found": "{\"text_found\": \"hav",
+      "confidence": "low",
+      "ann_id": 18017,
+      "current_cat": 186
+    },
+    {
+      "text_found": "{\"text_found",
+      "confidence": "low",
+      "ann_id": 18018,
+      "current_cat": 186
+    },
+    {
+      "text_found": "{\"text_found\":",
+      "confidence": "low",
+      "ann_id": 18019,
+      "current_cat": 186
+    },
+    {
+      "text_found": "{\"text_found\":",
+      "confidence": "low",
+      "ann_id": 18020,
+      "current_cat": 186
+    },
+    {
+      "text_found": "{\"text_found\": \"SJ",
+      "confidence": "low",
+      "ann_id": 18021,
+      "current_cat": 186
+    },
+    {
+      "text_found": "{\"text_found\": \"SK",
+      "confidence": "low",
+      "ann_id": 18022,
+      "current_cat": 268
+    },
+    {
+      "text_found": "{\"text_found",
+      "confidence": "low",
+      "ann_id": 18023,
+      "current_cat": 268
+    },
+    {
+      "text_found": "{\"text",
+      "confidence": "low",
+      "ann_id": 18024,
+      "current_cat": 268
+    },
+    {
+      "text_found": "{",
+      "confidence": "low",
+      "ann_id": 18025,
+      "current_cat": 268
+    },
+    {
+      "text_found": "{\"text_found\": \"",
+      "confidence": "low",
+      "ann_id": 18026,
+      "current_cat": 268
+    },
+    {
+      "text_found": "{\"text_found",
+      "confidence": "low",
+      "ann_id": 18027,
+      "current_cat": 268
+    },
+    {
+      "text_found": "{\"text_found\":",
+      "confidence": "low",
+      "ann_id": 18028,
+      "current_cat": 268
+    },
+    {
+      "text_found": "{\"text_found",
+      "confidence": "low",
+      "ann_id": 18029,
+      "current_cat": 268
+    },
+    {
+      "text_found": "{\"text",
+      "confidence": "low",
+      "ann_id": 18030,
+      "current_cat": 268
+    },
+    {
+      "text_found": "{\"text_",
+      "confidence": "low",
+      "ann_id": 18031,
+      "current_cat": 268
+    },
+    {
+      "text_found": "4 NUTS / NØTTER",
+      "product": "Cruesli",
+      "confidence": "high",
+      "ann_id": 18074,
+      "current_cat": 75
+    },
+    {
+      "text_found": "{\"text_found\":",
+      "confidence": "low",
+      "ann_id": 18075,
+      "current_cat": 75
+    },
+    {
+      "text_found": "{\"text_found",
+      "confidence": "low",
+      "ann_id": 18076,
+      "current_cat": 75
+    },
+    {
+      "text_found": "Solfrokost",
+      "product": "Cruesli",
+      "confidence": "high",
+      "ann_id": 18077,
+      "current_cat": 194
+    },
+    {
+      "text_found": "{\"text_found",
+      "confidence": "low",
+      "ann_id": 18078,
+      "current_cat": 194
+    },
+    {
+      "text_found": "{\"text",
+      "confidence": "low",
+      "ann_id": 18116,
+      "current_cat": 181
+    },
+    {
+      "text_found": "{\n  \"text_found\": \"Havre - Kaura\",\n  \"product",
+      "confidence": "low",
+      "ann_id": 18117,
+      "current_cat": 181
+    },
+    {
+      "text_found": "{\"text_found",
+      "confidence": "low",
+      "ann_id": 18118,
+      "current_cat": 181
+    },
+    {
+      "text_found": "{\n  \"text",
+      "confidence": "low",
+      "ann_id": 18119,
+      "current_cat": 97
+    },
+    {
+      "text_found": "{",
+      "confidence": "low",
+      "ann_id": 18120,
+      "current_cat": 97
+    },
+    {
+      "text_found": "MULTIGRAIN",
+      "product": "Cheerios",
+      "confidence": "high",
+      "ann_id": 18121,
+      "current_cat": 97
+    },
+    {
+      "text_found": "{\"text_found\":",
+      "confidence": "low",
+      "ann_id": 18137,
+      "current_cat": 268
+    },
+    {
+      "text_found": "{\"text_found\":",
+      "confidence": "low",
+      "ann_id": 18138,
+      "current_cat": 268
+    },
+    {
+      "text_found": "{\"text_found",
+      "confidence": "low",
+      "ann_id": 18139,
+      "current_cat": 268
+    },
+    {
+      "text_found": "{\"text_found",
+      "confidence": "low",
+      "ann_id": 18140,
+      "current_cat": 268
+    },
+    {
+      "text_found": "{\"text_found",
+      "confidence": "low",
+      "ann_id": 18141,
+      "current_cat": 186
+    },
+    {
+      "text_found": "{\"text",
+      "confidence": "low",
+      "ann_id": 18142,
+      "current_cat": 186
+    },
+    {
+      "text_found": "{\"text",
+      "confidence": "low",
+      "ann_id": 18143,
+      "current_cat": 186
+    },
+    {
+      "text_found": "{\"text",
+      "confidence": "low",
+      "ann_id": 18144,
+      "current_cat": 186
+    },
+    {
+      "text_found": "MULTIGRAIN",
+      "product": "Cheerios",
+      "confidence": "high",
+      "ann_id": 18224,
+      "current_cat": 97
+    },
+    {
+      "text_found": "MULTIGRAIN",
+      "product": "Cheerios",
+      "confidence": "high",
+      "ann_id": 18225,
+      "current_cat": 97
+    },
+    {
+      "text_found": "MULTIGRAIN",
+      "product": "Cheerios",
+      "confidence": "high",
+      "ann_id": 18226,
+      "current_cat": 97
+    },
+    {
+      "text_found": "{\"text_",
+      "confidence": "low",
+      "ann_id": 18227,
+      "current_cat": 181
+    },
+    {
+      "text_found": "{\"text_",
+      "confidence": "low",
+      "ann_id": 18228,
+      "current_cat": 181
+    },
+    {
+      "text_found": "{",
+      "confidence": "low",
+      "ann_id": 18237,
+      "current_cat": 75
+    },
+    {
+      "text_found": "{\n  \"text_found\": \"GOLD\",\n  \"product\": \"Cruesli\",\n  \"",
+      "confidence": "low",
+      "ann_id": 18238,
+      "current_cat": 75
+    },
+    {
+      "text_found": "Naturell",
+      "product": "Cruesli",
+      "confidence": "high",
+      "ann_id": 18239,
+      "current_cat": 75
+    },
+    {
+      "text_found": "{\n  \"",
+      "confidence": "low",
+      "ann_id": 18240,
+      "current_cat": 75
+    },
+    {
+      "text_found": "{\"text_found\": \"HAVRE",
+      "confidence": "low",
+      "ann_id": 18258,
+      "current_cat": 186
+    },
+    {
+      "text_found": "{\"text_found\": \"HAV",
+      "confidence": "low",
+      "ann_id": 18259,
+      "current_cat": 186
+    },
+    {
+      "text_found": "{\"text_found\":",
+      "confidence": "low",
+      "ann_id": 18260,
+      "current_cat": 186
+    },
+    {
+      "text_found": "{\"text_found\":",
+      "confidence": "low",
+      "ann_id": 18261,
+      "current_cat": 268
+    },
+    {
+      "text_found": "{\"text_found\":",
+      "confidence": "low",
+      "ann_id": 18262,
+      "current_cat": 268
+    },
+    {
+      "text_found": "{\"text_found",
+      "confidence": "low",
+      "ann_id": 18263,
+      "current_cat": 268
+    },
+    {
+      "text_found": "{\"text_",
+      "confidence": "low",
+      "ann_id": 18264,
+      "current_cat": 186
+    },
+    {
+      "text_found": "{\"text_found\":",
+      "confidence": "low",
+      "ann_id": 18265,
+      "current_cat": 186
+    },
+    {
+      "text_found": "{\"text_found",
+      "confidence": "low",
+      "ann_id": 18266,
+      "current_cat": 186
+    },
+    {
+      "text_found": "{\"text_found\": null",
+      "confidence": "low",
+      "ann_id": 18270,
+      "current_cat": 194
+    },
+    {
+      "text_found": "Havre / Oats",
+      "product": "Cheerios",
+      "confidence": "high",
+      "ann_id": 18298,
+      "current_cat": 181
+    },
+    {
+      "text_found": "{\"text",
+      "confidence": "low",
+      "ann_id": 18299,
+      "current_cat": 181
+    },
+    {
+      "text_found": "{\"text_",
+      "confidence": "low",
+      "ann_id": 18329,
+      "current_cat": 75
+    },
+    {
+      "text_found": "SOLFROKOST",
+      "product": "Cruesli",
+      "confidence": "high",
+      "ann_id": 18330,
+      "current_cat": 75
+    },
+    {
+      "text_found": "{\"text_found\": \"Kanel",
+      "confidence": "low",
+      "ann_id": 18345,
+      "current_cat": 186
+    },
+    {
+      "text_found": "{\"text_found\":",
+      "confidence": "low",
+      "ann_id": 18346,
+      "current_cat": 186
+    },
+    {
+      "text_found": "{\"text_found\":",
+      "confidence": "low",
+      "ann_id": 18347,
+      "current_cat": 186
+    },
+    {
+      "text_found": "{\"text_",
+      "confidence": "low",
+      "ann_id": 18348,
+      "current_cat": 268
+    },
+    {
+      "text_found": "{",
+      "confidence": "low",
+      "ann_id": 18349,
+      "current_cat": 268
+    },
+    {
+      "text_found": "{\"text_found",
+      "confidence": "low",
+      "ann_id": 18350,
+      "current_cat": 268
+    },
+    {
+      "text_found": "{\"text_found",
+      "confidence": "low",
+      "ann_id": 18351,
+      "current_cat": 268
+    },
+    {
+      "text_found": "{\"text_found\":",
+      "confidence": "low",
+      "ann_id": 18352,
+      "current_cat": 186
+    },
+    {
+      "text_found": "{\"text_found\":",
+      "confidence": "low",
+      "ann_id": 18353,
+      "current_cat": 186
+    },
+    {
+      "text_found": "{\"text_found\": \"undetermined",
+      "confidence": "low",
+      "ann_id": 18354,
+      "current_cat": 186
+    },
+    {
+      "text_found": "{\"text_",
+      "confidence": "low",
+      "ann_id": 18359,
+      "current_cat": 97
+    },
+    {
+      "text_found": "MULTIGRAIN",
+      "product": "Cheerios",
+      "confidence": "high",
+      "ann_id": 18360,
+      "current_cat": 97
+    },
+    {
+      "text_found": "MULTIGRAIN",
+      "product": "Cheerios",
+      "confidence": "high",
+      "ann_id": 18361,
+      "current_cat": 97
+    },
+    {
+      "text_found": "{\"text_found",
+      "confidence": "low",
+      "ann_id": 18370,
+      "current_cat": 194
+    },
+    {
+      "text_found": "{\"text",
+      "confidence": "low",
+      "ann_id": 18371,
+      "current_cat": 194
+    },
+    {
+      "text_found": "{\"text_found\":",
+      "confidence": "low",
+      "ann_id": 18406,
+      "current_cat": 181
+    },
+    {
+      "text_found": "{\"text_found\":",
+      "confidence": "low",
+      "ann_id": 18407,
+      "current_cat": 181
+    },
+    {
+      "text_found": "{\"text",
+      "confidence": "low",
+      "ann_id": 18408,
+      "current_cat": 97
+    },
+    {
+      "text_found": "{\"text",
+      "confidence": "low",
+      "ann_id": 18409,
+      "current_cat": 97
+    },
+    {
+      "text_found": "{\"text",
+      "confidence": "low",
+      "ann_id": 18413,
+      "current_cat": 75
+    },
+    {
+      "text_found": "{\"text_found\":",
+      "confidence": "low",
+      "ann_id": 18415,
+      "current_cat": 75
+    },
+    {
+      "text_found": "{\"text_found",
+      "confidence": "low",
+      "ann_id": 18416,
+      "current_cat": 75
+    },
+    {
+      "text_found": "{",
+      "confidence": "low",
+      "ann_id": 18420,
+      "current_cat": 75
+    },
+    {
+      "text_found": "{\"text_found\": \"4 N",
+      "confidence": "low",
+      "ann_id": 18421,
+      "current_cat": 75
+    },
+    {
+      "text_found": "{\"text_",
+      "confidence": "low",
+      "ann_id": 18422,
+      "current_cat": 75
+    },
+    {
+      "text_found": "4 Nøtter",
+      "product": "Cruesli",
+      "confidence": "high",
+      "ann_id": 18423,
+      "current_cat": 194
+    },
+    {
+      "text_found": "{\"text_found\": \"Solfrokost\", \"product\": \"Cruesli\", \"confidence\":",
+      "confidence": "low",
+      "ann_id": 18424,
+      "current_cat": 194
+    },
+    {
+      "text_found": "Solfrokost",
+      "product": "Cruesli",
+      "confidence": "high",
+      "ann_id": 18425,
+      "current_cat": 194
+    },
+    {
+      "text_found": "{\"text_",
+      "confidence": "low",
+      "ann_id": 18432,
+      "current_cat": 181
+    },
+    {
+      "text_found": "Oat",
+      "product": "Cheerios",
+      "confidence": "high",
+      "ann_id": 18433,
+      "current_cat": 181
+    },
+    {
+      "text_found": "Oat",
+      "product": "Cheerios",
+      "confidence": "high",
+      "ann_id": 18434,
+      "current_cat": 181
+    },
+    {
+      "text_found": "{\"text_found\": \"SKOGSBÆR\", \"product\": \"",
+      "confidence": "low",
+      "ann_id": 18452,
+      "current_cat": 268
+    },
+    {
+      "text_found": "{\"text_found\": \"",
+      "confidence": "low",
+      "ann_id": 18453,
+      "current_cat": 268
+    },
+    {
+      "text_found": "{\"text_found\": null",
+      "confidence": "low",
+      "ann_id": 18454,
+      "current_cat": 268
+    },
+    {
+      "text_found": "{\"text_found",
+      "confidence": "low",
+      "ann_id": 18457,
+      "current_cat": 186
+    },
+    {
+      "text_found": "{\"text_found",
+      "confidence": "low",
+      "ann_id": 18458,
+      "current_cat": 268
+    },
+    {
+      "text_found": "{\"text_found",
+      "confidence": "low",
+      "ann_id": 18459,
+      "current_cat": 268
+    },
+    {
+      "text_found": "N/A",
+      "product": "N/A",
+      "confidence": "low",
+      "ann_id": 18460,
+      "current_cat": 268
+    },
+    {
+      "text_found": "{\"text_found\":",
+      "confidence": "low",
+      "ann_id": 18461,
+      "current_cat": 268
+    },
+    {
+      "text_found": "{\"text_",
+      "confidence": "low",
+      "ann_id": 18470,
+      "current_cat": 75
+    },
+    {
+      "text_found": "4 Nuts",
+      "product": "Cruesli",
+      "confidence": "high",
+      "ann_id": 18471,
+      "current_cat": 75
+    },
+    {
+      "text_found": "{\"text_found\":",
+      "confidence": "low",
+      "ann_id": 18472,
+      "current_cat": 194
+    },
+    {
+      "text_found": "{\"text_",
+      "confidence": "low",
+      "ann_id": 18473,
+      "current_cat": 194
+    },
+    {
+      "text_found": "{\"text_found\": \"Oat\", \"",
+      "confidence": "low",
+      "ann_id": 18488,
+      "current_cat": 181
+    },
+    {
+      "text_found": "{\"text_",
+      "confidence": "low",
+      "ann_id": 18489,
+      "current_cat": 181
+    },
+    {
+      "text_found": "MULTIGRAIN",
+      "product": "Cheerios",
+      "confidence": "high",
+      "ann_id": 18490,
+      "current_cat": 97
+    },
+    {
+      "text_found": "MULTIGRAIN",
+      "product": "Cheerios",
+      "confidence": "high",
+      "ann_id": 18491,
+      "current_cat": 97
+    },
+    {
+      "text_found": "{\"text",
+      "confidence": "low",
+      "ann_id": 18503,
+      "current_cat": 194
+    },
+    {
+      "text_found": "{\n  \"text",
+      "confidence": "low",
+      "ann_id": 18504,
+      "current_cat": 194
+    },
+    {
+      "text_found": "{\"text_found\":",
+      "confidence": "low",
+      "ann_id": 18530,
+      "current_cat": 181
+    },
+    {
+      "text_found": "{",
+      "confidence": "low",
+      "ann_id": 18542,
+      "current_cat": 268
+    },
+    {
+      "text_found": "{\"text_found",
+      "confidence": "low",
+      "ann_id": 18543,
+      "current_cat": 268
+    },
+    {
+      "text_found": "EPLE & HVIT QUINOA",
+      "product": "SUPERGRØT",
+      "confidence": "high",
+      "ann_id": 18544,
+      "current_cat": 268
+    },
+    {
+      "text_found": "{",
+      "confidence": "low",
+      "ann_id": 18545,
+      "current_cat": 268
+    },
+    {
+      "text_found": "{\n  \"",
+      "confidence": "low",
+      "ann_id": 18546,
+      "current_cat": 268
+    },
+    {
+      "text_found": "{\"text_found\":",
+      "confidence": "low",
+      "ann_id": 18547,
+      "current_cat": 186
+    },
+    {
+      "text_found": "{\"text_found\": \"Skogsbær\", \"product\": \"Supergrøt\", \"",
+      "confidence": "low",
+      "ann_id": 18548,
+      "current_cat": 186
+    },
+    {
+      "text_found": "{\"text_found\": \"U",
+      "confidence": "low",
+      "ann_id": 18549,
+      "current_cat": 186
+    },
+    {
+      "text_found": "{\"text",
+      "confidence": "low",
+      "ann_id": 18550,
+      "current_cat": 186
+    },
+    {
+      "text_found": "{\"text",
+      "confidence": "low",
+      "ann_id": 19468,
+      "current_cat": 186
+    },
+    {
+      "text_found": "{\"text_found\": \"",
+      "confidence": "low",
+      "ann_id": 19469,
+      "current_cat": 268
+    },
+    {
+      "text_found": "{\"text_found\": \"",
+      "confidence": "low",
+      "ann_id": 19749,
+      "current_cat": 181
+    },
+    {
+      "text_found": "{\"text_found\":",
+      "confidence": "low",
+      "ann_id": 24168,
+      "current_cat": 97
+    },
+    {
+      "text_found": "Multigrain",
+      "product": "Cheerios",
+      "confidence": "high",
+      "ann_id": 24169,
+      "current_cat": 97
+    },
+    {
+      "text_found": "Multigrain",
+      "product": "Cheerios",
+      "confidence": "high",
+      "ann_id": 24170,
+      "current_cat": 97
+    },
+    {
+      "text_found": "Havre Kaura",
+      "product": "Cheerios",
+      "confidence": "high",
+      "ann_id": 24171,
+      "current_cat": 181
+    },
+    {
+      "text_found": "{\"text_found\":",
+      "confidence": "low",
+      "ann_id": 27296,
+      "current_cat": 97
+    },
+    {
+      "text_found": "{\n  \"text",
+      "confidence": "low",
+      "ann_id": 27297,
+      "current_cat": 97
+    },
+    {
+      "text_found": "{\"text_found\":",
+      "confidence": "low",
+      "ann_id": 27875,
+      "current_cat": 97
+    },
+    {
+      "text_found": "Multigrain",
+      "product": "Cheerios",
+      "confidence": "high",
+      "ann_id": 27876,
+      "current_cat": 97
+    },
+    {
+      "text_found": "{",
+      "confidence": "low",
+      "ann_id": 28875,
+      "current_cat": 97
+    },
+    {
+      "text_found": "{\"text_found\": \"4 NØTTER\",",
+      "confidence": "low",
+      "ann_id": 29188,
+      "current_cat": 75
+    },
+    {
+      "text_found": "{\"text_found\": \"not visible",
+      "confidence": "low",
+      "ann_id": 29189,
+      "current_cat": 75
+    },
+    {
+      "text_found": "{\"text_found\":",
+      "confidence": "low",
+      "ann_id": 29208,
+      "current_cat": 268
+    },
+    {
+      "text_found": "{\"text_found\": \"KAN",
+      "confidence": "low",
+      "ann_id": 29209,
+      "current_cat": 268
+    },
+    {
+      "text_found": "{\"text_found\":",
+      "confidence": "low",
+      "ann_id": 29210,
+      "current_cat": 268
+    },
+    {
+      "text_found": "{",
+      "confidence": "low",
+      "ann_id": 29211,
+      "current_cat": 268
+    },
+    {
+      "text_found": "{\"text_found",
+      "confidence": "low",
+      "ann_id": 29357,
+      "current_cat": 97
+    },
+    {
+      "text_found": "{\"text_found\": \"Original",
+      "confidence": "low",
+      "ann_id": 29358,
+      "current_cat": 97
+    },
+    {
+      "text_found": "{\"text_found\": \"4 N",
+      "confidence": "low",
+      "ann_id": 29561,
+      "current_cat": 75
+    },
+    {
+      "text_found": "4 NUTS",
+      "product": "Cruesli",
+      "confidence": "high",
+      "ann_id": 29562,
+      "current_cat": 75
+    },
+    {
+      "text_found": "{\"text_found\": \"4 NUTS",
+      "confidence": "low",
+      "ann_id": 29780,
+      "current_cat": 75
+    },
+    {
+      "text_found": "{\"text",
+      "confidence": "low",
+      "ann_id": 31552,
+      "current_cat": 194
+    },
+    {
+      "text_found": "{\"text",
+      "confidence": "low",
+      "ann_id": 31553,
+      "current_cat": 194
+    },
+    {
+      "text_found": "Multigrain",
+      "product": "Cheerios",
+      "confidence": "high",
+      "ann_id": 31554,
+      "current_cat": 97
+    },
+    {
+      "text_found": "{\n  \"text_found\": \"Multigrain\",\n  \"product\": \"Cheerios\",",
+      "confidence": "low",
+      "ann_id": 31555,
+      "current_cat": 97
+    },
+    {
+      "text_found": "{\"text_found\":",
+      "confidence": "low",
+      "ann_id": 31556,
+      "current_cat": 181
+    },
+    {
+      "text_found": "{\"text_found\": \"Original (",
+      "confidence": "low",
+      "ann_id": 31557,
+      "current_cat": 181
+    },
+    {
+      "text_found": "Multigrain",
+      "product": "Cheerios",
+      "confidence": "high",
+      "ann_id": 33341,
+      "current_cat": 97
+    },
+    {
+      "text_found": "Multigrain",
+      "product": "Cheerios",
+      "confidence": "high",
+      "ann_id": 33342,
+      "current_cat": 97
+    },
+    {
+      "text_found": "{\"text_found\":",
+      "confidence": "low",
+      "ann_id": 33343,
+      "current_cat": 97
+    },
+    {
+      "text_found": "{\"text_found\": \"4 Nøtter\", \"",
+      "confidence": "low",
+      "ann_id": 33763,
+      "current_cat": 75
+    }
+  ],
+  "contradictions": [
+    {
+      "ann_id": 10269,
+      "current_cat": 97,
+      "current_name": "CHEERIOS MULTI 375G NESTLE",
+      "reads": "Havre - Kaura",
+      "should_be": 181,
+      "should_name": "CHEERIOS HAVRE 375G NESTLE",
+      "conf": "high"
+    },
+    {
+      "ann_id": 11136,
+      "current_cat": 97,
+      "current_name": "CHEERIOS MULTI 375G NESTLE",
+      "reads": "Havre - Kaura",
+      "should_be": 181,
+      "should_name": "CHEERIOS HAVRE 375G NESTLE",
+      "conf": "high"
+    },
+    {
+      "ann_id": 11398,
+      "current_cat": 181,
+      "current_name": "CHEERIOS HAVRE 375G NESTLE",
+      "reads": "MULTIGRAIN",
+      "should_be": 97,
+      "should_name": "CHEERIOS MULTI 375G NESTLE",
+      "conf": "high"
+    },
+    {
+      "ann_id": 11399,
+      "current_cat": 181,
+      "current_name": "CHEERIOS HAVRE 375G NESTLE",
+      "reads": "MULTIGRAIN",
+      "should_be": 97,
+      "should_name": "CHEERIOS MULTI 375G NESTLE",
+      "conf": "high"
+    },
+    {
+      "ann_id": 11755,
+      "current_cat": 194,
+      "current_name": "CRUESLI SOLFROKOST 450G QUAKER",
+      "reads": "4 Nuts/Nøtter",
+      "should_be": 75,
+      "should_name": "CRUESLI 4 NUTS 450G QUAKER",
+      "conf": "high"
+    },
+    {
+      "ann_id": 12134,
+      "current_cat": 181,
+      "current_name": "CHEERIOS HAVRE 375G NESTLE",
+      "reads": "MULTIGRAIN",
+      "should_be": 97,
+      "should_name": "CHEERIOS MULTI 375G NESTLE",
+      "conf": "high"
+    },
+    {
+      "ann_id": 15342,
+      "current_cat": 194,
+      "current_name": "CRUESLI SOLFROKOST 450G QUAKER",
+      "reads": "4 Nøtter",
+      "should_be": 75,
+      "should_name": "CRUESLI 4 NUTS 450G QUAKER",
+      "conf": "high"
+    },
+    {
+      "ann_id": 15826,
+      "current_cat": 194,
+      "current_name": "CRUESLI SOLFROKOST 450G QUAKER",
+      "reads": "4 NØTTER",
+      "should_be": 75,
+      "should_name": "CRUESLI 4 NUTS 450G QUAKER",
+      "conf": "high"
+    },
+    {
+      "ann_id": 16425,
+      "current_cat": 97,
+      "current_name": "CHEERIOS MULTI 375G NESTLE",
+      "reads": "Havre-Kaura",
+      "should_be": 181,
+      "should_name": "CHEERIOS HAVRE 375G NESTLE",
+      "conf": "high"
+    },
+    {
+      "ann_id": 17630,
+      "current_cat": 75,
+      "current_name": "CRUESLI 4 NUTS 450G QUAKER",
+      "reads": "Solfrokost",
+      "should_be": 194,
+      "should_name": "CRUESLI SOLFROKOST 450G QUAKER",
+      "conf": "high"
+    },
+    {
+      "ann_id": 18330,
+      "current_cat": 75,
+      "current_name": "CRUESLI 4 NUTS 450G QUAKER",
+      "reads": "SOLFROKOST",
+      "should_be": 194,
+      "should_name": "CRUESLI SOLFROKOST 450G QUAKER",
+      "conf": "high"
+    },
+    {
+      "ann_id": 18423,
+      "current_cat": 194,
+      "current_name": "CRUESLI SOLFROKOST 450G QUAKER",
+      "reads": "4 Nøtter",
+      "should_be": 75,
+      "should_name": "CRUESLI 4 NUTS 450G QUAKER",
+      "conf": "high"
+    }
+  ]
+}

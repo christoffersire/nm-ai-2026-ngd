@@ -1,0 +1,4733 @@
+{
+  "results": [
+    {
+      "text_found": "{\"text_found\": \"",
+      "confidence": "low",
+      "ann_id": 58,
+      "current_cat": 100,
+      "current_name": "EVERGOOD CLASSIC FILTERMALT 250G",
+      "bbox_size": "106x134",
+      "image_name": "img_00001.jpg"
+    },
+    {
+      "text_found": "{\"text_found\": \"",
+      "confidence": "low",
+      "ann_id": 59,
+      "current_cat": 100,
+      "current_name": "EVERGOOD CLASSIC FILTERMALT 250G",
+      "bbox_size": "112x146",
+      "image_name": "img_00001.jpg"
+    },
+    {
+      "text_found": "FILTERMALT",
+      "confidence": "high",
+      "ann_id": 60,
+      "current_cat": 100,
+      "current_name": "EVERGOOD CLASSIC FILTERMALT 250G",
+      "bbox_size": "127x177",
+      "image_name": "img_00001.jpg"
+    },
+    {
+      "text_found": "FILTERMALT",
+      "confidence": "high",
+      "ann_id": 78,
+      "current_cat": 100,
+      "current_name": "EVERGOOD CLASSIC FILTERMALT 250G",
+      "bbox_size": "101x178",
+      "image_name": "img_00001.jpg"
+    },
+    {
+      "text_found": "FILTERMALT",
+      "confidence": "high",
+      "ann_id": 79,
+      "current_cat": 100,
+      "current_name": "EVERGOOD CLASSIC FILTERMALT 250G",
+      "bbox_size": "102x168",
+      "image_name": "img_00001.jpg"
+    },
+    {
+      "text_found": "FILTERMALT",
+      "confidence": "high",
+      "ann_id": 80,
+      "current_cat": 100,
+      "current_name": "EVERGOOD CLASSIC FILTERMALT 250G",
+      "bbox_size": "106x171",
+      "image_name": "img_00001.jpg"
+    },
+    {
+      "text_found": "{\"text_found",
+      "confidence": "low",
+      "ann_id": 92,
+      "current_cat": 100,
+      "current_name": "EVERGOOD CLASSIC FILTERMALT 250G",
+      "bbox_size": "114x156",
+      "image_name": "img_00001.jpg"
+    },
+    {
+      "text_found": "FILTERMALT",
+      "confidence": "high",
+      "ann_id": 93,
+      "current_cat": 100,
+      "current_name": "EVERGOOD CLASSIC FILTERMALT 250G",
+      "bbox_size": "143x151",
+      "image_name": "img_00001.jpg"
+    },
+    {
+      "text_found": "{\"text_found\": \"K",
+      "confidence": "low",
+      "ann_id": 96,
+      "current_cat": 304,
+      "current_name": "EVERGOOD CLASSIC KOKMALT 250G",
+      "bbox_size": "115x191",
+      "image_name": "img_00001.jpg"
+    },
+    {
+      "text_found": "{\"text_",
+      "confidence": "low",
+      "ann_id": 97,
+      "current_cat": 304,
+      "current_name": "EVERGOOD CLASSIC KOKMALT 250G",
+      "bbox_size": "72x183",
+      "image_name": "img_00001.jpg"
+    },
+    {
+      "text_found": "{\"text_found\": \"",
+      "confidence": "low",
+      "ann_id": 108,
+      "current_cat": 100,
+      "current_name": "EVERGOOD CLASSIC FILTERMALT 250G",
+      "bbox_size": "97x134",
+      "image_name": "img_00002.jpg"
+    },
+    {
+      "text_found": "KOKMALT",
+      "confidence": "high",
+      "ann_id": 134,
+      "current_cat": 304,
+      "current_name": "EVERGOOD CLASSIC KOKMALT 250G",
+      "bbox_size": "138x199",
+      "image_name": "img_00002.jpg"
+    },
+    {
+      "text_found": "KOKMALT",
+      "confidence": "high",
+      "ann_id": 135,
+      "current_cat": 304,
+      "current_name": "EVERGOOD CLASSIC KOKMALT 250G",
+      "bbox_size": "126x194",
+      "image_name": "img_00002.jpg"
+    },
+    {
+      "text_found": "FILTERMALT",
+      "confidence": "high",
+      "ann_id": 151,
+      "current_cat": 100,
+      "current_name": "EVERGOOD CLASSIC FILTERMALT 250G",
+      "bbox_size": "76x121",
+      "image_name": "img_00002.jpg"
+    },
+    {
+      "text_found": "FILTERMALT",
+      "confidence": "high",
+      "ann_id": 152,
+      "current_cat": 100,
+      "current_name": "EVERGOOD CLASSIC FILTERMALT 250G",
+      "bbox_size": "90x135",
+      "image_name": "img_00002.jpg"
+    },
+    {
+      "text_found": "FILTERMALT",
+      "confidence": "high",
+      "ann_id": 153,
+      "current_cat": 100,
+      "current_name": "EVERGOOD CLASSIC FILTERMALT 250G",
+      "bbox_size": "84x121",
+      "image_name": "img_00002.jpg"
+    },
+    {
+      "text_found": "FILTERMALT",
+      "confidence": "high",
+      "ann_id": 164,
+      "current_cat": 100,
+      "current_name": "EVERGOOD CLASSIC FILTERMALT 250G",
+      "bbox_size": "108x192",
+      "image_name": "img_00002.jpg"
+    },
+    {
+      "text_found": "{\"text_found",
+      "confidence": "low",
+      "ann_id": 165,
+      "current_cat": 100,
+      "current_name": "EVERGOOD CLASSIC FILTERMALT 250G",
+      "bbox_size": "89x185",
+      "image_name": "img_00002.jpg"
+    },
+    {
+      "text_found": "{\"text_found\": \"Ideal for",
+      "confidence": "low",
+      "ann_id": 166,
+      "current_cat": 100,
+      "current_name": "EVERGOOD CLASSIC FILTERMALT 250G",
+      "bbox_size": "113x151",
+      "image_name": "img_00002.jpg"
+    },
+    {
+      "text_found": "FILTERMALT",
+      "confidence": "high",
+      "ann_id": 167,
+      "current_cat": 100,
+      "current_name": "EVERGOOD CLASSIC FILTERMALT 250G",
+      "bbox_size": "97x187",
+      "image_name": "img_00002.jpg"
+    },
+    {
+      "text_found": "FILTERMALT",
+      "confidence": "high",
+      "ann_id": 168,
+      "current_cat": 100,
+      "current_name": "EVERGOOD CLASSIC FILTERMALT 250G",
+      "bbox_size": "98x184",
+      "image_name": "img_00002.jpg"
+    },
+    {
+      "text_found": "Classic",
+      "confidence": "high",
+      "ann_id": 368,
+      "current_cat": 304,
+      "current_name": "EVERGOOD CLASSIC KOKMALT 250G",
+      "bbox_size": "93x137",
+      "image_name": "img_00004.jpg"
+    },
+    {
+      "text_found": "CAFÉ CREMA",
+      "confidence": "high",
+      "ann_id": 369,
+      "current_cat": 304,
+      "current_name": "EVERGOOD CLASSIC KOKMALT 250G",
+      "bbox_size": "98x145",
+      "image_name": "img_00004.jpg"
+    },
+    {
+      "text_found": "{\"text_found\": \"Class",
+      "confidence": "low",
+      "ann_id": 431,
+      "current_cat": 100,
+      "current_name": "EVERGOOD CLASSIC FILTERMALT 250G",
+      "bbox_size": "86x128",
+      "image_name": "img_00004.jpg"
+    },
+    {
+      "text_found": "Classic",
+      "confidence": "high",
+      "ann_id": 432,
+      "current_cat": 100,
+      "current_name": "EVERGOOD CLASSIC FILTERMALT 250G",
+      "bbox_size": "86x114",
+      "image_name": "img_00004.jpg"
+    },
+    {
+      "text_found": "{\"text_found\": \"FILTER",
+      "confidence": "low",
+      "ann_id": 433,
+      "current_cat": 100,
+      "current_name": "EVERGOOD CLASSIC FILTERMALT 250G",
+      "bbox_size": "86x118",
+      "image_name": "img_00004.jpg"
+    },
+    {
+      "text_found": "{",
+      "confidence": "low",
+      "ann_id": 434,
+      "current_cat": 100,
+      "current_name": "EVERGOOD CLASSIC FILTERMALT 250G",
+      "bbox_size": "86x114",
+      "image_name": "img_00004.jpg"
+    },
+    {
+      "text_found": "Classic",
+      "confidence": "high",
+      "ann_id": 435,
+      "current_cat": 100,
+      "current_name": "EVERGOOD CLASSIC FILTERMALT 250G",
+      "bbox_size": "86x114",
+      "image_name": "img_00004.jpg"
+    },
+    {
+      "text_found": "{\"text_found\":",
+      "confidence": "low",
+      "ann_id": 436,
+      "current_cat": 100,
+      "current_name": "EVERGOOD CLASSIC FILTERMALT 250G",
+      "bbox_size": "86x114",
+      "image_name": "img_00004.jpg"
+    },
+    {
+      "text_found": "FILTERMALT",
+      "confidence": "high",
+      "ann_id": 437,
+      "current_cat": 100,
+      "current_name": "EVERGOOD CLASSIC FILTERMALT 250G",
+      "bbox_size": "96x122",
+      "image_name": "img_00004.jpg"
+    },
+    {
+      "text_found": "FILTERMALT",
+      "confidence": "high",
+      "ann_id": 438,
+      "current_cat": 100,
+      "current_name": "EVERGOOD CLASSIC FILTERMALT 250G",
+      "bbox_size": "95x134",
+      "image_name": "img_00004.jpg"
+    },
+    {
+      "text_found": "{\"text_found\": \"FILTERMALT\", \"confidence\":",
+      "confidence": "low",
+      "ann_id": 439,
+      "current_cat": 100,
+      "current_name": "EVERGOOD CLASSIC FILTERMALT 250G",
+      "bbox_size": "86x146",
+      "image_name": "img_00004.jpg"
+    },
+    {
+      "text_found": "{\"text_found\": \"KAQE",
+      "confidence": "low",
+      "ann_id": 440,
+      "current_cat": 100,
+      "current_name": "EVERGOOD CLASSIC FILTERMALT 250G",
+      "bbox_size": "86x135",
+      "image_name": "img_00004.jpg"
+    },
+    {
+      "text_found": "{\"text_found\": \"FILI",
+      "confidence": "low",
+      "ann_id": 441,
+      "current_cat": 100,
+      "current_name": "EVERGOOD CLASSIC FILTERMALT 250G",
+      "bbox_size": "87x128",
+      "image_name": "img_00004.jpg"
+    },
+    {
+      "text_found": "FILTERMALT",
+      "confidence": "high",
+      "ann_id": 442,
+      "current_cat": 100,
+      "current_name": "EVERGOOD CLASSIC FILTERMALT 250G",
+      "bbox_size": "96x129",
+      "image_name": "img_00004.jpg"
+    },
+    {
+      "text_found": "{\"text_found\": \"FILTERM",
+      "confidence": "low",
+      "ann_id": 443,
+      "current_cat": 100,
+      "current_name": "EVERGOOD CLASSIC FILTERMALT 250G",
+      "bbox_size": "86x146",
+      "image_name": "img_00004.jpg"
+    },
+    {
+      "text_found": "{\"text_found",
+      "confidence": "low",
+      "ann_id": 444,
+      "current_cat": 100,
+      "current_name": "EVERGOOD CLASSIC FILTERMALT 250G",
+      "bbox_size": "86x122",
+      "image_name": "img_00004.jpg"
+    },
+    {
+      "text_found": "{\"text_found\":",
+      "confidence": "low",
+      "ann_id": 445,
+      "current_cat": 100,
+      "current_name": "EVERGOOD CLASSIC FILTERMALT 250G",
+      "bbox_size": "86x114",
+      "image_name": "img_00004.jpg"
+    },
+    {
+      "text_found": "{\"text_",
+      "confidence": "low",
+      "ann_id": 446,
+      "current_cat": 100,
+      "current_name": "EVERGOOD CLASSIC FILTERMALT 250G",
+      "bbox_size": "87x114",
+      "image_name": "img_00004.jpg"
+    },
+    {
+      "text_found": "{\"text",
+      "confidence": "low",
+      "ann_id": 447,
+      "current_cat": 100,
+      "current_name": "EVERGOOD CLASSIC FILTERMALT 250G",
+      "bbox_size": "86x114",
+      "image_name": "img_00004.jpg"
+    },
+    {
+      "text_found": "{\"text_found\": \"FILTERM",
+      "confidence": "low",
+      "ann_id": 448,
+      "current_cat": 100,
+      "current_name": "EVERGOOD CLASSIC FILTERMALT 250G",
+      "bbox_size": "86x114",
+      "image_name": "img_00004.jpg"
+    },
+    {
+      "text_found": "FILTERMALT",
+      "confidence": "high",
+      "ann_id": 449,
+      "current_cat": 100,
+      "current_name": "EVERGOOD CLASSIC FILTERMALT 250G",
+      "bbox_size": "86x114",
+      "image_name": "img_00004.jpg"
+    },
+    {
+      "text_found": "{\"text_found\":",
+      "confidence": "low",
+      "ann_id": 450,
+      "current_cat": 100,
+      "current_name": "EVERGOOD CLASSIC FILTERMALT 250G",
+      "bbox_size": "86x114",
+      "image_name": "img_00004.jpg"
+    },
+    {
+      "text_found": "{\"text_found\": \"",
+      "confidence": "low",
+      "ann_id": 451,
+      "current_cat": 100,
+      "current_name": "EVERGOOD CLASSIC FILTERMALT 250G",
+      "bbox_size": "69x106",
+      "image_name": "img_00004.jpg"
+    },
+    {
+      "text_found": "FILTERMALT",
+      "confidence": "high",
+      "ann_id": 456,
+      "current_cat": 100,
+      "current_name": "EVERGOOD CLASSIC FILTERMALT 250G",
+      "bbox_size": "131x185",
+      "image_name": "img_00004.jpg"
+    },
+    {
+      "text_found": "FILTERMALT",
+      "confidence": "high",
+      "ann_id": 457,
+      "current_cat": 100,
+      "current_name": "EVERGOOD CLASSIC FILTERMALT 250G",
+      "bbox_size": "119x174",
+      "image_name": "img_00004.jpg"
+    },
+    {
+      "text_found": "FILTERMALT",
+      "confidence": "high",
+      "ann_id": 458,
+      "current_cat": 100,
+      "current_name": "EVERGOOD CLASSIC FILTERMALT 250G",
+      "bbox_size": "118x178",
+      "image_name": "img_00004.jpg"
+    },
+    {
+      "text_found": "FILTERMALT",
+      "confidence": "high",
+      "ann_id": 459,
+      "current_cat": 100,
+      "current_name": "EVERGOOD CLASSIC FILTERMALT 250G",
+      "bbox_size": "125x161",
+      "image_name": "img_00004.jpg"
+    },
+    {
+      "text_found": "{\n  \"",
+      "confidence": "low",
+      "ann_id": 460,
+      "current_cat": 100,
+      "current_name": "EVERGOOD CLASSIC FILTERMALT 250G",
+      "bbox_size": "77x111",
+      "image_name": "img_00004.jpg"
+    },
+    {
+      "text_found": "KOKMALT",
+      "confidence": "high",
+      "ann_id": 549,
+      "current_cat": 304,
+      "current_name": "EVERGOOD CLASSIC KOKMALT 250G",
+      "bbox_size": "190x333",
+      "image_name": "img_00005.jpg"
+    },
+    {
+      "text_found": "KOKMALT",
+      "confidence": "high",
+      "ann_id": 550,
+      "current_cat": 304,
+      "current_name": "EVERGOOD CLASSIC KOKMALT 250G",
+      "bbox_size": "190x333",
+      "image_name": "img_00005.jpg"
+    },
+    {
+      "text_found": "FILTERMALT",
+      "confidence": "high",
+      "ann_id": 576,
+      "current_cat": 100,
+      "current_name": "EVERGOOD CLASSIC FILTERMALT 250G",
+      "bbox_size": "202x272",
+      "image_name": "img_00005.jpg"
+    },
+    {
+      "text_found": "FILTERMALT",
+      "confidence": "high",
+      "ann_id": 577,
+      "current_cat": 100,
+      "current_name": "EVERGOOD CLASSIC FILTERMALT 250G",
+      "bbox_size": "190x264",
+      "image_name": "img_00005.jpg"
+    },
+    {
+      "text_found": "{\"text_found",
+      "confidence": "low",
+      "ann_id": 578,
+      "current_cat": 100,
+      "current_name": "EVERGOOD CLASSIC FILTERMALT 250G",
+      "bbox_size": "205x293",
+      "image_name": "img_00005.jpg"
+    },
+    {
+      "text_found": "{\"text_found\": \"PRESS",
+      "confidence": "low",
+      "ann_id": 590,
+      "current_cat": 100,
+      "current_name": "EVERGOOD CLASSIC FILTERMALT 250G",
+      "bbox_size": "166x339",
+      "image_name": "img_00005.jpg"
+    },
+    {
+      "text_found": "{\"text_found\": \"PRESSKAN",
+      "confidence": "low",
+      "ann_id": 642,
+      "current_cat": 304,
+      "current_name": "EVERGOOD CLASSIC KOKMALT 250G",
+      "bbox_size": "123x137",
+      "image_name": "img_00006.jpg"
+    },
+    {
+      "text_found": "{\"text_found\": \"FILTERM",
+      "confidence": "low",
+      "ann_id": 720,
+      "current_cat": 304,
+      "current_name": "EVERGOOD CLASSIC KOKMALT 250G",
+      "bbox_size": "125x173",
+      "image_name": "img_00006.jpg"
+    },
+    {
+      "text_found": "{\"text_found",
+      "confidence": "low",
+      "ann_id": 721,
+      "current_cat": 304,
+      "current_name": "EVERGOOD CLASSIC KOKMALT 250G",
+      "bbox_size": "106x153",
+      "image_name": "img_00006.jpg"
+    },
+    {
+      "text_found": "{\"text_",
+      "confidence": "low",
+      "ann_id": 722,
+      "current_cat": 304,
+      "current_name": "EVERGOOD CLASSIC KOKMALT 250G",
+      "bbox_size": "114x178",
+      "image_name": "img_00006.jpg"
+    },
+    {
+      "text_found": "{\"text_found\":",
+      "confidence": "low",
+      "ann_id": 723,
+      "current_cat": 304,
+      "current_name": "EVERGOOD CLASSIC KOKMALT 250G",
+      "bbox_size": "112x178",
+      "image_name": "img_00006.jpg"
+    },
+    {
+      "text_found": "{\"text_found\": \"K",
+      "confidence": "low",
+      "ann_id": 724,
+      "current_cat": 304,
+      "current_name": "EVERGOOD CLASSIC KOKMALT 250G",
+      "bbox_size": "111x178",
+      "image_name": "img_00006.jpg"
+    },
+    {
+      "text_found": "{\"text",
+      "confidence": "low",
+      "ann_id": 738,
+      "current_cat": 100,
+      "current_name": "EVERGOOD CLASSIC FILTERMALT 250G",
+      "bbox_size": "91x177",
+      "image_name": "img_00006.jpg"
+    },
+    {
+      "text_found": "{\"text_found\": \"FILTERM",
+      "confidence": "low",
+      "ann_id": 739,
+      "current_cat": 100,
+      "current_name": "EVERGOOD CLASSIC FILTERMALT 250G",
+      "bbox_size": "69x190",
+      "image_name": "img_00006.jpg"
+    },
+    {
+      "text_found": "{\"text_found\": \"FILTER",
+      "confidence": "low",
+      "ann_id": 740,
+      "current_cat": 100,
+      "current_name": "EVERGOOD CLASSIC FILTERMALT 250G",
+      "bbox_size": "96x181",
+      "image_name": "img_00006.jpg"
+    },
+    {
+      "text_found": "{\"text_found\": \"FILTERM",
+      "confidence": "low",
+      "ann_id": 741,
+      "current_cat": 100,
+      "current_name": "EVERGOOD CLASSIC FILTERMALT 250G",
+      "bbox_size": "94x179",
+      "image_name": "img_00006.jpg"
+    },
+    {
+      "text_found": "{",
+      "confidence": "low",
+      "ann_id": 742,
+      "current_cat": 100,
+      "current_name": "EVERGOOD CLASSIC FILTERMALT 250G",
+      "bbox_size": "65x161",
+      "image_name": "img_00006.jpg"
+    },
+    {
+      "text_found": "{\"text",
+      "confidence": "low",
+      "ann_id": 743,
+      "current_cat": 100,
+      "current_name": "EVERGOOD CLASSIC FILTERMALT 250G",
+      "bbox_size": "97x149",
+      "image_name": "img_00006.jpg"
+    },
+    {
+      "text_found": "{\"text_found",
+      "confidence": "low",
+      "ann_id": 744,
+      "current_cat": 100,
+      "current_name": "EVERGOOD CLASSIC FILTERMALT 250G",
+      "bbox_size": "89x174",
+      "image_name": "img_00006.jpg"
+    },
+    {
+      "text_found": "{\"text_found\": \"K",
+      "confidence": "low",
+      "ann_id": 745,
+      "current_cat": 100,
+      "current_name": "EVERGOOD CLASSIC FILTERMALT 250G",
+      "bbox_size": "75x163",
+      "image_name": "img_00006.jpg"
+    },
+    {
+      "text_found": "{\"text_found\": \"N",
+      "confidence": "low",
+      "ann_id": 746,
+      "current_cat": 100,
+      "current_name": "EVERGOOD CLASSIC FILTERMALT 250G",
+      "bbox_size": "88x203",
+      "image_name": "img_00006.jpg"
+    },
+    {
+      "text_found": "{\"text_found\": \"FILTERM",
+      "confidence": "low",
+      "ann_id": 747,
+      "current_cat": 100,
+      "current_name": "EVERGOOD CLASSIC FILTERMALT 250G",
+      "bbox_size": "131x206",
+      "image_name": "img_00006.jpg"
+    },
+    {
+      "text_found": "FILTERMALT",
+      "confidence": "high",
+      "ann_id": 748,
+      "current_cat": 100,
+      "current_name": "EVERGOOD CLASSIC FILTERMALT 250G",
+      "bbox_size": "113x184",
+      "image_name": "img_00006.jpg"
+    },
+    {
+      "text_found": "{\"text_found\": \"FILTERM",
+      "confidence": "low",
+      "ann_id": 749,
+      "current_cat": 100,
+      "current_name": "EVERGOOD CLASSIC FILTERMALT 250G",
+      "bbox_size": "109x168",
+      "image_name": "img_00006.jpg"
+    },
+    {
+      "text_found": "Classic",
+      "confidence": "high",
+      "ann_id": 750,
+      "current_cat": 100,
+      "current_name": "EVERGOOD CLASSIC FILTERMALT 250G",
+      "bbox_size": "145x165",
+      "image_name": "img_00006.jpg"
+    },
+    {
+      "text_found": "{\"text_",
+      "confidence": "low",
+      "ann_id": 751,
+      "current_cat": 100,
+      "current_name": "EVERGOOD CLASSIC FILTERMALT 250G",
+      "bbox_size": "112x163",
+      "image_name": "img_00006.jpg"
+    },
+    {
+      "text_found": "KOKMALT",
+      "confidence": "high",
+      "ann_id": 1069,
+      "current_cat": 304,
+      "current_name": "EVERGOOD CLASSIC KOKMALT 250G",
+      "bbox_size": "244x459",
+      "image_name": "img_00010.jpg"
+    },
+    {
+      "text_found": "KOKMALT",
+      "confidence": "high",
+      "ann_id": 1070,
+      "current_cat": 304,
+      "current_name": "EVERGOOD CLASSIC KOKMALT 250G",
+      "bbox_size": "253x447",
+      "image_name": "img_00010.jpg"
+    },
+    {
+      "text_found": "KOKMALT",
+      "confidence": "high",
+      "ann_id": 1071,
+      "current_cat": 304,
+      "current_name": "EVERGOOD CLASSIC KOKMALT 250G",
+      "bbox_size": "239x459",
+      "image_name": "img_00010.jpg"
+    },
+    {
+      "text_found": "FILTERMALT",
+      "confidence": "high",
+      "ann_id": 1085,
+      "current_cat": 304,
+      "current_name": "EVERGOOD CLASSIC KOKMALT 250G",
+      "bbox_size": "317x469",
+      "image_name": "img_00010.jpg"
+    },
+    {
+      "text_found": "FILTERMALT",
+      "confidence": "high",
+      "ann_id": 1093,
+      "current_cat": 100,
+      "current_name": "EVERGOOD CLASSIC FILTERMALT 250G",
+      "bbox_size": "126x295",
+      "image_name": "img_00010.jpg"
+    },
+    {
+      "text_found": "FILTERMALT",
+      "confidence": "high",
+      "ann_id": 1094,
+      "current_cat": 100,
+      "current_name": "EVERGOOD CLASSIC FILTERMALT 250G",
+      "bbox_size": "188x302",
+      "image_name": "img_00010.jpg"
+    },
+    {
+      "text_found": "FILTERMALT",
+      "confidence": "high",
+      "ann_id": 1095,
+      "current_cat": 100,
+      "current_name": "EVERGOOD CLASSIC FILTERMALT 250G",
+      "bbox_size": "189x315",
+      "image_name": "img_00010.jpg"
+    },
+    {
+      "text_found": "{\"text_found",
+      "confidence": "low",
+      "ann_id": 1096,
+      "current_cat": 100,
+      "current_name": "EVERGOOD CLASSIC FILTERMALT 250G",
+      "bbox_size": "140x357",
+      "image_name": "img_00010.jpg"
+    },
+    {
+      "text_found": "{\"text_",
+      "confidence": "low",
+      "ann_id": 1097,
+      "current_cat": 100,
+      "current_name": "EVERGOOD CLASSIC FILTERMALT 250G",
+      "bbox_size": "167x325",
+      "image_name": "img_00010.jpg"
+    },
+    {
+      "text_found": "FILTERMALT",
+      "confidence": "high",
+      "ann_id": 1098,
+      "current_cat": 100,
+      "current_name": "EVERGOOD CLASSIC FILTERMALT 250G",
+      "bbox_size": "205x315",
+      "image_name": "img_00010.jpg"
+    },
+    {
+      "text_found": "FILTERMALT",
+      "confidence": "high",
+      "ann_id": 1099,
+      "current_cat": 100,
+      "current_name": "EVERGOOD CLASSIC FILTERMALT 250G",
+      "bbox_size": "206x315",
+      "image_name": "img_00010.jpg"
+    },
+    {
+      "text_found": "{\"text_found\":",
+      "confidence": "low",
+      "ann_id": 1100,
+      "current_cat": 100,
+      "current_name": "EVERGOOD CLASSIC FILTERMALT 250G",
+      "bbox_size": "168x304",
+      "image_name": "img_00010.jpg"
+    },
+    {
+      "text_found": "FILTERMALT",
+      "confidence": "high",
+      "ann_id": 1101,
+      "current_cat": 100,
+      "current_name": "EVERGOOD CLASSIC FILTERMALT 250G",
+      "bbox_size": "214x447",
+      "image_name": "img_00010.jpg"
+    },
+    {
+      "text_found": "{\"text_",
+      "confidence": "low",
+      "ann_id": 1102,
+      "current_cat": 100,
+      "current_name": "EVERGOOD CLASSIC FILTERMALT 250G",
+      "bbox_size": "146x245",
+      "image_name": "img_00010.jpg"
+    },
+    {
+      "text_found": "Classic",
+      "confidence": "high",
+      "ann_id": 1103,
+      "current_cat": 100,
+      "current_name": "EVERGOOD CLASSIC FILTERMALT 250G",
+      "bbox_size": "146x229",
+      "image_name": "img_00010.jpg"
+    },
+    {
+      "text_found": "{\"text_found",
+      "confidence": "low",
+      "ann_id": 1116,
+      "current_cat": 100,
+      "current_name": "EVERGOOD CLASSIC FILTERMALT 250G",
+      "bbox_size": "175x268",
+      "image_name": "img_00010.jpg"
+    },
+    {
+      "text_found": "FILTERMALT",
+      "confidence": "high",
+      "ann_id": 1117,
+      "current_cat": 304,
+      "current_name": "EVERGOOD CLASSIC KOKMALT 250G",
+      "bbox_size": "268x450",
+      "image_name": "img_00010.jpg"
+    },
+    {
+      "text_found": "FILTERMALT",
+      "confidence": "high",
+      "ann_id": 1136,
+      "current_cat": 304,
+      "current_name": "EVERGOOD CLASSIC KOKMALT 250G",
+      "bbox_size": "277x465",
+      "image_name": "img_00010.jpg"
+    },
+    {
+      "text_found": "FILTERMALT",
+      "confidence": "high",
+      "ann_id": 1267,
+      "current_cat": 100,
+      "current_name": "EVERGOOD CLASSIC FILTERMALT 250G",
+      "bbox_size": "154x264",
+      "image_name": "img_00012.jpg"
+    },
+    {
+      "text_found": "{\"text_",
+      "confidence": "low",
+      "ann_id": 1268,
+      "current_cat": 100,
+      "current_name": "EVERGOOD CLASSIC FILTERMALT 250G",
+      "bbox_size": "140x208",
+      "image_name": "img_00012.jpg"
+    },
+    {
+      "text_found": "FILTERMALT",
+      "confidence": "high",
+      "ann_id": 1269,
+      "current_cat": 100,
+      "current_name": "EVERGOOD CLASSIC FILTERMALT 250G",
+      "bbox_size": "150x227",
+      "image_name": "img_00012.jpg"
+    },
+    {
+      "text_found": "FILTERMALT",
+      "confidence": "high",
+      "ann_id": 1270,
+      "current_cat": 100,
+      "current_name": "EVERGOOD CLASSIC FILTERMALT 250G",
+      "bbox_size": "137x243",
+      "image_name": "img_00012.jpg"
+    },
+    {
+      "text_found": "FILTERMALT",
+      "confidence": "high",
+      "ann_id": 1271,
+      "current_cat": 100,
+      "current_name": "EVERGOOD CLASSIC FILTERMALT 250G",
+      "bbox_size": "149x248",
+      "image_name": "img_00012.jpg"
+    },
+    {
+      "text_found": "FILTERMALT",
+      "confidence": "high",
+      "ann_id": 1272,
+      "current_cat": 100,
+      "current_name": "EVERGOOD CLASSIC FILTERMALT 250G",
+      "bbox_size": "153x222",
+      "image_name": "img_00012.jpg"
+    },
+    {
+      "text_found": "{\"text_found\":",
+      "confidence": "low",
+      "ann_id": 1273,
+      "current_cat": 100,
+      "current_name": "EVERGOOD CLASSIC FILTERMALT 250G",
+      "bbox_size": "140x227",
+      "image_name": "img_00012.jpg"
+    },
+    {
+      "text_found": "{\"text_",
+      "confidence": "low",
+      "ann_id": 1274,
+      "current_cat": 100,
+      "current_name": "EVERGOOD CLASSIC FILTERMALT 250G",
+      "bbox_size": "137x227",
+      "image_name": "img_00012.jpg"
+    },
+    {
+      "text_found": "FILTERMALT",
+      "confidence": "high",
+      "ann_id": 1275,
+      "current_cat": 100,
+      "current_name": "EVERGOOD CLASSIC FILTERMALT 250G",
+      "bbox_size": "149x227",
+      "image_name": "img_00012.jpg"
+    },
+    {
+      "text_found": "FILTERMALT",
+      "confidence": "high",
+      "ann_id": 1276,
+      "current_cat": 100,
+      "current_name": "EVERGOOD CLASSIC FILTERMALT 250G",
+      "bbox_size": "149x227",
+      "image_name": "img_00012.jpg"
+    },
+    {
+      "text_found": "FILTERMALT",
+      "confidence": "high",
+      "ann_id": 1277,
+      "current_cat": 100,
+      "current_name": "EVERGOOD CLASSIC FILTERMALT 250G",
+      "bbox_size": "144x212",
+      "image_name": "img_00012.jpg"
+    },
+    {
+      "text_found": "{\"text_found\":",
+      "confidence": "low",
+      "ann_id": 1278,
+      "current_cat": 100,
+      "current_name": "EVERGOOD CLASSIC FILTERMALT 250G",
+      "bbox_size": "136x222",
+      "image_name": "img_00012.jpg"
+    },
+    {
+      "text_found": "FILTERMALT",
+      "confidence": "high",
+      "ann_id": 1279,
+      "current_cat": 100,
+      "current_name": "EVERGOOD CLASSIC FILTERMALT 250G",
+      "bbox_size": "146x208",
+      "image_name": "img_00012.jpg"
+    },
+    {
+      "text_found": "FILTERMALT",
+      "confidence": "high",
+      "ann_id": 1280,
+      "current_cat": 100,
+      "current_name": "EVERGOOD CLASSIC FILTERMALT 250G",
+      "bbox_size": "140x212",
+      "image_name": "img_00012.jpg"
+    },
+    {
+      "text_found": "FILTERMALT",
+      "confidence": "high",
+      "ann_id": 1281,
+      "current_cat": 100,
+      "current_name": "EVERGOOD CLASSIC FILTERMALT 250G",
+      "bbox_size": "131x221",
+      "image_name": "img_00012.jpg"
+    },
+    {
+      "text_found": "{\"text",
+      "confidence": "low",
+      "ann_id": 1282,
+      "current_cat": 100,
+      "current_name": "EVERGOOD CLASSIC FILTERMALT 250G",
+      "bbox_size": "162x248",
+      "image_name": "img_00012.jpg"
+    },
+    {
+      "text_found": "{\"text_found\": \"",
+      "confidence": "low",
+      "ann_id": 1300,
+      "current_cat": 100,
+      "current_name": "EVERGOOD CLASSIC FILTERMALT 250G",
+      "bbox_size": "177x223",
+      "image_name": "img_00012.jpg"
+    },
+    {
+      "text_found": "FILTERMALT",
+      "confidence": "high",
+      "ann_id": 1301,
+      "current_cat": 100,
+      "current_name": "EVERGOOD CLASSIC FILTERMALT 250G",
+      "bbox_size": "131x251",
+      "image_name": "img_00012.jpg"
+    },
+    {
+      "text_found": "FILTERMALT",
+      "confidence": "high",
+      "ann_id": 1302,
+      "current_cat": 100,
+      "current_name": "EVERGOOD CLASSIC FILTERMALT 250G",
+      "bbox_size": "152x279",
+      "image_name": "img_00012.jpg"
+    },
+    {
+      "text_found": "{\"text_found\":",
+      "confidence": "low",
+      "ann_id": 1303,
+      "current_cat": 100,
+      "current_name": "EVERGOOD CLASSIC FILTERMALT 250G",
+      "bbox_size": "114x237",
+      "image_name": "img_00012.jpg"
+    },
+    {
+      "text_found": "{\"text_found\": \"Unable to",
+      "confidence": "low",
+      "ann_id": 1316,
+      "current_cat": 304,
+      "current_name": "EVERGOOD CLASSIC KOKMALT 250G",
+      "bbox_size": "119x260",
+      "image_name": "img_00012.jpg"
+    },
+    {
+      "text_found": "{\"text_found",
+      "confidence": "low",
+      "ann_id": 1317,
+      "current_cat": 304,
+      "current_name": "EVERGOOD CLASSIC KOKMALT 250G",
+      "bbox_size": "172x311",
+      "image_name": "img_00012.jpg"
+    },
+    {
+      "text_found": "{\"text_found",
+      "confidence": "low",
+      "ann_id": 1318,
+      "current_cat": 304,
+      "current_name": "EVERGOOD CLASSIC KOKMALT 250G",
+      "bbox_size": "135x230",
+      "image_name": "img_00012.jpg"
+    },
+    {
+      "text_found": "{\"text_found\":",
+      "confidence": "low",
+      "ann_id": 1319,
+      "current_cat": 304,
+      "current_name": "EVERGOOD CLASSIC KOKMALT 250G",
+      "bbox_size": "156x244",
+      "image_name": "img_00012.jpg"
+    },
+    {
+      "text_found": "{\"text_found",
+      "confidence": "low",
+      "ann_id": 1320,
+      "current_cat": 304,
+      "current_name": "EVERGOOD CLASSIC KOKMALT 250G",
+      "bbox_size": "116x232",
+      "image_name": "img_00012.jpg"
+    },
+    {
+      "text_found": "{\"text_found\": \"EVEREST",
+      "confidence": "low",
+      "ann_id": 1321,
+      "current_cat": 304,
+      "current_name": "EVERGOOD CLASSIC KOKMALT 250G",
+      "bbox_size": "149x211",
+      "image_name": "img_00012.jpg"
+    },
+    {
+      "text_found": "KOKMALT",
+      "confidence": "high",
+      "ann_id": 1322,
+      "current_cat": 304,
+      "current_name": "EVERGOOD CLASSIC KOKMALT 250G",
+      "bbox_size": "188x286",
+      "image_name": "img_00012.jpg"
+    },
+    {
+      "text_found": "{\"text_found",
+      "confidence": "low",
+      "ann_id": 1323,
+      "current_cat": 304,
+      "current_name": "EVERGOOD CLASSIC KOKMALT 250G",
+      "bbox_size": "116x242",
+      "image_name": "img_00012.jpg"
+    },
+    {
+      "text_found": "FILTERMALT",
+      "confidence": "high",
+      "ann_id": 1385,
+      "current_cat": 100,
+      "current_name": "EVERGOOD CLASSIC FILTERMALT 250G",
+      "bbox_size": "281x380",
+      "image_name": "img_00013.jpg"
+    },
+    {
+      "text_found": "FILTERMALT",
+      "confidence": "high",
+      "ann_id": 1398,
+      "current_cat": 100,
+      "current_name": "EVERGOOD CLASSIC FILTERMALT 250G",
+      "bbox_size": "160x270",
+      "image_name": "img_00013.jpg"
+    },
+    {
+      "text_found": "{\"text_found\":",
+      "confidence": "low",
+      "ann_id": 1449,
+      "current_cat": 304,
+      "current_name": "EVERGOOD CLASSIC KOKMALT 250G",
+      "bbox_size": "178x263",
+      "image_name": "img_00013.jpg"
+    },
+    {
+      "text_found": "KOKMALT",
+      "confidence": "high",
+      "ann_id": 1450,
+      "current_cat": 304,
+      "current_name": "EVERGOOD CLASSIC KOKMALT 250G",
+      "bbox_size": "163x262",
+      "image_name": "img_00013.jpg"
+    },
+    {
+      "text_found": "{\"text_",
+      "confidence": "low",
+      "ann_id": 1451,
+      "current_cat": 304,
+      "current_name": "EVERGOOD CLASSIC KOKMALT 250G",
+      "bbox_size": "126x262",
+      "image_name": "img_00013.jpg"
+    },
+    {
+      "text_found": "{\"text_found\": \"FILTER",
+      "confidence": "low",
+      "ann_id": 1452,
+      "current_cat": 100,
+      "current_name": "EVERGOOD CLASSIC FILTERMALT 250G",
+      "bbox_size": "99x219",
+      "image_name": "img_00013.jpg"
+    },
+    {
+      "text_found": "FILTERMALT",
+      "confidence": "high",
+      "ann_id": 1464,
+      "current_cat": 100,
+      "current_name": "EVERGOOD CLASSIC FILTERMALT 250G",
+      "bbox_size": "157x221",
+      "image_name": "img_00013.jpg"
+    },
+    {
+      "text_found": "FILTERMALT",
+      "confidence": "high",
+      "ann_id": 1465,
+      "current_cat": 100,
+      "current_name": "EVERGOOD CLASSIC FILTERMALT 250G",
+      "bbox_size": "182x263",
+      "image_name": "img_00013.jpg"
+    },
+    {
+      "text_found": "FILTERMALT",
+      "confidence": "high",
+      "ann_id": 1466,
+      "current_cat": 100,
+      "current_name": "EVERGOOD CLASSIC FILTERMALT 250G",
+      "bbox_size": "128x280",
+      "image_name": "img_00013.jpg"
+    },
+    {
+      "text_found": "{\"text_found\": \"YER",
+      "confidence": "low",
+      "ann_id": 1527,
+      "current_cat": 100,
+      "current_name": "EVERGOOD CLASSIC FILTERMALT 250G",
+      "bbox_size": "73x157",
+      "image_name": "img_00014.jpg"
+    },
+    {
+      "text_found": "{",
+      "confidence": "low",
+      "ann_id": 1528,
+      "current_cat": 100,
+      "current_name": "EVERGOOD CLASSIC FILTERMALT 250G",
+      "bbox_size": "85x162",
+      "image_name": "img_00014.jpg"
+    },
+    {
+      "text_found": "FILTERMALT",
+      "confidence": "high",
+      "ann_id": 1529,
+      "current_cat": 100,
+      "current_name": "EVERGOOD CLASSIC FILTERMALT 250G",
+      "bbox_size": "89x168",
+      "image_name": "img_00014.jpg"
+    },
+    {
+      "text_found": "{\"text_found\": \"",
+      "confidence": "low",
+      "ann_id": 1530,
+      "current_cat": 100,
+      "current_name": "EVERGOOD CLASSIC FILTERMALT 250G",
+      "bbox_size": "55x162",
+      "image_name": "img_00014.jpg"
+    },
+    {
+      "text_found": "Classic",
+      "confidence": "high",
+      "ann_id": 1531,
+      "current_cat": 100,
+      "current_name": "EVERGOOD CLASSIC FILTERMALT 250G",
+      "bbox_size": "66x163",
+      "image_name": "img_00014.jpg"
+    },
+    {
+      "text_found": "{\"text_found\": \"KOP",
+      "confidence": "low",
+      "ann_id": 1532,
+      "current_cat": 100,
+      "current_name": "EVERGOOD CLASSIC FILTERMALT 250G",
+      "bbox_size": "81x162",
+      "image_name": "img_00014.jpg"
+    },
+    {
+      "text_found": "{\"text_found\":",
+      "confidence": "low",
+      "ann_id": 1533,
+      "current_cat": 100,
+      "current_name": "EVERGOOD CLASSIC FILTERMALT 250G",
+      "bbox_size": "66x159",
+      "image_name": "img_00014.jpg"
+    },
+    {
+      "text_found": "{\"text_found\": \"GOOD",
+      "confidence": "low",
+      "ann_id": 1534,
+      "current_cat": 100,
+      "current_name": "EVERGOOD CLASSIC FILTERMALT 250G",
+      "bbox_size": "56x124",
+      "image_name": "img_00014.jpg"
+    },
+    {
+      "text_found": "{\"text",
+      "confidence": "low",
+      "ann_id": 1535,
+      "current_cat": 100,
+      "current_name": "EVERGOOD CLASSIC FILTERMALT 250G",
+      "bbox_size": "94x124",
+      "image_name": "img_00014.jpg"
+    },
+    {
+      "text_found": "FILTERMALT",
+      "confidence": "high",
+      "ann_id": 1536,
+      "current_cat": 100,
+      "current_name": "EVERGOOD CLASSIC FILTERMALT 250G",
+      "bbox_size": "92x129",
+      "image_name": "img_00014.jpg"
+    },
+    {
+      "text_found": "{\"text_found\": \"EVERGE",
+      "confidence": "low",
+      "ann_id": 1537,
+      "current_cat": 100,
+      "current_name": "EVERGOOD CLASSIC FILTERMALT 250G",
+      "bbox_size": "53x123",
+      "image_name": "img_00014.jpg"
+    },
+    {
+      "text_found": "{\"text_found\":",
+      "confidence": "low",
+      "ann_id": 1538,
+      "current_cat": 100,
+      "current_name": "EVERGOOD CLASSIC FILTERMALT 250G",
+      "bbox_size": "61x137",
+      "image_name": "img_00014.jpg"
+    },
+    {
+      "text_found": "{\"text_found\":",
+      "confidence": "low",
+      "ann_id": 1539,
+      "current_cat": 100,
+      "current_name": "EVERGOOD CLASSIC FILTERMALT 250G",
+      "bbox_size": "85x137",
+      "image_name": "img_00014.jpg"
+    },
+    {
+      "text_found": "{\"text_",
+      "confidence": "low",
+      "ann_id": 1540,
+      "current_cat": 100,
+      "current_name": "EVERGOOD CLASSIC FILTERMALT 250G",
+      "bbox_size": "52x141",
+      "image_name": "img_00014.jpg"
+    },
+    {
+      "text_found": "{\"text_found\": \"",
+      "confidence": "low",
+      "ann_id": 1548,
+      "current_cat": 100,
+      "current_name": "EVERGOOD CLASSIC FILTERMALT 250G",
+      "bbox_size": "61x127",
+      "image_name": "img_00014.jpg"
+    },
+    {
+      "text_found": "Classic",
+      "confidence": "high",
+      "ann_id": 1549,
+      "current_cat": 100,
+      "current_name": "EVERGOOD CLASSIC FILTERMALT 250G",
+      "bbox_size": "95x126",
+      "image_name": "img_00014.jpg"
+    },
+    {
+      "text_found": "{\"text_found\": \"EVER",
+      "confidence": "low",
+      "ann_id": 1550,
+      "current_cat": 100,
+      "current_name": "EVERGOOD CLASSIC FILTERMALT 250G",
+      "bbox_size": "95x119",
+      "image_name": "img_00014.jpg"
+    },
+    {
+      "text_found": "{\"text_found\": \"",
+      "confidence": "low",
+      "ann_id": 1551,
+      "current_cat": 100,
+      "current_name": "EVERGOOD CLASSIC FILTERMALT 250G",
+      "bbox_size": "49x113",
+      "image_name": "img_00014.jpg"
+    },
+    {
+      "text_found": "{\"text_found\": \"",
+      "confidence": "low",
+      "ann_id": 1552,
+      "current_cat": 100,
+      "current_name": "EVERGOOD CLASSIC FILTERMALT 250G",
+      "bbox_size": "51x131",
+      "image_name": "img_00014.jpg"
+    },
+    {
+      "text_found": "{\"text_found\": \"",
+      "confidence": "low",
+      "ann_id": 1553,
+      "current_cat": 100,
+      "current_name": "EVERGOOD CLASSIC FILTERMALT 250G",
+      "bbox_size": "85x135",
+      "image_name": "img_00014.jpg"
+    },
+    {
+      "text_found": "{\"text_found\": \"M",
+      "confidence": "low",
+      "ann_id": 1554,
+      "current_cat": 100,
+      "current_name": "EVERGOOD CLASSIC FILTERMALT 250G",
+      "bbox_size": "59x137",
+      "image_name": "img_00014.jpg"
+    },
+    {
+      "text_found": "{\"text",
+      "confidence": "low",
+      "ann_id": 1607,
+      "current_cat": 304,
+      "current_name": "EVERGOOD CLASSIC KOKMALT 250G",
+      "bbox_size": "141x213",
+      "image_name": "img_00014.jpg"
+    },
+    {
+      "text_found": "{\"text",
+      "confidence": "low",
+      "ann_id": 1608,
+      "current_cat": 304,
+      "current_name": "EVERGOOD CLASSIC KOKMALT 250G",
+      "bbox_size": "129x212",
+      "image_name": "img_00014.jpg"
+    },
+    {
+      "text_found": "{\"text_found\": \"",
+      "confidence": "low",
+      "ann_id": 1609,
+      "current_cat": 304,
+      "current_name": "EVERGOOD CLASSIC KOKMALT 250G",
+      "bbox_size": "137x211",
+      "image_name": "img_00014.jpg"
+    },
+    {
+      "text_found": "{\"text_found\": \"MALT",
+      "confidence": "low",
+      "ann_id": 1610,
+      "current_cat": 304,
+      "current_name": "EVERGOOD CLASSIC KOKMALT 250G",
+      "bbox_size": "122x206",
+      "image_name": "img_00014.jpg"
+    },
+    {
+      "text_found": "{\"text_found\":",
+      "confidence": "low",
+      "ann_id": 1611,
+      "current_cat": 304,
+      "current_name": "EVERGOOD CLASSIC KOKMALT 250G",
+      "bbox_size": "129x206",
+      "image_name": "img_00014.jpg"
+    },
+    {
+      "text_found": "{\"text",
+      "confidence": "low",
+      "ann_id": 1644,
+      "current_cat": 100,
+      "current_name": "EVERGOOD CLASSIC FILTERMALT 250G",
+      "bbox_size": "91x165",
+      "image_name": "img_00014.jpg"
+    },
+    {
+      "text_found": "{\"text_found\": \"None",
+      "confidence": "low",
+      "ann_id": 1645,
+      "current_cat": 100,
+      "current_name": "EVERGOOD CLASSIC FILTERMALT 250G",
+      "bbox_size": "106x168",
+      "image_name": "img_00014.jpg"
+    },
+    {
+      "text_found": "{\"text_",
+      "confidence": "low",
+      "ann_id": 1646,
+      "current_cat": 100,
+      "current_name": "EVERGOOD CLASSIC FILTERMALT 250G",
+      "bbox_size": "89x147",
+      "image_name": "img_00014.jpg"
+    },
+    {
+      "text_found": "{\"text_",
+      "confidence": "low",
+      "ann_id": 1647,
+      "current_cat": 100,
+      "current_name": "EVERGOOD CLASSIC FILTERMALT 250G",
+      "bbox_size": "100x159",
+      "image_name": "img_00014.jpg"
+    },
+    {
+      "text_found": "{\"text_found\": \"",
+      "confidence": "low",
+      "ann_id": 1923,
+      "current_cat": 304,
+      "current_name": "EVERGOOD CLASSIC KOKMALT 250G",
+      "bbox_size": "88x140",
+      "image_name": "img_00017.jpg"
+    },
+    {
+      "text_found": "{\"text_found\":",
+      "confidence": "low",
+      "ann_id": 1924,
+      "current_cat": 304,
+      "current_name": "EVERGOOD CLASSIC KOKMALT 250G",
+      "bbox_size": "79x140",
+      "image_name": "img_00017.jpg"
+    },
+    {
+      "text_found": "{\"text_found\": \"",
+      "confidence": "low",
+      "ann_id": 1956,
+      "current_cat": 304,
+      "current_name": "EVERGOOD CLASSIC KOKMALT 250G",
+      "bbox_size": "85x119",
+      "image_name": "img_00017.jpg"
+    },
+    {
+      "text_found": "{\"text_found\":",
+      "confidence": "low",
+      "ann_id": 1957,
+      "current_cat": 304,
+      "current_name": "EVERGOOD CLASSIC KOKMALT 250G",
+      "bbox_size": "77x117",
+      "image_name": "img_00017.jpg"
+    },
+    {
+      "text_found": "{\"text_found\":",
+      "confidence": "low",
+      "ann_id": 2000,
+      "current_cat": 100,
+      "current_name": "EVERGOOD CLASSIC FILTERMALT 250G",
+      "bbox_size": "81x130",
+      "image_name": "img_00017.jpg"
+    },
+    {
+      "text_found": "{\"text_found\": \"Filterm",
+      "confidence": "low",
+      "ann_id": 2001,
+      "current_cat": 100,
+      "current_name": "EVERGOOD CLASSIC FILTERMALT 250G",
+      "bbox_size": "70x130",
+      "image_name": "img_00017.jpg"
+    },
+    {
+      "text_found": "FILTERMALT",
+      "confidence": "high",
+      "ann_id": 2053,
+      "current_cat": 100,
+      "current_name": "EVERGOOD CLASSIC FILTERMALT 250G",
+      "bbox_size": "63x102",
+      "image_name": "img_00017.jpg"
+    },
+    {
+      "text_found": "{\"text_found\":",
+      "confidence": "low",
+      "ann_id": 2054,
+      "current_cat": 100,
+      "current_name": "EVERGOOD CLASSIC FILTERMALT 250G",
+      "bbox_size": "54x114",
+      "image_name": "img_00017.jpg"
+    },
+    {
+      "text_found": "{\"text_found\": \"Cannot read",
+      "confidence": "low",
+      "ann_id": 2055,
+      "current_cat": 100,
+      "current_name": "EVERGOOD CLASSIC FILTERMALT 250G",
+      "bbox_size": "125x238",
+      "image_name": "img_00018.jpg"
+    },
+    {
+      "text_found": "KOKMALT",
+      "confidence": "high",
+      "ann_id": 2056,
+      "current_cat": 100,
+      "current_name": "EVERGOOD CLASSIC FILTERMALT 250G",
+      "bbox_size": "177x204",
+      "image_name": "img_00018.jpg"
+    },
+    {
+      "text_found": "{\"text_found\":",
+      "confidence": "low",
+      "ann_id": 2057,
+      "current_cat": 100,
+      "current_name": "EVERGOOD CLASSIC FILTERMALT 250G",
+      "bbox_size": "155x192",
+      "image_name": "img_00018.jpg"
+    },
+    {
+      "text_found": "KOKMALT",
+      "confidence": "high",
+      "ann_id": 2058,
+      "current_cat": 100,
+      "current_name": "EVERGOOD CLASSIC FILTERMALT 250G",
+      "bbox_size": "154x178",
+      "image_name": "img_00018.jpg"
+    },
+    {
+      "text_found": "{",
+      "confidence": "low",
+      "ann_id": 2059,
+      "current_cat": 100,
+      "current_name": "EVERGOOD CLASSIC FILTERMALT 250G",
+      "bbox_size": "166x177",
+      "image_name": "img_00018.jpg"
+    },
+    {
+      "text_found": "FILTERMALT",
+      "confidence": "high",
+      "ann_id": 2060,
+      "current_cat": 100,
+      "current_name": "EVERGOOD CLASSIC FILTERMALT 250G",
+      "bbox_size": "170x221",
+      "image_name": "img_00018.jpg"
+    },
+    {
+      "text_found": "FILTERMALT",
+      "confidence": "high",
+      "ann_id": 2061,
+      "current_cat": 100,
+      "current_name": "EVERGOOD CLASSIC FILTERMALT 250G",
+      "bbox_size": "166x215",
+      "image_name": "img_00018.jpg"
+    },
+    {
+      "text_found": "FILTERMALT",
+      "confidence": "high",
+      "ann_id": 2062,
+      "current_cat": 100,
+      "current_name": "EVERGOOD CLASSIC FILTERMALT 250G",
+      "bbox_size": "175x226",
+      "image_name": "img_00018.jpg"
+    },
+    {
+      "text_found": "{\"text_found\": \"Cannot",
+      "confidence": "low",
+      "ann_id": 2063,
+      "current_cat": 100,
+      "current_name": "EVERGOOD CLASSIC FILTERMALT 250G",
+      "bbox_size": "166x222",
+      "image_name": "img_00018.jpg"
+    },
+    {
+      "text_found": "FILTERMALT",
+      "confidence": "high",
+      "ann_id": 2064,
+      "current_cat": 100,
+      "current_name": "EVERGOOD CLASSIC FILTERMALT 250G",
+      "bbox_size": "179x259",
+      "image_name": "img_00018.jpg"
+    },
+    {
+      "text_found": "FILTERMALT",
+      "confidence": "high",
+      "ann_id": 2065,
+      "current_cat": 100,
+      "current_name": "EVERGOOD CLASSIC FILTERMALT 250G",
+      "bbox_size": "166x214",
+      "image_name": "img_00018.jpg"
+    },
+    {
+      "text_found": "FILTERMALT",
+      "confidence": "high",
+      "ann_id": 2066,
+      "current_cat": 100,
+      "current_name": "EVERGOOD CLASSIC FILTERMALT 250G",
+      "bbox_size": "166x201",
+      "image_name": "img_00018.jpg"
+    },
+    {
+      "text_found": "{\"text_found\": \"FILTERMALT\", \"confidence\": \"high",
+      "confidence": "low",
+      "ann_id": 2067,
+      "current_cat": 100,
+      "current_name": "EVERGOOD CLASSIC FILTERMALT 250G",
+      "bbox_size": "166x204",
+      "image_name": "img_00018.jpg"
+    },
+    {
+      "text_found": "{\"text_found\":",
+      "confidence": "low",
+      "ann_id": 2094,
+      "current_cat": 304,
+      "current_name": "EVERGOOD CLASSIC KOKMALT 250G",
+      "bbox_size": "146x262",
+      "image_name": "img_00018.jpg"
+    },
+    {
+      "text_found": "{\"text",
+      "confidence": "low",
+      "ann_id": 2095,
+      "current_cat": 304,
+      "current_name": "EVERGOOD CLASSIC KOKMALT 250G",
+      "bbox_size": "166x270",
+      "image_name": "img_00018.jpg"
+    },
+    {
+      "text_found": "FILTERMALT",
+      "confidence": "high",
+      "ann_id": 2104,
+      "current_cat": 100,
+      "current_name": "EVERGOOD CLASSIC FILTERMALT 250G",
+      "bbox_size": "194x296",
+      "image_name": "img_00018.jpg"
+    },
+    {
+      "text_found": "FILTERMALT",
+      "confidence": "high",
+      "ann_id": 2105,
+      "current_cat": 100,
+      "current_name": "EVERGOOD CLASSIC FILTERMALT 250G",
+      "bbox_size": "194x289",
+      "image_name": "img_00018.jpg"
+    },
+    {
+      "text_found": "FILTERMALT",
+      "confidence": "high",
+      "ann_id": 2106,
+      "current_cat": 100,
+      "current_name": "EVERGOOD CLASSIC FILTERMALT 250G",
+      "bbox_size": "187x288",
+      "image_name": "img_00018.jpg"
+    },
+    {
+      "text_found": "KOKMALT",
+      "confidence": "high",
+      "ann_id": 2272,
+      "current_cat": 304,
+      "current_name": "EVERGOOD CLASSIC KOKMALT 250G",
+      "bbox_size": "260x491",
+      "image_name": "img_00019.jpg"
+    },
+    {
+      "text_found": "KOKMALT",
+      "confidence": "high",
+      "ann_id": 2273,
+      "current_cat": 304,
+      "current_name": "EVERGOOD CLASSIC KOKMALT 250G",
+      "bbox_size": "221x454",
+      "image_name": "img_00019.jpg"
+    },
+    {
+      "text_found": "{\"text_found\": \"",
+      "confidence": "low",
+      "ann_id": 2274,
+      "current_cat": 304,
+      "current_name": "EVERGOOD CLASSIC KOKMALT 250G",
+      "bbox_size": "194x460",
+      "image_name": "img_00019.jpg"
+    },
+    {
+      "text_found": "{\"text_found",
+      "confidence": "low",
+      "ann_id": 2326,
+      "current_cat": 100,
+      "current_name": "EVERGOOD CLASSIC FILTERMALT 250G",
+      "bbox_size": "228x401",
+      "image_name": "img_00019.jpg"
+    },
+    {
+      "text_found": "FILTERMALT",
+      "confidence": "high",
+      "ann_id": 2327,
+      "current_cat": 304,
+      "current_name": "EVERGOOD CLASSIC KOKMALT 250G",
+      "bbox_size": "173x388",
+      "image_name": "img_00019.jpg"
+    },
+    {
+      "text_found": "{\"text",
+      "confidence": "low",
+      "ann_id": 2348,
+      "current_cat": 100,
+      "current_name": "EVERGOOD CLASSIC FILTERMALT 250G",
+      "bbox_size": "223x321",
+      "image_name": "img_00019.jpg"
+    },
+    {
+      "text_found": "FILTERMALT",
+      "confidence": "high",
+      "ann_id": 2349,
+      "current_cat": 100,
+      "current_name": "EVERGOOD CLASSIC FILTERMALT 250G",
+      "bbox_size": "296x305",
+      "image_name": "img_00019.jpg"
+    },
+    {
+      "text_found": "{\"text_found\":",
+      "confidence": "low",
+      "ann_id": 2350,
+      "current_cat": 100,
+      "current_name": "EVERGOOD CLASSIC FILTERMALT 250G",
+      "bbox_size": "135x321",
+      "image_name": "img_00019.jpg"
+    },
+    {
+      "text_found": "FILTERMALT",
+      "confidence": "high",
+      "ann_id": 2354,
+      "current_cat": 100,
+      "current_name": "EVERGOOD CLASSIC FILTERMALT 250G",
+      "bbox_size": "234x354",
+      "image_name": "img_00019.jpg"
+    },
+    {
+      "text_found": "{\"text_found\":",
+      "confidence": "low",
+      "ann_id": 2480,
+      "current_cat": 304,
+      "current_name": "EVERGOOD CLASSIC KOKMALT 250G",
+      "bbox_size": "100x198",
+      "image_name": "img_00022.jpeg"
+    },
+    {
+      "text_found": "{\"text_found\": \"KOKM",
+      "confidence": "low",
+      "ann_id": 2483,
+      "current_cat": 304,
+      "current_name": "EVERGOOD CLASSIC KOKMALT 250G",
+      "bbox_size": "124x186",
+      "image_name": "img_00022.jpeg"
+    },
+    {
+      "text_found": "KOKMALT",
+      "confidence": "high",
+      "ann_id": 2484,
+      "current_cat": 304,
+      "current_name": "EVERGOOD CLASSIC KOKMALT 250G",
+      "bbox_size": "121x158",
+      "image_name": "img_00022.jpeg"
+    },
+    {
+      "text_found": "KOKMALT",
+      "confidence": "high",
+      "ann_id": 2485,
+      "current_cat": 304,
+      "current_name": "EVERGOOD CLASSIC KOKMALT 250G",
+      "bbox_size": "130x149",
+      "image_name": "img_00022.jpeg"
+    },
+    {
+      "text_found": "{\"text_found\": \"",
+      "confidence": "low",
+      "ann_id": 2488,
+      "current_cat": 304,
+      "current_name": "EVERGOOD CLASSIC KOKMALT 250G",
+      "bbox_size": "143x281",
+      "image_name": "img_00022.jpeg"
+    },
+    {
+      "text_found": "{\"text_",
+      "confidence": "low",
+      "ann_id": 2489,
+      "current_cat": 304,
+      "current_name": "EVERGOOD CLASSIC KOKMALT 250G",
+      "bbox_size": "135x265",
+      "image_name": "img_00022.jpeg"
+    },
+    {
+      "text_found": "FILTERMALT",
+      "confidence": "high",
+      "ann_id": 2560,
+      "current_cat": 100,
+      "current_name": "EVERGOOD CLASSIC FILTERMALT 250G",
+      "bbox_size": "185x302",
+      "image_name": "img_00023.jpeg"
+    },
+    {
+      "text_found": "FILTERMALT",
+      "confidence": "high",
+      "ann_id": 2561,
+      "current_cat": 100,
+      "current_name": "EVERGOOD CLASSIC FILTERMALT 250G",
+      "bbox_size": "183x294",
+      "image_name": "img_00023.jpeg"
+    },
+    {
+      "text_found": "FILTERMALT",
+      "confidence": "high",
+      "ann_id": 2563,
+      "current_cat": 100,
+      "current_name": "EVERGOOD CLASSIC FILTERMALT 250G",
+      "bbox_size": "173x302",
+      "image_name": "img_00023.jpeg"
+    },
+    {
+      "text_found": "FILTERMALT",
+      "confidence": "high",
+      "ann_id": 2564,
+      "current_cat": 100,
+      "current_name": "EVERGOOD CLASSIC FILTERMALT 250G",
+      "bbox_size": "173x288",
+      "image_name": "img_00023.jpeg"
+    },
+    {
+      "text_found": "{\"text_found\":",
+      "confidence": "low",
+      "ann_id": 2565,
+      "current_cat": 100,
+      "current_name": "EVERGOOD CLASSIC FILTERMALT 250G",
+      "bbox_size": "172x302",
+      "image_name": "img_00023.jpeg"
+    },
+    {
+      "text_found": "KOKMALT",
+      "confidence": "high",
+      "ann_id": 2566,
+      "current_cat": 304,
+      "current_name": "EVERGOOD CLASSIC KOKMALT 250G",
+      "bbox_size": "143x262",
+      "image_name": "img_00023.jpeg"
+    },
+    {
+      "text_found": "{\"text_found\": \"KOKMALT",
+      "confidence": "low",
+      "ann_id": 2567,
+      "current_cat": 304,
+      "current_name": "EVERGOOD CLASSIC KOKMALT 250G",
+      "bbox_size": "141x266",
+      "image_name": "img_00023.jpeg"
+    },
+    {
+      "text_found": "{\"text_found\": \"R",
+      "confidence": "low",
+      "ann_id": 2568,
+      "current_cat": 304,
+      "current_name": "EVERGOOD CLASSIC KOKMALT 250G",
+      "bbox_size": "138x252",
+      "image_name": "img_00023.jpeg"
+    },
+    {
+      "text_found": "KOKMALT",
+      "confidence": "high",
+      "ann_id": 2569,
+      "current_cat": 304,
+      "current_name": "EVERGOOD CLASSIC KOKMALT 250G",
+      "bbox_size": "157x262",
+      "image_name": "img_00023.jpeg"
+    },
+    {
+      "text_found": "KOKMALT",
+      "confidence": "high",
+      "ann_id": 2570,
+      "current_cat": 304,
+      "current_name": "EVERGOOD CLASSIC KOKMALT 250G",
+      "bbox_size": "138x252",
+      "image_name": "img_00023.jpeg"
+    },
+    {
+      "text_found": "KOKMALT",
+      "confidence": "high",
+      "ann_id": 2571,
+      "current_cat": 304,
+      "current_name": "EVERGOOD CLASSIC KOKMALT 250G",
+      "bbox_size": "157x273",
+      "image_name": "img_00023.jpeg"
+    },
+    {
+      "text_found": "{\"text",
+      "confidence": "low",
+      "ann_id": 2664,
+      "current_cat": 100,
+      "current_name": "EVERGOOD CLASSIC FILTERMALT 250G",
+      "bbox_size": "144x203",
+      "image_name": "img_00023.jpeg"
+    },
+    {
+      "text_found": "{\"text_found\":",
+      "confidence": "low",
+      "ann_id": 2665,
+      "current_cat": 100,
+      "current_name": "EVERGOOD CLASSIC FILTERMALT 250G",
+      "bbox_size": "109x229",
+      "image_name": "img_00023.jpeg"
+    },
+    {
+      "text_found": "FILTERMALT",
+      "confidence": "high",
+      "ann_id": 2666,
+      "current_cat": 100,
+      "current_name": "EVERGOOD CLASSIC FILTERMALT 250G",
+      "bbox_size": "101x228",
+      "image_name": "img_00023.jpeg"
+    },
+    {
+      "text_found": "{\"text_found\": \"FILTERMALT\", \"confidence\": \"",
+      "confidence": "low",
+      "ann_id": 2667,
+      "current_cat": 100,
+      "current_name": "EVERGOOD CLASSIC FILTERMALT 250G",
+      "bbox_size": "99x216",
+      "image_name": "img_00023.jpeg"
+    },
+    {
+      "text_found": "{\"text_found\": \"Classic",
+      "confidence": "low",
+      "ann_id": 2668,
+      "current_cat": 100,
+      "current_name": "EVERGOOD CLASSIC FILTERMALT 250G",
+      "bbox_size": "106x225",
+      "image_name": "img_00023.jpeg"
+    },
+    {
+      "text_found": "FILTERMALT",
+      "confidence": "high",
+      "ann_id": 2669,
+      "current_cat": 100,
+      "current_name": "EVERGOOD CLASSIC FILTERMALT 250G",
+      "bbox_size": "136x231",
+      "image_name": "img_00023.jpeg"
+    },
+    {
+      "text_found": "FILTERMALT",
+      "confidence": "high",
+      "ann_id": 2670,
+      "current_cat": 100,
+      "current_name": "EVERGOOD CLASSIC FILTERMALT 250G",
+      "bbox_size": "69x190",
+      "image_name": "img_00023.jpeg"
+    },
+    {
+      "text_found": "FILTERMALT",
+      "confidence": "high",
+      "ann_id": 2671,
+      "current_cat": 100,
+      "current_name": "EVERGOOD CLASSIC FILTERMALT 250G",
+      "bbox_size": "120x195",
+      "image_name": "img_00023.jpeg"
+    },
+    {
+      "text_found": "{\"text_found\": \"PRESSKANNE\", \"confidence",
+      "confidence": "low",
+      "ann_id": 2672,
+      "current_cat": 100,
+      "current_name": "EVERGOOD CLASSIC FILTERMALT 250G",
+      "bbox_size": "115x200",
+      "image_name": "img_00023.jpeg"
+    },
+    {
+      "text_found": "{\"text_found",
+      "confidence": "low",
+      "ann_id": 2673,
+      "current_cat": 100,
+      "current_name": "EVERGOOD CLASSIC FILTERMALT 250G",
+      "bbox_size": "78x198",
+      "image_name": "img_00023.jpeg"
+    },
+    {
+      "text_found": "{\"text_found\": \"",
+      "confidence": "low",
+      "ann_id": 2674,
+      "current_cat": 100,
+      "current_name": "EVERGOOD CLASSIC FILTERMALT 250G",
+      "bbox_size": "68x149",
+      "image_name": "img_00023.jpeg"
+    },
+    {
+      "text_found": "FILTERMALT",
+      "confidence": "high",
+      "ann_id": 2675,
+      "current_cat": 100,
+      "current_name": "EVERGOOD CLASSIC FILTERMALT 250G",
+      "bbox_size": "122x169",
+      "image_name": "img_00023.jpeg"
+    },
+    {
+      "text_found": "FILTERMALT",
+      "confidence": "high",
+      "ann_id": 2676,
+      "current_cat": 100,
+      "current_name": "EVERGOOD CLASSIC FILTERMALT 250G",
+      "bbox_size": "113x167",
+      "image_name": "img_00023.jpeg"
+    },
+    {
+      "text_found": "{\"text_found\": \"R GOOD",
+      "confidence": "low",
+      "ann_id": 2677,
+      "current_cat": 100,
+      "current_name": "EVERGOOD CLASSIC FILTERMALT 250G",
+      "bbox_size": "75x163",
+      "image_name": "img_00023.jpeg"
+    },
+    {
+      "text_found": "{\"text",
+      "confidence": "low",
+      "ann_id": 2923,
+      "current_cat": 304,
+      "current_name": "EVERGOOD CLASSIC KOKMALT 250G",
+      "bbox_size": "148x127",
+      "image_name": "img_00026.jpeg"
+    },
+    {
+      "text_found": "FILTERMALT",
+      "confidence": "high",
+      "ann_id": 2941,
+      "current_cat": 304,
+      "current_name": "EVERGOOD CLASSIC KOKMALT 250G",
+      "bbox_size": "106x209",
+      "image_name": "img_00026.jpeg"
+    },
+    {
+      "text_found": "{\"text_",
+      "confidence": "low",
+      "ann_id": 2942,
+      "current_cat": 304,
+      "current_name": "EVERGOOD CLASSIC KOKMALT 250G",
+      "bbox_size": "105x186",
+      "image_name": "img_00026.jpeg"
+    },
+    {
+      "text_found": "{\"text",
+      "confidence": "low",
+      "ann_id": 2967,
+      "current_cat": 304,
+      "current_name": "EVERGOOD CLASSIC KOKMALT 250G",
+      "bbox_size": "159x216",
+      "image_name": "img_00026.jpeg"
+    },
+    {
+      "text_found": "{\"text_found\": \"FIL",
+      "confidence": "low",
+      "ann_id": 3387,
+      "current_cat": 304,
+      "current_name": "EVERGOOD CLASSIC KOKMALT 250G",
+      "bbox_size": "218x337",
+      "image_name": "img_00031.jpg"
+    },
+    {
+      "text_found": "{\"text_found",
+      "confidence": "low",
+      "ann_id": 3388,
+      "current_cat": 304,
+      "current_name": "EVERGOOD CLASSIC KOKMALT 250G",
+      "bbox_size": "186x321",
+      "image_name": "img_00031.jpg"
+    },
+    {
+      "text_found": "FILTERMALT",
+      "confidence": "high",
+      "ann_id": 3468,
+      "current_cat": 100,
+      "current_name": "EVERGOOD CLASSIC FILTERMALT 250G",
+      "bbox_size": "209x280",
+      "image_name": "img_00031.jpg"
+    },
+    {
+      "text_found": "FILTERMALT",
+      "confidence": "high",
+      "ann_id": 3469,
+      "current_cat": 100,
+      "current_name": "EVERGOOD CLASSIC FILTERMALT 250G",
+      "bbox_size": "201x297",
+      "image_name": "img_00031.jpg"
+    },
+    {
+      "text_found": "Classic",
+      "confidence": "high",
+      "ann_id": 3470,
+      "current_cat": 100,
+      "current_name": "EVERGOOD CLASSIC FILTERMALT 250G",
+      "bbox_size": "133x189",
+      "image_name": "img_00031.jpg"
+    },
+    {
+      "text_found": "{\"text_found\":",
+      "confidence": "low",
+      "ann_id": 3471,
+      "current_cat": 100,
+      "current_name": "EVERGOOD CLASSIC FILTERMALT 250G",
+      "bbox_size": "88x167",
+      "image_name": "img_00031.jpg"
+    },
+    {
+      "text_found": "FILTERMALT",
+      "confidence": "high",
+      "ann_id": 3472,
+      "current_cat": 100,
+      "current_name": "EVERGOOD CLASSIC FILTERMALT 250G",
+      "bbox_size": "152x160",
+      "image_name": "img_00031.jpg"
+    },
+    {
+      "text_found": "{\"text_found\":",
+      "confidence": "low",
+      "ann_id": 3482,
+      "current_cat": 304,
+      "current_name": "EVERGOOD CLASSIC KOKMALT 250G",
+      "bbox_size": "179x284",
+      "image_name": "img_00032.jpeg"
+    },
+    {
+      "text_found": "{\"text_found\":",
+      "confidence": "low",
+      "ann_id": 3483,
+      "current_cat": 304,
+      "current_name": "EVERGOOD CLASSIC KOKMALT 250G",
+      "bbox_size": "175x282",
+      "image_name": "img_00032.jpeg"
+    },
+    {
+      "text_found": "KOKMALT",
+      "confidence": "high",
+      "ann_id": 3510,
+      "current_cat": 304,
+      "current_name": "EVERGOOD CLASSIC KOKMALT 250G",
+      "bbox_size": "101x186",
+      "image_name": "img_00032.jpeg"
+    },
+    {
+      "text_found": "{\"text_found\":",
+      "confidence": "low",
+      "ann_id": 3511,
+      "current_cat": 304,
+      "current_name": "EVERGOOD CLASSIC KOKMALT 250G",
+      "bbox_size": "105x202",
+      "image_name": "img_00032.jpeg"
+    },
+    {
+      "text_found": "Classic",
+      "confidence": "high",
+      "ann_id": 3541,
+      "current_cat": 304,
+      "current_name": "EVERGOOD CLASSIC KOKMALT 250G",
+      "bbox_size": "249x315",
+      "image_name": "img_00033.jpeg"
+    },
+    {
+      "text_found": "{\"text_found\": \"",
+      "confidence": "low",
+      "ann_id": 3542,
+      "current_cat": 304,
+      "current_name": "EVERGOOD CLASSIC KOKMALT 250G",
+      "bbox_size": "190x267",
+      "image_name": "img_00033.jpeg"
+    },
+    {
+      "text_found": "{\"text_",
+      "confidence": "low",
+      "ann_id": 3567,
+      "current_cat": 304,
+      "current_name": "EVERGOOD CLASSIC KOKMALT 250G",
+      "bbox_size": "178x283",
+      "image_name": "img_00033.jpeg"
+    },
+    {
+      "text_found": "Classic",
+      "confidence": "high",
+      "ann_id": 3572,
+      "current_cat": 304,
+      "current_name": "EVERGOOD CLASSIC KOKMALT 250G",
+      "bbox_size": "146x283",
+      "image_name": "img_00033.jpeg"
+    },
+    {
+      "text_found": "{\"text",
+      "confidence": "low",
+      "ann_id": 3573,
+      "current_cat": 304,
+      "current_name": "EVERGOOD CLASSIC KOKMALT 250G",
+      "bbox_size": "145x284",
+      "image_name": "img_00033.jpeg"
+    },
+    {
+      "text_found": "{\"text_found\": \"EVERGOOD",
+      "confidence": "low",
+      "ann_id": 3574,
+      "current_cat": 304,
+      "current_name": "EVERGOOD CLASSIC KOKMALT 250G",
+      "bbox_size": "150x283",
+      "image_name": "img_00033.jpeg"
+    },
+    {
+      "text_found": "{\"text_found\":",
+      "confidence": "low",
+      "ann_id": 3608,
+      "current_cat": 100,
+      "current_name": "EVERGOOD CLASSIC FILTERMALT 250G",
+      "bbox_size": "123x199",
+      "image_name": "img_00033.jpeg"
+    },
+    {
+      "text_found": "{\"text_found\": \"FILTERM",
+      "confidence": "low",
+      "ann_id": 3609,
+      "current_cat": 100,
+      "current_name": "EVERGOOD CLASSIC FILTERMALT 250G",
+      "bbox_size": "128x191",
+      "image_name": "img_00033.jpeg"
+    },
+    {
+      "text_found": "FILTERMALT",
+      "confidence": "high",
+      "ann_id": 3610,
+      "current_cat": 100,
+      "current_name": "EVERGOOD CLASSIC FILTERMALT 250G",
+      "bbox_size": "122x191",
+      "image_name": "img_00033.jpeg"
+    },
+    {
+      "text_found": "KAGOD",
+      "confidence": "medium",
+      "ann_id": 3611,
+      "current_cat": 100,
+      "current_name": "EVERGOOD CLASSIC FILTERMALT 250G",
+      "bbox_size": "122x203",
+      "image_name": "img_00033.jpeg"
+    },
+    {
+      "text_found": "{\"text_found\": \"FILTERM",
+      "confidence": "low",
+      "ann_id": 3612,
+      "current_cat": 100,
+      "current_name": "EVERGOOD CLASSIC FILTERMALT 250G",
+      "bbox_size": "113x203",
+      "image_name": "img_00033.jpeg"
+    },
+    {
+      "text_found": "{\"text_found\":",
+      "confidence": "low",
+      "ann_id": 3613,
+      "current_cat": 100,
+      "current_name": "EVERGOOD CLASSIC FILTERMALT 250G",
+      "bbox_size": "111x204",
+      "image_name": "img_00033.jpeg"
+    },
+    {
+      "text_found": "{\"text",
+      "confidence": "low",
+      "ann_id": 3614,
+      "current_cat": 100,
+      "current_name": "EVERGOOD CLASSIC FILTERMALT 250G",
+      "bbox_size": "127x213",
+      "image_name": "img_00033.jpeg"
+    },
+    {
+      "text_found": "{\"text_found\": \"",
+      "confidence": "low",
+      "ann_id": 3615,
+      "current_cat": 100,
+      "current_name": "EVERGOOD CLASSIC FILTERMALT 250G",
+      "bbox_size": "128x213",
+      "image_name": "img_00033.jpeg"
+    },
+    {
+      "text_found": "{\"text_",
+      "confidence": "low",
+      "ann_id": 3616,
+      "current_cat": 100,
+      "current_name": "EVERGOOD CLASSIC FILTERMALT 250G",
+      "bbox_size": "172x213",
+      "image_name": "img_00033.jpeg"
+    },
+    {
+      "text_found": "{\"text_found\":",
+      "confidence": "low",
+      "ann_id": 3617,
+      "current_cat": 100,
+      "current_name": "EVERGOOD CLASSIC FILTERMALT 250G",
+      "bbox_size": "160x200",
+      "image_name": "img_00033.jpeg"
+    },
+    {
+      "text_found": "{\n  \"text",
+      "confidence": "low",
+      "ann_id": 3618,
+      "current_cat": 100,
+      "current_name": "EVERGOOD CLASSIC FILTERMALT 250G",
+      "bbox_size": "152x213",
+      "image_name": "img_00033.jpeg"
+    },
+    {
+      "text_found": "{\"text_found\": \"EVER",
+      "confidence": "low",
+      "ann_id": 3619,
+      "current_cat": 100,
+      "current_name": "EVERGOOD CLASSIC FILTERMALT 250G",
+      "bbox_size": "172x213",
+      "image_name": "img_00033.jpeg"
+    },
+    {
+      "text_found": "{",
+      "confidence": "low",
+      "ann_id": 3620,
+      "current_cat": 100,
+      "current_name": "EVERGOOD CLASSIC FILTERMALT 250G",
+      "bbox_size": "172x214",
+      "image_name": "img_00033.jpeg"
+    },
+    {
+      "text_found": "{\"text_found\": \"",
+      "confidence": "low",
+      "ann_id": 3621,
+      "current_cat": 100,
+      "current_name": "EVERGOOD CLASSIC FILTERMALT 250G",
+      "bbox_size": "153x200",
+      "image_name": "img_00033.jpeg"
+    },
+    {
+      "text_found": "{\n  \"",
+      "confidence": "low",
+      "ann_id": 3622,
+      "current_cat": 100,
+      "current_name": "EVERGOOD CLASSIC FILTERMALT 250G",
+      "bbox_size": "138x206",
+      "image_name": "img_00033.jpeg"
+    },
+    {
+      "text_found": "{\"text_found\": \"EVERGOOD",
+      "confidence": "low",
+      "ann_id": 3623,
+      "current_cat": 100,
+      "current_name": "EVERGOOD CLASSIC FILTERMALT 250G",
+      "bbox_size": "132x204",
+      "image_name": "img_00033.jpeg"
+    },
+    {
+      "text_found": "Classic",
+      "confidence": "high",
+      "ann_id": 3624,
+      "current_cat": 100,
+      "current_name": "EVERGOOD CLASSIC FILTERMALT 250G",
+      "bbox_size": "132x204",
+      "image_name": "img_00033.jpeg"
+    },
+    {
+      "ann_id": 3625,
+      "current_cat": 100,
+      "text_found": "",
+      "confidence": "error"
+    },
+    {
+      "text_found": "{\"text_found\": \"GOOD\",",
+      "confidence": "low",
+      "ann_id": 3626,
+      "current_cat": 100,
+      "current_name": "EVERGOOD CLASSIC FILTERMALT 250G",
+      "bbox_size": "131x204",
+      "image_name": "img_00033.jpeg"
+    },
+    {
+      "text_found": "{\"text_",
+      "confidence": "low",
+      "ann_id": 3627,
+      "current_cat": 100,
+      "current_name": "EVERGOOD CLASSIC FILTERMALT 250G",
+      "bbox_size": "131x192",
+      "image_name": "img_00033.jpeg"
+    },
+    {
+      "text_found": "Classic",
+      "confidence": "high",
+      "ann_id": 3628,
+      "current_cat": 100,
+      "current_name": "EVERGOOD CLASSIC FILTERMALT 250G",
+      "bbox_size": "123x182",
+      "image_name": "img_00033.jpeg"
+    },
+    {
+      "text_found": "{\"text_found",
+      "confidence": "low",
+      "ann_id": 3629,
+      "current_cat": 100,
+      "current_name": "EVERGOOD CLASSIC FILTERMALT 250G",
+      "bbox_size": "115x192",
+      "image_name": "img_00033.jpeg"
+    },
+    {
+      "text_found": "{\"text_found\":",
+      "confidence": "low",
+      "ann_id": 3630,
+      "current_cat": 100,
+      "current_name": "EVERGOOD CLASSIC FILTERMALT 250G",
+      "bbox_size": "135x235",
+      "image_name": "img_00033.jpeg"
+    },
+    {
+      "text_found": "{\n  \"text",
+      "confidence": "low",
+      "ann_id": 3631,
+      "current_cat": 100,
+      "current_name": "EVERGOOD CLASSIC FILTERMALT 250G",
+      "bbox_size": "134x248",
+      "image_name": "img_00033.jpeg"
+    },
+    {
+      "text_found": "Classic",
+      "confidence": "high",
+      "ann_id": 3632,
+      "current_cat": 100,
+      "current_name": "EVERGOOD CLASSIC FILTERMALT 250G",
+      "bbox_size": "132x235",
+      "image_name": "img_00033.jpeg"
+    },
+    {
+      "text_found": "{\"text_found\": \"",
+      "confidence": "low",
+      "ann_id": 3633,
+      "current_cat": 100,
+      "current_name": "EVERGOOD CLASSIC FILTERMALT 250G",
+      "bbox_size": "132x248",
+      "image_name": "img_00033.jpeg"
+    },
+    {
+      "text_found": "{\n  \"text",
+      "confidence": "low",
+      "ann_id": 3634,
+      "current_cat": 100,
+      "current_name": "EVERGOOD CLASSIC FILTERMALT 250G",
+      "bbox_size": "128x213",
+      "image_name": "img_00033.jpeg"
+    },
+    {
+      "text_found": "{\"text_found\": \"",
+      "confidence": "low",
+      "ann_id": 3635,
+      "current_cat": 100,
+      "current_name": "EVERGOOD CLASSIC FILTERMALT 250G",
+      "bbox_size": "132x231",
+      "image_name": "img_00033.jpeg"
+    },
+    {
+      "text_found": "{\"text_found\": \"",
+      "confidence": "low",
+      "ann_id": 3636,
+      "current_cat": 100,
+      "current_name": "EVERGOOD CLASSIC FILTERMALT 250G",
+      "bbox_size": "134x231",
+      "image_name": "img_00033.jpeg"
+    },
+    {
+      "text_found": "{\"text_found\": \"FILTER",
+      "confidence": "low",
+      "ann_id": 3637,
+      "current_cat": 100,
+      "current_name": "EVERGOOD CLASSIC FILTERMALT 250G",
+      "bbox_size": "134x231",
+      "image_name": "img_00033.jpeg"
+    },
+    {
+      "text_found": "{\"text_found\":",
+      "confidence": "low",
+      "ann_id": 3638,
+      "current_cat": 100,
+      "current_name": "EVERGOOD CLASSIC FILTERMALT 250G",
+      "bbox_size": "128x235",
+      "image_name": "img_00033.jpeg"
+    },
+    {
+      "text_found": "{\"text_found\": \"Classic\",",
+      "confidence": "low",
+      "ann_id": 3639,
+      "current_cat": 100,
+      "current_name": "EVERGOOD CLASSIC FILTERMALT 250G",
+      "bbox_size": "135x247",
+      "image_name": "img_00033.jpeg"
+    },
+    {
+      "text_found": "{\"text_found\": \"EVERGOOD",
+      "confidence": "low",
+      "ann_id": 3640,
+      "current_cat": 100,
+      "current_name": "EVERGOOD CLASSIC FILTERMALT 250G",
+      "bbox_size": "152x257",
+      "image_name": "img_00033.jpeg"
+    },
+    {
+      "text_found": "{\"text_found",
+      "confidence": "low",
+      "ann_id": 3641,
+      "current_cat": 100,
+      "current_name": "EVERGOOD CLASSIC FILTERMALT 250G",
+      "bbox_size": "135x240",
+      "image_name": "img_00033.jpeg"
+    },
+    {
+      "text_found": "KOKMALT",
+      "confidence": "high",
+      "ann_id": 3790,
+      "current_cat": 304,
+      "current_name": "EVERGOOD CLASSIC KOKMALT 250G",
+      "bbox_size": "174x322",
+      "image_name": "img_00034.jpg"
+    },
+    {
+      "text_found": "KOKMALT",
+      "confidence": "high",
+      "ann_id": 3791,
+      "current_cat": 304,
+      "current_name": "EVERGOOD CLASSIC KOKMALT 250G",
+      "bbox_size": "191x333",
+      "image_name": "img_00034.jpg"
+    },
+    {
+      "text_found": "KOKMALT",
+      "confidence": "high",
+      "ann_id": 3792,
+      "current_cat": 304,
+      "current_name": "EVERGOOD CLASSIC KOKMALT 250G",
+      "bbox_size": "180x328",
+      "image_name": "img_00034.jpg"
+    },
+    {
+      "text_found": "FILTERMALT",
+      "confidence": "high",
+      "ann_id": 3793,
+      "current_cat": 100,
+      "current_name": "EVERGOOD CLASSIC FILTERMALT 250G",
+      "bbox_size": "207x335",
+      "image_name": "img_00034.jpg"
+    },
+    {
+      "text_found": "FILTERMALT",
+      "confidence": "high",
+      "ann_id": 3794,
+      "current_cat": 100,
+      "current_name": "EVERGOOD CLASSIC FILTERMALT 250G",
+      "bbox_size": "209x330",
+      "image_name": "img_00034.jpg"
+    },
+    {
+      "text_found": "FILTERMALT",
+      "confidence": "high",
+      "ann_id": 3795,
+      "current_cat": 100,
+      "current_name": "EVERGOOD CLASSIC FILTERMALT 250G",
+      "bbox_size": "204x328",
+      "image_name": "img_00034.jpg"
+    },
+    {
+      "text_found": "FILTERMALT",
+      "confidence": "high",
+      "ann_id": 3799,
+      "current_cat": 100,
+      "current_name": "EVERGOOD CLASSIC FILTERMALT 250G",
+      "bbox_size": "160x333",
+      "image_name": "img_00034.jpg"
+    },
+    {
+      "text_found": "FILTERMALT",
+      "confidence": "high",
+      "ann_id": 3800,
+      "current_cat": 100,
+      "current_name": "EVERGOOD CLASSIC FILTERMALT 250G",
+      "bbox_size": "153x333",
+      "image_name": "img_00034.jpg"
+    },
+    {
+      "text_found": "FILTERMALT",
+      "confidence": "high",
+      "ann_id": 3801,
+      "current_cat": 100,
+      "current_name": "EVERGOOD CLASSIC FILTERMALT 250G",
+      "bbox_size": "160x333",
+      "image_name": "img_00034.jpg"
+    },
+    {
+      "text_found": "FILTERMALT",
+      "confidence": "high",
+      "ann_id": 3802,
+      "current_cat": 100,
+      "current_name": "EVERGOOD CLASSIC FILTERMALT 250G",
+      "bbox_size": "159x326",
+      "image_name": "img_00034.jpg"
+    },
+    {
+      "text_found": "FILTERMALT",
+      "confidence": "high",
+      "ann_id": 3803,
+      "current_cat": 100,
+      "current_name": "EVERGOOD CLASSIC FILTERMALT 250G",
+      "bbox_size": "159x342",
+      "image_name": "img_00034.jpg"
+    },
+    {
+      "text_found": "FILTERMALT",
+      "confidence": "high",
+      "ann_id": 3811,
+      "current_cat": 100,
+      "current_name": "EVERGOOD CLASSIC FILTERMALT 250G",
+      "bbox_size": "177x390",
+      "image_name": "img_00035.jpg"
+    },
+    {
+      "text_found": "FILTERMALT",
+      "confidence": "high",
+      "ann_id": 3812,
+      "current_cat": 100,
+      "current_name": "EVERGOOD CLASSIC FILTERMALT 250G",
+      "bbox_size": "213x429",
+      "image_name": "img_00035.jpg"
+    },
+    {
+      "text_found": "FILTERMALT",
+      "confidence": "high",
+      "ann_id": 3813,
+      "current_cat": 100,
+      "current_name": "EVERGOOD CLASSIC FILTERMALT 250G",
+      "bbox_size": "220x417",
+      "image_name": "img_00035.jpg"
+    },
+    {
+      "text_found": "FILTERMALT",
+      "confidence": "high",
+      "ann_id": 3814,
+      "current_cat": 100,
+      "current_name": "EVERGOOD CLASSIC FILTERMALT 250G",
+      "bbox_size": "225x443",
+      "image_name": "img_00035.jpg"
+    },
+    {
+      "text_found": "{\"text_found\": \"The product",
+      "confidence": "low",
+      "ann_id": 3823,
+      "current_cat": 304,
+      "current_name": "EVERGOOD CLASSIC KOKMALT 250G",
+      "bbox_size": "217x305",
+      "image_name": "img_00035.jpg"
+    },
+    {
+      "text_found": "FILTERMALT",
+      "confidence": "high",
+      "ann_id": 3826,
+      "current_cat": 100,
+      "current_name": "EVERGOOD CLASSIC FILTERMALT 250G",
+      "bbox_size": "250x464",
+      "image_name": "img_00035.jpg"
+    },
+    {
+      "text_found": "FILTERMALT",
+      "confidence": "high",
+      "ann_id": 3827,
+      "current_cat": 100,
+      "current_name": "EVERGOOD CLASSIC FILTERMALT 250G",
+      "bbox_size": "278x443",
+      "image_name": "img_00035.jpg"
+    },
+    {
+      "text_found": "FILTERMALT",
+      "confidence": "high",
+      "ann_id": 3828,
+      "current_cat": 100,
+      "current_name": "EVERGOOD CLASSIC FILTERMALT 250G",
+      "bbox_size": "250x443",
+      "image_name": "img_00035.jpg"
+    },
+    {
+      "text_found": "KOKMALT",
+      "confidence": "high",
+      "ann_id": 3912,
+      "current_cat": 304,
+      "current_name": "EVERGOOD CLASSIC KOKMALT 250G",
+      "bbox_size": "212x275",
+      "image_name": "img_00036.jpg"
+    },
+    {
+      "text_found": "{\"text",
+      "confidence": "low",
+      "ann_id": 3974,
+      "current_cat": 304,
+      "current_name": "EVERGOOD CLASSIC KOKMALT 250G",
+      "bbox_size": "202x274",
+      "image_name": "img_00036.jpg"
+    },
+    {
+      "text_found": "KOKMALT",
+      "confidence": "high",
+      "ann_id": 3975,
+      "current_cat": 304,
+      "current_name": "EVERGOOD CLASSIC KOKMALT 250G",
+      "bbox_size": "187x272",
+      "image_name": "img_00036.jpg"
+    },
+    {
+      "text_found": "KOKMALT",
+      "confidence": "high",
+      "ann_id": 3976,
+      "current_cat": 304,
+      "current_name": "EVERGOOD CLASSIC KOKMALT 250G",
+      "bbox_size": "177x273",
+      "image_name": "img_00036.jpg"
+    },
+    {
+      "text_found": "{\"text_",
+      "confidence": "low",
+      "ann_id": 3981,
+      "current_cat": 100,
+      "current_name": "EVERGOOD CLASSIC FILTERMALT 250G",
+      "bbox_size": "210x277",
+      "image_name": "img_00036.jpg"
+    },
+    {
+      "text_found": "{\"text",
+      "confidence": "low",
+      "ann_id": 3982,
+      "current_cat": 100,
+      "current_name": "EVERGOOD CLASSIC FILTERMALT 250G",
+      "bbox_size": "217x266",
+      "image_name": "img_00036.jpg"
+    },
+    {
+      "text_found": "{\"text_found\":",
+      "confidence": "low",
+      "ann_id": 3983,
+      "current_cat": 100,
+      "current_name": "EVERGOOD CLASSIC FILTERMALT 250G",
+      "bbox_size": "214x286",
+      "image_name": "img_00036.jpg"
+    },
+    {
+      "text_found": "{\"text_found\": \"",
+      "confidence": "low",
+      "ann_id": 3984,
+      "current_cat": 100,
+      "current_name": "EVERGOOD CLASSIC FILTERMALT 250G",
+      "bbox_size": "203x293",
+      "image_name": "img_00036.jpg"
+    },
+    {
+      "text_found": "{",
+      "confidence": "low",
+      "ann_id": 3985,
+      "current_cat": 304,
+      "current_name": "EVERGOOD CLASSIC KOKMALT 250G",
+      "bbox_size": "195x299",
+      "image_name": "img_00036.jpg"
+    },
+    {
+      "text_found": "{\"text_found\": \"MALT",
+      "confidence": "low",
+      "ann_id": 3986,
+      "current_cat": 100,
+      "current_name": "EVERGOOD CLASSIC FILTERMALT 250G",
+      "bbox_size": "106x201",
+      "image_name": "img_00036.jpg"
+    },
+    {
+      "text_found": "{\"text_found\":",
+      "confidence": "low",
+      "ann_id": 3987,
+      "current_cat": 100,
+      "current_name": "EVERGOOD CLASSIC FILTERMALT 250G",
+      "bbox_size": "142x246",
+      "image_name": "img_00036.jpg"
+    },
+    {
+      "text_found": "{\"text_found\": \"PRESSM",
+      "confidence": "low",
+      "ann_id": 3988,
+      "current_cat": 100,
+      "current_name": "EVERGOOD CLASSIC FILTERMALT 250G",
+      "bbox_size": "150x249",
+      "image_name": "img_00036.jpg"
+    },
+    {
+      "text_found": "{\"text",
+      "confidence": "low",
+      "ann_id": 3989,
+      "current_cat": 100,
+      "current_name": "EVERGOOD CLASSIC FILTERMALT 250G",
+      "bbox_size": "81x217",
+      "image_name": "img_00036.jpg"
+    },
+    {
+      "text_found": "{\"text_found\": \"FILTER",
+      "confidence": "low",
+      "ann_id": 3990,
+      "current_cat": 100,
+      "current_name": "EVERGOOD CLASSIC FILTERMALT 250G",
+      "bbox_size": "86x210",
+      "image_name": "img_00036.jpg"
+    },
+    {
+      "text_found": "Classic",
+      "confidence": "high",
+      "ann_id": 3991,
+      "current_cat": 100,
+      "current_name": "EVERGOOD CLASSIC FILTERMALT 250G",
+      "bbox_size": "139x213",
+      "image_name": "img_00036.jpg"
+    },
+    {
+      "text_found": "FILTERMALT",
+      "confidence": "high",
+      "ann_id": 3992,
+      "current_cat": 100,
+      "current_name": "EVERGOOD CLASSIC FILTERMALT 250G",
+      "bbox_size": "154x228",
+      "image_name": "img_00036.jpg"
+    },
+    {
+      "text_found": "{\"text_",
+      "confidence": "low",
+      "ann_id": 3993,
+      "current_cat": 100,
+      "current_name": "EVERGOOD CLASSIC FILTERMALT 250G",
+      "bbox_size": "92x213",
+      "image_name": "img_00036.jpg"
+    },
+    {
+      "text_found": "{\"text_",
+      "confidence": "low",
+      "ann_id": 4049,
+      "current_cat": 304,
+      "current_name": "EVERGOOD CLASSIC KOKMALT 250G",
+      "bbox_size": "144x228",
+      "image_name": "img_00037.jpg"
+    },
+    {
+      "text_found": "{\"text_found\":",
+      "confidence": "low",
+      "ann_id": 4076,
+      "current_cat": 304,
+      "current_name": "EVERGOOD CLASSIC KOKMALT 250G",
+      "bbox_size": "137x210",
+      "image_name": "img_00037.jpg"
+    },
+    {
+      "text_found": "{\"text_found\": \"Classic\",",
+      "confidence": "low",
+      "ann_id": 4079,
+      "current_cat": 304,
+      "current_name": "EVERGOOD CLASSIC KOKMALT 250G",
+      "bbox_size": "121x217",
+      "image_name": "img_00037.jpg"
+    },
+    {
+      "text_found": "{\"text_found\": \"FILTER",
+      "confidence": "low",
+      "ann_id": 4090,
+      "current_cat": 100,
+      "current_name": "EVERGOOD CLASSIC FILTERMALT 250G",
+      "bbox_size": "120x190",
+      "image_name": "img_00037.jpg"
+    },
+    {
+      "text_found": "{\"text_found\":",
+      "confidence": "low",
+      "ann_id": 4098,
+      "current_cat": 100,
+      "current_name": "EVERGOOD CLASSIC FILTERMALT 250G",
+      "bbox_size": "80x138",
+      "image_name": "img_00037.jpg"
+    },
+    {
+      "text_found": "Classic",
+      "confidence": "high",
+      "ann_id": 4099,
+      "current_cat": 100,
+      "current_name": "EVERGOOD CLASSIC FILTERMALT 250G",
+      "bbox_size": "105x148",
+      "image_name": "img_00037.jpg"
+    },
+    {
+      "text_found": "{\"text_found\": \"FILTERM",
+      "confidence": "low",
+      "ann_id": 4100,
+      "current_cat": 100,
+      "current_name": "EVERGOOD CLASSIC FILTERMALT 250G",
+      "bbox_size": "98x137",
+      "image_name": "img_00037.jpg"
+    },
+    {
+      "text_found": "{\"text_",
+      "confidence": "low",
+      "ann_id": 4101,
+      "current_cat": 100,
+      "current_name": "EVERGOOD CLASSIC FILTERMALT 250G",
+      "bbox_size": "90x142",
+      "image_name": "img_00037.jpg"
+    },
+    {
+      "text_found": "{\"text_found\": \"Club\",",
+      "confidence": "low",
+      "ann_id": 4120,
+      "current_cat": 100,
+      "current_name": "EVERGOOD CLASSIC FILTERMALT 250G",
+      "bbox_size": "76x168",
+      "image_name": "img_00037.jpg"
+    },
+    {
+      "text_found": "{\"text_found",
+      "confidence": "low",
+      "ann_id": 4121,
+      "current_cat": 100,
+      "current_name": "EVERGOOD CLASSIC FILTERMALT 250G",
+      "bbox_size": "107x222",
+      "image_name": "img_00037.jpg"
+    },
+    {
+      "text_found": "{\"text_found\": \"ESPRESS",
+      "confidence": "low",
+      "ann_id": 4850,
+      "current_cat": 304,
+      "current_name": "EVERGOOD CLASSIC KOKMALT 250G",
+      "bbox_size": "99x152",
+      "image_name": "img_00046.jpeg"
+    },
+    {
+      "text_found": "{\"text_found\": \"KOK",
+      "confidence": "low",
+      "ann_id": 4851,
+      "current_cat": 304,
+      "current_name": "EVERGOOD CLASSIC KOKMALT 250G",
+      "bbox_size": "120x155",
+      "image_name": "img_00046.jpeg"
+    },
+    {
+      "text_found": "{\"text_",
+      "confidence": "low",
+      "ann_id": 4856,
+      "current_cat": 304,
+      "current_name": "EVERGOOD CLASSIC KOKMALT 250G",
+      "bbox_size": "111x110",
+      "image_name": "img_00046.jpeg"
+    },
+    {
+      "text_found": "{\"text_found\": \"FILTER",
+      "confidence": "low",
+      "ann_id": 4866,
+      "current_cat": 100,
+      "current_name": "EVERGOOD CLASSIC FILTERMALT 250G",
+      "bbox_size": "92x145",
+      "image_name": "img_00046.jpeg"
+    },
+    {
+      "text_found": "Classic",
+      "confidence": "high",
+      "ann_id": 4867,
+      "current_cat": 100,
+      "current_name": "EVERGOOD CLASSIC FILTERMALT 250G",
+      "bbox_size": "83x128",
+      "image_name": "img_00046.jpeg"
+    },
+    {
+      "text_found": "{\"text_found\": \"Unable to",
+      "confidence": "low",
+      "ann_id": 4868,
+      "current_cat": 100,
+      "current_name": "EVERGOOD CLASSIC FILTERMALT 250G",
+      "bbox_size": "89x133",
+      "image_name": "img_00046.jpeg"
+    },
+    {
+      "text_found": "{\"text_found\": \"KOK",
+      "confidence": "low",
+      "ann_id": 4870,
+      "current_cat": 304,
+      "current_name": "EVERGOOD CLASSIC KOKMALT 250G",
+      "bbox_size": "88x144",
+      "image_name": "img_00046.jpeg"
+    },
+    {
+      "text_found": "{\"text_found\":",
+      "confidence": "low",
+      "ann_id": 4871,
+      "current_cat": 304,
+      "current_name": "EVERGOOD CLASSIC KOKMALT 250G",
+      "bbox_size": "88x145",
+      "image_name": "img_00046.jpeg"
+    },
+    {
+      "text_found": "{\"text_found\":",
+      "confidence": "low",
+      "ann_id": 4872,
+      "current_cat": 304,
+      "current_name": "EVERGOOD CLASSIC KOKMALT 250G",
+      "bbox_size": "85x141",
+      "image_name": "img_00046.jpeg"
+    },
+    {
+      "text_found": "{\"text_found\": \"",
+      "confidence": "low",
+      "ann_id": 4873,
+      "current_cat": 100,
+      "current_name": "EVERGOOD CLASSIC FILTERMALT 250G",
+      "bbox_size": "82x124",
+      "image_name": "img_00046.jpeg"
+    },
+    {
+      "text_found": "{\n  \"text_",
+      "confidence": "low",
+      "ann_id": 4874,
+      "current_cat": 100,
+      "current_name": "EVERGOOD CLASSIC FILTERMALT 250G",
+      "bbox_size": "82x136",
+      "image_name": "img_00046.jpeg"
+    },
+    {
+      "text_found": "{\"text_found",
+      "confidence": "low",
+      "ann_id": 4875,
+      "current_cat": 100,
+      "current_name": "EVERGOOD CLASSIC FILTERMALT 250G",
+      "bbox_size": "82x136",
+      "image_name": "img_00046.jpeg"
+    },
+    {
+      "text_found": "FILTERMALT",
+      "confidence": "high",
+      "ann_id": 4876,
+      "current_cat": 100,
+      "current_name": "EVERGOOD CLASSIC FILTERMALT 250G",
+      "bbox_size": "82x130",
+      "image_name": "img_00046.jpeg"
+    },
+    {
+      "text_found": "Classic",
+      "confidence": "high",
+      "ann_id": 4880,
+      "current_cat": 100,
+      "current_name": "EVERGOOD CLASSIC FILTERMALT 250G",
+      "bbox_size": "83x104",
+      "image_name": "img_00046.jpeg"
+    },
+    {
+      "text_found": "Klassisk",
+      "confidence": "high",
+      "ann_id": 4881,
+      "current_cat": 100,
+      "current_name": "EVERGOOD CLASSIC FILTERMALT 250G",
+      "bbox_size": "83x104",
+      "image_name": "img_00046.jpeg"
+    },
+    {
+      "text_found": "{\"text_found",
+      "confidence": "low",
+      "ann_id": 4882,
+      "current_cat": 100,
+      "current_name": "EVERGOOD CLASSIC FILTERMALT 250G",
+      "bbox_size": "75x107",
+      "image_name": "img_00046.jpeg"
+    },
+    {
+      "text_found": "{\"text_found",
+      "confidence": "low",
+      "ann_id": 4883,
+      "current_cat": 100,
+      "current_name": "EVERGOOD CLASSIC FILTERMALT 250G",
+      "bbox_size": "73x107",
+      "image_name": "img_00046.jpeg"
+    },
+    {
+      "text_found": "{\"text_found\":",
+      "confidence": "low",
+      "ann_id": 4884,
+      "current_cat": 100,
+      "current_name": "EVERGOOD CLASSIC FILTERMALT 250G",
+      "bbox_size": "66x97",
+      "image_name": "img_00046.jpeg"
+    },
+    {
+      "text_found": "{\"text_found\": \"CLASSIC",
+      "confidence": "low",
+      "ann_id": 4885,
+      "current_cat": 100,
+      "current_name": "EVERGOOD CLASSIC FILTERMALT 250G",
+      "bbox_size": "79x92",
+      "image_name": "img_00046.jpeg"
+    },
+    {
+      "text_found": "{\"text_",
+      "confidence": "low",
+      "ann_id": 4886,
+      "current_cat": 100,
+      "current_name": "EVERGOOD CLASSIC FILTERMALT 250G",
+      "bbox_size": "65x97",
+      "image_name": "img_00046.jpeg"
+    },
+    {
+      "text_found": "{\"text_found",
+      "confidence": "low",
+      "ann_id": 4887,
+      "current_cat": 100,
+      "current_name": "EVERGOOD CLASSIC FILTERMALT 250G",
+      "bbox_size": "63x94",
+      "image_name": "img_00046.jpeg"
+    },
+    {
+      "text_found": "{\"text_found\":",
+      "confidence": "low",
+      "ann_id": 4888,
+      "current_cat": 100,
+      "current_name": "EVERGOOD CLASSIC FILTERMALT 250G",
+      "bbox_size": "63x97",
+      "image_name": "img_00046.jpeg"
+    },
+    {
+      "text_found": "FILTERMALT",
+      "confidence": "high",
+      "ann_id": 4889,
+      "current_cat": 100,
+      "current_name": "EVERGOOD CLASSIC FILTERMALT 250G",
+      "bbox_size": "69x89",
+      "image_name": "img_00046.jpeg"
+    },
+    {
+      "text_found": "{\"text_found\":",
+      "confidence": "low",
+      "ann_id": 4890,
+      "current_cat": 100,
+      "current_name": "EVERGOOD CLASSIC FILTERMALT 250G",
+      "bbox_size": "66x83",
+      "image_name": "img_00046.jpeg"
+    },
+    {
+      "text_found": "FILTERMALT",
+      "confidence": "high",
+      "ann_id": 4891,
+      "current_cat": 100,
+      "current_name": "EVERGOOD CLASSIC FILTERMALT 250G",
+      "bbox_size": "75x120",
+      "image_name": "img_00046.jpeg"
+    },
+    {
+      "text_found": "{\"text",
+      "confidence": "low",
+      "ann_id": 4892,
+      "current_cat": 100,
+      "current_name": "EVERGOOD CLASSIC FILTERMALT 250G",
+      "bbox_size": "74x120",
+      "image_name": "img_00046.jpeg"
+    },
+    {
+      "text_found": "{\"text_found",
+      "confidence": "low",
+      "ann_id": 4893,
+      "current_cat": 100,
+      "current_name": "EVERGOOD CLASSIC FILTERMALT 250G",
+      "bbox_size": "64x92",
+      "image_name": "img_00046.jpeg"
+    },
+    {
+      "text_found": "{\"text_found\": \"",
+      "confidence": "low",
+      "ann_id": 4894,
+      "current_cat": 100,
+      "current_name": "EVERGOOD CLASSIC FILTERMALT 250G",
+      "bbox_size": "64x94",
+      "image_name": "img_00046.jpeg"
+    },
+    {
+      "text_found": "FILTERMALT",
+      "confidence": "high",
+      "ann_id": 4895,
+      "current_cat": 100,
+      "current_name": "EVERGOOD CLASSIC FILTERMALT 250G",
+      "bbox_size": "66x91",
+      "image_name": "img_00046.jpeg"
+    },
+    {
+      "text_found": "{\"text_",
+      "confidence": "low",
+      "ann_id": 4896,
+      "current_cat": 100,
+      "current_name": "EVERGOOD CLASSIC FILTERMALT 250G",
+      "bbox_size": "61x104",
+      "image_name": "img_00046.jpeg"
+    },
+    {
+      "text_found": "{\"text_found\":",
+      "confidence": "low",
+      "ann_id": 4897,
+      "current_cat": 100,
+      "current_name": "EVERGOOD CLASSIC FILTERMALT 250G",
+      "bbox_size": "69x94",
+      "image_name": "img_00046.jpeg"
+    },
+    {
+      "text_found": "Klassisk",
+      "confidence": "high",
+      "ann_id": 4898,
+      "current_cat": 100,
+      "current_name": "EVERGOOD CLASSIC FILTERMALT 250G",
+      "bbox_size": "58x82",
+      "image_name": "img_00046.jpeg"
+    },
+    {
+      "text_found": "Classic",
+      "confidence": "high",
+      "ann_id": 4899,
+      "current_cat": 100,
+      "current_name": "EVERGOOD CLASSIC FILTERMALT 250G",
+      "bbox_size": "64x82",
+      "image_name": "img_00046.jpeg"
+    },
+    {
+      "text_found": "FILTERMALT",
+      "confidence": "high",
+      "ann_id": 4900,
+      "current_cat": 100,
+      "current_name": "EVERGOOD CLASSIC FILTERMALT 250G",
+      "bbox_size": "58x94",
+      "image_name": "img_00046.jpeg"
+    },
+    {
+      "text_found": "{\"text",
+      "confidence": "low",
+      "ann_id": 4901,
+      "current_cat": 100,
+      "current_name": "EVERGOOD CLASSIC FILTERMALT 250G",
+      "bbox_size": "66x84",
+      "image_name": "img_00046.jpeg"
+    },
+    {
+      "text_found": "Classique",
+      "confidence": "high",
+      "ann_id": 4902,
+      "current_cat": 100,
+      "current_name": "EVERGOOD CLASSIC FILTERMALT 250G",
+      "bbox_size": "64x85",
+      "image_name": "img_00046.jpeg"
+    },
+    {
+      "text_found": "FILTERMALT",
+      "confidence": "high",
+      "ann_id": 4903,
+      "current_cat": 100,
+      "current_name": "EVERGOOD CLASSIC FILTERMALT 250G",
+      "bbox_size": "58x85",
+      "image_name": "img_00046.jpeg"
+    },
+    {
+      "text_found": "{\n  \"text",
+      "confidence": "low",
+      "ann_id": 4904,
+      "current_cat": 100,
+      "current_name": "EVERGOOD CLASSIC FILTERMALT 250G",
+      "bbox_size": "74x99",
+      "image_name": "img_00046.jpeg"
+    },
+    {
+      "text_found": "Classic",
+      "confidence": "high",
+      "ann_id": 5007,
+      "current_cat": 304,
+      "current_name": "EVERGOOD CLASSIC KOKMALT 250G",
+      "bbox_size": "94x127",
+      "image_name": "img_00048.jpeg"
+    },
+    {
+      "text_found": "FILTERMALT",
+      "confidence": "high",
+      "ann_id": 5008,
+      "current_cat": 304,
+      "current_name": "EVERGOOD CLASSIC KOKMALT 250G",
+      "bbox_size": "93x113",
+      "image_name": "img_00048.jpeg"
+    },
+    {
+      "text_found": "FILTERMALT",
+      "confidence": "high",
+      "ann_id": 5009,
+      "current_cat": 100,
+      "current_name": "EVERGOOD CLASSIC FILTERMALT 250G",
+      "bbox_size": "84x138",
+      "image_name": "img_00048.jpeg"
+    },
+    {
+      "text_found": "{\"text_found\":",
+      "confidence": "low",
+      "ann_id": 5010,
+      "current_cat": 100,
+      "current_name": "EVERGOOD CLASSIC FILTERMALT 250G",
+      "bbox_size": "82x132",
+      "image_name": "img_00048.jpeg"
+    },
+    {
+      "text_found": "{\"text_found\": \"Classic\", \"confidence\":",
+      "confidence": "low",
+      "ann_id": 5011,
+      "current_cat": 100,
+      "current_name": "EVERGOOD CLASSIC FILTERMALT 250G",
+      "bbox_size": "90x149",
+      "image_name": "img_00048.jpeg"
+    },
+    {
+      "text_found": "{\"text_",
+      "confidence": "low",
+      "ann_id": 5012,
+      "current_cat": 100,
+      "current_name": "EVERGOOD CLASSIC FILTERMALT 250G",
+      "bbox_size": "99x150",
+      "image_name": "img_00048.jpeg"
+    },
+    {
+      "text_found": "{\"text_found\":",
+      "confidence": "low",
+      "ann_id": 5018,
+      "current_cat": 100,
+      "current_name": "EVERGOOD CLASSIC FILTERMALT 250G",
+      "bbox_size": "60x103",
+      "image_name": "img_00048.jpeg"
+    },
+    {
+      "text_found": "CLASSIC",
+      "confidence": "high",
+      "ann_id": 5019,
+      "current_cat": 100,
+      "current_name": "EVERGOOD CLASSIC FILTERMALT 250G",
+      "bbox_size": "65x96",
+      "image_name": "img_00048.jpeg"
+    },
+    {
+      "text_found": "{\"text_found",
+      "confidence": "low",
+      "ann_id": 5020,
+      "current_cat": 100,
+      "current_name": "EVERGOOD CLASSIC FILTERMALT 250G",
+      "bbox_size": "69x101",
+      "image_name": "img_00048.jpeg"
+    },
+    {
+      "text_found": "{\"text",
+      "confidence": "low",
+      "ann_id": 5027,
+      "current_cat": 304,
+      "current_name": "EVERGOOD CLASSIC KOKMALT 250G",
+      "bbox_size": "59x132",
+      "image_name": "img_00048.jpeg"
+    },
+    {
+      "text_found": "{\"text_found\": \"PREM",
+      "confidence": "low",
+      "ann_id": 5028,
+      "current_cat": 304,
+      "current_name": "EVERGOOD CLASSIC KOKMALT 250G",
+      "bbox_size": "78x140",
+      "image_name": "img_00048.jpeg"
+    },
+    {
+      "text_found": "Classic",
+      "confidence": "high",
+      "ann_id": 5044,
+      "current_cat": 100,
+      "current_name": "EVERGOOD CLASSIC FILTERMALT 250G",
+      "bbox_size": "61x93",
+      "image_name": "img_00048.jpeg"
+    },
+    {
+      "text_found": "{\"text_found\":",
+      "confidence": "low",
+      "ann_id": 5045,
+      "current_cat": 100,
+      "current_name": "EVERGOOD CLASSIC FILTERMALT 250G",
+      "bbox_size": "63x99",
+      "image_name": "img_00048.jpeg"
+    },
+    {
+      "text_found": "{\"text_found\": \"",
+      "confidence": "low",
+      "ann_id": 5046,
+      "current_cat": 100,
+      "current_name": "EVERGOOD CLASSIC FILTERMALT 250G",
+      "bbox_size": "64x98",
+      "image_name": "img_00048.jpeg"
+    },
+    {
+      "text_found": "{\"text_found\":",
+      "confidence": "low",
+      "ann_id": 5047,
+      "current_cat": 100,
+      "current_name": "EVERGOOD CLASSIC FILTERMALT 250G",
+      "bbox_size": "24x91",
+      "image_name": "img_00048.jpeg"
+    },
+    {
+      "text_found": "FILTERMALT",
+      "confidence": "high",
+      "ann_id": 5210,
+      "current_cat": 100,
+      "current_name": "EVERGOOD CLASSIC FILTERMALT 250G",
+      "bbox_size": "203x296",
+      "image_name": "img_00050.jpg"
+    },
+    {
+      "text_found": "{\"text",
+      "confidence": "low",
+      "ann_id": 5211,
+      "current_cat": 100,
+      "current_name": "EVERGOOD CLASSIC FILTERMALT 250G",
+      "bbox_size": "199x294",
+      "image_name": "img_00050.jpg"
+    },
+    {
+      "text_found": "KOKMALT",
+      "confidence": "high",
+      "ann_id": 5289,
+      "current_cat": 304,
+      "current_name": "EVERGOOD CLASSIC KOKMALT 250G",
+      "bbox_size": "132x272",
+      "image_name": "img_00050.jpg"
+    },
+    {
+      "text_found": "{\"text_found\": \"KOKMÄLT\", \"",
+      "confidence": "low",
+      "ann_id": 5290,
+      "current_cat": 304,
+      "current_name": "EVERGOOD CLASSIC KOKMALT 250G",
+      "bbox_size": "141x270",
+      "image_name": "img_00050.jpg"
+    },
+    {
+      "text_found": "{\n  \"",
+      "confidence": "low",
+      "ann_id": 5291,
+      "current_cat": 304,
+      "current_name": "EVERGOOD CLASSIC KOKMALT 250G",
+      "bbox_size": "137x270",
+      "image_name": "img_00050.jpg"
+    },
+    {
+      "text_found": "{\"text_",
+      "confidence": "low",
+      "ann_id": 5292,
+      "current_cat": 304,
+      "current_name": "EVERGOOD CLASSIC KOKMALT 250G",
+      "bbox_size": "141x266",
+      "image_name": "img_00050.jpg"
+    },
+    {
+      "text_found": "FILTERMALT",
+      "confidence": "high",
+      "ann_id": 5293,
+      "current_cat": 100,
+      "current_name": "EVERGOOD CLASSIC FILTERMALT 250G",
+      "bbox_size": "114x210",
+      "image_name": "img_00050.jpg"
+    },
+    {
+      "text_found": "FILTERMALT",
+      "confidence": "high",
+      "ann_id": 5294,
+      "current_cat": 100,
+      "current_name": "EVERGOOD CLASSIC FILTERMALT 250G",
+      "bbox_size": "131x210",
+      "image_name": "img_00050.jpg"
+    },
+    {
+      "ann_id": 5295,
+      "current_cat": 100,
+      "text_found": "",
+      "confidence": "error"
+    },
+    {
+      "text_found": "{\"text_",
+      "confidence": "low",
+      "ann_id": 5296,
+      "current_cat": 100,
+      "current_name": "EVERGOOD CLASSIC FILTERMALT 250G",
+      "bbox_size": "111x238",
+      "image_name": "img_00050.jpg"
+    },
+    {
+      "text_found": "{\"text_found\":",
+      "confidence": "low",
+      "ann_id": 5297,
+      "current_cat": 100,
+      "current_name": "EVERGOOD CLASSIC FILTERMALT 250G",
+      "bbox_size": "99x183",
+      "image_name": "img_00050.jpg"
+    },
+    {
+      "text_found": "FILTERMALT",
+      "confidence": "high",
+      "ann_id": 5298,
+      "current_cat": 100,
+      "current_name": "EVERGOOD CLASSIC FILTERMALT 250G",
+      "bbox_size": "146x230",
+      "image_name": "img_00050.jpg"
+    },
+    {
+      "text_found": "FILTERMALT",
+      "confidence": "high",
+      "ann_id": 5299,
+      "current_cat": 100,
+      "current_name": "EVERGOOD CLASSIC FILTERMALT 250G",
+      "bbox_size": "126x238",
+      "image_name": "img_00050.jpg"
+    },
+    {
+      "text_found": "FILTERMALT",
+      "confidence": "high",
+      "ann_id": 5300,
+      "current_cat": 100,
+      "current_name": "EVERGOOD CLASSIC FILTERMALT 250G",
+      "bbox_size": "124x183",
+      "image_name": "img_00050.jpg"
+    },
+    {
+      "text_found": "{\"text_found\":",
+      "confidence": "low",
+      "ann_id": 5692,
+      "current_cat": 100,
+      "current_name": "EVERGOOD CLASSIC FILTERMALT 250G",
+      "bbox_size": "69x89",
+      "image_name": "img_00054.jpeg"
+    },
+    {
+      "text_found": "Classic",
+      "confidence": "high",
+      "ann_id": 5693,
+      "current_cat": 100,
+      "current_name": "EVERGOOD CLASSIC FILTERMALT 250G",
+      "bbox_size": "69x89",
+      "image_name": "img_00054.jpeg"
+    },
+    {
+      "text_found": "{\"text_found\":",
+      "confidence": "low",
+      "ann_id": 5694,
+      "current_cat": 100,
+      "current_name": "EVERGOOD CLASSIC FILTERMALT 250G",
+      "bbox_size": "64x92",
+      "image_name": "img_00054.jpeg"
+    },
+    {
+      "text_found": "Classic",
+      "confidence": "high",
+      "ann_id": 5701,
+      "current_cat": 100,
+      "current_name": "EVERGOOD CLASSIC FILTERMALT 250G",
+      "bbox_size": "66x80",
+      "image_name": "img_00054.jpeg"
+    },
+    {
+      "text_found": "{\"text_found\":",
+      "confidence": "low",
+      "ann_id": 5755,
+      "current_cat": 304,
+      "current_name": "EVERGOOD CLASSIC KOKMALT 250G",
+      "bbox_size": "53x107",
+      "image_name": "img_00054.jpeg"
+    },
+    {
+      "text_found": "{\"text_found\":",
+      "confidence": "low",
+      "ann_id": 5756,
+      "current_cat": 304,
+      "current_name": "EVERGOOD CLASSIC KOKMALT 250G",
+      "bbox_size": "58x103",
+      "image_name": "img_00054.jpeg"
+    },
+    {
+      "text_found": "{\"text_found",
+      "confidence": "low",
+      "ann_id": 5757,
+      "current_cat": 304,
+      "current_name": "EVERGOOD CLASSIC KOKMALT 250G",
+      "bbox_size": "58x102",
+      "image_name": "img_00054.jpeg"
+    },
+    {
+      "text_found": "{\"text_found\": \"",
+      "confidence": "low",
+      "ann_id": 5758,
+      "current_cat": 304,
+      "current_name": "EVERGOOD CLASSIC KOKMALT 250G",
+      "bbox_size": "57x103",
+      "image_name": "img_00054.jpeg"
+    },
+    {
+      "text_found": "{\"text_found\":",
+      "confidence": "low",
+      "ann_id": 5759,
+      "current_cat": 304,
+      "current_name": "EVERGOOD CLASSIC KOKMALT 250G",
+      "bbox_size": "52x102",
+      "image_name": "img_00054.jpeg"
+    },
+    {
+      "text_found": "{\"text_found\": \"Classic\",",
+      "confidence": "low",
+      "ann_id": 5760,
+      "current_cat": 304,
+      "current_name": "EVERGOOD CLASSIC KOKMALT 250G",
+      "bbox_size": "56x103",
+      "image_name": "img_00054.jpeg"
+    },
+    {
+      "text_found": "Classic",
+      "confidence": "high",
+      "ann_id": 5761,
+      "current_cat": 304,
+      "current_name": "EVERGOOD CLASSIC KOKMALT 250G",
+      "bbox_size": "48x85",
+      "image_name": "img_00054.jpeg"
+    },
+    {
+      "text_found": "{\"text",
+      "confidence": "low",
+      "ann_id": 5762,
+      "current_cat": 304,
+      "current_name": "EVERGOOD CLASSIC KOKMALT 250G",
+      "bbox_size": "73x113",
+      "image_name": "img_00054.jpeg"
+    },
+    {
+      "text_found": "{\"text_found\": \"",
+      "confidence": "low",
+      "ann_id": 5763,
+      "current_cat": 304,
+      "current_name": "EVERGOOD CLASSIC KOKMALT 250G",
+      "bbox_size": "70x114",
+      "image_name": "img_00054.jpeg"
+    },
+    {
+      "text_found": "{\"text_found",
+      "confidence": "low",
+      "ann_id": 5765,
+      "current_cat": 100,
+      "current_name": "EVERGOOD CLASSIC FILTERMALT 250G",
+      "bbox_size": "66x105",
+      "image_name": "img_00054.jpeg"
+    },
+    {
+      "text_found": "Classic",
+      "confidence": "high",
+      "ann_id": 5766,
+      "current_cat": 100,
+      "current_name": "EVERGOOD CLASSIC FILTERMALT 250G",
+      "bbox_size": "77x106",
+      "image_name": "img_00054.jpeg"
+    },
+    {
+      "text_found": "{\"text_",
+      "confidence": "low",
+      "ann_id": 5767,
+      "current_cat": 100,
+      "current_name": "EVERGOOD CLASSIC FILTERMALT 250G",
+      "bbox_size": "73x112",
+      "image_name": "img_00054.jpeg"
+    },
+    {
+      "text_found": "{\"text_found\": \"",
+      "confidence": "low",
+      "ann_id": 5768,
+      "current_cat": 100,
+      "current_name": "EVERGOOD CLASSIC FILTERMALT 250G",
+      "bbox_size": "71x107",
+      "image_name": "img_00054.jpeg"
+    },
+    {
+      "text_found": "{\"text_found\":",
+      "confidence": "low",
+      "ann_id": 5769,
+      "current_cat": 100,
+      "current_name": "EVERGOOD CLASSIC FILTERMALT 250G",
+      "bbox_size": "68x107",
+      "image_name": "img_00054.jpeg"
+    },
+    {
+      "text_found": "{\"text_found\": \"Classic\",",
+      "confidence": "low",
+      "ann_id": 5825,
+      "current_cat": 100,
+      "current_name": "EVERGOOD CLASSIC FILTERMALT 250G",
+      "bbox_size": "53x102",
+      "image_name": "img_00054.jpeg"
+    },
+    {
+      "text_found": "{\"text_found\": \"The",
+      "confidence": "low",
+      "ann_id": 5826,
+      "current_cat": 100,
+      "current_name": "EVERGOOD CLASSIC FILTERMALT 250G",
+      "bbox_size": "56x100",
+      "image_name": "img_00054.jpeg"
+    },
+    {
+      "text_found": "{\"text_found\": \"",
+      "confidence": "low",
+      "ann_id": 5827,
+      "current_cat": 100,
+      "current_name": "EVERGOOD CLASSIC FILTERMALT 250G",
+      "bbox_size": "52x98",
+      "image_name": "img_00054.jpeg"
+    },
+    {
+      "text_found": "{\"text",
+      "confidence": "low",
+      "ann_id": 5863,
+      "current_cat": 100,
+      "current_name": "EVERGOOD CLASSIC FILTERMALT 250G",
+      "bbox_size": "130x211",
+      "image_name": "img_00055.jpeg"
+    },
+    {
+      "text_found": "{\"text",
+      "confidence": "low",
+      "ann_id": 5864,
+      "current_cat": 100,
+      "current_name": "EVERGOOD CLASSIC FILTERMALT 250G",
+      "bbox_size": "133x211",
+      "image_name": "img_00055.jpeg"
+    },
+    {
+      "text_found": "{\"text_",
+      "confidence": "low",
+      "ann_id": 5870,
+      "current_cat": 304,
+      "current_name": "EVERGOOD CLASSIC KOKMALT 250G",
+      "bbox_size": "137x196",
+      "image_name": "img_00055.jpeg"
+    },
+    {
+      "text_found": "KOKMALT",
+      "confidence": "high",
+      "ann_id": 5872,
+      "current_cat": 100,
+      "current_name": "EVERGOOD CLASSIC FILTERMALT 250G",
+      "bbox_size": "162x243",
+      "image_name": "img_00055.jpeg"
+    },
+    {
+      "text_found": "{",
+      "confidence": "low",
+      "ann_id": 5873,
+      "current_cat": 100,
+      "current_name": "EVERGOOD CLASSIC FILTERMALT 250G",
+      "bbox_size": "159x235",
+      "image_name": "img_00055.jpeg"
+    },
+    {
+      "text_found": "Classic",
+      "confidence": "high",
+      "ann_id": 5934,
+      "current_cat": 100,
+      "current_name": "EVERGOOD CLASSIC FILTERMALT 250G",
+      "bbox_size": "68x129",
+      "image_name": "img_00056.jpeg"
+    },
+    {
+      "text_found": "{\"text",
+      "confidence": "low",
+      "ann_id": 5935,
+      "current_cat": 100,
+      "current_name": "EVERGOOD CLASSIC FILTERMALT 250G",
+      "bbox_size": "113x183",
+      "image_name": "img_00056.jpeg"
+    },
+    {
+      "text_found": "{\"text_found",
+      "confidence": "low",
+      "ann_id": 5940,
+      "current_cat": 304,
+      "current_name": "EVERGOOD CLASSIC KOKMALT 250G",
+      "bbox_size": "99x149",
+      "image_name": "img_00056.jpeg"
+    },
+    {
+      "text_found": "{\"text_found\": \"FILTERMALT\", \"confidence\": \"",
+      "confidence": "low",
+      "ann_id": 5941,
+      "current_cat": 304,
+      "current_name": "EVERGOOD CLASSIC KOKMALT 250G",
+      "bbox_size": "87x156",
+      "image_name": "img_00056.jpeg"
+    },
+    {
+      "text_found": "FILTERMALT",
+      "confidence": "high",
+      "ann_id": 5982,
+      "current_cat": 304,
+      "current_name": "EVERGOOD CLASSIC KOKMALT 250G",
+      "bbox_size": "72x133",
+      "image_name": "img_00056.jpeg"
+    },
+    {
+      "text_found": "{\"text_found\": \"FILTERMALT\", \"confidence\":",
+      "confidence": "low",
+      "ann_id": 5983,
+      "current_cat": 304,
+      "current_name": "EVERGOOD CLASSIC KOKMALT 250G",
+      "bbox_size": "64x120",
+      "image_name": "img_00056.jpeg"
+    },
+    {
+      "text_found": "{\"text_found\":",
+      "confidence": "low",
+      "ann_id": 5984,
+      "current_cat": 304,
+      "current_name": "EVERGOOD CLASSIC KOKMALT 250G",
+      "bbox_size": "67x128",
+      "image_name": "img_00056.jpeg"
+    },
+    {
+      "text_found": "{\"text_found\":",
+      "confidence": "low",
+      "ann_id": 5993,
+      "current_cat": 100,
+      "current_name": "EVERGOOD CLASSIC FILTERMALT 250G",
+      "bbox_size": "61x120",
+      "image_name": "img_00056.jpeg"
+    },
+    {
+      "text_found": "FILTERMALT",
+      "confidence": "high",
+      "ann_id": 5994,
+      "current_cat": 100,
+      "current_name": "EVERGOOD CLASSIC FILTERMALT 250G",
+      "bbox_size": "50x94",
+      "image_name": "img_00056.jpeg"
+    },
+    {
+      "text_found": "{\"text_found\": \"FILTERM",
+      "confidence": "low",
+      "ann_id": 5995,
+      "current_cat": 100,
+      "current_name": "EVERGOOD CLASSIC FILTERMALT 250G",
+      "bbox_size": "65x93",
+      "image_name": "img_00056.jpeg"
+    },
+    {
+      "text_found": "FILTERMALT",
+      "confidence": "high",
+      "ann_id": 5996,
+      "current_cat": 100,
+      "current_name": "EVERGOOD CLASSIC FILTERMALT 250G",
+      "bbox_size": "64x99",
+      "image_name": "img_00056.jpeg"
+    },
+    {
+      "text_found": "{\"text_found",
+      "confidence": "low",
+      "ann_id": 5997,
+      "current_cat": 100,
+      "current_name": "EVERGOOD CLASSIC FILTERMALT 250G",
+      "bbox_size": "61x102",
+      "image_name": "img_00056.jpeg"
+    },
+    {
+      "text_found": "{\"text_",
+      "confidence": "low",
+      "ann_id": 6016,
+      "current_cat": 100,
+      "current_name": "EVERGOOD CLASSIC FILTERMALT 250G",
+      "bbox_size": "62x92",
+      "image_name": "img_00056.jpeg"
+    },
+    {
+      "text_found": "{\"text_found",
+      "confidence": "low",
+      "ann_id": 6017,
+      "current_cat": 100,
+      "current_name": "EVERGOOD CLASSIC FILTERMALT 250G",
+      "bbox_size": "43x79",
+      "image_name": "img_00056.jpeg"
+    },
+    {
+      "text_found": "{\"text_found\":",
+      "confidence": "low",
+      "ann_id": 6018,
+      "current_cat": 100,
+      "current_name": "EVERGOOD CLASSIC FILTERMALT 250G",
+      "bbox_size": "31x74",
+      "image_name": "img_00056.jpeg"
+    },
+    {
+      "text_found": "{\"text_found\":",
+      "confidence": "low",
+      "ann_id": 6019,
+      "current_cat": 100,
+      "current_name": "EVERGOOD CLASSIC FILTERMALT 250G",
+      "bbox_size": "43x93",
+      "image_name": "img_00056.jpeg"
+    },
+    {
+      "text_found": "{\"text_found\": \"FILTER",
+      "confidence": "low",
+      "ann_id": 6211,
+      "current_cat": 304,
+      "current_name": "EVERGOOD CLASSIC KOKMALT 250G",
+      "bbox_size": "126x199",
+      "image_name": "img_00059.jpg"
+    },
+    {
+      "text_found": "KOKMALT",
+      "confidence": "high",
+      "ann_id": 6212,
+      "current_cat": 304,
+      "current_name": "EVERGOOD CLASSIC KOKMALT 250G",
+      "bbox_size": "126x219",
+      "image_name": "img_00059.jpg"
+    },
+    {
+      "text_found": "KOKMALT",
+      "confidence": "high",
+      "ann_id": 6215,
+      "current_cat": 304,
+      "current_name": "EVERGOOD CLASSIC KOKMALT 250G",
+      "bbox_size": "151x225",
+      "image_name": "img_00059.jpg"
+    },
+    {
+      "text_found": "KOKMALT",
+      "confidence": "high",
+      "ann_id": 6216,
+      "current_cat": 304,
+      "current_name": "EVERGOOD CLASSIC KOKMALT 250G",
+      "bbox_size": "135x209",
+      "image_name": "img_00059.jpg"
+    },
+    {
+      "text_found": "{\"text_found\": \"FILTERM",
+      "confidence": "low",
+      "ann_id": 6266,
+      "current_cat": 304,
+      "current_name": "EVERGOOD CLASSIC KOKMALT 250G",
+      "bbox_size": "71x137",
+      "image_name": "img_00060.jpg"
+    },
+    {
+      "text_found": "{\"text_found\":",
+      "confidence": "low",
+      "ann_id": 6267,
+      "current_cat": 304,
+      "current_name": "EVERGOOD CLASSIC KOKMALT 250G",
+      "bbox_size": "76x139",
+      "image_name": "img_00060.jpg"
+    },
+    {
+      "text_found": "{\"text_found\":",
+      "confidence": "low",
+      "ann_id": 6292,
+      "current_cat": 100,
+      "current_name": "EVERGOOD CLASSIC FILTERMALT 250G",
+      "bbox_size": "83x109",
+      "image_name": "img_00060.jpg"
+    },
+    {
+      "text_found": "{\"text_",
+      "confidence": "low",
+      "ann_id": 6293,
+      "current_cat": 100,
+      "current_name": "EVERGOOD CLASSIC FILTERMALT 250G",
+      "bbox_size": "77x132",
+      "image_name": "img_00060.jpg"
+    },
+    {
+      "text_found": "FILTERMALT",
+      "confidence": "high",
+      "ann_id": 6295,
+      "current_cat": 304,
+      "current_name": "EVERGOOD CLASSIC KOKMALT 250G",
+      "bbox_size": "89x146",
+      "image_name": "img_00060.jpg"
+    },
+    {
+      "text_found": "{\"text_found",
+      "confidence": "low",
+      "ann_id": 6296,
+      "current_cat": 304,
+      "current_name": "EVERGOOD CLASSIC KOKMALT 250G",
+      "bbox_size": "101x146",
+      "image_name": "img_00060.jpg"
+    },
+    {
+      "text_found": "{\"text_found",
+      "confidence": "low",
+      "ann_id": 6371,
+      "current_cat": 304,
+      "current_name": "EVERGOOD CLASSIC KOKMALT 250G",
+      "bbox_size": "78x146",
+      "image_name": "img_00061.jpg"
+    },
+    {
+      "text_found": "{\"text_found\": \"PRESSCA",
+      "confidence": "low",
+      "ann_id": 6372,
+      "current_cat": 304,
+      "current_name": "EVERGOOD CLASSIC KOKMALT 250G",
+      "bbox_size": "96x154",
+      "image_name": "img_00061.jpg"
+    },
+    {
+      "text_found": "{\"text",
+      "confidence": "low",
+      "ann_id": 6373,
+      "current_cat": 100,
+      "current_name": "EVERGOOD CLASSIC FILTERMALT 250G",
+      "bbox_size": "89x128",
+      "image_name": "img_00061.jpg"
+    },
+    {
+      "text_found": "{\"text_found\":",
+      "confidence": "low",
+      "ann_id": 6374,
+      "current_cat": 100,
+      "current_name": "EVERGOOD CLASSIC FILTERMALT 250G",
+      "bbox_size": "76x128",
+      "image_name": "img_00061.jpg"
+    },
+    {
+      "text_found": "FILTERMALT",
+      "confidence": "high",
+      "ann_id": 6375,
+      "current_cat": 100,
+      "current_name": "EVERGOOD CLASSIC FILTERMALT 250G",
+      "bbox_size": "74x127",
+      "image_name": "img_00061.jpg"
+    },
+    {
+      "text_found": "{\"text_found\":",
+      "confidence": "low",
+      "ann_id": 6376,
+      "current_cat": 100,
+      "current_name": "EVERGOOD CLASSIC FILTERMALT 250G",
+      "bbox_size": "71x128",
+      "image_name": "img_00061.jpg"
+    },
+    {
+      "text_found": "{\"text_found\": \"",
+      "confidence": "low",
+      "ann_id": 6381,
+      "current_cat": 100,
+      "current_name": "EVERGOOD CLASSIC FILTERMALT 250G",
+      "bbox_size": "100x149",
+      "image_name": "img_00061.jpg"
+    },
+    {
+      "text_found": "{\"text_found\": \"For all",
+      "confidence": "low",
+      "ann_id": 6401,
+      "current_cat": 304,
+      "current_name": "EVERGOOD CLASSIC KOKMALT 250G",
+      "bbox_size": "87x142",
+      "image_name": "img_00061.jpg"
+    },
+    {
+      "text_found": "KOKEMALT",
+      "confidence": "high",
+      "ann_id": 6402,
+      "current_cat": 304,
+      "current_name": "EVERGOOD CLASSIC KOKMALT 250G",
+      "bbox_size": "76x142",
+      "image_name": "img_00061.jpg"
+    },
+    {
+      "text_found": "{\n  \"",
+      "confidence": "low",
+      "ann_id": 6406,
+      "current_cat": 100,
+      "current_name": "EVERGOOD CLASSIC FILTERMALT 250G",
+      "bbox_size": "65x124",
+      "image_name": "img_00061.jpg"
+    },
+    {
+      "text_found": "Classic",
+      "confidence": "high",
+      "ann_id": 6407,
+      "current_cat": 100,
+      "current_name": "EVERGOOD CLASSIC FILTERMALT 250G",
+      "bbox_size": "66x118",
+      "image_name": "img_00061.jpg"
+    },
+    {
+      "text_found": "FILTERMALT",
+      "confidence": "high",
+      "ann_id": 6408,
+      "current_cat": 100,
+      "current_name": "EVERGOOD CLASSIC FILTERMALT 250G",
+      "bbox_size": "71x114",
+      "image_name": "img_00061.jpg"
+    },
+    {
+      "text_found": "{\"text_",
+      "confidence": "low",
+      "ann_id": 6409,
+      "current_cat": 100,
+      "current_name": "EVERGOOD CLASSIC FILTERMALT 250G",
+      "bbox_size": "63x114",
+      "image_name": "img_00061.jpg"
+    },
+    {
+      "text_found": "{\"text_found\": \"",
+      "confidence": "low",
+      "ann_id": 6410,
+      "current_cat": 100,
+      "current_name": "EVERGOOD CLASSIC FILTERMALT 250G",
+      "bbox_size": "62x109",
+      "image_name": "img_00061.jpg"
+    },
+    {
+      "text_found": "{\"text_found\": \"FILTERMALT\", \"confidence",
+      "confidence": "low",
+      "ann_id": 6411,
+      "current_cat": 100,
+      "current_name": "EVERGOOD CLASSIC FILTERMALT 250G",
+      "bbox_size": "75x115",
+      "image_name": "img_00061.jpg"
+    },
+    {
+      "text_found": "{\"text_found",
+      "confidence": "low",
+      "ann_id": 6412,
+      "current_cat": 100,
+      "current_name": "EVERGOOD CLASSIC FILTERMALT 250G",
+      "bbox_size": "82x115",
+      "image_name": "img_00061.jpg"
+    },
+    {
+      "text_found": "FILTERMALT",
+      "confidence": "high",
+      "ann_id": 6413,
+      "current_cat": 100,
+      "current_name": "EVERGOOD CLASSIC FILTERMALT 250G",
+      "bbox_size": "62x114",
+      "image_name": "img_00061.jpg"
+    },
+    {
+      "text_found": "{\"text_found\":",
+      "confidence": "low",
+      "ann_id": 6414,
+      "current_cat": 100,
+      "current_name": "EVERGOOD CLASSIC FILTERMALT 250G",
+      "bbox_size": "65x90",
+      "image_name": "img_00061.jpg"
+    },
+    {
+      "text_found": "{\"text_found\":",
+      "confidence": "low",
+      "ann_id": 6415,
+      "current_cat": 100,
+      "current_name": "EVERGOOD CLASSIC FILTERMALT 250G",
+      "bbox_size": "66x90",
+      "image_name": "img_00061.jpg"
+    },
+    {
+      "text_found": "{\"text",
+      "confidence": "low",
+      "ann_id": 6416,
+      "current_cat": 100,
+      "current_name": "EVERGOOD CLASSIC FILTERMALT 250G",
+      "bbox_size": "56x81",
+      "image_name": "img_00061.jpg"
+    },
+    {
+      "text_found": "FILTERMALT",
+      "confidence": "high",
+      "ann_id": 6417,
+      "current_cat": 100,
+      "current_name": "EVERGOOD CLASSIC FILTERMALT 250G",
+      "bbox_size": "57x72",
+      "image_name": "img_00061.jpg"
+    },
+    {
+      "text_found": "{\"text_found\": \"",
+      "confidence": "low",
+      "ann_id": 6433,
+      "current_cat": 304,
+      "current_name": "EVERGOOD CLASSIC KOKMALT 250G",
+      "bbox_size": "47x105",
+      "image_name": "img_00061.jpg"
+    },
+    {
+      "text_found": "{\"text_found",
+      "confidence": "low",
+      "ann_id": 6456,
+      "current_cat": 100,
+      "current_name": "EVERGOOD CLASSIC FILTERMALT 250G",
+      "bbox_size": "53x86",
+      "image_name": "img_00061.jpg"
+    },
+    {
+      "text_found": "Classic",
+      "confidence": "high",
+      "ann_id": 6457,
+      "current_cat": 100,
+      "current_name": "EVERGOOD CLASSIC FILTERMALT 250G",
+      "bbox_size": "61x93",
+      "image_name": "img_00061.jpg"
+    },
+    {
+      "text_found": "{\"text_found\": \"",
+      "confidence": "low",
+      "ann_id": 6458,
+      "current_cat": 100,
+      "current_name": "EVERGOOD CLASSIC FILTERMALT 250G",
+      "bbox_size": "60x93",
+      "image_name": "img_00061.jpg"
+    },
+    {
+      "text_found": "{\"text",
+      "confidence": "low",
+      "ann_id": 6459,
+      "current_cat": 100,
+      "current_name": "EVERGOOD CLASSIC FILTERMALT 250G",
+      "bbox_size": "42x84",
+      "image_name": "img_00061.jpg"
+    },
+    {
+      "text_found": "{\"text_found\":",
+      "confidence": "low",
+      "ann_id": 6494,
+      "current_cat": 304,
+      "current_name": "EVERGOOD CLASSIC KOKMALT 250G",
+      "bbox_size": "71x81",
+      "image_name": "img_00062.jpg"
+    },
+    {
+      "text_found": "{\"text_found\": \"",
+      "confidence": "low",
+      "ann_id": 6507,
+      "current_cat": 100,
+      "current_name": "EVERGOOD CLASSIC FILTERMALT 250G",
+      "bbox_size": "53x119",
+      "image_name": "img_00062.jpg"
+    },
+    {
+      "text_found": "FILTERMALT",
+      "confidence": "high",
+      "ann_id": 6508,
+      "current_cat": 100,
+      "current_name": "EVERGOOD CLASSIC FILTERMALT 250G",
+      "bbox_size": "73x109",
+      "image_name": "img_00062.jpg"
+    },
+    {
+      "text_found": "{\"text_found\": \"not clearly",
+      "confidence": "low",
+      "ann_id": 6509,
+      "current_cat": 100,
+      "current_name": "EVERGOOD CLASSIC FILTERMALT 250G",
+      "bbox_size": "73x123",
+      "image_name": "img_00062.jpg"
+    },
+    {
+      "text_found": "{\"text_found\": \"Unable to read specific text like KOKMALT, FILTERMALT, or PRESSM",
+      "confidence": "low",
+      "ann_id": 6510,
+      "current_cat": 100,
+      "current_name": "EVERGOOD CLASSIC FILTERMALT 250G",
+      "bbox_size": "75x119",
+      "image_name": "img_00062.jpg"
+    },
+    {
+      "text_found": "{\"text_found\":",
+      "confidence": "low",
+      "ann_id": 6511,
+      "current_cat": 304,
+      "current_name": "EVERGOOD CLASSIC KOKMALT 250G",
+      "bbox_size": "73x132",
+      "image_name": "img_00062.jpg"
+    },
+    {
+      "text_found": "{\"text_found\": \"",
+      "confidence": "low",
+      "ann_id": 6512,
+      "current_cat": 304,
+      "current_name": "EVERGOOD CLASSIC KOKMALT 250G",
+      "bbox_size": "62x123",
+      "image_name": "img_00062.jpg"
+    },
+    {
+      "text_found": "{\n  \"",
+      "confidence": "low",
+      "ann_id": 6515,
+      "current_cat": 304,
+      "current_name": "EVERGOOD CLASSIC KOKMALT 250G",
+      "bbox_size": "75x93",
+      "image_name": "img_00062.jpg"
+    },
+    {
+      "text_found": "FILTERMALT",
+      "confidence": "high",
+      "ann_id": 6516,
+      "current_cat": 304,
+      "current_name": "EVERGOOD CLASSIC KOKMALT 250G",
+      "bbox_size": "101x94",
+      "image_name": "img_00062.jpg"
+    },
+    {
+      "text_found": "{\"text_",
+      "confidence": "low",
+      "ann_id": 6517,
+      "current_cat": 304,
+      "current_name": "EVERGOOD CLASSIC KOKMALT 250G",
+      "bbox_size": "65x95",
+      "image_name": "img_00062.jpg"
+    },
+    {
+      "text_found": "FILTERMALT",
+      "confidence": "high",
+      "ann_id": 6518,
+      "current_cat": 100,
+      "current_name": "EVERGOOD CLASSIC FILTERMALT 250G",
+      "bbox_size": "61x69",
+      "image_name": "img_00062.jpg"
+    },
+    {
+      "text_found": "{\"text_found",
+      "confidence": "low",
+      "ann_id": 6519,
+      "current_cat": 100,
+      "current_name": "EVERGOOD CLASSIC FILTERMALT 250G",
+      "bbox_size": "62x83",
+      "image_name": "img_00062.jpg"
+    },
+    {
+      "text_found": "Classic",
+      "confidence": "high",
+      "ann_id": 6520,
+      "current_cat": 100,
+      "current_name": "EVERGOOD CLASSIC FILTERMALT 250G",
+      "bbox_size": "51x72",
+      "image_name": "img_00062.jpg"
+    },
+    {
+      "text_found": "{\"text_found\": \"",
+      "confidence": "low",
+      "ann_id": 6521,
+      "current_cat": 100,
+      "current_name": "EVERGOOD CLASSIC FILTERMALT 250G",
+      "bbox_size": "57x88",
+      "image_name": "img_00062.jpg"
+    },
+    {
+      "text_found": "{\"text_found\": \"",
+      "confidence": "low",
+      "ann_id": 6919,
+      "current_cat": 304,
+      "current_name": "EVERGOOD CLASSIC KOKMALT 250G",
+      "bbox_size": "51x95",
+      "image_name": "img_00066.jpg"
+    },
+    {
+      "text_found": "{\"text_found\":",
+      "confidence": "low",
+      "ann_id": 6930,
+      "current_cat": 304,
+      "current_name": "EVERGOOD CLASSIC KOKMALT 250G",
+      "bbox_size": "59x99",
+      "image_name": "img_00066.jpg"
+    },
+    {
+      "text_found": "{\"text_",
+      "confidence": "low",
+      "ann_id": 6931,
+      "current_cat": 304,
+      "current_name": "EVERGOOD CLASSIC KOKMALT 250G",
+      "bbox_size": "65x99",
+      "image_name": "img_00066.jpg"
+    },
+    {
+      "text_found": "{\"text_found\":",
+      "confidence": "low",
+      "ann_id": 6932,
+      "current_cat": 304,
+      "current_name": "EVERGOOD CLASSIC KOKMALT 250G",
+      "bbox_size": "64x99",
+      "image_name": "img_00066.jpg"
+    },
+    {
+      "text_found": "{\"text_found\":",
+      "confidence": "low",
+      "ann_id": 6933,
+      "current_cat": 304,
+      "current_name": "EVERGOOD CLASSIC KOKMALT 250G",
+      "bbox_size": "62x93",
+      "image_name": "img_00066.jpg"
+    },
+    {
+      "text_found": "Classic",
+      "confidence": "high",
+      "ann_id": 6934,
+      "current_cat": 304,
+      "current_name": "EVERGOOD CLASSIC KOKMALT 250G",
+      "bbox_size": "59x93",
+      "image_name": "img_00066.jpg"
+    },
+    {
+      "text_found": "{\"text_found\":",
+      "confidence": "low",
+      "ann_id": 6935,
+      "current_cat": 304,
+      "current_name": "EVERGOOD CLASSIC KOKMALT 250G",
+      "bbox_size": "42x89",
+      "image_name": "img_00066.jpg"
+    },
+    {
+      "text_found": "{\"text_found\":",
+      "confidence": "low",
+      "ann_id": 6936,
+      "current_cat": 304,
+      "current_name": "EVERGOOD CLASSIC KOKMALT 250G",
+      "bbox_size": "51x89",
+      "image_name": "img_00066.jpg"
+    },
+    {
+      "text_found": "{\"text_found\": \"",
+      "confidence": "low",
+      "ann_id": 6962,
+      "current_cat": 304,
+      "current_name": "EVERGOOD CLASSIC KOKMALT 250G",
+      "bbox_size": "62x99",
+      "image_name": "img_00066.jpg"
+    },
+    {
+      "text_found": "{\"text",
+      "confidence": "low",
+      "ann_id": 6963,
+      "current_cat": 304,
+      "current_name": "EVERGOOD CLASSIC KOKMALT 250G",
+      "bbox_size": "64x100",
+      "image_name": "img_00066.jpg"
+    },
+    {
+      "text_found": "{\"text_found\": \"CLASSIC",
+      "confidence": "low",
+      "ann_id": 6964,
+      "current_cat": 304,
+      "current_name": "EVERGOOD CLASSIC KOKMALT 250G",
+      "bbox_size": "64x96",
+      "image_name": "img_00066.jpg"
+    },
+    {
+      "text_found": "",
+      "confidence": "low",
+      "ann_id": 7084,
+      "current_cat": 100,
+      "current_name": "EVERGOOD CLASSIC FILTERMALT 250G",
+      "bbox_size": "31x69",
+      "image_name": "img_00066.jpg"
+    },
+    {
+      "text_found": "FILTERMALT",
+      "confidence": "high",
+      "ann_id": 7085,
+      "current_cat": 100,
+      "current_name": "EVERGOOD CLASSIC FILTERMALT 250G",
+      "bbox_size": "55x74",
+      "image_name": "img_00066.jpg"
+    },
+    {
+      "text_found": "{\"text",
+      "confidence": "low",
+      "ann_id": 7086,
+      "current_cat": 100,
+      "current_name": "EVERGOOD CLASSIC FILTERMALT 250G",
+      "bbox_size": "52x73",
+      "image_name": "img_00066.jpg"
+    },
+    {
+      "text_found": "",
+      "confidence": "low",
+      "ann_id": 7087,
+      "current_cat": 100,
+      "current_name": "EVERGOOD CLASSIC FILTERMALT 250G",
+      "bbox_size": "34x73",
+      "image_name": "img_00066.jpg"
+    },
+    {
+      "text_found": "FILTERMALT",
+      "confidence": "high",
+      "ann_id": 7088,
+      "current_cat": 100,
+      "current_name": "EVERGOOD CLASSIC FILTERMALT 250G",
+      "bbox_size": "31x68",
+      "image_name": "img_00066.jpg"
+    },
+    {
+      "text_found": "{\"text_found\":",
+      "confidence": "low",
+      "ann_id": 7089,
+      "current_cat": 100,
+      "current_name": "EVERGOOD CLASSIC FILTERMALT 250G",
+      "bbox_size": "47x71",
+      "image_name": "img_00066.jpg"
+    },
+    {
+      "text_found": "FILTERMALT",
+      "confidence": "high",
+      "ann_id": 7090,
+      "current_cat": 100,
+      "current_name": "EVERGOOD CLASSIC FILTERMALT 250G",
+      "bbox_size": "54x72",
+      "image_name": "img_00066.jpg"
+    },
+    {
+      "text_found": "{\"text_",
+      "confidence": "low",
+      "ann_id": 7091,
+      "current_cat": 100,
+      "current_name": "EVERGOOD CLASSIC FILTERMALT 250G",
+      "bbox_size": "29x68",
+      "image_name": "img_00066.jpg"
+    },
+    {
+      "text_found": "{\"text_found\": \"FILTERM",
+      "confidence": "low",
+      "ann_id": 7092,
+      "current_cat": 100,
+      "current_name": "EVERGOOD CLASSIC FILTERMALT 250G",
+      "bbox_size": "30x67",
+      "image_name": "img_00066.jpg"
+    },
+    {
+      "text_found": "FILTERMALT",
+      "confidence": "high",
+      "ann_id": 7093,
+      "current_cat": 100,
+      "current_name": "EVERGOOD CLASSIC FILTERMALT 250G",
+      "bbox_size": "48x70",
+      "image_name": "img_00066.jpg"
+    },
+    {
+      "text_found": "{\"text_found\": \"EVER",
+      "confidence": "low",
+      "ann_id": 7094,
+      "current_cat": 100,
+      "current_name": "EVERGOOD CLASSIC FILTERMALT 250G",
+      "bbox_size": "48x70",
+      "image_name": "img_00066.jpg"
+    },
+    {
+      "text_found": "{\"text_found\": \"FILTER",
+      "confidence": "low",
+      "ann_id": 7095,
+      "current_cat": 100,
+      "current_name": "EVERGOOD CLASSIC FILTERMALT 250G",
+      "bbox_size": "29x69",
+      "image_name": "img_00066.jpg"
+    },
+    {
+      "text_found": "KOKMALT",
+      "confidence": "high",
+      "ann_id": 7096,
+      "current_cat": 100,
+      "current_name": "EVERGOOD CLASSIC FILTERMALT 250G",
+      "bbox_size": "33x70",
+      "image_name": "img_00066.jpg"
+    },
+    {
+      "text_found": "{\"text_found",
+      "confidence": "low",
+      "ann_id": 7097,
+      "current_cat": 100,
+      "current_name": "EVERGOOD CLASSIC FILTERMALT 250G",
+      "bbox_size": "49x70",
+      "image_name": "img_00066.jpg"
+    },
+    {
+      "text_found": "Classic",
+      "confidence": "high",
+      "ann_id": 7098,
+      "current_cat": 100,
+      "current_name": "EVERGOOD CLASSIC FILTERMALT 250G",
+      "bbox_size": "50x69",
+      "image_name": "img_00066.jpg"
+    },
+    {
+      "text_found": "{\"text_found\": \"EVERG",
+      "confidence": "low",
+      "ann_id": 7099,
+      "current_cat": 100,
+      "current_name": "EVERGOOD CLASSIC FILTERMALT 250G",
+      "bbox_size": "29x69",
+      "image_name": "img_00066.jpg"
+    },
+    {
+      "text_found": "FILTERMALT",
+      "confidence": "high",
+      "ann_id": 7100,
+      "current_cat": 304,
+      "current_name": "EVERGOOD CLASSIC KOKMALT 250G",
+      "bbox_size": "52x65",
+      "image_name": "img_00066.jpg"
+    },
+    {
+      "text_found": "CLASSIC",
+      "confidence": "high",
+      "ann_id": 7111,
+      "current_cat": 304,
+      "current_name": "EVERGOOD CLASSIC KOKMALT 250G",
+      "bbox_size": "70x61",
+      "image_name": "img_00066.jpg"
+    }
+  ],
+  "contradictions": [
+    {
+      "ann_id": 1085,
+      "current": "KOKMALT(304)",
+      "reads": "FILTERMALT",
+      "should_be": 100,
+      "conf": "high"
+    },
+    {
+      "ann_id": 1117,
+      "current": "KOKMALT(304)",
+      "reads": "FILTERMALT",
+      "should_be": 100,
+      "conf": "high"
+    },
+    {
+      "ann_id": 1136,
+      "current": "KOKMALT(304)",
+      "reads": "FILTERMALT",
+      "should_be": 100,
+      "conf": "high"
+    },
+    {
+      "ann_id": 2056,
+      "current": "FILTERMALT(100)",
+      "reads": "KOKMALT",
+      "should_be": 304,
+      "conf": "high"
+    },
+    {
+      "ann_id": 2058,
+      "current": "FILTERMALT(100)",
+      "reads": "KOKMALT",
+      "should_be": 304,
+      "conf": "high"
+    },
+    {
+      "ann_id": 2327,
+      "current": "KOKMALT(304)",
+      "reads": "FILTERMALT",
+      "should_be": 100,
+      "conf": "high"
+    },
+    {
+      "ann_id": 2941,
+      "current": "KOKMALT(304)",
+      "reads": "FILTERMALT",
+      "should_be": 100,
+      "conf": "high"
+    },
+    {
+      "ann_id": 5008,
+      "current": "KOKMALT(304)",
+      "reads": "FILTERMALT",
+      "should_be": 100,
+      "conf": "high"
+    },
+    {
+      "ann_id": 5872,
+      "current": "FILTERMALT(100)",
+      "reads": "KOKMALT",
+      "should_be": 304,
+      "conf": "high"
+    },
+    {
+      "ann_id": 5982,
+      "current": "KOKMALT(304)",
+      "reads": "FILTERMALT",
+      "should_be": 100,
+      "conf": "high"
+    },
+    {
+      "ann_id": 6295,
+      "current": "KOKMALT(304)",
+      "reads": "FILTERMALT",
+      "should_be": 100,
+      "conf": "high"
+    },
+    {
+      "ann_id": 6516,
+      "current": "KOKMALT(304)",
+      "reads": "FILTERMALT",
+      "should_be": 100,
+      "conf": "high"
+    },
+    {
+      "ann_id": 7096,
+      "current": "FILTERMALT(100)",
+      "reads": "KOKMALT",
+      "should_be": 304,
+      "conf": "high"
+    },
+    {
+      "ann_id": 7100,
+      "current": "KOKMALT(304)",
+      "reads": "FILTERMALT",
+      "should_be": 100,
+      "conf": "high"
+    }
+  ]
+}

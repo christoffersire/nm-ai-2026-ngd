@@ -1,0 +1,782 @@
+[
+  {
+    "visible_text": "TWININGS GREEN TEA & Lemon",
+    "product_description": "Twinings Green Tea & Lemon",
+    "confidence": "high",
+    "ann_id": 20,
+    "current_cat": 81,
+    "current_name": "GRØNN TE CHAI 25POS TWININGS",
+    "bbox_size": "195x88",
+    "image_name": "img_00001.jpg"
+  },
+  {
+    "visible_text": "TWININGS Lady Grey Tea SINCE 1706",
+    "product_description": "Twinings Lady Grey Tea",
+    "confidence": "high",
+    "ann_id": 594,
+    "current_cat": 28,
+    "current_name": "LADY GREY TE 200G TWININGS",
+    "bbox_size": "103x185",
+    "image_name": "img_00005.jpg"
+  },
+  {
+    "visible_text": "TWININGS OF LONDON Lady Grey Tea SINCE 1706 Citron & Bergamote",
+    "product_description": "Twinings Lady Grey Tea with Citron and Bergamot flavor",
+    "confidence": "high",
+    "ann_id": 1202,
+    "current_cat": 28,
+    "current_name": "LADY GREY TE 200G TWININGS",
+    "bbox_size": "343x167",
+    "image_name": "img_00011.jpg"
+  },
+  {
+    "visible_text": "TWININGS OF LONDON Lady Grey® Tea SINCE 1706 Citrus & Bergamot",
+    "product_description": "Twinings Lady Grey Tea with Citrus & Bergamot flavor.",
+    "confidence": "high",
+    "ann_id": 1203,
+    "current_cat": 28,
+    "current_name": "LADY GREY TE 200G TWININGS",
+    "bbox_size": "331x169",
+    "image_name": "img_00011.jpg"
+  },
+  {
+    "visible_text": "TWININGS OF LONDON Lady Grey Tea SINCE 1706",
+    "product_description": "Twinings Lady Grey Tea",
+    "confidence": "high",
+    "ann_id": 1204,
+    "current_cat": 28,
+    "current_name": "LADY GREY TE 200G TWININGS",
+    "bbox_size": "331x134",
+    "image_name": "img_00011.jpg"
+  },
+  {
+    "visible_text": "TWININGS Lady Grey Tea",
+    "product_description": "A box of Twinings Lady Grey Tea.",
+    "confidence": "high",
+    "ann_id": 1506,
+    "current_cat": 28,
+    "current_name": "LADY GREY TE 200G TWININGS",
+    "bbox_size": "76x119",
+    "image_name": "img_00014.jpg"
+  },
+  {
+    "visible_text": "NESCAFÉ. GOLD LATTE LOW SUGAR",
+    "product_description": "Nescafe Gold Latte Low Sugar instant coffee mix.",
+    "confidence": "high",
+    "ann_id": 1734,
+    "current_cat": 107,
+    "current_name": "FLAT WHITE 16KAPSLER DOLCE GUSTO",
+    "bbox_size": "221x287",
+    "image_name": "img_00015.jpg"
+  },
+  {
+    "visible_text": "{\n  \"visible_text\": \"",
+    "product_description": "",
+    "confidence": "low",
+    "ann_id": 2141,
+    "current_cat": 115,
+    "current_name": "EXCELSO COLOMBIA HELE BØNNER 500G JACOBS",
+    "bbox_size": "185x198",
+    "image_name": "img_00018.jpg"
+  },
+  {
+    "visible_text": "FRIELE INSTANT GULL 1799 100 g",
+    "product_description": "Friele Instant Gull coffee, 100g",
+    "confidence": "high",
+    "ann_id": 2361,
+    "current_cat": 172,
+    "current_name": "FRIELE INSTANT GULL 100G REFILL",
+    "bbox_size": "292x363",
+    "image_name": "img_00020.jpg"
+  },
+  {
+    "visible_text": "FRIELE INSTANT GULL 1799",
+    "product_description": "Friele Instant Coffee, Gull variant",
+    "confidence": "high",
+    "ann_id": 2412,
+    "current_cat": 172,
+    "current_name": "FRIELE INSTANT GULL 100G REFILL",
+    "bbox_size": "268x350",
+    "image_name": "img_00020.jpg"
+  },
+  {
+    "visible_text": "{\n  \"visible_text",
+    "product_description": "",
+    "confidence": "low",
+    "ann_id": 3273,
+    "current_cat": 350,
+    "current_name": "BLÅ JAVA HELE BØNNER 340G COTW",
+    "bbox_size": "180x300",
+    "image_name": "img_00029.jpeg"
+  },
+  {
+    "visible_text": "NR. 4 EVERGOOD Kaffefilter",
+    "product_description": "Coffee filters",
+    "confidence": "high",
+    "ann_id": 3371,
+    "current_cat": 256,
+    "current_name": "KAFFEFILTER PRESSKANNE 25STK EVERGOOD",
+    "bbox_size": "238x288",
+    "image_name": "img_00031.jpg"
+  },
+  {
+    "visible_text": "Freia Bakekakao 100% kakao",
+    "product_description": "Freia Bakekakao (Baking Cocoa) which is 100% cocoa.",
+    "confidence": "high",
+    "ann_id": 3749,
+    "current_cat": 77,
+    "current_name": "BAKEKAKAO 250G REGIA",
+    "bbox_size": "202x238",
+    "image_name": "img_00034.jpg"
+  },
+  {
+    "visible_text": "Freia Bakekakao 100% kakao",
+    "product_description": "Freia Bakekakao (baking cocoa), 100% cocoa powder for baking.",
+    "confidence": "high",
+    "ann_id": 3750,
+    "current_cat": 77,
+    "current_name": "BAKEKAKAO 250G REGIA",
+    "bbox_size": "189x230",
+    "image_name": "img_00034.jpg"
+  },
+  {
+    "visible_text": "FREIA Bakekakao 100% kakao",
+    "product_description": "Baking cocoa powder",
+    "confidence": "high",
+    "ann_id": 3821,
+    "current_cat": 77,
+    "current_name": "BAKEKAKAO 250G REGIA",
+    "bbox_size": "224x263",
+    "image_name": "img_00035.jpg"
+  },
+  {
+    "visible_text": "Freia Bakekakao 100% Kakao",
+    "product_description": "Freia Baking Cocoa (100% Cocoa)",
+    "confidence": "high",
+    "ann_id": 3822,
+    "current_cat": 77,
+    "current_name": "BAKEKAKAO 250G REGIA",
+    "bbox_size": "224x274",
+    "image_name": "img_00035.jpg"
+  },
+  {
+    "visible_text": "TASSIMO GEVALIA CAPPUCCINO",
+    "product_description": "Tassimo Gevalia Cappuccino",
+    "confidence": "high",
+    "ann_id": 4031,
+    "current_cat": 202,
+    "current_name": "TASSIMO GEVALIA LATTE MACCHIATO KARAMELL",
+    "bbox_size": "250x235",
+    "image_name": "img_00036.jpg"
+  },
+  {
+    "visible_text": "BY APPOINTMENT TO HER MAJESTY QUEEN ELIZABETH II TEA & COFFEE MERCHANTS & PURVEYORS TWININGS AND COMPANY LIMITED. LONDON. TWININGS OF LONDON English Breakfast Tea SINCE 1706 A traditional blend of black teas, creating a satisfying, rich taste.",
+    "product_description": "Twinings English Breakfast Tea",
+    "confidence": "high",
+    "ann_id": 4149,
+    "current_cat": 245,
+    "current_name": "ENGLISH BREAKFAST TEA 200G TWININGS",
+    "bbox_size": "259x409",
+    "image_name": "img_00038.jpeg"
+  },
+  {
+    "visible_text": "TWININGS English Breakfast Tea, 100% PURE BLACK TEA, CAFFEINE LEVEL: 3, NET WT. 1.41 OZ (40g), 20 Tea Bags",
+    "product_description": "Twinings English Breakfast Tea",
+    "confidence": "high",
+    "ann_id": 5791,
+    "current_cat": 245,
+    "current_name": "ENGLISH BREAKFAST TEA 200G TWININGS",
+    "bbox_size": "43x63",
+    "image_name": "img_00054.jpeg"
+  },
+  {
+    "visible_text": "{\n  \"visible_text\":",
+    "product_description": "",
+    "confidence": "low",
+    "ann_id": 5792,
+    "current_cat": 245,
+    "current_name": "ENGLISH BREAKFAST TEA 200G TWININGS",
+    "bbox_size": "38x64",
+    "image_name": "img_00054.jpeg"
+  },
+  {
+    "visible_text": "TORO Rett i koppen",
+    "product_description": "TORO instant product, likely an instant soup or drink, designed to be prepared directly in a cup.",
+    "confidence": "high",
+    "ann_id": 6136,
+    "current_cat": 125,
+    "current_name": "SJOKOLADEDRIKK 512G RETT I KOPPEN",
+    "bbox_size": "82x65",
+    "image_name": "img_00058.jpeg"
+  },
+  {
+    "visible_text": "{\"visible_text\": \"TORO",
+    "product_description": "",
+    "confidence": "low",
+    "ann_id": 6137,
+    "current_cat": 125,
+    "current_name": "SJOKOLADEDRIKK 512G RETT I KOPPEN",
+    "bbox_size": "84x66",
+    "image_name": "img_00058.jpeg"
+  },
+  {
+    "visible_text": "TWININGS English Breakfast Tea",
+    "product_description": "Twinings English Breakfast Tea",
+    "confidence": "high",
+    "ann_id": 6283,
+    "current_cat": 245,
+    "current_name": "ENGLISH BREAKFAST TEA 200G TWININGS",
+    "bbox_size": "75x102",
+    "image_name": "img_00060.jpg"
+  },
+  {
+    "visible_text": "{\n  \"visible_text\": \"TORD Potet & Løk suppe Suppebase\",\n  \"product_",
+    "product_description": "",
+    "confidence": "low",
+    "ann_id": 6316,
+    "current_cat": 125,
+    "current_name": "SJOKOLADEDRIKK 512G RETT I KOPPEN",
+    "bbox_size": "89x101",
+    "image_name": "img_00060.jpg"
+  },
+  {
+    "visible_text": "{\n  \"visible_text\": \"TWININGS Lady Grey® Tea BLACK TEA WITH",
+    "product_description": "",
+    "confidence": "low",
+    "ann_id": 6500,
+    "current_cat": 28,
+    "current_name": "LADY GREY TE 200G TWININGS",
+    "bbox_size": "66x113",
+    "image_name": "img_00062.jpg"
+  },
+  {
+    "visible_text": "{\n  \"visible_text",
+    "product_description": "",
+    "confidence": "low",
+    "ann_id": 6988,
+    "current_cat": 125,
+    "current_name": "SJOKOLADEDRIKK 512G RETT I KOPPEN",
+    "bbox_size": "58x64",
+    "image_name": "img_00066.jpg"
+  },
+  {
+    "visible_text": "{\n  \"visible_text",
+    "product_description": "",
+    "confidence": "low",
+    "ann_id": 6989,
+    "current_cat": 125,
+    "current_name": "SJOKOLADEDRIKK 512G RETT I KOPPEN",
+    "bbox_size": "53x63",
+    "image_name": "img_00066.jpg"
+  },
+  {
+    "visible_text": "{\n  \"visible_text",
+    "product_description": "",
+    "confidence": "low",
+    "ann_id": 7525,
+    "current_cat": 67,
+    "current_name": "SOFT FLORA ORIGINAL 230G",
+    "bbox_size": "279x128",
+    "image_name": "img_00071.jpg"
+  },
+  {
+    "visible_text": "Soft FLORA ORIGINAL - MED RAPSOLJE Naturlig på brødskiven kampanje tilbud",
+    "product_description": "Soft Flora Original spread with rapeseed oil, designed for use on bread.",
+    "confidence": "high",
+    "ann_id": 7526,
+    "current_cat": 67,
+    "current_name": "SOFT FLORA ORIGINAL 230G",
+    "bbox_size": "293x143",
+    "image_name": "img_00071.jpg"
+  },
+  {
+    "visible_text": "{\n  \"visible_text\": \"Soft FLORA ORIGINAL - MED RAPSOLJE Naturlig på brødet Kampanje tilbud\",\n  \"prod",
+    "product_description": "",
+    "confidence": "low",
+    "ann_id": 7527,
+    "current_cat": 67,
+    "current_name": "SOFT FLORA ORIGINAL 230G",
+    "bbox_size": "305x144",
+    "image_name": "img_00071.jpg"
+  },
+  {
+    "visible_text": "{\n  \"visible_text\": \"Soft FLORA ORIGINAL - MED RAPSOLJE Naturlig på brødskiven Kampanje Tilbud\",\n  \"",
+    "product_description": "",
+    "confidence": "low",
+    "ann_id": 7528,
+    "current_cat": 67,
+    "current_name": "SOFT FLORA ORIGINAL 230G",
+    "bbox_size": "305x128",
+    "image_name": "img_00071.jpg"
+  },
+  {
+    "visible_text": "{\n  \"visible_",
+    "product_description": "",
+    "confidence": "low",
+    "ann_id": 7529,
+    "current_cat": 67,
+    "current_name": "SOFT FLORA ORIGINAL 230G",
+    "bbox_size": "307x120",
+    "image_name": "img_00071.jpg"
+  },
+  {
+    "visible_text": "Soft FLORA ORIGINAL - MED RAPSOLJE Kampanje tilbud",
+    "product_description": "This is a tub of Soft Flora Original spread, made with rapeseed oil. It is currently on a special campaign offer.",
+    "confidence": "high",
+    "ann_id": 7588,
+    "current_cat": 67,
+    "current_name": "SOFT FLORA ORIGINAL 230G",
+    "bbox_size": "198x153",
+    "image_name": "img_00071.jpg"
+  },
+  {
+    "visible_text": "{\"visible_text\": \"Soft",
+    "product_description": "",
+    "confidence": "low",
+    "ann_id": 7589,
+    "current_cat": 67,
+    "current_name": "SOFT FLORA ORIGINAL 230G",
+    "bbox_size": "264x119",
+    "image_name": "img_00071.jpg"
+  },
+  {
+    "visible_text": "{\n  \"visible_text\":",
+    "product_description": "",
+    "confidence": "low",
+    "ann_id": 7590,
+    "current_cat": 67,
+    "current_name": "SOFT FLORA ORIGINAL 230G",
+    "bbox_size": "276x141",
+    "image_name": "img_00071.jpg"
+  },
+  {
+    "visible_text": "{\n  \"visible_text\": \"Melange ORIGINAL",
+    "product_description": "",
+    "confidence": "low",
+    "ann_id": 7594,
+    "current_cat": 302,
+    "current_name": "MELANGE MARGARIN 250G",
+    "bbox_size": "278x165",
+    "image_name": "img_00071.jpg"
+  },
+  {
+    "visible_text": "{\n  \"visible_text",
+    "product_description": "",
+    "confidence": "low",
+    "ann_id": 7595,
+    "current_cat": 302,
+    "current_name": "MELANGE MARGARIN 250G",
+    "bbox_size": "297x141",
+    "image_name": "img_00071.jpg"
+  },
+  {
+    "visible_text": "{\n  \"visible_text",
+    "product_description": "",
+    "confidence": "low",
+    "ann_id": 7596,
+    "current_cat": 302,
+    "current_name": "MELANGE MARGARIN 250G",
+    "bbox_size": "324x213",
+    "image_name": "img_00071.jpg"
+  },
+  {
+    "visible_text": "{\"visible_text\": \"",
+    "product_description": "",
+    "confidence": "low",
+    "ann_id": 7597,
+    "current_cat": 302,
+    "current_name": "MELANGE MARGARIN 250G",
+    "bbox_size": "346x104",
+    "image_name": "img_00071.jpg"
+  },
+  {
+    "visible_text": "Melange, ORIGINAL, 250g, Laget med rapsolje",
+    "product_description": "This product is a 250g block of Melange, an 'Original' variant, which is a type of spread or margarine, indicated by the 'Melange' brand and the text 'Laget med rapsolje' (Made with rapeseed oil).",
+    "confidence": "high",
+    "ann_id": 7598,
+    "current_cat": 302,
+    "current_name": "MELANGE MARGARIN 250G",
+    "bbox_size": "346x206",
+    "image_name": "img_00071.jpg"
+  },
+  {
+    "visible_text": "{\"visible_text\": \"Melange",
+    "product_description": "",
+    "confidence": "low",
+    "ann_id": 7599,
+    "current_cat": 302,
+    "current_name": "MELANGE MARGARIN 250G",
+    "bbox_size": "334x165",
+    "image_name": "img_00071.jpg"
+  },
+  {
+    "visible_text": "{\n  \"visible_text\":",
+    "product_description": "",
+    "confidence": "low",
+    "ann_id": 7600,
+    "current_cat": 302,
+    "current_name": "MELANGE MARGARIN 250G",
+    "bbox_size": "331x155",
+    "image_name": "img_00071.jpg"
+  },
+  {
+    "visible_text": "250g ORIGINAL Melange",
+    "product_description": "Melange Original spread, 250g",
+    "confidence": "high",
+    "ann_id": 7601,
+    "current_cat": 302,
+    "current_name": "MELANGE MARGARIN 250G",
+    "bbox_size": "297x128",
+    "image_name": "img_00071.jpg"
+  },
+  {
+    "visible_text": "PRIOR PAITLØSE SIDEN 1929 Prior 12 egg fra frittg norske han Økologisk Debio Økologiske Debio",
+    "product_description": "Prior organic free-range eggs, 12 count",
+    "confidence": "high",
+    "ann_id": 7623,
+    "current_cat": 104,
+    "current_name": "SMØR USALTET 250G TINE",
+    "bbox_size": "596x121",
+    "image_name": "img_00072.jpg"
+  },
+  {
+    "visible_text": "{\"visible_text\": \"S",
+    "product_description": "",
+    "confidence": "low",
+    "ann_id": 7846,
+    "current_cat": 119,
+    "current_name": "SOFT FLORA STEKE&BAKE 500G",
+    "bbox_size": "108x148",
+    "image_name": "img_00074.jpg"
+  },
+  {
+    "visible_text": "{\"visible_text\": \"",
+    "product_description": "",
+    "confidence": "low",
+    "ann_id": 7847,
+    "current_cat": 119,
+    "current_name": "SOFT FLORA STEKE&BAKE 500G",
+    "bbox_size": "104x139",
+    "image_name": "img_00074.jpg"
+  },
+  {
+    "visible_text": "{\"visible_text\": \"STICKS, 5",
+    "product_description": "",
+    "confidence": "low",
+    "ann_id": 7848,
+    "current_cat": 119,
+    "current_name": "SOFT FLORA STEKE&BAKE 500G",
+    "bbox_size": "94x133",
+    "image_name": "img_00074.jpg"
+  },
+  {
+    "visible_text": "First Price, MEDIUM, 6 STK",
+    "product_description": "First Price Medium Eggs, 6 count",
+    "confidence": "high",
+    "ann_id": 7959,
+    "current_cat": 104,
+    "current_name": "SMØR USALTET 250G TINE",
+    "bbox_size": "157x49",
+    "image_name": "img_00075.jpg"
+  },
+  {
+    "visible_text": "Pannekaker, 6 stk, Steg 3-4 min, Mikro-ovn",
+    "product_description": "Pancakes",
+    "confidence": "high",
+    "ann_id": 8125,
+    "current_cat": 318,
+    "current_name": "PANNEKAKER 6STK ELDORADO",
+    "bbox_size": "365x219",
+    "image_name": "img_00077.jpg"
+  },
+  {
+    "visible_text": "{\n  \"visible_text\":",
+    "product_description": "",
+    "confidence": "low",
+    "ann_id": 8126,
+    "current_cat": 79,
+    "current_name": "PANNEKAKER GROVE STEKTE 480G ÅMLI",
+    "bbox_size": "339x286",
+    "image_name": "img_00077.jpg"
+  },
+  {
+    "visible_text": "First Price MARGARIN BAKING OR [...] 500 g e",
+    "product_description": "First Price Margarine, likely suitable for baking, in a 500g package.",
+    "confidence": "high",
+    "ann_id": 8128,
+    "current_cat": 322,
+    "current_name": "STEKEMARGARIN 500G FIRST PRICE",
+    "bbox_size": "350x205",
+    "image_name": "img_00078.jpg"
+  },
+  {
+    "visible_text": "First Price MARGARIN VELHOLT TIL BAKING OG STEKING 500 g e",
+    "product_description": "First Price Margarine, 500g, suitable for baking and frying.",
+    "confidence": "high",
+    "ann_id": 8129,
+    "current_cat": 322,
+    "current_name": "STEKEMARGARIN 500G FIRST PRICE",
+    "bbox_size": "308x177",
+    "image_name": "img_00078.jpg"
+  },
+  {
+    "visible_text": "First Price MARGARIN VELEGNET TIL BAKING OG STEKING 500 g e",
+    "product_description": "First Price Margarine, suitable for baking and frying, 500g.",
+    "confidence": "high",
+    "ann_id": 8130,
+    "current_cat": 322,
+    "current_name": "STEKEMARGARIN 500G FIRST PRICE",
+    "bbox_size": "271x203",
+    "image_name": "img_00078.jpg"
+  },
+  {
+    "visible_text": "First Price MARGARIN VELEGNET TIL BAKING OG STEKING",
+    "product_description": "First Price Margarine, suitable for baking and frying.",
+    "confidence": "high",
+    "ann_id": 8131,
+    "current_cat": 322,
+    "current_name": "STEKEMARGARIN 500G FIRST PRICE",
+    "bbox_size": "259x153",
+    "image_name": "img_00078.jpg"
+  },
+  {
+    "visible_text": "{\"visible_text\": \"\", \"product_description",
+    "product_description": "",
+    "confidence": "low",
+    "ann_id": 8229,
+    "current_cat": 104,
+    "current_name": "SMØR USALTET 250G TINE",
+    "bbox_size": "40x161",
+    "image_name": "img_00079.jpeg"
+  },
+  {
+    "visible_text": "{\n  \"visible_text\":",
+    "product_description": "",
+    "confidence": "low",
+    "ann_id": 9852,
+    "current_cat": 302,
+    "current_name": "MELANGE MARGARIN 250G",
+    "bbox_size": "462x261",
+    "image_name": "img_00108.jpg"
+  },
+  {
+    "visible_text": "First Price, MARGARIN, VELEGNET TIL BRUK OG STEGNING, 500 g e",
+    "product_description": "First Price Margarine (500g), suitable for use and frying/baking.",
+    "confidence": "high",
+    "ann_id": 9889,
+    "current_cat": 322,
+    "current_name": "STEKEMARGARIN 500G FIRST PRICE",
+    "bbox_size": "307x228",
+    "image_name": "img_00108.jpg"
+  },
+  {
+    "visible_text": "{\"visible_text\": \"First Price MAR",
+    "product_description": "",
+    "confidence": "low",
+    "ann_id": 9890,
+    "current_cat": 322,
+    "current_name": "STEKEMARGARIN 500G FIRST PRICE",
+    "bbox_size": "162x238",
+    "image_name": "img_00108.jpg"
+  },
+  {
+    "visible_text": "First Price MARGARIN VELEGNET TIL BAKING OG STEKING 500 g e",
+    "product_description": "First Price Margarine, suitable for baking and frying/roasting, 500g.",
+    "confidence": "high",
+    "ann_id": 9891,
+    "current_cat": 322,
+    "current_name": "STEKEMARGARIN 500G FIRST PRICE",
+    "bbox_size": "181x241",
+    "image_name": "img_00108.jpg"
+  },
+  {
+    "visible_text": "First Price MARGARIN VELEGNET TIL BAKING OG STEKING 500 g e",
+    "product_description": "First Price Margarine, 500g, suitable for baking and frying.",
+    "confidence": "high",
+    "ann_id": 9892,
+    "current_cat": 322,
+    "current_name": "STEKEMARGARIN 500G FIRST PRICE",
+    "bbox_size": "327x238",
+    "image_name": "img_00108.jpg"
+  },
+  {
+    "visible_text": "{\"visible_text\": \"No legible text due to extreme",
+    "product_description": "",
+    "confidence": "low",
+    "ann_id": 17754,
+    "current_cat": 170,
+    "current_name": "MÜSLI ENERGI 650G AXA",
+    "bbox_size": "28x58",
+    "image_name": "img_00232.jpg"
+  },
+  {
+    "visible_text": "{\"visible_text\": \"No readable text",
+    "product_description": "",
+    "confidence": "low",
+    "ann_id": 17755,
+    "current_cat": 170,
+    "current_name": "MÜSLI ENERGI 650G AXA",
+    "bbox_size": "37x54",
+    "image_name": "img_00232.jpg"
+  },
+  {
+    "visible_text": "{\n  \"visible_text\":",
+    "product_description": "",
+    "confidence": "low",
+    "ann_id": 19477,
+    "current_cat": 354,
+    "current_name": "GIFFLAR BRINGEBÆR&VANILJE 260G PÅGEN",
+    "bbox_size": "183x180",
+    "image_name": "img_00252.jpg"
+  },
+  {
+    "visible_text": "{\n  \"visible_text\": \"",
+    "product_description": "",
+    "confidence": "low",
+    "ann_id": 19478,
+    "current_cat": 354,
+    "current_name": "GIFFLAR BRINGEBÆR&VANILJE 260G PÅGEN",
+    "bbox_size": "174x186",
+    "image_name": "img_00252.jpg"
+  },
+  {
+    "visible_text": "10 stk Vestlands LEFSA",
+    "product_description": "Vestlands Lefsa",
+    "confidence": "high",
+    "ann_id": 19549,
+    "current_cat": 274,
+    "current_name": "VESTLANDSLEFSA TØRRE 10STK 360G",
+    "bbox_size": "228x224",
+    "image_name": "img_00252.jpg"
+  },
+  {
+    "visible_text": "{\n  \"visible_text\": \"",
+    "product_description": "",
+    "confidence": "low",
+    "ann_id": 20770,
+    "current_cat": 120,
+    "current_name": "TOM&JERRY KJEKS 175G SÆTRE",
+    "bbox_size": "228x214",
+    "image_name": "img_00263.jpg"
+  },
+  {
+    "visible_text": "{\"visible_text\": \"",
+    "product_description": "",
+    "confidence": "low",
+    "ann_id": 20771,
+    "current_cat": 120,
+    "current_name": "TOM&JERRY KJEKS 175G SÆTRE",
+    "bbox_size": "208x243",
+    "image_name": "img_00263.jpg"
+  },
+  {
+    "visible_text": "{\n  \"visible_text\": \"x14 nutella biscuits Crunchy biscuits with a creamy heart of Nutella®\",\n  \"prod",
+    "product_description": "",
+    "confidence": "low",
+    "ann_id": 20809,
+    "current_cat": 293,
+    "current_name": "NUTELLA BISCUITS 193G",
+    "bbox_size": "262x311",
+    "image_name": "img_00263.jpg"
+  },
+  {
+    "visible_text": "Nutella biscuits",
+    "product_description": "Nutella biscuits",
+    "confidence": "high",
+    "ann_id": 20810,
+    "current_cat": 293,
+    "current_name": "NUTELLA BISCUITS 193G",
+    "bbox_size": "263x328",
+    "image_name": "img_00263.jpg"
+  },
+  {
+    "visible_text": "SÆTRE VÅRE BESTE SURDEIGSKJEKS",
+    "product_description": "Sætre Our Best Sourdough Crackers (Kjeks is Norwegian for crackers/biscuits)",
+    "confidence": "high",
+    "ann_id": 21569,
+    "current_cat": 140,
+    "current_name": "SURDEIGKJEKS 100G SÆTRES BESTE",
+    "bbox_size": "390x465",
+    "image_name": "img_00270.jpg"
+  },
+  {
+    "visible_text": "{\n  \"visible_",
+    "product_description": "",
+    "confidence": "low",
+    "ann_id": 24180,
+    "current_cat": 170,
+    "current_name": "MÜSLI ENERGI 650G AXA",
+    "bbox_size": "152x178",
+    "image_name": "img_00294.jpg"
+  },
+  {
+    "visible_text": "{\n  \"visible_text\": \"AXA GOLD MÜSLI ENERGI 45% FRUKT & NÖT",
+    "product_description": "",
+    "confidence": "low",
+    "ann_id": 24181,
+    "current_cat": 170,
+    "current_name": "MÜSLI ENERGI 650G AXA",
+    "bbox_size": "207x183",
+    "image_name": "img_00294.jpg"
+  },
+  {
+    "visible_text": "AXA GOLD NUT ENER 45G",
+    "product_description": "An AXA brand Gold Nut Energy product, likely a bar or snack mix, weighing 45 grams.",
+    "confidence": "high",
+    "ann_id": 24182,
+    "current_cat": 170,
+    "current_name": "MÜSLI ENERGI 650G AXA",
+    "bbox_size": "144x185",
+    "image_name": "img_00294.jpg"
+  },
+  {
+    "visible_text": "AXA GULD MÜSLI ENERGI 45%",
+    "product_description": "AXA Gold Muesli, Energy variant.",
+    "confidence": "high",
+    "ann_id": 29190,
+    "current_cat": 170,
+    "current_name": "MÜSLI ENERGI 650G AXA",
+    "bbox_size": "126x203",
+    "image_name": "img_00336.jpg"
+  },
+  {
+    "visible_text": "{\n  \"visible_text",
+    "product_description": "",
+    "confidence": "low",
+    "ann_id": 29191,
+    "current_cat": 170,
+    "current_name": "MÜSLI ENERGI 650G AXA",
+    "bbox_size": "134x193",
+    "image_name": "img_00336.jpg"
+  },
+  {
+    "visible_text": "{\n  \"visible_text",
+    "product_description": "",
+    "confidence": "low",
+    "ann_id": 29192,
+    "current_cat": 170,
+    "current_name": "MÜSLI ENERGI 650G AXA",
+    "bbox_size": "146x161",
+    "image_name": "img_00336.jpg"
+  },
+  {
+    "visible_text": "{\n  \"visible_text",
+    "product_description": "",
+    "confidence": "low",
+    "ann_id": 33403,
+    "current_cat": 44,
+    "current_name": "KNEKKS KJEKS HAVRE 190G RØROS",
+    "bbox_size": "229x139",
+    "image_name": "img_00374.jpg"
+  },
+  {
+    "visible_text": "{\n  \"visible_text\": \"KNEKKEBRØD",
+    "product_description": "",
+    "confidence": "low",
+    "ann_id": 33404,
+    "current_cat": 44,
+    "current_name": "KNEKKS KJEKS HAVRE 190G RØROS",
+    "bbox_size": "185x139",
+    "image_name": "img_00374.jpg"
+  }
+]

@@ -1,0 +1,1002 @@
+[
+  {
+    "ann_id": 19064,
+    "cat_id": 113,
+    "label": "ERTERFLATBRØD CRISP 210G",
+    "is_corrupted_cat": false,
+    "verdict": "UNCERTAIN",
+    "visible_text": "",
+    "reason": "parse_error: Let's re-examine the cursive text.",
+    "confidence": ""
+  },
+  {
+    "ann_id": 24417,
+    "cat_id": 244,
+    "label": "RUGSPRØ HAVRE 180G WASA",
+    "is_corrupted_cat": true,
+    "verdict": "UNCERTAIN",
+    "visible_text": "",
+    "reason": "parse_error: {\n  \"visible_text\":",
+    "confidence": ""
+  },
+  {
+    "ann_id": 1247,
+    "cat_id": 215,
+    "label": "BLUE FRUIT TE PYRAMIDE 20POS LIPTON",
+    "is_corrupted_cat": true,
+    "verdict": "UNCERTAIN",
+    "visible_text": "",
+    "reason": "parse_error: {\n  \"visible_text\":",
+    "confidence": ""
+  },
+  {
+    "ann_id": 10693,
+    "cat_id": 330,
+    "label": "GRANOLA MED JORDBÆR 390G SYNNØVE",
+    "is_corrupted_cat": true,
+    "verdict": "UNCERTAIN",
+    "visible_text": "",
+    "reason": "parse_error: {\n  \"visible_",
+    "confidence": ""
+  },
+  {
+    "ann_id": 6220,
+    "cat_id": 118,
+    "label": "BLÅ JAVA HELE BØNNER 500G JACOBS UTVALGT",
+    "is_corrupted_cat": false,
+    "verdict": "UNCERTAIN",
+    "visible_text": "",
+    "reason": "parse_error: {\n  \"visible_text\": \"",
+    "confidence": ""
+  },
+  {
+    "ann_id": 31714,
+    "cat_id": 246,
+    "label": "HUSMAN KNEKKEBRØD 260G WASA",
+    "is_corrupted_cat": true,
+    "verdict": "UNCERTAIN",
+    "visible_text": "",
+    "reason": "parse_error: {\n  \"visible_text",
+    "confidence": ""
+  },
+  {
+    "ann_id": 18480,
+    "cat_id": 187,
+    "label": "WEETABIX ORIGINAL FROKOSTBLANDING 430G",
+    "is_corrupted_cat": true,
+    "verdict": "UNCERTAIN",
+    "visible_text": "",
+    "reason": "parse_error: {\n  \"visible_text\": \"",
+    "confidence": ""
+  },
+  {
+    "ann_id": 24039,
+    "cat_id": 86,
+    "label": "HAVRE KNEKKEBRØD 300G WASA",
+    "is_corrupted_cat": true,
+    "verdict": "UNCERTAIN",
+    "visible_text": "",
+    "reason": "parse_error: {\n  \"visible_text",
+    "confidence": ""
+  },
+  {
+    "ann_id": 15424,
+    "cat_id": 223,
+    "label": "GRANOLA PEKAN HONNINGSRISTET 350G SYNNØV",
+    "is_corrupted_cat": true,
+    "verdict": "UNCERTAIN",
+    "visible_text": "",
+    "reason": "parse_error: {\n  \"visible_text\":",
+    "confidence": ""
+  },
+  {
+    "ann_id": 9994,
+    "cat_id": 216,
+    "label": "Sunnmørsegg",
+    "is_corrupted_cat": false,
+    "verdict": "UNCERTAIN",
+    "visible_text": "",
+    "reason": "parse_error: RSEGG\" (The 'Ø' is",
+    "confidence": ""
+  },
+  {
+    "ann_id": 437,
+    "cat_id": 100,
+    "label": "EVERGOOD CLASSIC FILTERMALT 250G",
+    "is_corrupted_cat": true,
+    "verdict": "UNCERTAIN",
+    "visible_text": "",
+    "reason": "parse_error: \", \"FILTERMALT\" are all clearly",
+    "confidence": ""
+  },
+  {
+    "ann_id": 9863,
+    "cat_id": 220,
+    "label": "MEIERISMØR 250G BORDPK TINE",
+    "is_corrupted_cat": false,
+    "verdict": "UNCERTAIN",
+    "visible_text": "",
+    "reason": "parse_error: , and it's decorated with yellow flowers on a",
+    "confidence": ""
+  },
+  {
+    "ann_id": 11581,
+    "cat_id": 121,
+    "label": "FROKOST-TALL 250G ELDORADO",
+    "is_corrupted_cat": true,
+    "verdict": "UNCERTAIN",
+    "visible_text": "",
+    "reason": "parse_error: {\n  \"visible_text\": \"",
+    "confidence": ""
+  },
+  {
+    "ann_id": 18732,
+    "cat_id": 96,
+    "label": "FLATBRØD 275G KORNI",
+    "is_corrupted_cat": true,
+    "verdict": "UNCERTAIN",
+    "visible_text": "",
+    "reason": "parse_error: {\n  \"visible_text\": \"",
+    "confidence": ""
+  },
+  {
+    "ann_id": 27897,
+    "cat_id": 250,
+    "label": "LEKSANDS KNEKKE NORMALT STEKT 200G",
+    "is_corrupted_cat": true,
+    "verdict": "UNCERTAIN",
+    "visible_text": "",
+    "reason": "parse_error: {\n  \"visible_text\":",
+    "confidence": ""
+  },
+  {
+    "ann_id": 15511,
+    "cat_id": 30,
+    "label": "SJOKORINGER 375G ELDORADO",
+    "is_corrupted_cat": false,
+    "verdict": "UNCERTAIN",
+    "visible_text": "",
+    "reason": "parse_error: {\n  \"visible_text\": \"",
+    "confidence": ""
+  },
+  {
+    "ann_id": 31122,
+    "cat_id": 86,
+    "label": "HAVRE KNEKKEBRØD 300G WASA",
+    "is_corrupted_cat": true,
+    "verdict": "UNCERTAIN",
+    "visible_text": "",
+    "reason": "parse_error: {\n  \"visible_text\": \"",
+    "confidence": ""
+  },
+  {
+    "ann_id": 18066,
+    "cat_id": 30,
+    "label": "SJOKORINGER 375G ELDORADO",
+    "is_corrupted_cat": false,
+    "verdict": "UNCERTAIN",
+    "visible_text": "",
+    "reason": "parse_error: {\n  \"visible_text\": \"",
+    "confidence": ""
+  },
+  {
+    "ann_id": 19134,
+    "cat_id": 234,
+    "label": "LANO SÅPE 2X125G",
+    "is_corrupted_cat": false,
+    "verdict": "UNCERTAIN",
+    "visible_text": "",
+    "reason": "parse_error: {\n  \"visible_",
+    "confidence": ""
+  },
+  {
+    "ann_id": 9533,
+    "cat_id": 6,
+    "label": "Eldorado Økologiske Gårdsegg",
+    "is_corrupted_cat": false,
+    "verdict": "UNCERTAIN",
+    "visible_text": "",
+    "reason": "parse_error: {\n  \"visible_text\": \"",
+    "confidence": ""
+  },
+  {
+    "ann_id": 2309,
+    "cat_id": 320,
+    "label": "EARL GREY TEA 50POS FIRST PRICE",
+    "is_corrupted_cat": false,
+    "verdict": "UNCERTAIN",
+    "visible_text": "",
+    "reason": "parse_error: {\n  \"visible_",
+    "confidence": ""
+  },
+  {
+    "ann_id": 2042,
+    "cat_id": 287,
+    "label": "ENGLISH BREAKFAST TEA 25POS TWININGS",
+    "is_corrupted_cat": true,
+    "verdict": "UNCERTAIN",
+    "visible_text": "",
+    "reason": "parse_error: {\n  \"visible_text\":",
+    "confidence": ""
+  },
+  {
+    "ann_id": 8618,
+    "cat_id": 102,
+    "label": "EGG FRITTGÅENDE M/L/XL SOLEGG 12STK PRIO",
+    "is_corrupted_cat": true,
+    "verdict": "UNCERTAIN",
+    "visible_text": "",
+    "reason": "parse_error: {\n  \"visible_text\": \"",
+    "confidence": ""
+  },
+  {
+    "ann_id": 9514,
+    "cat_id": 286,
+    "label": "EGG L 10STK TOTEN",
+    "is_corrupted_cat": false,
+    "verdict": "UNCERTAIN",
+    "visible_text": "",
+    "reason": "parse_error: {\n  \"visible_",
+    "confidence": ""
+  },
+  {
+    "ann_id": 4961,
+    "cat_id": 118,
+    "label": "BLÅ JAVA HELE BØNNER 500G JACOBS UTVALGT",
+    "is_corrupted_cat": false,
+    "verdict": "UNCERTAIN",
+    "visible_text": "",
+    "reason": "parse_error: {\n  \"visible_text\": \"",
+    "confidence": ""
+  },
+  {
+    "ann_id": 9620,
+    "cat_id": 6,
+    "label": "Eldorado Økologiske Gårdsegg",
+    "is_corrupted_cat": false,
+    "verdict": "UNCERTAIN",
+    "visible_text": "",
+    "reason": "parse_error: Product Description:** It's a green egg carton. The",
+    "confidence": ""
+  },
+  {
+    "ann_id": 12246,
+    "cat_id": 29,
+    "label": "NESQUIK FROKOSTBLANDING 375G NESTLE",
+    "is_corrupted_cat": true,
+    "verdict": "UNCERTAIN",
+    "visible_text": "",
+    "reason": "parse_error: {\n  \"visible_text\": \"",
+    "confidence": ""
+  },
+  {
+    "ann_id": 18067,
+    "cat_id": 30,
+    "label": "SJOKORINGER 375G ELDORADO",
+    "is_corrupted_cat": false,
+    "verdict": "UNCERTAIN",
+    "visible_text": "",
+    "reason": "parse_error: {\n  \"visible_text\": \"",
+    "confidence": ""
+  },
+  {
+    "ann_id": 25417,
+    "cat_id": 12,
+    "label": "Leksands Rutbit",
+    "is_corrupted_cat": false,
+    "verdict": "UNCERTAIN",
+    "visible_text": "",
+    "reason": "parse_error: {\n  \"visible_text\":",
+    "confidence": ""
+  },
+  {
+    "ann_id": 26455,
+    "cat_id": 152,
+    "label": "HAVREKNEKKEBRØD TYNT 265G WASA",
+    "is_corrupted_cat": true,
+    "verdict": "UNCERTAIN",
+    "visible_text": "",
+    "reason": "parse_error: TYNT 265G WASA\"",
+    "confidence": ""
+  },
+  {
+    "ann_id": 4895,
+    "cat_id": 100,
+    "label": "EVERGOOD CLASSIC FILTERMALT 250G",
+    "is_corrupted_cat": true,
+    "verdict": "UNCERTAIN",
+    "visible_text": "",
+    "reason": "parse_error: {\n  \"visible_text",
+    "confidence": ""
+  },
+  {
+    "ann_id": 21809,
+    "cat_id": 82,
+    "label": "FRØ & HAVSALT 200G LEKSANDS",
+    "is_corrupted_cat": true,
+    "verdict": "UNCERTAIN",
+    "visible_text": "",
+    "reason": "parse_error: The text is in Norwegian/Danish (\"FRØ\"",
+    "confidence": ""
+  },
+  {
+    "ann_id": 15990,
+    "cat_id": 30,
+    "label": "SJOKORINGER 375G ELDORADO",
+    "is_corrupted_cat": false,
+    "verdict": "UNCERTAIN",
+    "visible_text": "",
+    "reason": "parse_error: {\n  \"visible_text\": \"",
+    "confidence": ""
+  },
+  {
+    "ann_id": 25299,
+    "cat_id": 290,
+    "label": "SANDWICH CHEESE TOMAT&BASILIKUM 40G WASA",
+    "is_corrupted_cat": false,
+    "verdict": "UNCERTAIN",
+    "visible_text": "",
+    "reason": "parse_error: {\n  \"visible_text\":",
+    "confidence": ""
+  },
+  {
+    "ann_id": 25019,
+    "cat_id": 294,
+    "label": "GRISSINI SALT 125G GRANFORNO",
+    "is_corrupted_cat": false,
+    "verdict": "UNCERTAIN",
+    "visible_text": "",
+    "reason": "parse_error: {\n  \"visible_text\": \"",
+    "confidence": ""
+  },
+  {
+    "ann_id": 12991,
+    "cat_id": 187,
+    "label": "WEETABIX ORIGINAL FROKOSTBLANDING 430G",
+    "is_corrupted_cat": true,
+    "verdict": "UNCERTAIN",
+    "visible_text": "",
+    "reason": "parse_error: start på dagen\", but the exact word isn't",
+    "confidence": ""
+  },
+  {
+    "ann_id": 6496,
+    "cat_id": 287,
+    "label": "ENGLISH BREAKFAST TEA 25POS TWININGS",
+    "is_corrupted_cat": true,
+    "verdict": "UNCERTAIN",
+    "visible_text": "",
+    "reason": "parse_error: brand:** \"TWININGS\" is present.",
+    "confidence": ""
+  },
+  {
+    "ann_id": 7749,
+    "cat_id": 269,
+    "label": "Eldorado Egg fra Toten",
+    "is_corrupted_cat": false,
+    "verdict": "UNCERTAIN",
+    "visible_text": "",
+    "reason": "parse_error: {\n  \"visible_text",
+    "confidence": ""
+  },
+  {
+    "ann_id": 11762,
+    "cat_id": 61,
+    "label": "MUSLI BLÅBÆR 630G AXA",
+    "is_corrupted_cat": true,
+    "verdict": "UNCERTAIN",
+    "visible_text": "",
+    "reason": "parse_error: {\n  \"visible_text\": \"",
+    "confidence": ""
+  },
+  {
+    "ann_id": 5242,
+    "cat_id": 63,
+    "label": "ALI MØRKBRENT FILTERMALT 250G",
+    "is_corrupted_cat": true,
+    "verdict": "UNCERTAIN",
+    "visible_text": "",
+    "reason": "parse_error: {\n  \"visible_text\":",
+    "confidence": ""
+  },
+  {
+    "ann_id": 32052,
+    "cat_id": 212,
+    "label": "KNEKKEBRØD 220G SIGDAL",
+    "is_corrupted_cat": true,
+    "verdict": "UNCERTAIN",
+    "visible_text": "",
+    "reason": "parse_error: {\n  \"visible_text",
+    "confidence": ""
+  },
+  {
+    "ann_id": 15245,
+    "cat_id": 268,
+    "label": "SUPERGRØT KANEL&PUFFET QUINOA 54G",
+    "is_corrupted_cat": true,
+    "verdict": "UNCERTAIN",
+    "visible_text": "",
+    "reason": "parse_error: cup of porridge/oatmeal). There's",
+    "confidence": ""
+  },
+  {
+    "ann_id": 11475,
+    "cat_id": 97,
+    "label": "CHEERIOS MULTI 375G NESTLE",
+    "is_corrupted_cat": true,
+    "verdict": "UNCERTAIN",
+    "visible_text": "",
+    "reason": "parse_error: {\n  \"visible_",
+    "confidence": ""
+  },
+  {
+    "ann_id": 4972,
+    "cat_id": 320,
+    "label": "EARL GREY TEA 50POS FIRST PRICE",
+    "is_corrupted_cat": false,
+    "verdict": "UNCERTAIN",
+    "visible_text": "",
+    "reason": "parse_error: \" or \"50 stk\" visible near the 1",
+    "confidence": ""
+  },
+  {
+    "ann_id": 9923,
+    "cat_id": 10,
+    "label": "Jacobs 10 Gårdsegg",
+    "is_corrupted_cat": false,
+    "verdict": "UNCERTAIN",
+    "visible_text": "",
+    "reason": "parse_error: dsegg\"\n    *   Visible",
+    "confidence": ""
+  },
+  {
+    "ann_id": 5251,
+    "cat_id": 200,
+    "label": "EVERGOOD CLASSIC KAFFEKAPSEL 16STK",
+    "is_corrupted_cat": true,
+    "verdict": "UNCERTAIN",
+    "visible_text": "",
+    "reason": "parse_error: {\n  \"visible_",
+    "confidence": ""
+  },
+  {
+    "ann_id": 8321,
+    "cat_id": 269,
+    "label": "Eldorado Egg fra Toten",
+    "is_corrupted_cat": false,
+    "verdict": "UNCERTAIN",
+    "visible_text": "",
+    "reason": "parse_error: {\n  \"visible_text",
+    "confidence": ""
+  },
+  {
+    "ann_id": 18602,
+    "cat_id": 82,
+    "label": "FRØ & HAVSALT 200G LEKSANDS",
+    "is_corrupted_cat": true,
+    "verdict": "UNCERTAIN",
+    "visible_text": "",
+    "reason": "parse_error: {\n  \"visible_text\":",
+    "confidence": ""
+  },
+  {
+    "ann_id": 9289,
+    "cat_id": 301,
+    "label": "Gårdsegg fra Fana 10stk",
+    "is_corrupted_cat": false,
+    "verdict": "UNCERTAIN",
+    "visible_text": "",
+    "reason": "parse_error: {\n  \"visible_",
+    "confidence": ""
+  },
+  {
+    "ann_id": 9603,
+    "cat_id": 6,
+    "label": "Eldorado Økologiske Gårdsegg",
+    "is_corrupted_cat": false,
+    "verdict": "UNCERTAIN",
+    "visible_text": "",
+    "reason": "parse_error: {\n  \"visible_text",
+    "confidence": ""
+  },
+  {
+    "ann_id": 2097,
+    "cat_id": 141,
+    "label": "EVERGOOD CLASSIC PRESSMALT 250G",
+    "is_corrupted_cat": false,
+    "verdict": "UNCERTAIN",
+    "visible_text": "",
+    "reason": "parse_error: {\n  \"visible_text\":",
+    "confidence": ""
+  },
+  {
+    "ann_id": 12012,
+    "cat_id": 30,
+    "label": "SJOKORINGER 375G ELDORADO",
+    "is_corrupted_cat": false,
+    "verdict": "UNCERTAIN",
+    "visible_text": "",
+    "reason": "parse_error: {\n  \"visible_text\":",
+    "confidence": ""
+  },
+  {
+    "ann_id": 11146,
+    "cat_id": 30,
+    "label": "SJOKORINGER 375G ELDORADO",
+    "is_corrupted_cat": false,
+    "verdict": "UNCERTAIN",
+    "visible_text": "",
+    "reason": "parse_error: {\n  \"visible_text\": \"",
+    "confidence": ""
+  },
+  {
+    "ann_id": 1908,
+    "cat_id": 320,
+    "label": "EARL GREY TEA 50POS FIRST PRICE",
+    "is_corrupted_cat": false,
+    "verdict": "UNCERTAIN",
+    "visible_text": "",
+    "reason": "parse_error: {\n  \"visible_",
+    "confidence": ""
+  },
+  {
+    "ann_id": 31162,
+    "cat_id": 68,
+    "label": "MAISKAKER SOURCREAM&ONION 125G FRIGGS",
+    "is_corrupted_cat": true,
+    "verdict": "UNCERTAIN",
+    "visible_text": "",
+    "reason": "parse_error: {\n  \"visible_text\": \"",
+    "confidence": ""
+  },
+  {
+    "ann_id": 8174,
+    "cat_id": 312,
+    "label": "Tørresvik Gård Kvalitetsegg 10stk",
+    "is_corrupted_cat": false,
+    "verdict": "UNCERTAIN",
+    "visible_text": "",
+    "reason": "parse_error: {\n  \"visible_text\":",
+    "confidence": ""
+  },
+  {
+    "ann_id": 21704,
+    "cat_id": 280,
+    "label": "RISKAKER 100G FIRST PRICE",
+    "is_corrupted_cat": true,
+    "verdict": "UNCERTAIN",
+    "visible_text": "",
+    "reason": "parse_error: {\n  \"visible_text\": \"",
+    "confidence": ""
+  },
+  {
+    "ann_id": 3971,
+    "cat_id": 340,
+    "label": "EVERGOOD DARK ROAST HELE BØNNER 500G",
+    "is_corrupted_cat": true,
+    "verdict": "UNCERTAIN",
+    "visible_text": "",
+    "reason": "parse_error: \"500 G\" (bottom center",
+    "confidence": ""
+  },
+  {
+    "ann_id": 1494,
+    "cat_id": 309,
+    "label": "FIRE RØDE FRUKTER 25POS TWININGS",
+    "is_corrupted_cat": true,
+    "verdict": "UNCERTAIN",
+    "visible_text": "",
+    "reason": "parse_error: {\n  \"visible_text\": \"",
+    "confidence": ""
+  },
+  {
+    "ann_id": 15991,
+    "cat_id": 30,
+    "label": "SJOKORINGER 375G ELDORADO",
+    "is_corrupted_cat": false,
+    "verdict": "UNCERTAIN",
+    "visible_text": "",
+    "reason": "parse_error: {\n  \"visible_text",
+    "confidence": ""
+  },
+  {
+    "ann_id": 11261,
+    "cat_id": 30,
+    "label": "SJOKORINGER 375G ELDORADO",
+    "is_corrupted_cat": false,
+    "verdict": "UNCERTAIN",
+    "visible_text": "",
+    "reason": "parse_error: focus on the box).\n    *",
+    "confidence": ""
+  },
+  {
+    "ann_id": 19264,
+    "cat_id": 96,
+    "label": "FLATBRØD 275G KORNI",
+    "is_corrupted_cat": true,
+    "verdict": "UNCERTAIN",
+    "visible_text": "",
+    "reason": "parse_error: {\n  \"visible_text\": \"",
+    "confidence": ""
+  },
+  {
+    "ann_id": 2080,
+    "cat_id": 182,
+    "label": "FRIELE INSTANT 200G",
+    "is_corrupted_cat": false,
+    "verdict": "UNCERTAIN",
+    "visible_text": "",
+    "reason": "parse_error: {\n  \"visible_text\":",
+    "confidence": ""
+  },
+  {
+    "ann_id": 20296,
+    "cat_id": 188,
+    "label": "MAISKAKER POPCORN 125G FRIGGS",
+    "is_corrupted_cat": true,
+    "verdict": "UNCERTAIN",
+    "visible_text": "",
+    "reason": "parse_error: {\n  \"visible_",
+    "confidence": ""
+  },
+  {
+    "ann_id": 1419,
+    "cat_id": 137,
+    "label": "NESCAFE AZERA ESPRESSO 100G",
+    "is_corrupted_cat": true,
+    "verdict": "UNCERTAIN",
+    "visible_text": "",
+    "reason": "parse_error: {\n  \"visible_text\": \"",
+    "confidence": ""
+  },
+  {
+    "ann_id": 19245,
+    "cat_id": 12,
+    "label": "Leksands Rutbit",
+    "is_corrupted_cat": false,
+    "verdict": "UNCERTAIN",
+    "visible_text": "",
+    "reason": "parse_error: {\n  \"visible_text\": \"",
+    "confidence": ""
+  },
+  {
+    "ann_id": 28198,
+    "cat_id": 21,
+    "label": "KNEKKEBRØD RUNDA SESAM&HAVSALT 290G WASA",
+    "is_corrupted_cat": true,
+    "verdict": "UNCERTAIN",
+    "visible_text": "",
+    "reason": "parse_error: {\n  \"visible_text\": \"",
+    "confidence": ""
+  },
+  {
+    "ann_id": 6191,
+    "cat_id": 182,
+    "label": "FRIELE INSTANT 200G",
+    "is_corrupted_cat": false,
+    "verdict": "UNCERTAIN",
+    "visible_text": "",
+    "reason": "parse_error: {\n  \"visible_text\": \"",
+    "confidence": ""
+  },
+  {
+    "ann_id": 8228,
+    "cat_id": 139,
+    "label": "EGG FRITTGÅENDE M/L/XL SOLEGG 6STK PRIOR",
+    "is_corrupted_cat": true,
+    "verdict": "UNCERTAIN",
+    "visible_text": "",
+    "reason": "parse_error: ITTGÅENDE M/L/",
+    "confidence": ""
+  },
+  {
+    "ann_id": 34093,
+    "cat_id": 349,
+    "label": "KNEKKEBRØD SPORT+ 210G WASA",
+    "is_corrupted_cat": true,
+    "verdict": "UNCERTAIN",
+    "visible_text": "",
+    "reason": "parse_error: {\n  \"visible_text\":",
+    "confidence": ""
+  },
+  {
+    "ann_id": 8613,
+    "cat_id": 138,
+    "label": "Økologiske Egg 10stk",
+    "is_corrupted_cat": false,
+    "verdict": "UNCERTAIN",
+    "visible_text": "",
+    "reason": "parse_error: {\n  \"visible_text\":",
+    "confidence": ""
+  },
+  {
+    "ann_id": 5206,
+    "cat_id": 341,
+    "label": "EVERGOOD CLASSIC HELE BØNNER 500G",
+    "is_corrupted_cat": false,
+    "verdict": "UNCERTAIN",
+    "visible_text": "",
+    "reason": "parse_error: {\n  \"visible_text",
+    "confidence": ""
+  },
+  {
+    "ann_id": 8285,
+    "cat_id": 51,
+    "label": "Tørresvik Gårdsegg 6stk",
+    "is_corrupted_cat": false,
+    "verdict": "UNCERTAIN",
+    "visible_text": "",
+    "reason": "The image is too cropped and blurry to read any text or definitively identify the product as 'Tørresvik Gårdsegg 6stk'.",
+    "confidence": "high"
+  },
+  {
+    "ann_id": 4182,
+    "cat_id": 309,
+    "label": "FIRE RØDE FRUKTER 25POS TWININGS",
+    "is_corrupted_cat": true,
+    "verdict": "UNCERTAIN",
+    "visible_text": "",
+    "reason": "parse_error: {\n  \"visible_text\": \"",
+    "confidence": ""
+  },
+  {
+    "ann_id": 1559,
+    "cat_id": 182,
+    "label": "FRIELE INSTANT 200G",
+    "is_corrupted_cat": false,
+    "verdict": "UNCERTAIN",
+    "visible_text": "",
+    "reason": "parse_error: {\n  \"visible_",
+    "confidence": ""
+  },
+  {
+    "ann_id": 14344,
+    "cat_id": 201,
+    "label": "MUSLI FRUKT 700G AXA",
+    "is_corrupted_cat": true,
+    "verdict": "UNCERTAIN",
+    "visible_text": "",
+    "reason": "parse_error: {\n  \"visible_text\": \"",
+    "confidence": ""
+  },
+  {
+    "ann_id": 11363,
+    "cat_id": 50,
+    "label": "BERIT GRANOLA M/PUFFET HAVRE 350G",
+    "is_corrupted_cat": true,
+    "verdict": "UNCERTAIN",
+    "visible_text": "",
+    "reason": "parse_error: ** Compare Findings with Label:**\n        *",
+    "confidence": ""
+  },
+  {
+    "ann_id": 9591,
+    "cat_id": 185,
+    "label": "Eldorado Flytende Gårdsegg",
+    "is_corrupted_cat": false,
+    "verdict": "UNCERTAIN",
+    "visible_text": "",
+    "reason": "parse_error: g\" is visible, probably 500g",
+    "confidence": ""
+  },
+  {
+    "ann_id": 9293,
+    "cat_id": 301,
+    "label": "Gårdsegg fra Fana 10stk",
+    "is_corrupted_cat": false,
+    "verdict": "UNCERTAIN",
+    "visible_text": "",
+    "reason": "parse_error: {\n  \"visible_text\":",
+    "confidence": ""
+  },
+  {
+    "ann_id": 5947,
+    "cat_id": 99,
+    "label": "NESCAFE ORIGINAL 180G REFILL",
+    "is_corrupted_cat": true,
+    "verdict": "UNCERTAIN",
+    "visible_text": "",
+    "reason": "parse_error: {\n  \"visible_",
+    "confidence": ""
+  },
+  {
+    "ann_id": 6480,
+    "cat_id": 341,
+    "label": "EVERGOOD CLASSIC HELE BØNNER 500G",
+    "is_corrupted_cat": false,
+    "verdict": "UNCERTAIN",
+    "visible_text": "",
+    "reason": "parse_error: nner often has beans prominently displayed around the cup.",
+    "confidence": ""
+  },
+  {
+    "ann_id": 15412,
+    "cat_id": 29,
+    "label": "NESQUIK FROKOSTBLANDING 375G NESTLE",
+    "is_corrupted_cat": true,
+    "verdict": "UNCERTAIN",
+    "visible_text": "",
+    "reason": "parse_error: {\n  \"visible_text\": \"",
+    "confidence": ""
+  },
+  {
+    "ann_id": 8171,
+    "cat_id": 312,
+    "label": "Tørresvik Gård Kvalitetsegg 10stk",
+    "is_corrupted_cat": false,
+    "verdict": "UNCERTAIN",
+    "visible_text": "",
+    "reason": "parse_error: {\n  \"visible_text\":",
+    "confidence": ""
+  },
+  {
+    "ann_id": 3157,
+    "cat_id": 127,
+    "label": "FRIELE FROKOST HEL 500G",
+    "is_corrupted_cat": false,
+    "verdict": "UNCERTAIN",
+    "visible_text": "",
+    "reason": "parse_error: {\n  \"visible_text",
+    "confidence": ""
+  },
+  {
+    "ann_id": 30412,
+    "cat_id": 12,
+    "label": "Leksands Rutbit",
+    "is_corrupted_cat": false,
+    "verdict": "UNCERTAIN",
+    "visible_text": "",
+    "reason": "parse_error: {\n  \"visible_text\":",
+    "confidence": ""
+  },
+  {
+    "ann_id": 20249,
+    "cat_id": 207,
+    "label": "LEKSANDS KNEKKE FIBERBIT 240G",
+    "is_corrupted_cat": true,
+    "verdict": "UNCERTAIN",
+    "visible_text": "",
+    "reason": "parse_error: {\n  \"visible_text\": \"",
+    "confidence": ""
+  },
+  {
+    "ann_id": 3682,
+    "cat_id": 184,
+    "label": "EARL GREY TEA 200G TWININGS",
+    "is_corrupted_cat": true,
+    "verdict": "UNCERTAIN",
+    "visible_text": "",
+    "reason": "parse_error: {\n  \"visible_",
+    "confidence": ""
+  },
+  {
+    "ann_id": 28212,
+    "cat_id": 212,
+    "label": "KNEKKEBRØD 220G SIGDAL",
+    "is_corrupted_cat": true,
+    "verdict": "UNCERTAIN",
+    "visible_text": "",
+    "reason": "parse_error: {\n  \"visible_text",
+    "confidence": ""
+  },
+  {
+    "ann_id": 8247,
+    "cat_id": 312,
+    "label": "Tørresvik Gård Kvalitetsegg 10stk",
+    "is_corrupted_cat": false,
+    "verdict": "UNCERTAIN",
+    "visible_text": "",
+    "reason": "parse_error: {\n  \"visible_",
+    "confidence": ""
+  },
+  {
+    "ann_id": 1309,
+    "cat_id": 341,
+    "label": "EVERGOOD CLASSIC HELE BØNNER 500G",
+    "is_corrupted_cat": false,
+    "verdict": "UNCERTAIN",
+    "visible_text": "",
+    "reason": "parse_error: {\n  \"visible_text\": \"EVERGOOD",
+    "confidence": ""
+  },
+  {
+    "ann_id": 8177,
+    "cat_id": 312,
+    "label": "Tørresvik Gård Kvalitetsegg 10stk",
+    "is_corrupted_cat": false,
+    "verdict": "UNCERTAIN",
+    "visible_text": "",
+    "reason": "parse_error: {\n  \"visible_text\":",
+    "confidence": ""
+  },
+  {
+    "ann_id": 29208,
+    "cat_id": 268,
+    "label": "SUPERGRØT KANEL&PUFFET QUINOA 54G",
+    "is_corrupted_cat": true,
+    "verdict": "UNCERTAIN",
+    "visible_text": "",
+    "reason": "parse_error: {\n  \"visible_text\":",
+    "confidence": ""
+  },
+  {
+    "ann_id": 1040,
+    "cat_id": 320,
+    "label": "EARL GREY TEA 50POS FIRST PRICE",
+    "is_corrupted_cat": false,
+    "verdict": "UNCERTAIN",
+    "visible_text": "",
+    "reason": "parse_error: {\n  \"visible_",
+    "confidence": ""
+  },
+  {
+    "ann_id": 1299,
+    "cat_id": 171,
+    "label": "ALI ORIGINAL FILTERMALT 250G",
+    "is_corrupted_cat": true,
+    "verdict": "UNCERTAIN",
+    "visible_text": "",
+    "reason": "parse_error: {\n  \"visible_text\": \"",
+    "confidence": ""
+  },
+  {
+    "ann_id": 4764,
+    "cat_id": 146,
+    "label": "NESCAFE GULL 200G NESTLE",
+    "is_corrupted_cat": true,
+    "verdict": "UNCERTAIN",
+    "visible_text": "",
+    "reason": "parse_error: {\n  \"visible_text\":",
+    "confidence": ""
+  },
+  {
+    "ann_id": 7643,
+    "cat_id": 102,
+    "label": "EGG FRITTGÅENDE M/L/XL SOLEGG 12STK PRIO",
+    "is_corrupted_cat": true,
+    "verdict": "UNCERTAIN",
+    "visible_text": "",
+    "reason": "parse_error: {\n  \"visible_text",
+    "confidence": ""
+  },
+  {
+    "ann_id": 24218,
+    "cat_id": 331,
+    "label": "SANDWICH PIZZA 37G WASA",
+    "is_corrupted_cat": false,
+    "verdict": "UNCERTAIN",
+    "visible_text": "",
+    "reason": "parse_error: {\n  \"visible_text\":",
+    "confidence": ""
+  },
+  {
+    "ann_id": 21784,
+    "cat_id": 307,
+    "label": "MAISKAKER OST 125G FRIGGS",
+    "is_corrupted_cat": true,
+    "verdict": "UNCERTAIN",
+    "visible_text": "",
+    "reason": "parse_error: {\n  \"visible_text\": \"",
+    "confidence": ""
+  },
+  {
+    "ann_id": 16407,
+    "cat_id": 30,
+    "label": "SJOKORINGER 375G ELDORADO",
+    "is_corrupted_cat": false,
+    "verdict": "UNCERTAIN",
+    "visible_text": "",
+    "reason": "parse_error: {\n  \"visible_text\": \"",
+    "confidence": ""
+  },
+  {
+    "ann_id": 17202,
+    "cat_id": 36,
+    "label": "MÜSLI FRUKT MÜSLI 700G AXA",
+    "is_corrupted_cat": false,
+    "verdict": "UNCERTAIN",
+    "visible_text": "",
+    "reason": "parse_error: {\n  \"visible_",
+    "confidence": ""
+  }
+]

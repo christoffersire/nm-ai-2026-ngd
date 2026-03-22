@@ -1,0 +1,3477 @@
+{
+  "results": [
+    {
+      "text_found": "{\n  \"text",
+      "confidence": "low",
+      "ann_id": 30,
+      "current_cat": 171,
+      "current_name": "ALI ORIGINAL FILTERMALT 250G"
+    },
+    {
+      "text_found": "{\"text_found\": \"",
+      "confidence": "low",
+      "ann_id": 31,
+      "current_cat": 171,
+      "current_name": "ALI ORIGINAL FILTERMALT 250G"
+    },
+    {
+      "text_found": "{\"text_found",
+      "confidence": "low",
+      "ann_id": 34,
+      "current_cat": 63,
+      "current_name": "ALI MØRKBRENT FILTERMALT 250G"
+    },
+    {
+      "text_found": "{\"text_found\":",
+      "confidence": "low",
+      "ann_id": 35,
+      "current_cat": 63,
+      "current_name": "ALI MØRKBRENT FILTERMALT 250G"
+    },
+    {
+      "text_found": "{\"text_found",
+      "confidence": "low",
+      "ann_id": 81,
+      "current_cat": 171,
+      "current_name": "ALI ORIGINAL FILTERMALT 250G"
+    },
+    {
+      "text_found": "{\"text_found\": \"",
+      "confidence": "low",
+      "ann_id": 82,
+      "current_cat": 171,
+      "current_name": "ALI ORIGINAL FILTERMALT 250G"
+    },
+    {
+      "text_found": "{\"text_found\": \"",
+      "confidence": "low",
+      "ann_id": 83,
+      "current_cat": 171,
+      "current_name": "ALI ORIGINAL FILTERMALT 250G"
+    },
+    {
+      "text_found": "{\"text_found",
+      "confidence": "low",
+      "ann_id": 114,
+      "current_cat": 25,
+      "current_name": "ALI MØRKBRENT KAFFEKAPSEL 16STK"
+    },
+    {
+      "text_found": "{\"text_found\": \"ORIG",
+      "confidence": "low",
+      "ann_id": 115,
+      "current_cat": 339,
+      "current_name": "ALI ORIGINAL KAFFEKAPSEL 16STK"
+    },
+    {
+      "text_found": "{\"text_found",
+      "confidence": "low",
+      "ann_id": 116,
+      "current_cat": 339,
+      "current_name": "ALI ORIGINAL KAFFEKAPSEL 16STK"
+    },
+    {
+      "text_found": "{\"text_found\":",
+      "confidence": "low",
+      "ann_id": 129,
+      "current_cat": 63,
+      "current_name": "ALI MØRKBRENT FILTERMALT 250G"
+    },
+    {
+      "text_found": "{\"text_found\":",
+      "confidence": "low",
+      "ann_id": 130,
+      "current_cat": 63,
+      "current_name": "ALI MØRKBRENT FILTERMALT 250G"
+    },
+    {
+      "text_found": "{\n  \"text",
+      "confidence": "low",
+      "ann_id": 131,
+      "current_cat": 63,
+      "current_name": "ALI MØRKBRENT FILTERMALT 250G"
+    },
+    {
+      "text_found": "{\"text_found\": \"FILTERM",
+      "confidence": "low",
+      "ann_id": 132,
+      "current_cat": 63,
+      "current_name": "ALI MØRKBRENT FILTERMALT 250G"
+    },
+    {
+      "text_found": "{\n  \"text",
+      "confidence": "low",
+      "ann_id": 137,
+      "current_cat": 160,
+      "current_name": "ALI ORIGINAL KOKMALT 250G"
+    },
+    {
+      "text_found": "{",
+      "confidence": "low",
+      "ann_id": 138,
+      "current_cat": 171,
+      "current_name": "ALI ORIGINAL FILTERMALT 250G"
+    },
+    {
+      "text_found": "{\n  \"text",
+      "confidence": "low",
+      "ann_id": 139,
+      "current_cat": 171,
+      "current_name": "ALI ORIGINAL FILTERMALT 250G"
+    },
+    {
+      "text_found": "{\n  \"text",
+      "confidence": "low",
+      "ann_id": 140,
+      "current_cat": 171,
+      "current_name": "ALI ORIGINAL FILTERMALT 250G"
+    },
+    {
+      "text_found": "{\"text",
+      "confidence": "low",
+      "ann_id": 141,
+      "current_cat": 171,
+      "current_name": "ALI ORIGINAL FILTERMALT 250G"
+    },
+    {
+      "text_found": "{\"text_found",
+      "confidence": "low",
+      "ann_id": 142,
+      "current_cat": 63,
+      "current_name": "ALI MØRKBRENT FILTERMALT 250G"
+    },
+    {
+      "text_found": "{\"text_found\":",
+      "confidence": "low",
+      "ann_id": 143,
+      "current_cat": 63,
+      "current_name": "ALI MØRKBRENT FILTERMALT 250G"
+    },
+    {
+      "text_found": "{\"text_found",
+      "confidence": "low",
+      "ann_id": 144,
+      "current_cat": 63,
+      "current_name": "ALI MØRKBRENT FILTERMALT 250G"
+    },
+    {
+      "text_found": "MØRKBRENT",
+      "confidence": "high",
+      "ann_id": 157,
+      "current_cat": 25,
+      "current_name": "ALI MØRKBRENT KAFFEKAPSEL 16STK"
+    },
+    {
+      "text_found": "KOKMALT, ORIGINAL",
+      "confidence": "high",
+      "ann_id": 163,
+      "current_cat": 160,
+      "current_name": "ALI ORIGINAL KOKMALT 250G"
+    },
+    {
+      "text_found": "{",
+      "confidence": "low",
+      "ann_id": 373,
+      "current_cat": 171,
+      "current_name": "ALI ORIGINAL FILTERMALT 250G"
+    },
+    {
+      "text_found": "{\"text_found",
+      "confidence": "low",
+      "ann_id": 413,
+      "current_cat": 160,
+      "current_name": "ALI ORIGINAL KOKMALT 250G"
+    },
+    {
+      "text_found": "{\"text_found",
+      "confidence": "low",
+      "ann_id": 414,
+      "current_cat": 160,
+      "current_name": "ALI ORIGINAL KOKMALT 250G"
+    },
+    {
+      "text_found": "{\"text_found\": \"ORIGINAL",
+      "confidence": "low",
+      "ann_id": 415,
+      "current_cat": 160,
+      "current_name": "ALI ORIGINAL KOKMALT 250G"
+    },
+    {
+      "text_found": "{\"text_found\":",
+      "confidence": "low",
+      "ann_id": 416,
+      "current_cat": 171,
+      "current_name": "ALI ORIGINAL FILTERMALT 250G"
+    },
+    {
+      "text_found": "{\n  \"text",
+      "confidence": "low",
+      "ann_id": 417,
+      "current_cat": 63,
+      "current_name": "ALI MØRKBRENT FILTERMALT 250G"
+    },
+    {
+      "text_found": "{\"text_found\": \"MØRKBRENT\",",
+      "confidence": "low",
+      "ann_id": 418,
+      "current_cat": 63,
+      "current_name": "ALI MØRKBRENT FILTERMALT 250G"
+    },
+    {
+      "text_found": "{\"text_",
+      "confidence": "low",
+      "ann_id": 419,
+      "current_cat": 63,
+      "current_name": "ALI MØRKBRENT FILTERMALT 250G"
+    },
+    {
+      "text_found": "{\"text_found",
+      "confidence": "low",
+      "ann_id": 420,
+      "current_cat": 63,
+      "current_name": "ALI MØRKBRENT FILTERMALT 250G"
+    },
+    {
+      "text_found": "{",
+      "confidence": "low",
+      "ann_id": 426,
+      "current_cat": 160,
+      "current_name": "ALI ORIGINAL KOKMALT 250G"
+    },
+    {
+      "text_found": "{\"text_found\":",
+      "confidence": "low",
+      "ann_id": 427,
+      "current_cat": 171,
+      "current_name": "ALI ORIGINAL FILTERMALT 250G"
+    },
+    {
+      "text_found": "{",
+      "confidence": "low",
+      "ann_id": 428,
+      "current_cat": 171,
+      "current_name": "ALI ORIGINAL FILTERMALT 250G"
+    },
+    {
+      "text_found": "{\"text_found",
+      "confidence": "low",
+      "ann_id": 429,
+      "current_cat": 171,
+      "current_name": "ALI ORIGINAL FILTERMALT 250G"
+    },
+    {
+      "text_found": "{\"text_found",
+      "confidence": "low",
+      "ann_id": 430,
+      "current_cat": 171,
+      "current_name": "ALI ORIGINAL FILTERMALT 250G"
+    },
+    {
+      "text_found": "{\"text_found\":",
+      "confidence": "low",
+      "ann_id": 551,
+      "current_cat": 63,
+      "current_name": "ALI MØRKBRENT FILTERMALT 250G"
+    },
+    {
+      "text_found": "{\"text",
+      "confidence": "low",
+      "ann_id": 552,
+      "current_cat": 63,
+      "current_name": "ALI MØRKBRENT FILTERMALT 250G"
+    },
+    {
+      "text_found": "{\"text_found\":",
+      "confidence": "low",
+      "ann_id": 553,
+      "current_cat": 171,
+      "current_name": "ALI ORIGINAL FILTERMALT 250G"
+    },
+    {
+      "text_found": "{\"text_found\": \"MØ",
+      "confidence": "low",
+      "ann_id": 554,
+      "current_cat": 25,
+      "current_name": "ALI MØRKBRENT KAFFEKAPSEL 16STK"
+    },
+    {
+      "text_found": "{\"text_",
+      "confidence": "low",
+      "ann_id": 555,
+      "current_cat": 25,
+      "current_name": "ALI MØRKBRENT KAFFEKAPSEL 16STK"
+    },
+    {
+      "text_found": "{\"text_found\":",
+      "confidence": "low",
+      "ann_id": 556,
+      "current_cat": 339,
+      "current_name": "ALI ORIGINAL KAFFEKAPSEL 16STK"
+    },
+    {
+      "text_found": "{\n  \"",
+      "confidence": "low",
+      "ann_id": 557,
+      "current_cat": 339,
+      "current_name": "ALI ORIGINAL KAFFEKAPSEL 16STK"
+    },
+    {
+      "text_found": "{\"text",
+      "confidence": "low",
+      "ann_id": 573,
+      "current_cat": 171,
+      "current_name": "ALI ORIGINAL FILTERMALT 250G"
+    },
+    {
+      "text_found": "{\n  \"",
+      "confidence": "low",
+      "ann_id": 574,
+      "current_cat": 171,
+      "current_name": "ALI ORIGINAL FILTERMALT 250G"
+    },
+    {
+      "text_found": "{\n  \"",
+      "confidence": "low",
+      "ann_id": 575,
+      "current_cat": 171,
+      "current_name": "ALI ORIGINAL FILTERMALT 250G"
+    },
+    {
+      "text_found": "{",
+      "confidence": "low",
+      "ann_id": 602,
+      "current_cat": 171,
+      "current_name": "ALI ORIGINAL FILTERMALT 250G"
+    },
+    {
+      "text_found": "{\n  \"text",
+      "confidence": "low",
+      "ann_id": 610,
+      "current_cat": 339,
+      "current_name": "ALI ORIGINAL KAFFEKAPSEL 16STK"
+    },
+    {
+      "text_found": "{",
+      "confidence": "low",
+      "ann_id": 611,
+      "current_cat": 339,
+      "current_name": "ALI ORIGINAL KAFFEKAPSEL 16STK"
+    },
+    {
+      "text_found": "{\n  \"",
+      "confidence": "low",
+      "ann_id": 612,
+      "current_cat": 339,
+      "current_name": "ALI ORIGINAL KAFFEKAPSEL 16STK"
+    },
+    {
+      "text_found": "{\"text_found\":",
+      "confidence": "low",
+      "ann_id": 613,
+      "current_cat": 25,
+      "current_name": "ALI MØRKBRENT KAFFEKAPSEL 16STK"
+    },
+    {
+      "text_found": "{\"text_",
+      "confidence": "low",
+      "ann_id": 614,
+      "current_cat": 25,
+      "current_name": "ALI MØRKBRENT KAFFEKAPSEL 16STK"
+    },
+    {
+      "text_found": "{\"text_found\":",
+      "confidence": "low",
+      "ann_id": 717,
+      "current_cat": 160,
+      "current_name": "ALI ORIGINAL KOKMALT 250G"
+    },
+    {
+      "text_found": "{\"text_found\":",
+      "confidence": "low",
+      "ann_id": 718,
+      "current_cat": 160,
+      "current_name": "ALI ORIGINAL KOKMALT 250G"
+    },
+    {
+      "text_found": "{\n  \"",
+      "confidence": "low",
+      "ann_id": 719,
+      "current_cat": 160,
+      "current_name": "ALI ORIGINAL KOKMALT 250G"
+    },
+    {
+      "text_found": "{",
+      "confidence": "low",
+      "ann_id": 729,
+      "current_cat": 171,
+      "current_name": "ALI ORIGINAL FILTERMALT 250G"
+    },
+    {
+      "text_found": "{\"text_found\":",
+      "confidence": "low",
+      "ann_id": 730,
+      "current_cat": 171,
+      "current_name": "ALI ORIGINAL FILTERMALT 250G"
+    },
+    {
+      "text_found": "FILTERMALT, ORIGINAL",
+      "confidence": "high",
+      "ann_id": 731,
+      "current_cat": 171,
+      "current_name": "ALI ORIGINAL FILTERMALT 250G"
+    },
+    {
+      "text_found": "{\"text_found\": \"M",
+      "confidence": "low",
+      "ann_id": 732,
+      "current_cat": 63,
+      "current_name": "ALI MØRKBRENT FILTERMALT 250G"
+    },
+    {
+      "text_found": "{\n  \"",
+      "confidence": "low",
+      "ann_id": 733,
+      "current_cat": 63,
+      "current_name": "ALI MØRKBRENT FILTERMALT 250G"
+    },
+    {
+      "text_found": "{\"text_found\": \"MØ",
+      "confidence": "low",
+      "ann_id": 734,
+      "current_cat": 63,
+      "current_name": "ALI MØRKBRENT FILTERMALT 250G"
+    },
+    {
+      "text_found": "{\"text_",
+      "confidence": "low",
+      "ann_id": 735,
+      "current_cat": 63,
+      "current_name": "ALI MØRKBRENT FILTERMALT 250G"
+    },
+    {
+      "text_found": "{\"text_",
+      "confidence": "low",
+      "ann_id": 736,
+      "current_cat": 63,
+      "current_name": "ALI MØRKBRENT FILTERMALT 250G"
+    },
+    {
+      "text_found": "{\n  \"",
+      "confidence": "low",
+      "ann_id": 737,
+      "current_cat": 63,
+      "current_name": "ALI MØRKBRENT FILTERMALT 250G"
+    },
+    {
+      "text_found": "{\"text_found",
+      "confidence": "low",
+      "ann_id": 1060,
+      "current_cat": 339,
+      "current_name": "ALI ORIGINAL KAFFEKAPSEL 16STK"
+    },
+    {
+      "text_found": "{\"text_found\": \"ORIGINAL",
+      "confidence": "low",
+      "ann_id": 1061,
+      "current_cat": 339,
+      "current_name": "ALI ORIGINAL KAFFEKAPSEL 16STK"
+    },
+    {
+      "text_found": "{",
+      "confidence": "low",
+      "ann_id": 1062,
+      "current_cat": 339,
+      "current_name": "ALI ORIGINAL KAFFEKAPSEL 16STK"
+    },
+    {
+      "text_found": "{",
+      "confidence": "low",
+      "ann_id": 1066,
+      "current_cat": 160,
+      "current_name": "ALI ORIGINAL KOKMALT 250G"
+    },
+    {
+      "text_found": "{\n  \"text",
+      "confidence": "low",
+      "ann_id": 1067,
+      "current_cat": 160,
+      "current_name": "ALI ORIGINAL KOKMALT 250G"
+    },
+    {
+      "text_found": "{\"text_",
+      "confidence": "low",
+      "ann_id": 1068,
+      "current_cat": 160,
+      "current_name": "ALI ORIGINAL KOKMALT 250G"
+    },
+    {
+      "text_found": "{\"text_found",
+      "confidence": "low",
+      "ann_id": 1081,
+      "current_cat": 63,
+      "current_name": "ALI MØRKBRENT FILTERMALT 250G"
+    },
+    {
+      "text_found": "{\"text",
+      "confidence": "low",
+      "ann_id": 1082,
+      "current_cat": 63,
+      "current_name": "ALI MØRKBRENT FILTERMALT 250G"
+    },
+    {
+      "text_found": "{\"text_",
+      "confidence": "low",
+      "ann_id": 1083,
+      "current_cat": 63,
+      "current_name": "ALI MØRKBRENT FILTERMALT 250G"
+    },
+    {
+      "text_found": "{\n  \"text",
+      "confidence": "low",
+      "ann_id": 1108,
+      "current_cat": 171,
+      "current_name": "ALI ORIGINAL FILTERMALT 250G"
+    },
+    {
+      "text_found": "FILTERMALT ORIGINAL",
+      "confidence": "high",
+      "ann_id": 1109,
+      "current_cat": 171,
+      "current_name": "ALI ORIGINAL FILTERMALT 250G"
+    },
+    {
+      "text_found": "{\"text_found\":",
+      "confidence": "low",
+      "ann_id": 1110,
+      "current_cat": 171,
+      "current_name": "ALI ORIGINAL FILTERMALT 250G"
+    },
+    {
+      "text_found": "{\"text_found",
+      "confidence": "low",
+      "ann_id": 1111,
+      "current_cat": 171,
+      "current_name": "ALI ORIGINAL FILTERMALT 250G"
+    },
+    {
+      "text_found": "{",
+      "confidence": "low",
+      "ann_id": 1112,
+      "current_cat": 171,
+      "current_name": "ALI ORIGINAL FILTERMALT 250G"
+    },
+    {
+      "text_found": "{\"text",
+      "confidence": "low",
+      "ann_id": 1113,
+      "current_cat": 171,
+      "current_name": "ALI ORIGINAL FILTERMALT 250G"
+    },
+    {
+      "text_found": "{\n  \"",
+      "confidence": "low",
+      "ann_id": 1114,
+      "current_cat": 171,
+      "current_name": "ALI ORIGINAL FILTERMALT 250G"
+    },
+    {
+      "text_found": "{\"text_found",
+      "confidence": "low",
+      "ann_id": 1115,
+      "current_cat": 171,
+      "current_name": "ALI ORIGINAL FILTERMALT 250G"
+    },
+    {
+      "text_found": "{\"text_found",
+      "confidence": "low",
+      "ann_id": 1151,
+      "current_cat": 339,
+      "current_name": "ALI ORIGINAL KAFFEKAPSEL 16STK"
+    },
+    {
+      "text_found": "{\n  \"",
+      "confidence": "low",
+      "ann_id": 1233,
+      "current_cat": 160,
+      "current_name": "ALI ORIGINAL KOKMALT 250G"
+    },
+    {
+      "text_found": "{\"text_found",
+      "confidence": "low",
+      "ann_id": 1234,
+      "current_cat": 160,
+      "current_name": "ALI ORIGINAL KOKMALT 250G"
+    },
+    {
+      "text_found": "{",
+      "confidence": "low",
+      "ann_id": 1235,
+      "current_cat": 160,
+      "current_name": "ALI ORIGINAL KOKMALT 250G"
+    },
+    {
+      "text_found": "{\"text_found\":",
+      "confidence": "low",
+      "ann_id": 1236,
+      "current_cat": 160,
+      "current_name": "ALI ORIGINAL KOKMALT 250G"
+    },
+    {
+      "text_found": "{\n  \"text",
+      "confidence": "low",
+      "ann_id": 1237,
+      "current_cat": 160,
+      "current_name": "ALI ORIGINAL KOKMALT 250G"
+    },
+    {
+      "text_found": "{\"text_found",
+      "confidence": "low",
+      "ann_id": 1238,
+      "current_cat": 160,
+      "current_name": "ALI ORIGINAL KOKMALT 250G"
+    },
+    {
+      "text_found": "{\"text_found",
+      "confidence": "low",
+      "ann_id": 1239,
+      "current_cat": 160,
+      "current_name": "ALI ORIGINAL KOKMALT 250G"
+    },
+    {
+      "text_found": "{\"text_",
+      "confidence": "low",
+      "ann_id": 1240,
+      "current_cat": 160,
+      "current_name": "ALI ORIGINAL KOKMALT 250G"
+    },
+    {
+      "text_found": "{",
+      "confidence": "low",
+      "ann_id": 1241,
+      "current_cat": 160,
+      "current_name": "ALI ORIGINAL KOKMALT 250G"
+    },
+    {
+      "text_found": "{\n  \"",
+      "confidence": "low",
+      "ann_id": 1242,
+      "current_cat": 160,
+      "current_name": "ALI ORIGINAL KOKMALT 250G"
+    },
+    {
+      "text_found": "{\n  \"text",
+      "confidence": "low",
+      "ann_id": 1243,
+      "current_cat": 160,
+      "current_name": "ALI ORIGINAL KOKMALT 250G"
+    },
+    {
+      "text_found": "{\"text_found\":",
+      "confidence": "low",
+      "ann_id": 1244,
+      "current_cat": 160,
+      "current_name": "ALI ORIGINAL KOKMALT 250G"
+    },
+    {
+      "text_found": "{\n  \"",
+      "confidence": "low",
+      "ann_id": 1245,
+      "current_cat": 160,
+      "current_name": "ALI ORIGINAL KOKMALT 250G"
+    },
+    {
+      "text_found": "{\n  \"text",
+      "confidence": "low",
+      "ann_id": 1246,
+      "current_cat": 160,
+      "current_name": "ALI ORIGINAL KOKMALT 250G"
+    },
+    {
+      "text_found": "{\"text_found\":",
+      "confidence": "low",
+      "ann_id": 1260,
+      "current_cat": 63,
+      "current_name": "ALI MØRKBRENT FILTERMALT 250G"
+    },
+    {
+      "text_found": "{\"text_found\":",
+      "confidence": "low",
+      "ann_id": 1261,
+      "current_cat": 63,
+      "current_name": "ALI MØRKBRENT FILTERMALT 250G"
+    },
+    {
+      "text_found": "{\"text",
+      "confidence": "low",
+      "ann_id": 1262,
+      "current_cat": 63,
+      "current_name": "ALI MØRKBRENT FILTERMALT 250G"
+    },
+    {
+      "text_found": "{\n  \"",
+      "confidence": "low",
+      "ann_id": 1263,
+      "current_cat": 160,
+      "current_name": "ALI ORIGINAL KOKMALT 250G"
+    },
+    {
+      "text_found": "{\"text_found\":",
+      "confidence": "low",
+      "ann_id": 1264,
+      "current_cat": 171,
+      "current_name": "ALI ORIGINAL FILTERMALT 250G"
+    },
+    {
+      "text_found": "{\"text_found\":",
+      "confidence": "low",
+      "ann_id": 1265,
+      "current_cat": 171,
+      "current_name": "ALI ORIGINAL FILTERMALT 250G"
+    },
+    {
+      "text_found": "{\n  \"",
+      "confidence": "low",
+      "ann_id": 1266,
+      "current_cat": 171,
+      "current_name": "ALI ORIGINAL FILTERMALT 250G"
+    },
+    {
+      "text_found": "{\n  \"text",
+      "confidence": "low",
+      "ann_id": 1290,
+      "current_cat": 160,
+      "current_name": "ALI ORIGINAL KOKMALT 250G"
+    },
+    {
+      "text_found": "{\n  \"text",
+      "confidence": "low",
+      "ann_id": 1291,
+      "current_cat": 160,
+      "current_name": "ALI ORIGINAL KOKMALT 250G"
+    },
+    {
+      "text_found": "{\"text_",
+      "confidence": "low",
+      "ann_id": 1292,
+      "current_cat": 171,
+      "current_name": "ALI ORIGINAL FILTERMALT 250G"
+    },
+    {
+      "text_found": "{\n  \"",
+      "confidence": "low",
+      "ann_id": 1293,
+      "current_cat": 171,
+      "current_name": "ALI ORIGINAL FILTERMALT 250G"
+    },
+    {
+      "text_found": "{\"text",
+      "confidence": "low",
+      "ann_id": 1294,
+      "current_cat": 171,
+      "current_name": "ALI ORIGINAL FILTERMALT 250G"
+    },
+    {
+      "text_found": "{",
+      "confidence": "low",
+      "ann_id": 1295,
+      "current_cat": 171,
+      "current_name": "ALI ORIGINAL FILTERMALT 250G"
+    },
+    {
+      "text_found": "{\"text_found",
+      "confidence": "low",
+      "ann_id": 1296,
+      "current_cat": 171,
+      "current_name": "ALI ORIGINAL FILTERMALT 250G"
+    },
+    {
+      "text_found": "{\"text_",
+      "confidence": "low",
+      "ann_id": 1297,
+      "current_cat": 171,
+      "current_name": "ALI ORIGINAL FILTERMALT 250G"
+    },
+    {
+      "text_found": "{\"text_found\":",
+      "confidence": "low",
+      "ann_id": 1298,
+      "current_cat": 171,
+      "current_name": "ALI ORIGINAL FILTERMALT 250G"
+    },
+    {
+      "text_found": "{\"text_",
+      "confidence": "low",
+      "ann_id": 1299,
+      "current_cat": 171,
+      "current_name": "ALI ORIGINAL FILTERMALT 250G"
+    },
+    {
+      "text_found": "{\"text",
+      "confidence": "low",
+      "ann_id": 1328,
+      "current_cat": 339,
+      "current_name": "ALI ORIGINAL KAFFEKAPSEL 16STK"
+    },
+    {
+      "text_found": "{\"text",
+      "confidence": "low",
+      "ann_id": 1329,
+      "current_cat": 339,
+      "current_name": "ALI ORIGINAL KAFFEKAPSEL 16STK"
+    },
+    {
+      "text_found": "{\"text_found",
+      "confidence": "low",
+      "ann_id": 1330,
+      "current_cat": 339,
+      "current_name": "ALI ORIGINAL KAFFEKAPSEL 16STK"
+    },
+    {
+      "text_found": "{\"text_found\":",
+      "confidence": "low",
+      "ann_id": 1331,
+      "current_cat": 339,
+      "current_name": "ALI ORIGINAL KAFFEKAPSEL 16STK"
+    },
+    {
+      "text_found": "{",
+      "confidence": "low",
+      "ann_id": 1423,
+      "current_cat": 25,
+      "current_name": "ALI MØRKBRENT KAFFEKAPSEL 16STK"
+    },
+    {
+      "text_found": "{\"text_found",
+      "confidence": "low",
+      "ann_id": 1424,
+      "current_cat": 25,
+      "current_name": "ALI MØRKBRENT KAFFEKAPSEL 16STK"
+    },
+    {
+      "text_found": "{\"text_found\":",
+      "confidence": "low",
+      "ann_id": 1453,
+      "current_cat": 63,
+      "current_name": "ALI MØRKBRENT FILTERMALT 250G"
+    },
+    {
+      "text_found": "{\"text_found",
+      "confidence": "low",
+      "ann_id": 1454,
+      "current_cat": 63,
+      "current_name": "ALI MØRKBRENT FILTERMALT 250G"
+    },
+    {
+      "text_found": "{\"text_found",
+      "confidence": "low",
+      "ann_id": 1455,
+      "current_cat": 171,
+      "current_name": "ALI ORIGINAL FILTERMALT 250G"
+    },
+    {
+      "text_found": "{\"text_found",
+      "confidence": "low",
+      "ann_id": 1456,
+      "current_cat": 171,
+      "current_name": "ALI ORIGINAL FILTERMALT 250G"
+    },
+    {
+      "text_found": "{\"text_found\":",
+      "confidence": "low",
+      "ann_id": 1457,
+      "current_cat": 171,
+      "current_name": "ALI ORIGINAL FILTERMALT 250G"
+    },
+    {
+      "text_found": "{\"text_",
+      "confidence": "low",
+      "ann_id": 1458,
+      "current_cat": 160,
+      "current_name": "ALI ORIGINAL KOKMALT 250G"
+    },
+    {
+      "text_found": "{",
+      "confidence": "low",
+      "ann_id": 1470,
+      "current_cat": 160,
+      "current_name": "ALI ORIGINAL KOKMALT 250G"
+    },
+    {
+      "text_found": "{\n  \"",
+      "confidence": "low",
+      "ann_id": 1471,
+      "current_cat": 160,
+      "current_name": "ALI ORIGINAL KOKMALT 250G"
+    },
+    {
+      "text_found": "{\"text_found",
+      "confidence": "low",
+      "ann_id": 1472,
+      "current_cat": 160,
+      "current_name": "ALI ORIGINAL KOKMALT 250G"
+    },
+    {
+      "text_found": "{\"text_found\":",
+      "confidence": "low",
+      "ann_id": 1541,
+      "current_cat": 171,
+      "current_name": "ALI ORIGINAL FILTERMALT 250G"
+    },
+    {
+      "text_found": "{\"text_",
+      "confidence": "low",
+      "ann_id": 1542,
+      "current_cat": 171,
+      "current_name": "ALI ORIGINAL FILTERMALT 250G"
+    },
+    {
+      "text_found": "{\n  \"",
+      "confidence": "low",
+      "ann_id": 1543,
+      "current_cat": 171,
+      "current_name": "ALI ORIGINAL FILTERMALT 250G"
+    },
+    {
+      "text_found": "{",
+      "confidence": "low",
+      "ann_id": 1544,
+      "current_cat": 171,
+      "current_name": "ALI ORIGINAL FILTERMALT 250G"
+    },
+    {
+      "text_found": "{",
+      "confidence": "low",
+      "ann_id": 1545,
+      "current_cat": 171,
+      "current_name": "ALI ORIGINAL FILTERMALT 250G"
+    },
+    {
+      "text_found": "{\"text_found\":",
+      "confidence": "low",
+      "ann_id": 1546,
+      "current_cat": 171,
+      "current_name": "ALI ORIGINAL FILTERMALT 250G"
+    },
+    {
+      "text_found": "{\"text",
+      "confidence": "low",
+      "ann_id": 1547,
+      "current_cat": 171,
+      "current_name": "ALI ORIGINAL FILTERMALT 250G"
+    },
+    {
+      "text_found": "{\"text_found\":",
+      "confidence": "low",
+      "ann_id": 1555,
+      "current_cat": 160,
+      "current_name": "ALI ORIGINAL KOKMALT 250G"
+    },
+    {
+      "text_found": "{\"text_found\": \"ALI",
+      "confidence": "low",
+      "ann_id": 1556,
+      "current_cat": 160,
+      "current_name": "ALI ORIGINAL KOKMALT 250G"
+    },
+    {
+      "text_found": "{\n  \"text",
+      "confidence": "low",
+      "ann_id": 1557,
+      "current_cat": 160,
+      "current_name": "ALI ORIGINAL KOKMALT 250G"
+    },
+    {
+      "text_found": "{\"text",
+      "confidence": "low",
+      "ann_id": 1581,
+      "current_cat": 63,
+      "current_name": "ALI MØRKBRENT FILTERMALT 250G"
+    },
+    {
+      "text_found": "{",
+      "confidence": "low",
+      "ann_id": 1582,
+      "current_cat": 63,
+      "current_name": "ALI MØRKBRENT FILTERMALT 250G"
+    },
+    {
+      "text_found": "{\"text",
+      "confidence": "low",
+      "ann_id": 1626,
+      "current_cat": 25,
+      "current_name": "ALI MØRKBRENT KAFFEKAPSEL 16STK"
+    },
+    {
+      "text_found": "{\"text",
+      "confidence": "low",
+      "ann_id": 1627,
+      "current_cat": 25,
+      "current_name": "ALI MØRKBRENT KAFFEKAPSEL 16STK"
+    },
+    {
+      "text_found": "{\"text_",
+      "confidence": "low",
+      "ann_id": 1628,
+      "current_cat": 339,
+      "current_name": "ALI ORIGINAL KAFFEKAPSEL 16STK"
+    },
+    {
+      "text_found": "{\"text_found\":",
+      "confidence": "low",
+      "ann_id": 1629,
+      "current_cat": 339,
+      "current_name": "ALI ORIGINAL KAFFEKAPSEL 16STK"
+    },
+    {
+      "text_found": "{\"text_found",
+      "confidence": "low",
+      "ann_id": 1640,
+      "current_cat": 160,
+      "current_name": "ALI ORIGINAL KOKMALT 250G"
+    },
+    {
+      "text_found": "{\"text_found\":",
+      "confidence": "low",
+      "ann_id": 1641,
+      "current_cat": 160,
+      "current_name": "ALI ORIGINAL KOKMALT 250G"
+    },
+    {
+      "text_found": "{\"text_found\":",
+      "confidence": "low",
+      "ann_id": 1642,
+      "current_cat": 160,
+      "current_name": "ALI ORIGINAL KOKMALT 250G"
+    },
+    {
+      "text_found": "{\n  \"text",
+      "confidence": "low",
+      "ann_id": 1643,
+      "current_cat": 160,
+      "current_name": "ALI ORIGINAL KOKMALT 250G"
+    },
+    {
+      "text_found": "{\n  \"text",
+      "confidence": "low",
+      "ann_id": 1685,
+      "current_cat": 63,
+      "current_name": "ALI MØRKBRENT FILTERMALT 250G"
+    },
+    {
+      "text_found": "{\"text_found\":",
+      "confidence": "low",
+      "ann_id": 1686,
+      "current_cat": 63,
+      "current_name": "ALI MØRKBRENT FILTERMALT 250G"
+    },
+    {
+      "text_found": "{\n  \"",
+      "confidence": "low",
+      "ann_id": 1687,
+      "current_cat": 171,
+      "current_name": "ALI ORIGINAL FILTERMALT 250G"
+    },
+    {
+      "text_found": "{\n  \"text",
+      "confidence": "low",
+      "ann_id": 1688,
+      "current_cat": 171,
+      "current_name": "ALI ORIGINAL FILTERMALT 250G"
+    },
+    {
+      "text_found": "{\"text_found\":",
+      "confidence": "low",
+      "ann_id": 1750,
+      "current_cat": 171,
+      "current_name": "ALI ORIGINAL FILTERMALT 250G"
+    },
+    {
+      "text_found": "{\"text_found",
+      "confidence": "low",
+      "ann_id": 1751,
+      "current_cat": 171,
+      "current_name": "ALI ORIGINAL FILTERMALT 250G"
+    },
+    {
+      "text_found": "{\n  \"text",
+      "confidence": "low",
+      "ann_id": 1752,
+      "current_cat": 171,
+      "current_name": "ALI ORIGINAL FILTERMALT 250G"
+    },
+    {
+      "text_found": "{\"text_found\":",
+      "confidence": "low",
+      "ann_id": 1753,
+      "current_cat": 171,
+      "current_name": "ALI ORIGINAL FILTERMALT 250G"
+    },
+    {
+      "text_found": "{",
+      "confidence": "low",
+      "ann_id": 1767,
+      "current_cat": 339,
+      "current_name": "ALI ORIGINAL KAFFEKAPSEL 16STK"
+    },
+    {
+      "text_found": "{",
+      "confidence": "low",
+      "ann_id": 1768,
+      "current_cat": 339,
+      "current_name": "ALI ORIGINAL KAFFEKAPSEL 16STK"
+    },
+    {
+      "text_found": "{",
+      "confidence": "low",
+      "ann_id": 1769,
+      "current_cat": 25,
+      "current_name": "ALI MØRKBRENT KAFFEKAPSEL 16STK"
+    },
+    {
+      "text_found": "{\"text_found",
+      "confidence": "low",
+      "ann_id": 1770,
+      "current_cat": 25,
+      "current_name": "ALI MØRKBRENT KAFFEKAPSEL 16STK"
+    },
+    {
+      "text_found": "{\"text",
+      "confidence": "low",
+      "ann_id": 1777,
+      "current_cat": 171,
+      "current_name": "ALI ORIGINAL FILTERMALT 250G"
+    },
+    {
+      "text_found": "FILTERMALT, ORIGINAL",
+      "confidence": "high",
+      "ann_id": 1778,
+      "current_cat": 171,
+      "current_name": "ALI ORIGINAL FILTERMALT 250G"
+    },
+    {
+      "text_found": "{\"text_",
+      "confidence": "low",
+      "ann_id": 1779,
+      "current_cat": 171,
+      "current_name": "ALI ORIGINAL FILTERMALT 250G"
+    },
+    {
+      "text_found": "{\"text_found\":",
+      "confidence": "low",
+      "ann_id": 1780,
+      "current_cat": 171,
+      "current_name": "ALI ORIGINAL FILTERMALT 250G"
+    },
+    {
+      "text_found": "{",
+      "confidence": "low",
+      "ann_id": 1927,
+      "current_cat": 63,
+      "current_name": "ALI MØRKBRENT FILTERMALT 250G"
+    },
+    {
+      "text_found": "{\"text_found",
+      "confidence": "low",
+      "ann_id": 1928,
+      "current_cat": 63,
+      "current_name": "ALI MØRKBRENT FILTERMALT 250G"
+    },
+    {
+      "text_found": "{\"text_",
+      "confidence": "low",
+      "ann_id": 1929,
+      "current_cat": 25,
+      "current_name": "ALI MØRKBRENT KAFFEKAPSEL 16STK"
+    },
+    {
+      "text_found": "{\"text_",
+      "confidence": "low",
+      "ann_id": 1930,
+      "current_cat": 339,
+      "current_name": "ALI ORIGINAL KAFFEKAPSEL 16STK"
+    },
+    {
+      "text_found": "{\"text_found",
+      "confidence": "low",
+      "ann_id": 1954,
+      "current_cat": 171,
+      "current_name": "ALI ORIGINAL FILTERMALT 250G"
+    },
+    {
+      "text_found": "{\"text_",
+      "confidence": "low",
+      "ann_id": 1958,
+      "current_cat": 160,
+      "current_name": "ALI ORIGINAL KOKMALT 250G"
+    },
+    {
+      "text_found": "{\"text_found\":",
+      "confidence": "low",
+      "ann_id": 1959,
+      "current_cat": 160,
+      "current_name": "ALI ORIGINAL KOKMALT 250G"
+    },
+    {
+      "text_found": "{\"text_found\":",
+      "confidence": "low",
+      "ann_id": 1993,
+      "current_cat": 171,
+      "current_name": "ALI ORIGINAL FILTERMALT 250G"
+    },
+    {
+      "text_found": "{\"text_found\": \"FILT",
+      "confidence": "low",
+      "ann_id": 1994,
+      "current_cat": 171,
+      "current_name": "ALI ORIGINAL FILTERMALT 250G"
+    },
+    {
+      "text_found": "{",
+      "confidence": "low",
+      "ann_id": 1995,
+      "current_cat": 171,
+      "current_name": "ALI ORIGINAL FILTERMALT 250G"
+    },
+    {
+      "text_found": "{\n  \"",
+      "confidence": "low",
+      "ann_id": 1996,
+      "current_cat": 171,
+      "current_name": "ALI ORIGINAL FILTERMALT 250G"
+    },
+    {
+      "text_found": "{\"text_found\":",
+      "confidence": "low",
+      "ann_id": 1997,
+      "current_cat": 171,
+      "current_name": "ALI ORIGINAL FILTERMALT 250G"
+    },
+    {
+      "text_found": "{\"text_found",
+      "confidence": "low",
+      "ann_id": 1998,
+      "current_cat": 171,
+      "current_name": "ALI ORIGINAL FILTERMALT 250G"
+    },
+    {
+      "text_found": "{\"text_found",
+      "confidence": "low",
+      "ann_id": 1999,
+      "current_cat": 171,
+      "current_name": "ALI ORIGINAL FILTERMALT 250G"
+    },
+    {
+      "text_found": "{\"text_found\":",
+      "confidence": "low",
+      "ann_id": 2002,
+      "current_cat": 339,
+      "current_name": "ALI ORIGINAL KAFFEKAPSEL 16STK"
+    },
+    {
+      "text_found": "{\"text_found\":",
+      "confidence": "low",
+      "ann_id": 2003,
+      "current_cat": 339,
+      "current_name": "ALI ORIGINAL KAFFEKAPSEL 16STK"
+    },
+    {
+      "text_found": "{\n  \"text",
+      "confidence": "low",
+      "ann_id": 2020,
+      "current_cat": 171,
+      "current_name": "ALI ORIGINAL FILTERMALT 250G"
+    },
+    {
+      "text_found": "{\"text_",
+      "confidence": "low",
+      "ann_id": 2068,
+      "current_cat": 171,
+      "current_name": "ALI ORIGINAL FILTERMALT 250G"
+    },
+    {
+      "text_found": "{\n  \"text",
+      "confidence": "low",
+      "ann_id": 2069,
+      "current_cat": 171,
+      "current_name": "ALI ORIGINAL FILTERMALT 250G"
+    },
+    {
+      "text_found": "{",
+      "confidence": "low",
+      "ann_id": 2070,
+      "current_cat": 171,
+      "current_name": "ALI ORIGINAL FILTERMALT 250G"
+    },
+    {
+      "text_found": "{\"text_found",
+      "confidence": "low",
+      "ann_id": 2071,
+      "current_cat": 171,
+      "current_name": "ALI ORIGINAL FILTERMALT 250G"
+    },
+    {
+      "text_found": "{\"text_found",
+      "confidence": "low",
+      "ann_id": 2100,
+      "current_cat": 63,
+      "current_name": "ALI MØRKBRENT FILTERMALT 250G"
+    },
+    {
+      "text_found": "{",
+      "confidence": "low",
+      "ann_id": 2101,
+      "current_cat": 63,
+      "current_name": "ALI MØRKBRENT FILTERMALT 250G"
+    },
+    {
+      "text_found": "{\n  \"text",
+      "confidence": "low",
+      "ann_id": 2166,
+      "current_cat": 339,
+      "current_name": "ALI ORIGINAL KAFFEKAPSEL 16STK"
+    },
+    {
+      "text_found": "{",
+      "confidence": "low",
+      "ann_id": 2167,
+      "current_cat": 339,
+      "current_name": "ALI ORIGINAL KAFFEKAPSEL 16STK"
+    },
+    {
+      "text_found": "{\"text_found\": \"ALi",
+      "confidence": "low",
+      "ann_id": 2181,
+      "current_cat": 171,
+      "current_name": "ALI ORIGINAL FILTERMALT 250G"
+    },
+    {
+      "text_found": "{\n  \"",
+      "confidence": "low",
+      "ann_id": 2182,
+      "current_cat": 171,
+      "current_name": "ALI ORIGINAL FILTERMALT 250G"
+    },
+    {
+      "text_found": "{\"text_found",
+      "confidence": "low",
+      "ann_id": 2183,
+      "current_cat": 171,
+      "current_name": "ALI ORIGINAL FILTERMALT 250G"
+    },
+    {
+      "text_found": "{\"text_found",
+      "confidence": "low",
+      "ann_id": 2184,
+      "current_cat": 171,
+      "current_name": "ALI ORIGINAL FILTERMALT 250G"
+    },
+    {
+      "text_found": "{\"text_found\":",
+      "confidence": "low",
+      "ann_id": 2185,
+      "current_cat": 171,
+      "current_name": "ALI ORIGINAL FILTERMALT 250G"
+    },
+    {
+      "text_found": "{\"text",
+      "confidence": "low",
+      "ann_id": 2186,
+      "current_cat": 171,
+      "current_name": "ALI ORIGINAL FILTERMALT 250G"
+    },
+    {
+      "text_found": "{\"text",
+      "confidence": "low",
+      "ann_id": 2187,
+      "current_cat": 171,
+      "current_name": "ALI ORIGINAL FILTERMALT 250G"
+    },
+    {
+      "text_found": "{\"text",
+      "confidence": "low",
+      "ann_id": 2188,
+      "current_cat": 171,
+      "current_name": "ALI ORIGINAL FILTERMALT 250G"
+    },
+    {
+      "text_found": "{\"text_found",
+      "confidence": "low",
+      "ann_id": 2328,
+      "current_cat": 25,
+      "current_name": "ALI MØRKBRENT KAFFEKAPSEL 16STK"
+    },
+    {
+      "text_found": "{\"text_found\": \"",
+      "confidence": "low",
+      "ann_id": 2329,
+      "current_cat": 25,
+      "current_name": "ALI MØRKBRENT KAFFEKAPSEL 16STK"
+    },
+    {
+      "text_found": "{",
+      "confidence": "low",
+      "ann_id": 2330,
+      "current_cat": 339,
+      "current_name": "ALI ORIGINAL KAFFEKAPSEL 16STK"
+    },
+    {
+      "text_found": "{\n  \"text",
+      "confidence": "low",
+      "ann_id": 2331,
+      "current_cat": 339,
+      "current_name": "ALI ORIGINAL KAFFEKAPSEL 16STK"
+    },
+    {
+      "text_found": "{\"text_found",
+      "confidence": "low",
+      "ann_id": 2332,
+      "current_cat": 339,
+      "current_name": "ALI ORIGINAL KAFFEKAPSEL 16STK"
+    },
+    {
+      "text_found": "{\"text",
+      "confidence": "low",
+      "ann_id": 2337,
+      "current_cat": 63,
+      "current_name": "ALI MØRKBRENT FILTERMALT 250G"
+    },
+    {
+      "text_found": "{\"text_found\":",
+      "confidence": "low",
+      "ann_id": 2338,
+      "current_cat": 63,
+      "current_name": "ALI MØRKBRENT FILTERMALT 250G"
+    },
+    {
+      "text_found": "{",
+      "confidence": "low",
+      "ann_id": 2339,
+      "current_cat": 63,
+      "current_name": "ALI MØRKBRENT FILTERMALT 250G"
+    },
+    {
+      "text_found": "{",
+      "confidence": "low",
+      "ann_id": 2340,
+      "current_cat": 171,
+      "current_name": "ALI ORIGINAL FILTERMALT 250G"
+    },
+    {
+      "text_found": "{\n  \"",
+      "confidence": "low",
+      "ann_id": 2341,
+      "current_cat": 171,
+      "current_name": "ALI ORIGINAL FILTERMALT 250G"
+    },
+    {
+      "text_found": "{\n  \"",
+      "confidence": "low",
+      "ann_id": 2342,
+      "current_cat": 171,
+      "current_name": "ALI ORIGINAL FILTERMALT 250G"
+    },
+    {
+      "text_found": "{\"text_",
+      "confidence": "low",
+      "ann_id": 2343,
+      "current_cat": 171,
+      "current_name": "ALI ORIGINAL FILTERMALT 250G"
+    },
+    {
+      "text_found": "{\"text_found\":",
+      "confidence": "low",
+      "ann_id": 2344,
+      "current_cat": 171,
+      "current_name": "ALI ORIGINAL FILTERMALT 250G"
+    },
+    {
+      "text_found": "{\"text_",
+      "confidence": "low",
+      "ann_id": 2345,
+      "current_cat": 171,
+      "current_name": "ALI ORIGINAL FILTERMALT 250G"
+    },
+    {
+      "text_found": "{\"text_",
+      "confidence": "low",
+      "ann_id": 2346,
+      "current_cat": 171,
+      "current_name": "ALI ORIGINAL FILTERMALT 250G"
+    },
+    {
+      "text_found": "{\"text_found\":",
+      "confidence": "low",
+      "ann_id": 2356,
+      "current_cat": 171,
+      "current_name": "ALI ORIGINAL FILTERMALT 250G"
+    },
+    {
+      "text_found": "{\"text_",
+      "confidence": "low",
+      "ann_id": 2357,
+      "current_cat": 171,
+      "current_name": "ALI ORIGINAL FILTERMALT 250G"
+    },
+    {
+      "text_found": "{\"text_found\":",
+      "confidence": "low",
+      "ann_id": 2358,
+      "current_cat": 63,
+      "current_name": "ALI MØRKBRENT FILTERMALT 250G"
+    },
+    {
+      "text_found": "{\"text",
+      "confidence": "low",
+      "ann_id": 2359,
+      "current_cat": 63,
+      "current_name": "ALI MØRKBRENT FILTERMALT 250G"
+    },
+    {
+      "text_found": "{\"text_found\":",
+      "confidence": "low",
+      "ann_id": 2360,
+      "current_cat": 63,
+      "current_name": "ALI MØRKBRENT FILTERMALT 250G"
+    },
+    {
+      "text_found": "{\"text_found\": \"KA",
+      "confidence": "low",
+      "ann_id": 2409,
+      "current_cat": 63,
+      "current_name": "ALI MØRKBRENT FILTERMALT 250G"
+    },
+    {
+      "text_found": "{\"text_found\": \"M",
+      "confidence": "low",
+      "ann_id": 2441,
+      "current_cat": 339,
+      "current_name": "ALI ORIGINAL KAFFEKAPSEL 16STK"
+    },
+    {
+      "text_found": "{\"text",
+      "confidence": "low",
+      "ann_id": 2442,
+      "current_cat": 339,
+      "current_name": "ALI ORIGINAL KAFFEKAPSEL 16STK"
+    },
+    {
+      "text_found": "{\n  \"text",
+      "confidence": "low",
+      "ann_id": 2443,
+      "current_cat": 339,
+      "current_name": "ALI ORIGINAL KAFFEKAPSEL 16STK"
+    },
+    {
+      "text_found": "{\"text_found",
+      "confidence": "low",
+      "ann_id": 2481,
+      "current_cat": 160,
+      "current_name": "ALI ORIGINAL KOKMALT 250G"
+    },
+    {
+      "text_found": "{",
+      "confidence": "low",
+      "ann_id": 2482,
+      "current_cat": 160,
+      "current_name": "ALI ORIGINAL KOKMALT 250G"
+    },
+    {
+      "text_found": "{\"text_found",
+      "confidence": "low",
+      "ann_id": 2507,
+      "current_cat": 25,
+      "current_name": "ALI MØRKBRENT KAFFEKAPSEL 16STK"
+    },
+    {
+      "text_found": "{\"text_found\":",
+      "confidence": "low",
+      "ann_id": 2508,
+      "current_cat": 339,
+      "current_name": "ALI ORIGINAL KAFFEKAPSEL 16STK"
+    },
+    {
+      "text_found": "{\"text_found\":",
+      "confidence": "low",
+      "ann_id": 2618,
+      "current_cat": 339,
+      "current_name": "ALI ORIGINAL KAFFEKAPSEL 16STK"
+    },
+    {
+      "text_found": "{\n  \"",
+      "confidence": "low",
+      "ann_id": 2619,
+      "current_cat": 339,
+      "current_name": "ALI ORIGINAL KAFFEKAPSEL 16STK"
+    },
+    {
+      "text_found": "{\"text_found",
+      "confidence": "low",
+      "ann_id": 2658,
+      "current_cat": 171,
+      "current_name": "ALI ORIGINAL FILTERMALT 250G"
+    },
+    {
+      "text_found": "{\"text",
+      "confidence": "low",
+      "ann_id": 2659,
+      "current_cat": 171,
+      "current_name": "ALI ORIGINAL FILTERMALT 250G"
+    },
+    {
+      "text_found": "{",
+      "confidence": "low",
+      "ann_id": 2660,
+      "current_cat": 171,
+      "current_name": "ALI ORIGINAL FILTERMALT 250G"
+    },
+    {
+      "text_found": "{\n  \"text",
+      "confidence": "low",
+      "ann_id": 2661,
+      "current_cat": 160,
+      "current_name": "ALI ORIGINAL KOKMALT 250G"
+    },
+    {
+      "text_found": "{\"text",
+      "confidence": "low",
+      "ann_id": 2662,
+      "current_cat": 160,
+      "current_name": "ALI ORIGINAL KOKMALT 250G"
+    },
+    {
+      "text_found": "{\"text",
+      "confidence": "low",
+      "ann_id": 2663,
+      "current_cat": 160,
+      "current_name": "ALI ORIGINAL KOKMALT 250G"
+    },
+    {
+      "text_found": "{\"text_",
+      "confidence": "low",
+      "ann_id": 2891,
+      "current_cat": 63,
+      "current_name": "ALI MØRKBRENT FILTERMALT 250G"
+    },
+    {
+      "text_found": "{\"text_found\":",
+      "confidence": "low",
+      "ann_id": 2900,
+      "current_cat": 171,
+      "current_name": "ALI ORIGINAL FILTERMALT 250G"
+    },
+    {
+      "text_found": "{\n  \"text",
+      "confidence": "low",
+      "ann_id": 2901,
+      "current_cat": 171,
+      "current_name": "ALI ORIGINAL FILTERMALT 250G"
+    },
+    {
+      "text_found": "{\"text_found\": \"FILTER",
+      "confidence": "low",
+      "ann_id": 2902,
+      "current_cat": 171,
+      "current_name": "ALI ORIGINAL FILTERMALT 250G"
+    },
+    {
+      "text_found": "{\"text",
+      "confidence": "low",
+      "ann_id": 2903,
+      "current_cat": 171,
+      "current_name": "ALI ORIGINAL FILTERMALT 250G"
+    },
+    {
+      "text_found": "{\"text_",
+      "confidence": "low",
+      "ann_id": 2904,
+      "current_cat": 171,
+      "current_name": "ALI ORIGINAL FILTERMALT 250G"
+    },
+    {
+      "text_found": "{\"text_found\":",
+      "confidence": "low",
+      "ann_id": 2905,
+      "current_cat": 171,
+      "current_name": "ALI ORIGINAL FILTERMALT 250G"
+    },
+    {
+      "text_found": "{\n  \"",
+      "confidence": "low",
+      "ann_id": 2939,
+      "current_cat": 160,
+      "current_name": "ALI ORIGINAL KOKMALT 250G"
+    },
+    {
+      "text_found": "{\"text_found\":",
+      "confidence": "low",
+      "ann_id": 2940,
+      "current_cat": 160,
+      "current_name": "ALI ORIGINAL KOKMALT 250G"
+    },
+    {
+      "text_found": "{\"text_found\":",
+      "confidence": "low",
+      "ann_id": 2954,
+      "current_cat": 63,
+      "current_name": "ALI MØRKBRENT FILTERMALT 250G"
+    },
+    {
+      "text_found": "{\"text_found\":",
+      "confidence": "low",
+      "ann_id": 2955,
+      "current_cat": 63,
+      "current_name": "ALI MØRKBRENT FILTERMALT 250G"
+    },
+    {
+      "text_found": "{\"text_found\":",
+      "confidence": "low",
+      "ann_id": 2956,
+      "current_cat": 63,
+      "current_name": "ALI MØRKBRENT FILTERMALT 250G"
+    },
+    {
+      "text_found": "{\n  \"text",
+      "confidence": "low",
+      "ann_id": 2969,
+      "current_cat": 171,
+      "current_name": "ALI ORIGINAL FILTERMALT 250G"
+    },
+    {
+      "text_found": "{\"text_found\":",
+      "confidence": "low",
+      "ann_id": 2970,
+      "current_cat": 171,
+      "current_name": "ALI ORIGINAL FILTERMALT 250G"
+    },
+    {
+      "text_found": "{",
+      "confidence": "low",
+      "ann_id": 2971,
+      "current_cat": 171,
+      "current_name": "ALI ORIGINAL FILTERMALT 250G"
+    },
+    {
+      "text_found": "{",
+      "confidence": "low",
+      "ann_id": 2972,
+      "current_cat": 171,
+      "current_name": "ALI ORIGINAL FILTERMALT 250G"
+    },
+    {
+      "text_found": "{\n  \"",
+      "confidence": "low",
+      "ann_id": 3027,
+      "current_cat": 171,
+      "current_name": "ALI ORIGINAL FILTERMALT 250G"
+    },
+    {
+      "text_found": "FILTERMALT, ORIGINAL",
+      "confidence": "high",
+      "ann_id": 3028,
+      "current_cat": 171,
+      "current_name": "ALI ORIGINAL FILTERMALT 250G"
+    },
+    {
+      "text_found": "{\"text_",
+      "confidence": "low",
+      "ann_id": 3029,
+      "current_cat": 171,
+      "current_name": "ALI ORIGINAL FILTERMALT 250G"
+    },
+    {
+      "text_found": "{\"text_found",
+      "confidence": "low",
+      "ann_id": 3030,
+      "current_cat": 171,
+      "current_name": "ALI ORIGINAL FILTERMALT 250G"
+    },
+    {
+      "text_found": "{",
+      "confidence": "low",
+      "ann_id": 3152,
+      "current_cat": 171,
+      "current_name": "ALI ORIGINAL FILTERMALT 250G"
+    },
+    {
+      "text_found": "{\"text_",
+      "confidence": "low",
+      "ann_id": 3153,
+      "current_cat": 171,
+      "current_name": "ALI ORIGINAL FILTERMALT 250G"
+    },
+    {
+      "text_found": "{\n  \"text",
+      "confidence": "low",
+      "ann_id": 3154,
+      "current_cat": 171,
+      "current_name": "ALI ORIGINAL FILTERMALT 250G"
+    },
+    {
+      "text_found": "{\"text_found\":",
+      "confidence": "low",
+      "ann_id": 3155,
+      "current_cat": 171,
+      "current_name": "ALI ORIGINAL FILTERMALT 250G"
+    },
+    {
+      "text_found": "{\"text_found\": \"FILTERM",
+      "confidence": "low",
+      "ann_id": 3156,
+      "current_cat": 160,
+      "current_name": "ALI ORIGINAL KOKMALT 250G"
+    },
+    {
+      "text_found": "{\n  \"text_found\": \"M",
+      "confidence": "low",
+      "ann_id": 3196,
+      "current_cat": 25,
+      "current_name": "ALI MØRKBRENT KAFFEKAPSEL 16STK"
+    },
+    {
+      "text_found": "{\n  \"text_found\": \"MØ",
+      "confidence": "low",
+      "ann_id": 3197,
+      "current_cat": 25,
+      "current_name": "ALI MØRKBRENT KAFFEKAPSEL 16STK"
+    },
+    {
+      "text_found": "{\"text",
+      "confidence": "low",
+      "ann_id": 3198,
+      "current_cat": 25,
+      "current_name": "ALI MØRKBRENT KAFFEKAPSEL 16STK"
+    },
+    {
+      "text_found": "{\"text_found\":",
+      "confidence": "low",
+      "ann_id": 3199,
+      "current_cat": 339,
+      "current_name": "ALI ORIGINAL KAFFEKAPSEL 16STK"
+    },
+    {
+      "text_found": "{\"text",
+      "confidence": "low",
+      "ann_id": 3200,
+      "current_cat": 339,
+      "current_name": "ALI ORIGINAL KAFFEKAPSEL 16STK"
+    },
+    {
+      "text_found": "{\n  \"text",
+      "confidence": "low",
+      "ann_id": 3242,
+      "current_cat": 171,
+      "current_name": "ALI ORIGINAL FILTERMALT 250G"
+    },
+    {
+      "text_found": "{\"text_found\":",
+      "confidence": "low",
+      "ann_id": 3243,
+      "current_cat": 171,
+      "current_name": "ALI ORIGINAL FILTERMALT 250G"
+    },
+    {
+      "text_found": "{",
+      "confidence": "low",
+      "ann_id": 3406,
+      "current_cat": 339,
+      "current_name": "ALI ORIGINAL KAFFEKAPSEL 16STK"
+    },
+    {
+      "text_found": "MØRKBRENT",
+      "confidence": "high",
+      "ann_id": 3422,
+      "current_cat": 25,
+      "current_name": "ALI MØRKBRENT KAFFEKAPSEL 16STK"
+    },
+    {
+      "text_found": "{\"text_found\": \"ORIGINAL",
+      "confidence": "low",
+      "ann_id": 3456,
+      "current_cat": 171,
+      "current_name": "ALI ORIGINAL FILTERMALT 250G"
+    },
+    {
+      "text_found": "{\"text_found\": \"",
+      "confidence": "low",
+      "ann_id": 3457,
+      "current_cat": 171,
+      "current_name": "ALI ORIGINAL FILTERMALT 250G"
+    },
+    {
+      "text_found": "{\"text_found",
+      "confidence": "low",
+      "ann_id": 3458,
+      "current_cat": 171,
+      "current_name": "ALI ORIGINAL FILTERMALT 250G"
+    },
+    {
+      "text_found": "{\n  \"",
+      "confidence": "low",
+      "ann_id": 3459,
+      "current_cat": 171,
+      "current_name": "ALI ORIGINAL FILTERMALT 250G"
+    },
+    {
+      "text_found": "{\"text_found",
+      "confidence": "low",
+      "ann_id": 3461,
+      "current_cat": 171,
+      "current_name": "ALI ORIGINAL FILTERMALT 250G"
+    },
+    {
+      "text_found": "{\"text_found\":",
+      "confidence": "low",
+      "ann_id": 3462,
+      "current_cat": 171,
+      "current_name": "ALI ORIGINAL FILTERMALT 250G"
+    },
+    {
+      "text_found": "{\"text_found",
+      "confidence": "low",
+      "ann_id": 3463,
+      "current_cat": 171,
+      "current_name": "ALI ORIGINAL FILTERMALT 250G"
+    },
+    {
+      "text_found": "{\"text_found",
+      "confidence": "low",
+      "ann_id": 3464,
+      "current_cat": 171,
+      "current_name": "ALI ORIGINAL FILTERMALT 250G"
+    },
+    {
+      "text_found": "{\"text_found\":",
+      "confidence": "low",
+      "ann_id": 3465,
+      "current_cat": 171,
+      "current_name": "ALI ORIGINAL FILTERMALT 250G"
+    },
+    {
+      "text_found": "{\"text",
+      "confidence": "low",
+      "ann_id": 3466,
+      "current_cat": 171,
+      "current_name": "ALI ORIGINAL FILTERMALT 250G"
+    },
+    {
+      "text_found": "{\"text_found",
+      "confidence": "low",
+      "ann_id": 3467,
+      "current_cat": 171,
+      "current_name": "ALI ORIGINAL FILTERMALT 250G"
+    },
+    {
+      "text_found": "{\"text_",
+      "confidence": "low",
+      "ann_id": 3497,
+      "current_cat": 25,
+      "current_name": "ALI MØRKBRENT KAFFEKAPSEL 16STK"
+    },
+    {
+      "text_found": "{\n  \"text",
+      "confidence": "low",
+      "ann_id": 3498,
+      "current_cat": 25,
+      "current_name": "ALI MØRKBRENT KAFFEKAPSEL 16STK"
+    },
+    {
+      "text_found": "{\"text_found",
+      "confidence": "low",
+      "ann_id": 3499,
+      "current_cat": 339,
+      "current_name": "ALI ORIGINAL KAFFEKAPSEL 16STK"
+    },
+    {
+      "text_found": "{\n  \"text",
+      "confidence": "low",
+      "ann_id": 3560,
+      "current_cat": 171,
+      "current_name": "ALI ORIGINAL FILTERMALT 250G"
+    },
+    {
+      "text_found": "{\n  \"",
+      "confidence": "low",
+      "ann_id": 3575,
+      "current_cat": 160,
+      "current_name": "ALI ORIGINAL KOKMALT 250G"
+    },
+    {
+      "text_found": "{\"text_found",
+      "confidence": "low",
+      "ann_id": 3576,
+      "current_cat": 63,
+      "current_name": "ALI MØRKBRENT FILTERMALT 250G"
+    },
+    {
+      "text_found": "{\"text_found\": \"ALI FILTER",
+      "confidence": "low",
+      "ann_id": 3605,
+      "current_cat": 171,
+      "current_name": "ALI ORIGINAL FILTERMALT 250G"
+    },
+    {
+      "text_found": "{\"text_found\": \"FILTER ...",
+      "confidence": "low",
+      "ann_id": 3606,
+      "current_cat": 171,
+      "current_name": "ALI ORIGINAL FILTERMALT 250G"
+    },
+    {
+      "text_found": "{\"text_found\":",
+      "confidence": "low",
+      "ann_id": 3607,
+      "current_cat": 171,
+      "current_name": "ALI ORIGINAL FILTERMALT 250G"
+    },
+    {
+      "text_found": "{\"text_found\":",
+      "confidence": "low",
+      "ann_id": 3642,
+      "current_cat": 171,
+      "current_name": "ALI ORIGINAL FILTERMALT 250G"
+    },
+    {
+      "text_found": "{\"text_found\":",
+      "confidence": "low",
+      "ann_id": 3643,
+      "current_cat": 171,
+      "current_name": "ALI ORIGINAL FILTERMALT 250G"
+    },
+    {
+      "text_found": "{\"text_found\": \"ORIGINAL",
+      "confidence": "low",
+      "ann_id": 3644,
+      "current_cat": 160,
+      "current_name": "ALI ORIGINAL KOKMALT 250G"
+    },
+    {
+      "text_found": "{\"text_",
+      "confidence": "low",
+      "ann_id": 3645,
+      "current_cat": 171,
+      "current_name": "ALI ORIGINAL FILTERMALT 250G"
+    },
+    {
+      "text_found": "{\"text_found\": \"A!",
+      "confidence": "low",
+      "ann_id": 3646,
+      "current_cat": 171,
+      "current_name": "ALI ORIGINAL FILTERMALT 250G"
+    },
+    {
+      "text_found": "ALI",
+      "confidence": "high",
+      "ann_id": 3647,
+      "current_cat": 171,
+      "current_name": "ALI ORIGINAL FILTERMALT 250G"
+    },
+    {
+      "text_found": "{\"text_",
+      "confidence": "low",
+      "ann_id": 3648,
+      "current_cat": 171,
+      "current_name": "ALI ORIGINAL FILTERMALT 250G"
+    },
+    {
+      "text_found": "{\"text_found",
+      "confidence": "low",
+      "ann_id": 3649,
+      "current_cat": 171,
+      "current_name": "ALI ORIGINAL FILTERMALT 250G"
+    },
+    {
+      "text_found": "{\n  \"text",
+      "confidence": "low",
+      "ann_id": 3683,
+      "current_cat": 339,
+      "current_name": "ALI ORIGINAL KAFFEKAPSEL 16STK"
+    },
+    {
+      "text_found": "{",
+      "confidence": "low",
+      "ann_id": 3684,
+      "current_cat": 339,
+      "current_name": "ALI ORIGINAL KAFFEKAPSEL 16STK"
+    },
+    {
+      "text_found": "{\"text_found",
+      "confidence": "low",
+      "ann_id": 3688,
+      "current_cat": 171,
+      "current_name": "ALI ORIGINAL FILTERMALT 250G"
+    },
+    {
+      "text_found": "{",
+      "confidence": "low",
+      "ann_id": 3739,
+      "current_cat": 63,
+      "current_name": "ALI MØRKBRENT FILTERMALT 250G"
+    },
+    {
+      "text_found": "FILTERMALT, MØRKBRENT",
+      "confidence": "high",
+      "ann_id": 3740,
+      "current_cat": 63,
+      "current_name": "ALI MØRKBRENT FILTERMALT 250G"
+    },
+    {
+      "text_found": "{\n  \"text",
+      "confidence": "low",
+      "ann_id": 3741,
+      "current_cat": 63,
+      "current_name": "ALI MØRKBRENT FILTERMALT 250G"
+    },
+    {
+      "text_found": "{\"text_found\":",
+      "confidence": "low",
+      "ann_id": 3742,
+      "current_cat": 63,
+      "current_name": "ALI MØRKBRENT FILTERMALT 250G"
+    },
+    {
+      "text_found": "{\"text_",
+      "confidence": "low",
+      "ann_id": 3788,
+      "current_cat": 160,
+      "current_name": "ALI ORIGINAL KOKMALT 250G"
+    },
+    {
+      "text_found": "{\"text_",
+      "confidence": "low",
+      "ann_id": 3789,
+      "current_cat": 160,
+      "current_name": "ALI ORIGINAL KOKMALT 250G"
+    },
+    {
+      "text_found": "{\"text_found\":",
+      "confidence": "low",
+      "ann_id": 3796,
+      "current_cat": 160,
+      "current_name": "ALI ORIGINAL KOKMALT 250G"
+    },
+    {
+      "text_found": "{\"text_found\":",
+      "confidence": "low",
+      "ann_id": 3797,
+      "current_cat": 171,
+      "current_name": "ALI ORIGINAL FILTERMALT 250G"
+    },
+    {
+      "text_found": "{\"text_",
+      "confidence": "low",
+      "ann_id": 3798,
+      "current_cat": 171,
+      "current_name": "ALI ORIGINAL FILTERMALT 250G"
+    },
+    {
+      "text_found": "{\"text_found\": \"FILTERM",
+      "confidence": "low",
+      "ann_id": 3837,
+      "current_cat": 63,
+      "current_name": "ALI MØRKBRENT FILTERMALT 250G"
+    },
+    {
+      "text_found": "{\"text_found",
+      "confidence": "low",
+      "ann_id": 3838,
+      "current_cat": 63,
+      "current_name": "ALI MØRKBRENT FILTERMALT 250G"
+    },
+    {
+      "text_found": "{\"text_",
+      "confidence": "low",
+      "ann_id": 3839,
+      "current_cat": 63,
+      "current_name": "ALI MØRKBRENT FILTERMALT 250G"
+    },
+    {
+      "text_found": "{\n  \"text",
+      "confidence": "low",
+      "ann_id": 3840,
+      "current_cat": 63,
+      "current_name": "ALI MØRKBRENT FILTERMALT 250G"
+    },
+    {
+      "text_found": "{\n  \"text",
+      "confidence": "low",
+      "ann_id": 3917,
+      "current_cat": 63,
+      "current_name": "ALI MØRKBRENT FILTERMALT 250G"
+    },
+    {
+      "text_found": "{",
+      "confidence": "low",
+      "ann_id": 3918,
+      "current_cat": 63,
+      "current_name": "ALI MØRKBRENT FILTERMALT 250G"
+    },
+    {
+      "text_found": "{\"text_",
+      "confidence": "low",
+      "ann_id": 3919,
+      "current_cat": 63,
+      "current_name": "ALI MØRKBRENT FILTERMALT 250G"
+    },
+    {
+      "text_found": "{\n  \"text",
+      "confidence": "low",
+      "ann_id": 3920,
+      "current_cat": 63,
+      "current_name": "ALI MØRKBRENT FILTERMALT 250G"
+    },
+    {
+      "text_found": "{\"text_found",
+      "confidence": "low",
+      "ann_id": 3921,
+      "current_cat": 160,
+      "current_name": "ALI ORIGINAL KOKMALT 250G"
+    },
+    {
+      "text_found": "{\"text_found",
+      "confidence": "low",
+      "ann_id": 3922,
+      "current_cat": 171,
+      "current_name": "ALI ORIGINAL FILTERMALT 250G"
+    },
+    {
+      "text_found": "FILTERMALT ORIGINAL",
+      "confidence": "high",
+      "ann_id": 3923,
+      "current_cat": 171,
+      "current_name": "ALI ORIGINAL FILTERMALT 250G"
+    },
+    {
+      "text_found": "{\n  \"text",
+      "confidence": "low",
+      "ann_id": 3924,
+      "current_cat": 171,
+      "current_name": "ALI ORIGINAL FILTERMALT 250G"
+    },
+    {
+      "text_found": "{\"text_found\": \"K",
+      "confidence": "low",
+      "ann_id": 4013,
+      "current_cat": 160,
+      "current_name": "ALI ORIGINAL KOKMALT 250G"
+    },
+    {
+      "text_found": "{\n  \"text",
+      "confidence": "low",
+      "ann_id": 4014,
+      "current_cat": 160,
+      "current_name": "ALI ORIGINAL KOKMALT 250G"
+    },
+    {
+      "text_found": "{\n  \"text",
+      "confidence": "low",
+      "ann_id": 4032,
+      "current_cat": 339,
+      "current_name": "ALI ORIGINAL KAFFEKAPSEL 16STK"
+    },
+    {
+      "text_found": "{\"text",
+      "confidence": "low",
+      "ann_id": 4033,
+      "current_cat": 339,
+      "current_name": "ALI ORIGINAL KAFFEKAPSEL 16STK"
+    },
+    {
+      "text_found": "{\"text_found\": \"",
+      "confidence": "low",
+      "ann_id": 4059,
+      "current_cat": 63,
+      "current_name": "ALI MØRKBRENT FILTERMALT 250G"
+    },
+    {
+      "text_found": "{\"text_found\":",
+      "confidence": "low",
+      "ann_id": 4060,
+      "current_cat": 63,
+      "current_name": "ALI MØRKBRENT FILTERMALT 250G"
+    },
+    {
+      "text_found": "{\"text_found\":",
+      "confidence": "low",
+      "ann_id": 4061,
+      "current_cat": 63,
+      "current_name": "ALI MØRKBRENT FILTERMALT 250G"
+    },
+    {
+      "text_found": "{\"text_found\": \"ORIGINAL",
+      "confidence": "low",
+      "ann_id": 4062,
+      "current_cat": 63,
+      "current_name": "ALI MØRKBRENT FILTERMALT 250G"
+    },
+    {
+      "text_found": "{\"text_",
+      "confidence": "low",
+      "ann_id": 4080,
+      "current_cat": 160,
+      "current_name": "ALI ORIGINAL KOKMALT 250G"
+    },
+    {
+      "text_found": "{\"text_found\": \"",
+      "confidence": "low",
+      "ann_id": 4081,
+      "current_cat": 160,
+      "current_name": "ALI ORIGINAL KOKMALT 250G"
+    },
+    {
+      "text_found": "{\"text_found\": \"",
+      "confidence": "low",
+      "ann_id": 4082,
+      "current_cat": 160,
+      "current_name": "ALI ORIGINAL KOKMALT 250G"
+    },
+    {
+      "text_found": "{\"text_found\": \"",
+      "confidence": "low",
+      "ann_id": 4083,
+      "current_cat": 171,
+      "current_name": "ALI ORIGINAL FILTERMALT 250G"
+    },
+    {
+      "text_found": "{\"text_found\":",
+      "confidence": "low",
+      "ann_id": 4084,
+      "current_cat": 171,
+      "current_name": "ALI ORIGINAL FILTERMALT 250G"
+    },
+    {
+      "text_found": "{\"text",
+      "confidence": "low",
+      "ann_id": 4085,
+      "current_cat": 171,
+      "current_name": "ALI ORIGINAL FILTERMALT 250G"
+    },
+    {
+      "text_found": "{\"text_found\": \"ORIGINAL",
+      "confidence": "low",
+      "ann_id": 4086,
+      "current_cat": 171,
+      "current_name": "ALI ORIGINAL FILTERMALT 250G"
+    },
+    {
+      "text_found": "{\"text_",
+      "confidence": "low",
+      "ann_id": 4087,
+      "current_cat": 171,
+      "current_name": "ALI ORIGINAL FILTERMALT 250G"
+    },
+    {
+      "text_found": "{\"text_found\":",
+      "confidence": "low",
+      "ann_id": 4088,
+      "current_cat": 171,
+      "current_name": "ALI ORIGINAL FILTERMALT 250G"
+    },
+    {
+      "text_found": "{\n  \"",
+      "confidence": "low",
+      "ann_id": 4089,
+      "current_cat": 171,
+      "current_name": "ALI ORIGINAL FILTERMALT 250G"
+    },
+    {
+      "text_found": "{",
+      "confidence": "low",
+      "ann_id": 4759,
+      "current_cat": 339,
+      "current_name": "ALI ORIGINAL KAFFEKAPSEL 16STK"
+    },
+    {
+      "text_found": "{\"text",
+      "confidence": "low",
+      "ann_id": 4760,
+      "current_cat": 339,
+      "current_name": "ALI ORIGINAL KAFFEKAPSEL 16STK"
+    },
+    {
+      "text_found": "{\"text",
+      "confidence": "low",
+      "ann_id": 4761,
+      "current_cat": 339,
+      "current_name": "ALI ORIGINAL KAFFEKAPSEL 16STK"
+    },
+    {
+      "text_found": "{\"text_found\":",
+      "confidence": "low",
+      "ann_id": 4877,
+      "current_cat": 63,
+      "current_name": "ALI MØRKBRENT FILTERMALT 250G"
+    },
+    {
+      "text_found": "{\"text_",
+      "confidence": "low",
+      "ann_id": 4878,
+      "current_cat": 63,
+      "current_name": "ALI MØRKBRENT FILTERMALT 250G"
+    },
+    {
+      "text_found": "{\"text_found",
+      "confidence": "low",
+      "ann_id": 4879,
+      "current_cat": 171,
+      "current_name": "ALI ORIGINAL FILTERMALT 250G"
+    },
+    {
+      "text_found": "{\n  \"",
+      "confidence": "low",
+      "ann_id": 4935,
+      "current_cat": 171,
+      "current_name": "ALI ORIGINAL FILTERMALT 250G"
+    },
+    {
+      "text_found": "{\"text_",
+      "confidence": "low",
+      "ann_id": 4936,
+      "current_cat": 171,
+      "current_name": "ALI ORIGINAL FILTERMALT 250G"
+    },
+    {
+      "text_found": "{\"text_found",
+      "confidence": "low",
+      "ann_id": 4937,
+      "current_cat": 171,
+      "current_name": "ALI ORIGINAL FILTERMALT 250G"
+    },
+    {
+      "text_found": "{\"text_found",
+      "confidence": "low",
+      "ann_id": 4938,
+      "current_cat": 171,
+      "current_name": "ALI ORIGINAL FILTERMALT 250G"
+    },
+    {
+      "text_found": "{\"text_found\": \"FILTERM",
+      "confidence": "low",
+      "ann_id": 4939,
+      "current_cat": 63,
+      "current_name": "ALI MØRKBRENT FILTERMALT 250G"
+    },
+    {
+      "text_found": "{\"text_",
+      "confidence": "low",
+      "ann_id": 4940,
+      "current_cat": 63,
+      "current_name": "ALI MØRKBRENT FILTERMALT 250G"
+    },
+    {
+      "text_found": "{",
+      "confidence": "low",
+      "ann_id": 4941,
+      "current_cat": 63,
+      "current_name": "ALI MØRKBRENT FILTERMALT 250G"
+    },
+    {
+      "text_found": "{\"text_found",
+      "confidence": "low",
+      "ann_id": 4942,
+      "current_cat": 25,
+      "current_name": "ALI MØRKBRENT KAFFEKAPSEL 16STK"
+    },
+    {
+      "text_found": "{\n  \"",
+      "confidence": "low",
+      "ann_id": 4945,
+      "current_cat": 25,
+      "current_name": "ALI MØRKBRENT KAFFEKAPSEL 16STK"
+    },
+    {
+      "text_found": "{\n  \"",
+      "confidence": "low",
+      "ann_id": 4957,
+      "current_cat": 339,
+      "current_name": "ALI ORIGINAL KAFFEKAPSEL 16STK"
+    },
+    {
+      "text_found": "{\n  \"text",
+      "confidence": "low",
+      "ann_id": 4958,
+      "current_cat": 339,
+      "current_name": "ALI ORIGINAL KAFFEKAPSEL 16STK"
+    },
+    {
+      "text_found": "{\"text_",
+      "confidence": "low",
+      "ann_id": 4959,
+      "current_cat": 171,
+      "current_name": "ALI ORIGINAL FILTERMALT 250G"
+    },
+    {
+      "text_found": "{\n  \"",
+      "confidence": "low",
+      "ann_id": 5001,
+      "current_cat": 63,
+      "current_name": "ALI MØRKBRENT FILTERMALT 250G"
+    },
+    {
+      "text_found": "{\"text_",
+      "confidence": "low",
+      "ann_id": 5014,
+      "current_cat": 171,
+      "current_name": "ALI ORIGINAL FILTERMALT 250G"
+    },
+    {
+      "text_found": "{\"text_",
+      "confidence": "low",
+      "ann_id": 5015,
+      "current_cat": 171,
+      "current_name": "ALI ORIGINAL FILTERMALT 250G"
+    },
+    {
+      "text_found": "{\"text",
+      "confidence": "low",
+      "ann_id": 5016,
+      "current_cat": 171,
+      "current_name": "ALI ORIGINAL FILTERMALT 250G"
+    },
+    {
+      "text_found": "{\"text_found\": \"M",
+      "confidence": "low",
+      "ann_id": 5017,
+      "current_cat": 171,
+      "current_name": "ALI ORIGINAL FILTERMALT 250G"
+    },
+    {
+      "text_found": "{",
+      "confidence": "low",
+      "ann_id": 5021,
+      "current_cat": 63,
+      "current_name": "ALI MØRKBRENT FILTERMALT 250G"
+    },
+    {
+      "text_found": "{\"text_found\":",
+      "confidence": "low",
+      "ann_id": 5022,
+      "current_cat": 63,
+      "current_name": "ALI MØRKBRENT FILTERMALT 250G"
+    },
+    {
+      "text_found": "{\"text_found",
+      "confidence": "low",
+      "ann_id": 5029,
+      "current_cat": 160,
+      "current_name": "ALI ORIGINAL KOKMALT 250G"
+    },
+    {
+      "text_found": "{\"text_found",
+      "confidence": "low",
+      "ann_id": 5030,
+      "current_cat": 160,
+      "current_name": "ALI ORIGINAL KOKMALT 250G"
+    },
+    {
+      "text_found": "{\"text_found\":",
+      "confidence": "low",
+      "ann_id": 5040,
+      "current_cat": 171,
+      "current_name": "ALI ORIGINAL FILTERMALT 250G"
+    },
+    {
+      "text_found": "{\"text_found\":",
+      "confidence": "low",
+      "ann_id": 5041,
+      "current_cat": 171,
+      "current_name": "ALI ORIGINAL FILTERMALT 250G"
+    },
+    {
+      "text_found": "{\"text_found\": \"AJ",
+      "confidence": "low",
+      "ann_id": 5042,
+      "current_cat": 171,
+      "current_name": "ALI ORIGINAL FILTERMALT 250G"
+    },
+    {
+      "text_found": "",
+      "confidence": "low",
+      "ann_id": 5043,
+      "current_cat": 171,
+      "current_name": "ALI ORIGINAL FILTERMALT 250G"
+    },
+    {
+      "text_found": "{\"text_found\":",
+      "confidence": "low",
+      "ann_id": 5212,
+      "current_cat": 25,
+      "current_name": "ALI MØRKBRENT KAFFEKAPSEL 16STK"
+    },
+    {
+      "text_found": "{\n  \"",
+      "confidence": "low",
+      "ann_id": 5213,
+      "current_cat": 339,
+      "current_name": "ALI ORIGINAL KAFFEKAPSEL 16STK"
+    },
+    {
+      "text_found": "{\"text_",
+      "confidence": "low",
+      "ann_id": 5214,
+      "current_cat": 25,
+      "current_name": "ALI MØRKBRENT KAFFEKAPSEL 16STK"
+    },
+    {
+      "text_found": "{\"text_found\":",
+      "confidence": "low",
+      "ann_id": 5241,
+      "current_cat": 63,
+      "current_name": "ALI MØRKBRENT FILTERMALT 250G"
+    },
+    {
+      "text_found": "{\"text_",
+      "confidence": "low",
+      "ann_id": 5242,
+      "current_cat": 63,
+      "current_name": "ALI MØRKBRENT FILTERMALT 250G"
+    },
+    {
+      "text_found": "{\"text_",
+      "confidence": "low",
+      "ann_id": 5243,
+      "current_cat": 63,
+      "current_name": "ALI MØRKBRENT FILTERMALT 250G"
+    },
+    {
+      "text_found": "{\"text_found",
+      "confidence": "low",
+      "ann_id": 5286,
+      "current_cat": 160,
+      "current_name": "ALI ORIGINAL KOKMALT 250G"
+    },
+    {
+      "text_found": "{",
+      "confidence": "low",
+      "ann_id": 5287,
+      "current_cat": 160,
+      "current_name": "ALI ORIGINAL KOKMALT 250G"
+    },
+    {
+      "text_found": "{\"text_found\":",
+      "confidence": "low",
+      "ann_id": 5288,
+      "current_cat": 160,
+      "current_name": "ALI ORIGINAL KOKMALT 250G"
+    },
+    {
+      "text_found": "{\n  \"text",
+      "confidence": "low",
+      "ann_id": 5301,
+      "current_cat": 171,
+      "current_name": "ALI ORIGINAL FILTERMALT 250G"
+    },
+    {
+      "text_found": "{\"text_",
+      "confidence": "low",
+      "ann_id": 5302,
+      "current_cat": 171,
+      "current_name": "ALI ORIGINAL FILTERMALT 250G"
+    },
+    {
+      "text_found": "FILTERMALT, ORIGINAL",
+      "confidence": "high",
+      "ann_id": 5303,
+      "current_cat": 171,
+      "current_name": "ALI ORIGINAL FILTERMALT 250G"
+    },
+    {
+      "text_found": "{\"text_found\": \"FILTER",
+      "confidence": "low",
+      "ann_id": 5304,
+      "current_cat": 171,
+      "current_name": "ALI ORIGINAL FILTERMALT 250G"
+    },
+    {
+      "text_found": "{",
+      "confidence": "low",
+      "ann_id": 5305,
+      "current_cat": 171,
+      "current_name": "ALI ORIGINAL FILTERMALT 250G"
+    },
+    {
+      "text_found": "{\"text_",
+      "confidence": "low",
+      "ann_id": 5306,
+      "current_cat": 171,
+      "current_name": "ALI ORIGINAL FILTERMALT 250G"
+    },
+    {
+      "text_found": "{\"text",
+      "confidence": "low",
+      "ann_id": 5699,
+      "current_cat": 339,
+      "current_name": "ALI ORIGINAL KAFFEKAPSEL 16STK"
+    },
+    {
+      "text_found": "{",
+      "confidence": "low",
+      "ann_id": 5700,
+      "current_cat": 339,
+      "current_name": "ALI ORIGINAL KAFFEKAPSEL 16STK"
+    },
+    {
+      "text_found": "{",
+      "confidence": "low",
+      "ann_id": 5709,
+      "current_cat": 171,
+      "current_name": "ALI ORIGINAL FILTERMALT 250G"
+    },
+    {
+      "text_found": "{\"text_",
+      "confidence": "low",
+      "ann_id": 5710,
+      "current_cat": 171,
+      "current_name": "ALI ORIGINAL FILTERMALT 250G"
+    },
+    {
+      "text_found": "{\"text",
+      "confidence": "low",
+      "ann_id": 5711,
+      "current_cat": 171,
+      "current_name": "ALI ORIGINAL FILTERMALT 250G"
+    },
+    {
+      "text_found": "{\"text_found\":",
+      "confidence": "low",
+      "ann_id": 5712,
+      "current_cat": 171,
+      "current_name": "ALI ORIGINAL FILTERMALT 250G"
+    },
+    {
+      "text_found": "{\"text_found\":",
+      "confidence": "low",
+      "ann_id": 5713,
+      "current_cat": 171,
+      "current_name": "ALI ORIGINAL FILTERMALT 250G"
+    },
+    {
+      "text_found": "{\"text_found\":",
+      "confidence": "low",
+      "ann_id": 5714,
+      "current_cat": 171,
+      "current_name": "ALI ORIGINAL FILTERMALT 250G"
+    },
+    {
+      "text_found": "{\"text_found\": \"KOK",
+      "confidence": "low",
+      "ann_id": 5715,
+      "current_cat": 171,
+      "current_name": "ALI ORIGINAL FILTERMALT 250G"
+    },
+    {
+      "text_found": "{\"text_",
+      "confidence": "low",
+      "ann_id": 5716,
+      "current_cat": 171,
+      "current_name": "ALI ORIGINAL FILTERMALT 250G"
+    },
+    {
+      "text_found": "{\"text_found\":",
+      "confidence": "low",
+      "ann_id": 5717,
+      "current_cat": 63,
+      "current_name": "ALI MØRKBRENT FILTERMALT 250G"
+    },
+    {
+      "text_found": "{\n  \"",
+      "confidence": "low",
+      "ann_id": 5718,
+      "current_cat": 63,
+      "current_name": "ALI MØRKBRENT FILTERMALT 250G"
+    },
+    {
+      "text_found": "{\"text",
+      "confidence": "low",
+      "ann_id": 5719,
+      "current_cat": 63,
+      "current_name": "ALI MØRKBRENT FILTERMALT 250G"
+    },
+    {
+      "text_found": "{\"text_found\":",
+      "confidence": "low",
+      "ann_id": 5720,
+      "current_cat": 63,
+      "current_name": "ALI MØRKBRENT FILTERMALT 250G"
+    },
+    {
+      "text_found": "{\"text",
+      "confidence": "low",
+      "ann_id": 5749,
+      "current_cat": 171,
+      "current_name": "ALI ORIGINAL FILTERMALT 250G"
+    },
+    {
+      "text_found": "{\"text_found\":",
+      "confidence": "low",
+      "ann_id": 5750,
+      "current_cat": 171,
+      "current_name": "ALI ORIGINAL FILTERMALT 250G"
+    },
+    {
+      "text_found": "{\"text_found",
+      "confidence": "low",
+      "ann_id": 5751,
+      "current_cat": 171,
+      "current_name": "ALI ORIGINAL FILTERMALT 250G"
+    },
+    {
+      "text_found": "{\"text_found",
+      "confidence": "low",
+      "ann_id": 5752,
+      "current_cat": 171,
+      "current_name": "ALI ORIGINAL FILTERMALT 250G"
+    },
+    {
+      "text_found": "{\"text_found\": \"KOK",
+      "confidence": "low",
+      "ann_id": 5753,
+      "current_cat": 171,
+      "current_name": "ALI ORIGINAL FILTERMALT 250G"
+    },
+    {
+      "text_found": "{\"text_found\": \"ALI K",
+      "confidence": "low",
+      "ann_id": 5754,
+      "current_cat": 171,
+      "current_name": "ALI ORIGINAL FILTERMALT 250G"
+    },
+    {
+      "text_found": "{\"text_found",
+      "confidence": "low",
+      "ann_id": 5844,
+      "current_cat": 25,
+      "current_name": "ALI MØRKBRENT KAFFEKAPSEL 16STK"
+    },
+    {
+      "text_found": "{\n  \"",
+      "confidence": "low",
+      "ann_id": 5869,
+      "current_cat": 171,
+      "current_name": "ALI ORIGINAL FILTERMALT 250G"
+    },
+    {
+      "text_found": "{",
+      "confidence": "low",
+      "ann_id": 5874,
+      "current_cat": 63,
+      "current_name": "ALI MØRKBRENT FILTERMALT 250G"
+    },
+    {
+      "text_found": "{\n  \"text",
+      "confidence": "low",
+      "ann_id": 5875,
+      "current_cat": 63,
+      "current_name": "ALI MØRKBRENT FILTERMALT 250G"
+    },
+    {
+      "text_found": "{\n  \"",
+      "confidence": "low",
+      "ann_id": 5876,
+      "current_cat": 171,
+      "current_name": "ALI ORIGINAL FILTERMALT 250G"
+    },
+    {
+      "text_found": "{\"text_found",
+      "confidence": "low",
+      "ann_id": 5877,
+      "current_cat": 171,
+      "current_name": "ALI ORIGINAL FILTERMALT 250G"
+    },
+    {
+      "text_found": "{\"text_",
+      "confidence": "low",
+      "ann_id": 5878,
+      "current_cat": 171,
+      "current_name": "ALI ORIGINAL FILTERMALT 250G"
+    },
+    {
+      "text_found": "{",
+      "confidence": "low",
+      "ann_id": 5879,
+      "current_cat": 171,
+      "current_name": "ALI ORIGINAL FILTERMALT 250G"
+    },
+    {
+      "text_found": "{\"text",
+      "confidence": "low",
+      "ann_id": 5957,
+      "current_cat": 63,
+      "current_name": "ALI MØRKBRENT FILTERMALT 250G"
+    },
+    {
+      "text_found": "{\"text_",
+      "confidence": "low",
+      "ann_id": 5958,
+      "current_cat": 63,
+      "current_name": "ALI MØRKBRENT FILTERMALT 250G"
+    },
+    {
+      "text_found": "{\"text_",
+      "confidence": "low",
+      "ann_id": 5979,
+      "current_cat": 160,
+      "current_name": "ALI ORIGINAL KOKMALT 250G"
+    },
+    {
+      "text_found": "{",
+      "confidence": "low",
+      "ann_id": 5980,
+      "current_cat": 160,
+      "current_name": "ALI ORIGINAL KOKMALT 250G"
+    },
+    {
+      "text_found": "{\"text_",
+      "confidence": "low",
+      "ann_id": 5981,
+      "current_cat": 160,
+      "current_name": "ALI ORIGINAL KOKMALT 250G"
+    },
+    {
+      "text_found": "{\"text",
+      "confidence": "low",
+      "ann_id": 5998,
+      "current_cat": 171,
+      "current_name": "ALI ORIGINAL FILTERMALT 250G"
+    },
+    {
+      "text_found": "{\"text_found",
+      "confidence": "low",
+      "ann_id": 5999,
+      "current_cat": 171,
+      "current_name": "ALI ORIGINAL FILTERMALT 250G"
+    },
+    {
+      "text_found": "{\"text",
+      "confidence": "low",
+      "ann_id": 6000,
+      "current_cat": 171,
+      "current_name": "ALI ORIGINAL FILTERMALT 250G"
+    },
+    {
+      "text_found": "{\"text_found\": \"FILTERM",
+      "confidence": "low",
+      "ann_id": 6001,
+      "current_cat": 171,
+      "current_name": "ALI ORIGINAL FILTERMALT 250G"
+    },
+    {
+      "text_found": "{\"text_found",
+      "confidence": "low",
+      "ann_id": 6002,
+      "current_cat": 171,
+      "current_name": "ALI ORIGINAL FILTERMALT 250G"
+    },
+    {
+      "text_found": "{\"text_",
+      "confidence": "low",
+      "ann_id": 6003,
+      "current_cat": 171,
+      "current_name": "ALI ORIGINAL FILTERMALT 250G"
+    },
+    {
+      "text_found": "{\"text_found\": \"",
+      "confidence": "low",
+      "ann_id": 6004,
+      "current_cat": 171,
+      "current_name": "ALI ORIGINAL FILTERMALT 250G"
+    },
+    {
+      "text_found": "{\n  \"text",
+      "confidence": "low",
+      "ann_id": 6005,
+      "current_cat": 171,
+      "current_name": "ALI ORIGINAL FILTERMALT 250G"
+    },
+    {
+      "text_found": "{\"text_found\": \"M",
+      "confidence": "low",
+      "ann_id": 6114,
+      "current_cat": 171,
+      "current_name": "ALI ORIGINAL FILTERMALT 250G"
+    },
+    {
+      "text_found": "{\"text_found\":",
+      "confidence": "low",
+      "ann_id": 6115,
+      "current_cat": 171,
+      "current_name": "ALI ORIGINAL FILTERMALT 250G"
+    },
+    {
+      "text_found": "{",
+      "confidence": "low",
+      "ann_id": 6116,
+      "current_cat": 171,
+      "current_name": "ALI ORIGINAL FILTERMALT 250G"
+    },
+    {
+      "text_found": "{\"text_found\":",
+      "confidence": "low",
+      "ann_id": 6117,
+      "current_cat": 171,
+      "current_name": "ALI ORIGINAL FILTERMALT 250G"
+    },
+    {
+      "text_found": "{\n  \"",
+      "confidence": "low",
+      "ann_id": 6158,
+      "current_cat": 25,
+      "current_name": "ALI MØRKBRENT KAFFEKAPSEL 16STK"
+    },
+    {
+      "text_found": "{",
+      "confidence": "low",
+      "ann_id": 6159,
+      "current_cat": 339,
+      "current_name": "ALI ORIGINAL KAFFEKAPSEL 16STK"
+    },
+    {
+      "text_found": "{\n  \"text",
+      "confidence": "low",
+      "ann_id": 6192,
+      "current_cat": 171,
+      "current_name": "ALI ORIGINAL FILTERMALT 250G"
+    },
+    {
+      "text_found": "{\n  \"",
+      "confidence": "low",
+      "ann_id": 6193,
+      "current_cat": 171,
+      "current_name": "ALI ORIGINAL FILTERMALT 250G"
+    },
+    {
+      "text_found": "{\"text_found",
+      "confidence": "low",
+      "ann_id": 6194,
+      "current_cat": 171,
+      "current_name": "ALI ORIGINAL FILTERMALT 250G"
+    },
+    {
+      "text_found": "{\"text_",
+      "confidence": "low",
+      "ann_id": 6195,
+      "current_cat": 63,
+      "current_name": "ALI MØRKBRENT FILTERMALT 250G"
+    },
+    {
+      "text_found": "{\"text_found\":",
+      "confidence": "low",
+      "ann_id": 6196,
+      "current_cat": 63,
+      "current_name": "ALI MØRKBRENT FILTERMALT 250G"
+    },
+    {
+      "text_found": "{",
+      "confidence": "low",
+      "ann_id": 6197,
+      "current_cat": 63,
+      "current_name": "ALI MØRKBRENT FILTERMALT 250G"
+    },
+    {
+      "text_found": "{\n  \"",
+      "confidence": "low",
+      "ann_id": 6198,
+      "current_cat": 171,
+      "current_name": "ALI ORIGINAL FILTERMALT 250G"
+    },
+    {
+      "text_found": "{\"text_found\":",
+      "confidence": "low",
+      "ann_id": 6199,
+      "current_cat": 171,
+      "current_name": "ALI ORIGINAL FILTERMALT 250G"
+    },
+    {
+      "text_found": "{",
+      "confidence": "low",
+      "ann_id": 6213,
+      "current_cat": 171,
+      "current_name": "ALI ORIGINAL FILTERMALT 250G"
+    },
+    {
+      "text_found": "{\"text",
+      "confidence": "low",
+      "ann_id": 6214,
+      "current_cat": 171,
+      "current_name": "ALI ORIGINAL FILTERMALT 250G"
+    },
+    {
+      "text_found": "{\n  \"text_found\": \"FILTERMALT ORIGINAL\",",
+      "confidence": "low",
+      "ann_id": 6225,
+      "current_cat": 171,
+      "current_name": "ALI ORIGINAL FILTERMALT 250G"
+    },
+    {
+      "text_found": "{",
+      "confidence": "low",
+      "ann_id": 6226,
+      "current_cat": 171,
+      "current_name": "ALI ORIGINAL FILTERMALT 250G"
+    },
+    {
+      "text_found": "{\"text_",
+      "confidence": "low",
+      "ann_id": 6227,
+      "current_cat": 171,
+      "current_name": "ALI ORIGINAL FILTERMALT 250G"
+    },
+    {
+      "text_found": "{",
+      "confidence": "low",
+      "ann_id": 6228,
+      "current_cat": 160,
+      "current_name": "ALI ORIGINAL KOKMALT 250G"
+    },
+    {
+      "text_found": "{\n  \"",
+      "confidence": "low",
+      "ann_id": 6264,
+      "current_cat": 160,
+      "current_name": "ALI ORIGINAL KOKMALT 250G"
+    },
+    {
+      "text_found": "{\"text_found",
+      "confidence": "low",
+      "ann_id": 6265,
+      "current_cat": 160,
+      "current_name": "ALI ORIGINAL KOKMALT 250G"
+    },
+    {
+      "text_found": "{\"text_found",
+      "confidence": "low",
+      "ann_id": 6288,
+      "current_cat": 63,
+      "current_name": "ALI MØRKBRENT FILTERMALT 250G"
+    },
+    {
+      "text_found": "{\"text",
+      "confidence": "low",
+      "ann_id": 6289,
+      "current_cat": 63,
+      "current_name": "ALI MØRKBRENT FILTERMALT 250G"
+    },
+    {
+      "text_found": "{\"text_",
+      "confidence": "low",
+      "ann_id": 6290,
+      "current_cat": 171,
+      "current_name": "ALI ORIGINAL FILTERMALT 250G"
+    },
+    {
+      "text_found": "{\n  \"text",
+      "confidence": "low",
+      "ann_id": 6291,
+      "current_cat": 160,
+      "current_name": "ALI ORIGINAL KOKMALT 250G"
+    },
+    {
+      "text_found": "{\"text_",
+      "confidence": "low",
+      "ann_id": 6403,
+      "current_cat": 171,
+      "current_name": "ALI ORIGINAL FILTERMALT 250G"
+    },
+    {
+      "text_found": "{\"text",
+      "confidence": "low",
+      "ann_id": 6404,
+      "current_cat": 171,
+      "current_name": "ALI ORIGINAL FILTERMALT 250G"
+    },
+    {
+      "text_found": "{\"text_found\":",
+      "confidence": "low",
+      "ann_id": 6405,
+      "current_cat": 171,
+      "current_name": "ALI ORIGINAL FILTERMALT 250G"
+    },
+    {
+      "text_found": "{\"text",
+      "confidence": "low",
+      "ann_id": 6418,
+      "current_cat": 339,
+      "current_name": "ALI ORIGINAL KAFFEKAPSEL 16STK"
+    },
+    {
+      "text_found": "{\"text_found",
+      "confidence": "low",
+      "ann_id": 6419,
+      "current_cat": 339,
+      "current_name": "ALI ORIGINAL KAFFEKAPSEL 16STK"
+    },
+    {
+      "text_found": "{\"text_found",
+      "confidence": "low",
+      "ann_id": 6437,
+      "current_cat": 63,
+      "current_name": "ALI MØRKBRENT FILTERMALT 250G"
+    },
+    {
+      "text_found": "{\"text_",
+      "confidence": "low",
+      "ann_id": 6438,
+      "current_cat": 63,
+      "current_name": "ALI MØRKBRENT FILTERMALT 250G"
+    },
+    {
+      "text_found": "{\"text_",
+      "confidence": "low",
+      "ann_id": 6439,
+      "current_cat": 63,
+      "current_name": "ALI MØRKBRENT FILTERMALT 250G"
+    },
+    {
+      "text_found": "{\"text_found\": \"TÜ",
+      "confidence": "low",
+      "ann_id": 6486,
+      "current_cat": 171,
+      "current_name": "ALI ORIGINAL FILTERMALT 250G"
+    },
+    {
+      "text_found": "{\"text_found\": \"Ch",
+      "confidence": "low",
+      "ann_id": 6487,
+      "current_cat": 171,
+      "current_name": "ALI ORIGINAL FILTERMALT 250G"
+    },
+    {
+      "text_found": "{\"text",
+      "confidence": "low",
+      "ann_id": 6488,
+      "current_cat": 63,
+      "current_name": "ALI MØRKBRENT FILTERMALT 250G"
+    },
+    {
+      "text_found": "{\"text_found\": \"",
+      "confidence": "low",
+      "ann_id": 6489,
+      "current_cat": 63,
+      "current_name": "ALI MØRKBRENT FILTERMALT 250G"
+    },
+    {
+      "text_found": "{\"text_found\": \"",
+      "confidence": "low",
+      "ann_id": 6490,
+      "current_cat": 63,
+      "current_name": "ALI MØRKBRENT FILTERMALT 250G"
+    },
+    {
+      "text_found": "{\"text_found",
+      "confidence": "low",
+      "ann_id": 6542,
+      "current_cat": 171,
+      "current_name": "ALI ORIGINAL FILTERMALT 250G"
+    },
+    {
+      "text_found": "{",
+      "confidence": "low",
+      "ann_id": 6543,
+      "current_cat": 171,
+      "current_name": "ALI ORIGINAL FILTERMALT 250G"
+    },
+    {
+      "text_found": "{\"text_found\": \"ORIGINAL\", \"confidence\": \"high",
+      "confidence": "low",
+      "ann_id": 6544,
+      "current_cat": 171,
+      "current_name": "ALI ORIGINAL FILTERMALT 250G"
+    },
+    {
+      "text_found": "{\"text_found\":",
+      "confidence": "low",
+      "ann_id": 6545,
+      "current_cat": 171,
+      "current_name": "ALI ORIGINAL FILTERMALT 250G"
+    },
+    {
+      "text_found": "{\"text_found\":",
+      "confidence": "low",
+      "ann_id": 6563,
+      "current_cat": 339,
+      "current_name": "ALI ORIGINAL KAFFEKAPSEL 16STK"
+    },
+    {
+      "text_found": "{\"text_found\": \"MØ",
+      "confidence": "low",
+      "ann_id": 6564,
+      "current_cat": 25,
+      "current_name": "ALI MØRKBRENT KAFFEKAPSEL 16STK"
+    },
+    {
+      "text_found": "{\"text_",
+      "confidence": "low",
+      "ann_id": 6565,
+      "current_cat": 25,
+      "current_name": "ALI MØRKBRENT KAFFEKAPSEL 16STK"
+    },
+    {
+      "text_found": "{\"text",
+      "confidence": "low",
+      "ann_id": 6566,
+      "current_cat": 339,
+      "current_name": "ALI ORIGINAL KAFFEKAPSEL 16STK"
+    },
+    {
+      "text_found": "{\"text",
+      "confidence": "low",
+      "ann_id": 6740,
+      "current_cat": 25,
+      "current_name": "ALI MØRKBRENT KAFFEKAPSEL 16STK"
+    },
+    {
+      "text_found": "{\n  \"text",
+      "confidence": "low",
+      "ann_id": 6741,
+      "current_cat": 339,
+      "current_name": "ALI ORIGINAL KAFFEKAPSEL 16STK"
+    },
+    {
+      "text_found": "{\"text_found\":",
+      "confidence": "low",
+      "ann_id": 6838,
+      "current_cat": 171,
+      "current_name": "ALI ORIGINAL FILTERMALT 250G"
+    },
+    {
+      "text_found": "{\n  \"",
+      "confidence": "low",
+      "ann_id": 6839,
+      "current_cat": 171,
+      "current_name": "ALI ORIGINAL FILTERMALT 250G"
+    },
+    {
+      "text_found": "{\"text_found",
+      "confidence": "low",
+      "ann_id": 6840,
+      "current_cat": 171,
+      "current_name": "ALI ORIGINAL FILTERMALT 250G"
+    },
+    {
+      "text_found": "{\"text_found\":",
+      "confidence": "low",
+      "ann_id": 6841,
+      "current_cat": 171,
+      "current_name": "ALI ORIGINAL FILTERMALT 250G"
+    },
+    {
+      "text_found": "{\"text_found",
+      "confidence": "low",
+      "ann_id": 6842,
+      "current_cat": 160,
+      "current_name": "ALI ORIGINAL KOKMALT 250G"
+    },
+    {
+      "text_found": "{\"text_found\":",
+      "confidence": "low",
+      "ann_id": 6843,
+      "current_cat": 171,
+      "current_name": "ALI ORIGINAL FILTERMALT 250G"
+    },
+    {
+      "text_found": "{\"text_found",
+      "confidence": "low",
+      "ann_id": 6928,
+      "current_cat": 171,
+      "current_name": "ALI ORIGINAL FILTERMALT 250G"
+    },
+    {
+      "text_found": "{\"text_",
+      "confidence": "low",
+      "ann_id": 6929,
+      "current_cat": 171,
+      "current_name": "ALI ORIGINAL FILTERMALT 250G"
+    },
+    {
+      "text_found": "{\"text_found",
+      "confidence": "low",
+      "ann_id": 6946,
+      "current_cat": 25,
+      "current_name": "ALI MØRKBRENT KAFFEKAPSEL 16STK"
+    },
+    {
+      "text_found": "{\"text",
+      "confidence": "low",
+      "ann_id": 6947,
+      "current_cat": 25,
+      "current_name": "ALI MØRKBRENT KAFFEKAPSEL 16STK"
+    },
+    {
+      "text_found": "{\"text_",
+      "confidence": "low",
+      "ann_id": 6948,
+      "current_cat": 339,
+      "current_name": "ALI ORIGINAL KAFFEKAPSEL 16STK"
+    },
+    {
+      "text_found": "{\"text_",
+      "confidence": "low",
+      "ann_id": 6949,
+      "current_cat": 339,
+      "current_name": "ALI ORIGINAL KAFFEKAPSEL 16STK"
+    },
+    {
+      "text_found": "{\"text_found",
+      "confidence": "low",
+      "ann_id": 6952,
+      "current_cat": 63,
+      "current_name": "ALI MØRKBRENT FILTERMALT 250G"
+    },
+    {
+      "text_found": "{\"text_found",
+      "confidence": "low",
+      "ann_id": 6953,
+      "current_cat": 63,
+      "current_name": "ALI MØRKBRENT FILTERMALT 250G"
+    },
+    {
+      "text_found": "{\"text_found\":",
+      "confidence": "low",
+      "ann_id": 7101,
+      "current_cat": 171,
+      "current_name": "ALI ORIGINAL FILTERMALT 250G"
+    },
+    {
+      "text_found": "{\"text_found",
+      "confidence": "low",
+      "ann_id": 7102,
+      "current_cat": 171,
+      "current_name": "ALI ORIGINAL FILTERMALT 250G"
+    },
+    {
+      "text_found": "{\"text_found\":",
+      "confidence": "low",
+      "ann_id": 7103,
+      "current_cat": 171,
+      "current_name": "ALI ORIGINAL FILTERMALT 250G"
+    },
+    {
+      "text_found": "{\"text_found\":",
+      "confidence": "low",
+      "ann_id": 7107,
+      "current_cat": 63,
+      "current_name": "ALI MØRKBRENT FILTERMALT 250G"
+    },
+    {
+      "text_found": "{\"text_found",
+      "confidence": "low",
+      "ann_id": 7108,
+      "current_cat": 63,
+      "current_name": "ALI MØRKBRENT FILTERMALT 250G"
+    },
+    {
+      "text_found": "{\"text",
+      "confidence": "low",
+      "ann_id": 7109,
+      "current_cat": 63,
+      "current_name": "ALI MØRKBRENT FILTERMALT 250G"
+    },
+    {
+      "text_found": "{\"text_found",
+      "confidence": "low",
+      "ann_id": 7110,
+      "current_cat": 63,
+      "current_name": "ALI MØRKBRENT FILTERMALT 250G"
+    }
+  ],
+  "contradictions": []
+}

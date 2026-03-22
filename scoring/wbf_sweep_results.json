@@ -1,0 +1,938 @@
+[
+  {
+    "conf": 0.01,
+    "wbf_iou": 0.6,
+    "weights": [
+      1.0,
+      1.5
+    ],
+    "max_preds": 300,
+    "hybrid": 0.991526,
+    "det_mAP": 0.98981,
+    "cls_mAP": 0.995529,
+    "n_preds": 6430
+  },
+  {
+    "conf": 0.01,
+    "wbf_iou": 0.6,
+    "weights": [
+      1.0,
+      1.5
+    ],
+    "max_preds": 500,
+    "hybrid": 0.991526,
+    "det_mAP": 0.98981,
+    "cls_mAP": 0.995529,
+    "n_preds": 6431
+  },
+  {
+    "conf": 0.01,
+    "wbf_iou": 0.55,
+    "weights": [
+      1.0,
+      1.2
+    ],
+    "max_preds": 300,
+    "hybrid": 0.991502,
+    "det_mAP": 0.989843,
+    "cls_mAP": 0.995373,
+    "n_preds": 6313
+  },
+  {
+    "conf": 0.01,
+    "wbf_iou": 0.55,
+    "weights": [
+      1.0,
+      1.2
+    ],
+    "max_preds": 500,
+    "hybrid": 0.991502,
+    "det_mAP": 0.989843,
+    "cls_mAP": 0.995373,
+    "n_preds": 6313
+  },
+  {
+    "conf": 0.01,
+    "wbf_iou": 0.6,
+    "weights": [
+      1.0,
+      1.2
+    ],
+    "max_preds": 300,
+    "hybrid": 0.991495,
+    "det_mAP": 0.989827,
+    "cls_mAP": 0.995388,
+    "n_preds": 6424
+  },
+  {
+    "conf": 0.01,
+    "wbf_iou": 0.6,
+    "weights": [
+      1.0,
+      1.2
+    ],
+    "max_preds": 500,
+    "hybrid": 0.991495,
+    "det_mAP": 0.989827,
+    "cls_mAP": 0.995388,
+    "n_preds": 6425
+  },
+  {
+    "conf": 0.01,
+    "wbf_iou": 0.5,
+    "weights": [
+      1.0,
+      1.2
+    ],
+    "max_preds": 300,
+    "hybrid": 0.991465,
+    "det_mAP": 0.989834,
+    "cls_mAP": 0.995269,
+    "n_preds": 6235
+  },
+  {
+    "conf": 0.01,
+    "wbf_iou": 0.5,
+    "weights": [
+      1.0,
+      1.2
+    ],
+    "max_preds": 500,
+    "hybrid": 0.991465,
+    "det_mAP": 0.989834,
+    "cls_mAP": 0.995269,
+    "n_preds": 6235
+  },
+  {
+    "conf": 0.01,
+    "wbf_iou": 0.55,
+    "weights": [
+      1.0,
+      1.5
+    ],
+    "max_preds": 300,
+    "hybrid": 0.991465,
+    "det_mAP": 0.989805,
+    "cls_mAP": 0.995339,
+    "n_preds": 6314
+  },
+  {
+    "conf": 0.01,
+    "wbf_iou": 0.55,
+    "weights": [
+      1.0,
+      1.5
+    ],
+    "max_preds": 500,
+    "hybrid": 0.991465,
+    "det_mAP": 0.989805,
+    "cls_mAP": 0.995339,
+    "n_preds": 6314
+  },
+  {
+    "conf": 0.01,
+    "wbf_iou": 0.5,
+    "weights": [
+      1.0,
+      1.5
+    ],
+    "max_preds": 300,
+    "hybrid": 0.991433,
+    "det_mAP": 0.989807,
+    "cls_mAP": 0.995227,
+    "n_preds": 6236
+  },
+  {
+    "conf": 0.01,
+    "wbf_iou": 0.5,
+    "weights": [
+      1.0,
+      1.5
+    ],
+    "max_preds": 500,
+    "hybrid": 0.991433,
+    "det_mAP": 0.989807,
+    "cls_mAP": 0.995227,
+    "n_preds": 6236
+  },
+  {
+    "conf": 0.03,
+    "wbf_iou": 0.6,
+    "weights": [
+      1.0,
+      1.5
+    ],
+    "max_preds": 300,
+    "hybrid": 0.991173,
+    "det_mAP": 0.989837,
+    "cls_mAP": 0.99429,
+    "n_preds": 5426
+  },
+  {
+    "conf": 0.03,
+    "wbf_iou": 0.6,
+    "weights": [
+      1.0,
+      1.5
+    ],
+    "max_preds": 500,
+    "hybrid": 0.991173,
+    "det_mAP": 0.989837,
+    "cls_mAP": 0.99429,
+    "n_preds": 5426
+  },
+  {
+    "conf": 0.05,
+    "wbf_iou": 0.6,
+    "weights": [
+      1.0,
+      1.2
+    ],
+    "max_preds": 300,
+    "hybrid": 0.991165,
+    "det_mAP": 0.989885,
+    "cls_mAP": 0.994151,
+    "n_preds": 5121
+  },
+  {
+    "conf": 0.05,
+    "wbf_iou": 0.6,
+    "weights": [
+      1.0,
+      1.2
+    ],
+    "max_preds": 500,
+    "hybrid": 0.991165,
+    "det_mAP": 0.989885,
+    "cls_mAP": 0.994151,
+    "n_preds": 5121
+  },
+  {
+    "conf": 0.08,
+    "wbf_iou": 0.6,
+    "weights": [
+      1.0,
+      1.2
+    ],
+    "max_preds": 300,
+    "hybrid": 0.991162,
+    "det_mAP": 0.989886,
+    "cls_mAP": 0.994141,
+    "n_preds": 4932
+  },
+  {
+    "conf": 0.08,
+    "wbf_iou": 0.6,
+    "weights": [
+      1.0,
+      1.2
+    ],
+    "max_preds": 500,
+    "hybrid": 0.991162,
+    "det_mAP": 0.989886,
+    "cls_mAP": 0.994141,
+    "n_preds": 4932
+  },
+  {
+    "conf": 0.03,
+    "wbf_iou": 0.55,
+    "weights": [
+      1.0,
+      1.2
+    ],
+    "max_preds": 300,
+    "hybrid": 0.991153,
+    "det_mAP": 0.989881,
+    "cls_mAP": 0.994123,
+    "n_preds": 5372
+  },
+  {
+    "conf": 0.03,
+    "wbf_iou": 0.55,
+    "weights": [
+      1.0,
+      1.2
+    ],
+    "max_preds": 500,
+    "hybrid": 0.991153,
+    "det_mAP": 0.989881,
+    "cls_mAP": 0.994123,
+    "n_preds": 5372
+  },
+  {
+    "conf": 0.03,
+    "wbf_iou": 0.6,
+    "weights": [
+      1.0,
+      1.2
+    ],
+    "max_preds": 300,
+    "hybrid": 0.991146,
+    "det_mAP": 0.989863,
+    "cls_mAP": 0.99414,
+    "n_preds": 5421
+  },
+  {
+    "conf": 0.03,
+    "wbf_iou": 0.6,
+    "weights": [
+      1.0,
+      1.2
+    ],
+    "max_preds": 500,
+    "hybrid": 0.991146,
+    "det_mAP": 0.989863,
+    "cls_mAP": 0.99414,
+    "n_preds": 5421
+  },
+  {
+    "conf": 0.08,
+    "wbf_iou": 0.6,
+    "weights": [
+      1.0,
+      1.5
+    ],
+    "max_preds": 300,
+    "hybrid": 0.991143,
+    "det_mAP": 0.989835,
+    "cls_mAP": 0.994197,
+    "n_preds": 4932
+  },
+  {
+    "conf": 0.08,
+    "wbf_iou": 0.6,
+    "weights": [
+      1.0,
+      1.5
+    ],
+    "max_preds": 500,
+    "hybrid": 0.991143,
+    "det_mAP": 0.989835,
+    "cls_mAP": 0.994197,
+    "n_preds": 4932
+  },
+  {
+    "conf": 0.05,
+    "wbf_iou": 0.6,
+    "weights": [
+      1.0,
+      1.5
+    ],
+    "max_preds": 300,
+    "hybrid": 0.991138,
+    "det_mAP": 0.98984,
+    "cls_mAP": 0.994168,
+    "n_preds": 5120
+  },
+  {
+    "conf": 0.05,
+    "wbf_iou": 0.6,
+    "weights": [
+      1.0,
+      1.5
+    ],
+    "max_preds": 500,
+    "hybrid": 0.991138,
+    "det_mAP": 0.98984,
+    "cls_mAP": 0.994168,
+    "n_preds": 5120
+  },
+  {
+    "conf": 0.05,
+    "wbf_iou": 0.55,
+    "weights": [
+      1.0,
+      1.2
+    ],
+    "max_preds": 300,
+    "hybrid": 0.991135,
+    "det_mAP": 0.989904,
+    "cls_mAP": 0.994007,
+    "n_preds": 5083
+  },
+  {
+    "conf": 0.05,
+    "wbf_iou": 0.55,
+    "weights": [
+      1.0,
+      1.2
+    ],
+    "max_preds": 500,
+    "hybrid": 0.991135,
+    "det_mAP": 0.989904,
+    "cls_mAP": 0.994007,
+    "n_preds": 5083
+  },
+  {
+    "conf": 0.08,
+    "wbf_iou": 0.55,
+    "weights": [
+      1.0,
+      1.2
+    ],
+    "max_preds": 300,
+    "hybrid": 0.991131,
+    "det_mAP": 0.989904,
+    "cls_mAP": 0.993996,
+    "n_preds": 4899
+  },
+  {
+    "conf": 0.08,
+    "wbf_iou": 0.55,
+    "weights": [
+      1.0,
+      1.2
+    ],
+    "max_preds": 500,
+    "hybrid": 0.991131,
+    "det_mAP": 0.989904,
+    "cls_mAP": 0.993996,
+    "n_preds": 4899
+  },
+  {
+    "conf": 0.03,
+    "wbf_iou": 0.55,
+    "weights": [
+      1.0,
+      1.5
+    ],
+    "max_preds": 300,
+    "hybrid": 0.991123,
+    "det_mAP": 0.989845,
+    "cls_mAP": 0.994102,
+    "n_preds": 5373
+  },
+  {
+    "conf": 0.03,
+    "wbf_iou": 0.55,
+    "weights": [
+      1.0,
+      1.5
+    ],
+    "max_preds": 500,
+    "hybrid": 0.991123,
+    "det_mAP": 0.989845,
+    "cls_mAP": 0.994102,
+    "n_preds": 5373
+  },
+  {
+    "conf": 0.08,
+    "wbf_iou": 0.5,
+    "weights": [
+      1.0,
+      1.2
+    ],
+    "max_preds": 300,
+    "hybrid": 0.991094,
+    "det_mAP": 0.989901,
+    "cls_mAP": 0.993877,
+    "n_preds": 4886
+  },
+  {
+    "conf": 0.08,
+    "wbf_iou": 0.5,
+    "weights": [
+      1.0,
+      1.2
+    ],
+    "max_preds": 500,
+    "hybrid": 0.991094,
+    "det_mAP": 0.989901,
+    "cls_mAP": 0.993877,
+    "n_preds": 4886
+  },
+  {
+    "conf": 0.08,
+    "wbf_iou": 0.55,
+    "weights": [
+      1.0,
+      1.5
+    ],
+    "max_preds": 300,
+    "hybrid": 0.991094,
+    "det_mAP": 0.989846,
+    "cls_mAP": 0.994007,
+    "n_preds": 4900
+  },
+  {
+    "conf": 0.08,
+    "wbf_iou": 0.55,
+    "weights": [
+      1.0,
+      1.5
+    ],
+    "max_preds": 500,
+    "hybrid": 0.991094,
+    "det_mAP": 0.989846,
+    "cls_mAP": 0.994007,
+    "n_preds": 4900
+  },
+  {
+    "conf": 0.05,
+    "wbf_iou": 0.55,
+    "weights": [
+      1.0,
+      1.5
+    ],
+    "max_preds": 300,
+    "hybrid": 0.991085,
+    "det_mAP": 0.989846,
+    "cls_mAP": 0.993977,
+    "n_preds": 5084
+  },
+  {
+    "conf": 0.05,
+    "wbf_iou": 0.55,
+    "weights": [
+      1.0,
+      1.5
+    ],
+    "max_preds": 500,
+    "hybrid": 0.991085,
+    "det_mAP": 0.989846,
+    "cls_mAP": 0.993977,
+    "n_preds": 5084
+  },
+  {
+    "conf": 0.05,
+    "wbf_iou": 0.5,
+    "weights": [
+      1.0,
+      1.2
+    ],
+    "max_preds": 300,
+    "hybrid": 0.991075,
+    "det_mAP": 0.98987,
+    "cls_mAP": 0.993887,
+    "n_preds": 5063
+  },
+  {
+    "conf": 0.05,
+    "wbf_iou": 0.5,
+    "weights": [
+      1.0,
+      1.2
+    ],
+    "max_preds": 500,
+    "hybrid": 0.991075,
+    "det_mAP": 0.98987,
+    "cls_mAP": 0.993887,
+    "n_preds": 5063
+  },
+  {
+    "conf": 0.03,
+    "wbf_iou": 0.5,
+    "weights": [
+      1.0,
+      1.2
+    ],
+    "max_preds": 300,
+    "hybrid": 0.991074,
+    "det_mAP": 0.989874,
+    "cls_mAP": 0.993875,
+    "n_preds": 5340
+  },
+  {
+    "conf": 0.03,
+    "wbf_iou": 0.5,
+    "weights": [
+      1.0,
+      1.2
+    ],
+    "max_preds": 500,
+    "hybrid": 0.991074,
+    "det_mAP": 0.989874,
+    "cls_mAP": 0.993875,
+    "n_preds": 5340
+  },
+  {
+    "conf": 0.08,
+    "wbf_iou": 0.5,
+    "weights": [
+      1.0,
+      1.5
+    ],
+    "max_preds": 300,
+    "hybrid": 0.991056,
+    "det_mAP": 0.989841,
+    "cls_mAP": 0.993889,
+    "n_preds": 4888
+  },
+  {
+    "conf": 0.08,
+    "wbf_iou": 0.5,
+    "weights": [
+      1.0,
+      1.5
+    ],
+    "max_preds": 500,
+    "hybrid": 0.991056,
+    "det_mAP": 0.989841,
+    "cls_mAP": 0.993889,
+    "n_preds": 4888
+  },
+  {
+    "conf": 0.03,
+    "wbf_iou": 0.5,
+    "weights": [
+      1.0,
+      1.5
+    ],
+    "max_preds": 300,
+    "hybrid": 0.991041,
+    "det_mAP": 0.989834,
+    "cls_mAP": 0.993857,
+    "n_preds": 5342
+  },
+  {
+    "conf": 0.03,
+    "wbf_iou": 0.5,
+    "weights": [
+      1.0,
+      1.5
+    ],
+    "max_preds": 500,
+    "hybrid": 0.991041,
+    "det_mAP": 0.989834,
+    "cls_mAP": 0.993857,
+    "n_preds": 5342
+  },
+  {
+    "conf": 0.05,
+    "wbf_iou": 0.5,
+    "weights": [
+      1.0,
+      1.5
+    ],
+    "max_preds": 300,
+    "hybrid": 0.991041,
+    "det_mAP": 0.989835,
+    "cls_mAP": 0.993856,
+    "n_preds": 5065
+  },
+  {
+    "conf": 0.05,
+    "wbf_iou": 0.5,
+    "weights": [
+      1.0,
+      1.5
+    ],
+    "max_preds": 500,
+    "hybrid": 0.991041,
+    "det_mAP": 0.989835,
+    "cls_mAP": 0.993856,
+    "n_preds": 5065
+  },
+  {
+    "conf": 0.01,
+    "wbf_iou": 0.55,
+    "weights": [
+      1.0,
+      1.0
+    ],
+    "max_preds": 300,
+    "hybrid": 0.99093,
+    "det_mAP": 0.989856,
+    "cls_mAP": 0.993434,
+    "n_preds": 6318
+  },
+  {
+    "conf": 0.01,
+    "wbf_iou": 0.55,
+    "weights": [
+      1.0,
+      1.0
+    ],
+    "max_preds": 500,
+    "hybrid": 0.99093,
+    "det_mAP": 0.989856,
+    "cls_mAP": 0.993434,
+    "n_preds": 6318
+  },
+  {
+    "conf": 0.01,
+    "wbf_iou": 0.6,
+    "weights": [
+      1.0,
+      1.0
+    ],
+    "max_preds": 300,
+    "hybrid": 0.990915,
+    "det_mAP": 0.989833,
+    "cls_mAP": 0.993439,
+    "n_preds": 6419
+  },
+  {
+    "conf": 0.01,
+    "wbf_iou": 0.6,
+    "weights": [
+      1.0,
+      1.0
+    ],
+    "max_preds": 500,
+    "hybrid": 0.990915,
+    "det_mAP": 0.989833,
+    "cls_mAP": 0.993439,
+    "n_preds": 6421
+  },
+  {
+    "conf": 0.01,
+    "wbf_iou": 0.5,
+    "weights": [
+      1.0,
+      1.0
+    ],
+    "max_preds": 300,
+    "hybrid": 0.99089,
+    "det_mAP": 0.989843,
+    "cls_mAP": 0.993334,
+    "n_preds": 6236
+  },
+  {
+    "conf": 0.01,
+    "wbf_iou": 0.5,
+    "weights": [
+      1.0,
+      1.0
+    ],
+    "max_preds": 500,
+    "hybrid": 0.99089,
+    "det_mAP": 0.989843,
+    "cls_mAP": 0.993334,
+    "n_preds": 6236
+  },
+  {
+    "conf": 0.08,
+    "wbf_iou": 0.6,
+    "weights": [
+      1.0,
+      1.0
+    ],
+    "max_preds": 300,
+    "hybrid": 0.990592,
+    "det_mAP": 0.989896,
+    "cls_mAP": 0.992214,
+    "n_preds": 4931
+  },
+  {
+    "conf": 0.08,
+    "wbf_iou": 0.6,
+    "weights": [
+      1.0,
+      1.0
+    ],
+    "max_preds": 500,
+    "hybrid": 0.990592,
+    "det_mAP": 0.989896,
+    "cls_mAP": 0.992214,
+    "n_preds": 4931
+  },
+  {
+    "conf": 0.05,
+    "wbf_iou": 0.6,
+    "weights": [
+      1.0,
+      1.0
+    ],
+    "max_preds": 300,
+    "hybrid": 0.990591,
+    "det_mAP": 0.989887,
+    "cls_mAP": 0.992236,
+    "n_preds": 5120
+  },
+  {
+    "conf": 0.05,
+    "wbf_iou": 0.6,
+    "weights": [
+      1.0,
+      1.0
+    ],
+    "max_preds": 500,
+    "hybrid": 0.990591,
+    "det_mAP": 0.989887,
+    "cls_mAP": 0.992236,
+    "n_preds": 5120
+  },
+  {
+    "conf": 0.03,
+    "wbf_iou": 0.55,
+    "weights": [
+      1.0,
+      1.0
+    ],
+    "max_preds": 300,
+    "hybrid": 0.990584,
+    "det_mAP": 0.989892,
+    "cls_mAP": 0.992198,
+    "n_preds": 5375
+  },
+  {
+    "conf": 0.03,
+    "wbf_iou": 0.55,
+    "weights": [
+      1.0,
+      1.0
+    ],
+    "max_preds": 500,
+    "hybrid": 0.990584,
+    "det_mAP": 0.989892,
+    "cls_mAP": 0.992198,
+    "n_preds": 5375
+  },
+  {
+    "conf": 0.03,
+    "wbf_iou": 0.6,
+    "weights": [
+      1.0,
+      1.0
+    ],
+    "max_preds": 300,
+    "hybrid": 0.990581,
+    "det_mAP": 0.989878,
+    "cls_mAP": 0.992222,
+    "n_preds": 5421
+  },
+  {
+    "conf": 0.03,
+    "wbf_iou": 0.6,
+    "weights": [
+      1.0,
+      1.0
+    ],
+    "max_preds": 500,
+    "hybrid": 0.990581,
+    "det_mAP": 0.989878,
+    "cls_mAP": 0.992222,
+    "n_preds": 5421
+  },
+  {
+    "conf": 0.08,
+    "wbf_iou": 0.55,
+    "weights": [
+      1.0,
+      1.0
+    ],
+    "max_preds": 300,
+    "hybrid": 0.990566,
+    "det_mAP": 0.989922,
+    "cls_mAP": 0.992069,
+    "n_preds": 4900
+  },
+  {
+    "conf": 0.08,
+    "wbf_iou": 0.55,
+    "weights": [
+      1.0,
+      1.0
+    ],
+    "max_preds": 500,
+    "hybrid": 0.990566,
+    "det_mAP": 0.989922,
+    "cls_mAP": 0.992069,
+    "n_preds": 4900
+  },
+  {
+    "conf": 0.05,
+    "wbf_iou": 0.55,
+    "weights": [
+      1.0,
+      1.0
+    ],
+    "max_preds": 300,
+    "hybrid": 0.990557,
+    "det_mAP": 0.989904,
+    "cls_mAP": 0.992083,
+    "n_preds": 5085
+  },
+  {
+    "conf": 0.05,
+    "wbf_iou": 0.55,
+    "weights": [
+      1.0,
+      1.0
+    ],
+    "max_preds": 500,
+    "hybrid": 0.990557,
+    "det_mAP": 0.989904,
+    "cls_mAP": 0.992083,
+    "n_preds": 5085
+  },
+  {
+    "conf": 0.08,
+    "wbf_iou": 0.5,
+    "weights": [
+      1.0,
+      1.0
+    ],
+    "max_preds": 300,
+    "hybrid": 0.990534,
+    "det_mAP": 0.989926,
+    "cls_mAP": 0.991952,
+    "n_preds": 4885
+  },
+  {
+    "conf": 0.08,
+    "wbf_iou": 0.5,
+    "weights": [
+      1.0,
+      1.0
+    ],
+    "max_preds": 500,
+    "hybrid": 0.990534,
+    "det_mAP": 0.989926,
+    "cls_mAP": 0.991952,
+    "n_preds": 4885
+  },
+  {
+    "conf": 0.05,
+    "wbf_iou": 0.5,
+    "weights": [
+      1.0,
+      1.0
+    ],
+    "max_preds": 300,
+    "hybrid": 0.990525,
+    "det_mAP": 0.989908,
+    "cls_mAP": 0.991966,
+    "n_preds": 5062
+  },
+  {
+    "conf": 0.05,
+    "wbf_iou": 0.5,
+    "weights": [
+      1.0,
+      1.0
+    ],
+    "max_preds": 500,
+    "hybrid": 0.990525,
+    "det_mAP": 0.989908,
+    "cls_mAP": 0.991966,
+    "n_preds": 5062
+  },
+  {
+    "conf": 0.03,
+    "wbf_iou": 0.5,
+    "weights": [
+      1.0,
+      1.0
+    ],
+    "max_preds": 300,
+    "hybrid": 0.990502,
+    "det_mAP": 0.989881,
+    "cls_mAP": 0.991951,
+    "n_preds": 5340
+  },
+  {
+    "conf": 0.03,
+    "wbf_iou": 0.5,
+    "weights": [
+      1.0,
+      1.0
+    ],
+    "max_preds": 500,
+    "hybrid": 0.990502,
+    "det_mAP": 0.989881,
+    "cls_mAP": 0.991951,
+    "n_preds": 5340
+  }
+]
