@@ -29,9 +29,9 @@ SIMILARITIES = DATA_DIR / "all_similarities.json"
 CHECKPOINT_PATH = DATA_DIR / "vision_relabel_checkpoint.json"
 OUTPUT_PATH = DATA_DIR / "vision_relabel_results.json"
 
-ANTHROPIC_KEY = "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"
-OPENAI_KEY = "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"
-GEMINI_KEY = "AIzaSyBA57XUSyoUOTyq2BIZVQH7IZbmdAbdAww"
+ANTHROPIC_KEY = "<REDACTED>"
+OPENAI_KEY = "<REDACTED>"
+GEMINI_KEY = "<REDACTED>"
 
 NUM_CANDIDATES = 8  # Number of candidate products to show
 
