@@ -25,6 +25,11 @@ archive/
 
 # Generated review HTML (large, embedded images)
 data/review*.html
+data/unknown_review.html
+
+# Scan logs (transient)
+data/scan_*.log
+data/scan_nescafe_softflora.log
 
 # OS
 .DS_Store
