@@ -1,0 +1,1002 @@
+[
+  {
+    "ann_id": 28706,
+    "cat_id": 12,
+    "label": "Leksands Rutbit",
+    "is_corrupted_cat": false,
+    "verdict": "CORRECT",
+    "visible_text": "BAKAD MED TRADITION OCH KÄRLEK, LEKSANDS RUTBIT, KNÄCKEBRÖD, Svensk råvara, ORIGINALRECEPT",
+    "reason": "The visible brand 'LEKSANDS' and product name 'RUTBIT' perfectly match the provided label 'Leksands Rutbit'.",
+    "bbox_size": "195x175"
+  },
+  {
+    "ann_id": 9317,
+    "cat_id": 269,
+    "label": "Eldorado Egg fra Toten",
+    "is_corrupted_cat": false,
+    "verdict": "UNCERTAIN",
+    "visible_text": "",
+    "reason": "parse: {\"visible_text\": \"ELDORADO, Økologiske, NYT",
+    "bbox_size": "409x112"
+  },
+  {
+    "ann_id": 7032,
+    "cat_id": 225,
+    "label": "EVERGOOD CLASSIC KAFFEKAPSEL 10STK",
+    "is_corrupted_cat": true,
+    "verdict": "CORRECT",
+    "visible_text": "J. J. DALE KAFFEKAPSLER EVERGOOD CLASSIC",
+    "reason": "The brand 'EVERGOOD' and product type 'CLASSIC' are clearly visible. 'KAFFEKAPSLER' is visible, which is the plural form of 'KAFFEKAPSEL'. The '10STK' is not visible but the core product identification is correct.",
+    "bbox_size": "39x73"
+  },
+  {
+    "ann_id": 10738,
+    "cat_id": 53,
+    "label": "COCO POPS CHOCOS 330G KELLOGG'S",
+    "is_corrupted_cat": true,
+    "verdict": "UNCERTAIN",
+    "visible_text": "Kellogg's, COCO POPS, CHOCOS, NO ARTIFICIAL COLOURS, NO ARTIFICIAL FLAVOURS, CHANCE TO WIN PRIZES, NBA",
+    "reason": "The brand 'Kellogg's' and product names 'COCO POPS CHOCOS' are visible. However, the weight '330G' is not visible on the box, so the label cannot be fully confirmed.",
+    "bbox_size": "229x407"
+  },
+  {
+    "ann_id": 2846,
+    "cat_id": 355,
+    "label": "unknown_product",
+    "is_corrupted_cat": false,
+    "verdict": "WRONG",
+    "visible_text": "TWININGS OF LONDON SUPERBLENDS ANTIOXIDANT LEMON & GINGER WITH BURDOCK ROOT & FENNEL SELENIUM CONTRIBUTES TO THE PROTECTION OF CELLS FROM OXIDATIVE STRESS",
+    "reason": "The product is clearly identifiable as 'Twinings Superblends Antioxidant Lemon & Ginger' with additional details visible.",
+    "bbox_size": "213x313"
+  },
+  {
+    "ann_id": 4001,
+    "cat_id": 56,
+    "label": "SJOKOLADEDRIKK 10PK 320G REGIA",
+    "is_corrupted_cat": true,
+    "verdict": "UNCERTAIN",
+    "visible_text": "",
+    "reason": "parse: {\"visible_text\": \"Freia, REGIA, KAKAO, 11",
+    "bbox_size": "191x231"
+  },
+  {
+    "ann_id": 21124,
+    "cat_id": 0,
+    "label": "FRØKRISP KNEKKEBRØD ØKOLOGISK 170G BERIT",
+    "is_corrupted_cat": true,
+    "verdict": "UNCERTAIN",
+    "visible_text": "",
+    "reason": "parse: {\"visible_text\": \"Frøkrisp\", \"verdict\": \"UNC",
+    "bbox_size": "95x118"
+  },
+  {
+    "ann_id": 27832,
+    "cat_id": 157,
+    "label": "MELLOMBAR SOMMERVIBBER 138G ELDORADO",
+    "is_corrupted_cat": true,
+    "verdict": "UNCERTAIN",
+    "visible_text": "",
+    "reason": "parse: {\"visible_text\": \"ELDORADO, Sommer Vibber, MellomBar, H",
+    "bbox_size": "211x250"
+  },
+  {
+    "ann_id": 7655,
+    "cat_id": 6,
+    "label": "Eldorado Økologiske Gårdsegg",
+    "is_corrupted_cat": false,
+    "verdict": "CORRECT",
+    "visible_text": "ELDORADO, ØKOLOGISKE GÅRDSEGG, 10 STK M/L, MED EKSTRA GUL PLOMME, ØKOLOGISK Debio ØKOLOGISK, NO-ØKO-01, NYT NORSK",
+    "reason": "The visible brand 'Eldorado' and product name 'Økologiske Gårdsegg' match the provided label exactly.",
+    "bbox_size": "569x164"
+  },
+  {
+    "ann_id": 18302,
+    "cat_id": 355,
+    "label": "unknown_product",
+    "is_corrupted_cat": false,
+    "verdict": "WRONG",
+    "visible_text": "AXA Gold Nut Muesli 30%",
+    "reason": "The product clearly shows 'AXA Gold Nut Muesli' and '30%', so it is not an 'unknown_product'.",
+    "bbox_size": "67x88"
+  },
+  {
+    "ann_id": 8615,
+    "cat_id": 138,
+    "label": "Økologiske Egg 10stk",
+    "is_corrupted_cat": false,
+    "verdict": "UNCERTAIN",
+    "visible_text": "",
+    "reason": "parse: {\"visible_text\": \"Økologiske Egg, fra frittgående høner\", \"",
+    "bbox_size": "440x128"
+  },
+  {
+    "ann_id": 21175,
+    "cat_id": 280,
+    "label": "RISKAKER 100G FIRST PRICE",
+    "is_corrupted_cat": true,
+    "verdict": "UNCERTAIN",
+    "visible_text": "",
+    "reason": "The image is too blurry and low resolution to read any text. I cannot see 'RISKAKER', '100G', or 'FIRST PRICE'.",
+    "bbox_size": "84x131"
+  },
+  {
+    "ann_id": 15769,
+    "cat_id": 355,
+    "label": "unknown_product",
+    "is_corrupted_cat": false,
+    "verdict": "WRONG",
+    "visible_text": "AYA Cold BERRIES MÜSLI 47% FRUIT & BERRY MÜSLI",
+    "reason": "The brand 'AYA' and product name 'Cold BERRIES MÜSLI' are clearly visible, indicating the product is not unknown.",
+    "bbox_size": "79x122"
+  },
+  {
+    "ann_id": 31627,
+    "cat_id": 38,
+    "label": "KNEKKEBRØD DIN STUND CHIA&HAVSALT 270G W",
+    "is_corrupted_cat": true,
+    "verdict": "UNCERTAIN",
+    "visible_text": "",
+    "reason": "parse: {\"visible_text\": \"Wa... DIN STUND CHIA&HAVSALT KNEKKE",
+    "bbox_size": "127x214"
+  },
+  {
+    "ann_id": 17528,
+    "cat_id": 78,
+    "label": "MUSLI HAVRE&MANDEL 400G BARE BRA",
+    "is_corrupted_cat": true,
+    "verdict": "UNCERTAIN",
+    "visible_text": "NYHET Bare Bra MÜSLI UTEN TILSATT SUKKER HAVRE & MANDEL Crunchy! 39 90",
+    "reason": "The brand 'Bare Bra', product 'MÜSLI', and flavor 'HAVRE & MANDEL' are visible and match. However, the weight '400G' is not visible on the packaging, only a price of '39 90'.",
+    "bbox_size": "346x453"
+  },
+  {
+    "ann_id": 20401,
+    "cat_id": 132,
+    "label": "FRUKOST FULLKORN 320G WASA",
+    "is_corrupted_cat": true,
+    "verdict": "UNCERTAIN",
+    "visible_text": "wasa FRUKOST FULLKORN",
+    "reason": "The brand 'WASA' and product name 'FRUKOST FULLKORN' are visible. However, '320G' is not visible on the product, so the full label cannot be confirmed.",
+    "bbox_size": "190x105"
+  },
+  {
+    "ann_id": 1284,
+    "cat_id": 355,
+    "label": "unknown_product",
+    "is_corrupted_cat": false,
+    "verdict": "WRONG",
+    "visible_text": "Lipton EARL GREY. Text in top right corner appears to be in Russian, possibly indicating quantity like \"25 пакетиков\" (25 sachets/bags). Other small text is present but illegible.",
+    "reason": "The brand 'Lipton' and product name 'EARL GREY' are clearly visible, meaning the product is not unknown.",
+    "bbox_size": "212x108"
+  },
+  {
+    "ann_id": 26928,
+    "cat_id": 12,
+    "label": "Leksands Rutbit",
+    "is_corrupted_cat": false,
+    "verdict": "CORRECT",
+    "visible_text": "LEKSANDS RUTBIT",
+    "reason": "The visible text 'LEKSANDS RUTBIT' perfectly matches the provided label.",
+    "bbox_size": "193x178"
+  },
+  {
+    "ann_id": 1896,
+    "cat_id": 341,
+    "label": "EVERGOOD CLASSIC HELE BØNNER 500G",
+    "is_corrupted_cat": false,
+    "verdict": "UNCERTAIN",
+    "visible_text": "EVERGOOD Classic",
+    "reason": "While 'EVERGOOD' and 'Classic' are visible, 'HELE BØNNER' and '500G' are not visible on the packaging, making it impossible to confirm the full label.",
+    "bbox_size": "113x152"
+  },
+  {
+    "ann_id": 24402,
+    "cat_id": 12,
+    "label": "Leksands Rutbit",
+    "is_corrupted_cat": false,
+    "verdict": "CORRECT",
+    "visible_text": "LEKSANDS RUTBIT",
+    "reason": "The visible text 'LEKSANDS RUTBIT' perfectly matches the provided label.",
+    "bbox_size": "86x85"
+  },
+  {
+    "ann_id": 3998,
+    "cat_id": 355,
+    "label": "unknown_product",
+    "is_corrupted_cat": false,
+    "verdict": "WRONG",
+    "visible_text": "Lipton EARL GREY",
+    "reason": "The brand 'Lipton' and product name 'EARL GREY' are clearly visible on the packaging.",
+    "bbox_size": "206x116"
+  },
+  {
+    "ann_id": 21896,
+    "cat_id": 231,
+    "label": "MELLOMBAR CHIA,QUINOA&NØTTER 138G",
+    "is_corrupted_cat": true,
+    "verdict": "UNCERTAIN",
+    "visible_text": "",
+    "reason": "parse: {\"visible_text\": \"MellomBar CHIA & QUINOA 100\", \"verdict\": \"UNCERTAIN\", \"reason\"",
+    "bbox_size": "133x112"
+  },
+  {
+    "ann_id": 9685,
+    "cat_id": 155,
+    "label": "MELANGE FLYTENDE MARGARIN M/SMØR 500ML",
+    "is_corrupted_cat": false,
+    "verdict": "UNCERTAIN",
+    "visible_text": "",
+    "reason": "parse: {\"visible_text\": \"Melange KLASSIKEREN SIDEN 1919",
+    "bbox_size": "229x525"
+  },
+  {
+    "ann_id": 20004,
+    "cat_id": 143,
+    "label": "KORNMO KNEKKEBRØD HAVRE&SOLSIKKE 200G",
+    "is_corrupted_cat": true,
+    "verdict": "UNCERTAIN",
+    "visible_text": "",
+    "reason": "parse: {\"visible_text\": \"KORNMO SANTE KNEKKEBRØD HAVRE",
+    "bbox_size": "199x112"
+  },
+  {
+    "ann_id": 32268,
+    "cat_id": 12,
+    "label": "Leksands Rutbit",
+    "is_corrupted_cat": false,
+    "verdict": "CORRECT",
+    "visible_text": "LEKSANDS RUTBIT",
+    "reason": "The visible brand name 'LEKSANDS' and product name 'RUTBIT' are clearly identifiable and match the provided label.",
+    "bbox_size": "140x114"
+  },
+  {
+    "ann_id": 5003,
+    "cat_id": 219,
+    "label": "GREEN WORLD KAFFE ØKOL FILTERMALT 250G",
+    "is_corrupted_cat": false,
+    "verdict": "CORRECT",
+    "visible_text": "",
+    "reason": "{\"visible_text\": \"FÆRCH'S GREEN WORLD KAFFE ØKOLOGISK FILTERMALT\", \"verdict\": \"C",
+    "bbox_size": "73x128"
+  },
+  {
+    "ann_id": 27156,
+    "cat_id": 39,
+    "label": "KNEKKEBRØD RUNDA KANEL 330G WASA",
+    "is_corrupted_cat": true,
+    "verdict": "CORRECT",
+    "visible_text": "Wasa, KANEL",
+    "reason": "The visible brand 'Wasa' and product name part 'KANEL' match the label. The image also shows round items, consistent with 'RUNDA' in the label.",
+    "bbox_size": "104x177"
+  },
+  {
+    "ann_id": 3955,
+    "cat_id": 37,
+    "label": "URTETE 200G RICOLA",
+    "is_corrupted_cat": true,
+    "verdict": "UNCERTAIN",
+    "visible_text": "",
+    "reason": "parse: {\"visible_text\": \"Ricola, Herb Tea. Some unreadable text on a white label",
+    "bbox_size": "117x177"
+  },
+  {
+    "ann_id": 475,
+    "cat_id": 24,
+    "label": "GRØNN MINT TE 20POS LIPTON",
+    "is_corrupted_cat": true,
+    "verdict": "UNCERTAIN",
+    "visible_text": "",
+    "reason": "parse: {\"visible_text\": \"Lipton, Infusion, MINT\", \"verdict\":",
+    "bbox_size": "76x100"
+  },
+  {
+    "ann_id": 2013,
+    "cat_id": 325,
+    "label": "NESCAFE GULL 100G",
+    "is_corrupted_cat": true,
+    "verdict": "CORRECT",
+    "visible_text": "NESCAFE GULL 100g",
+    "reason": "The brand 'NESCAFE' and product name 'GULL' are clearly visible. The weight '100g' is also visible at the bottom of the label, though the 'g' is slightly less clear than '100'.",
+    "bbox_size": "48x102"
+  },
+  {
+    "ann_id": 21775,
+    "cat_id": 329,
+    "label": "SKORPOR FULLKORN 240G PÅGEN",
+    "is_corrupted_cat": true,
+    "verdict": "UNCERTAIN",
+    "visible_text": "45:-, SKORPOR, CTAD FULLKORN, CTAD, UTTAMATON, UTTA, VETEMJÖL (partially visible), 240G",
+    "reason": "SKORPOR, FULLKORN, and 240G are visible, but the brand 'PÅGEN' is not visible on the package.",
+    "bbox_size": "290x308"
+  },
+  {
+    "ann_id": 27574,
+    "cat_id": 109,
+    "label": "KNEKKEBRØD 100 FRØ&HAVSALT 245G WASA",
+    "is_corrupted_cat": true,
+    "verdict": "UNCERTAIN",
+    "visible_text": "",
+    "reason": "parse: {\"visible_text\": \"wasa, TUNN, 100\", \"",
+    "bbox_size": "167x140"
+  },
+  {
+    "ann_id": 19067,
+    "cat_id": 113,
+    "label": "ERTERFLATBRØD CRISP 210G",
+    "is_corrupted_cat": false,
+    "verdict": "UNCERTAIN",
+    "visible_text": "CRISP",
+    "reason": "Only 'CRISP' is clearly visible in the image. 'ERTERFLATBRØD' and '210G' are not visible, making it impossible to confirm the full label.",
+    "bbox_size": "68x41"
+  },
+  {
+    "ann_id": 15833,
+    "cat_id": 355,
+    "label": "unknown_product",
+    "is_corrupted_cat": false,
+    "verdict": "WRONG",
+    "visible_text": "AXA GRANOLA STRAWBERRY & BLACKCURRANT SUGAR FREE NO ADDED SUGAR MED SØDESTOF",
+    "reason": "The brand 'AXA' and product type 'GRANOLA' along with flavor and other details are clearly visible, so it's not an 'unknown_product'.",
+    "bbox_size": "72x95"
+  },
+  {
+    "ann_id": 13537,
+    "cat_id": 30,
+    "label": "SJOKORINGER 375G ELDORADO",
+    "is_corrupted_cat": false,
+    "verdict": "CORRECT",
+    "visible_text": "ELDORADO SJOKO-RINGER SPRØ RINGER I SJOKOLADESMAK! FULL AV FULIKORN 375 g e SPIS MED GODT SAMVITTIGHET",
+    "reason": "The brand ELDORADO, product name SJOKORINGER (SJOKO-RINGER), and weight 375g are all clearly visible and match the provided label.",
+    "bbox_size": "133x190"
+  },
+  {
+    "ann_id": 10818,
+    "cat_id": 90,
+    "label": "GRANOLA PEKAN GL.FRI 325G SYNNØVE FINDEN",
+    "is_corrupted_cat": false,
+    "verdict": "CORRECT",
+    "visible_text": "",
+    "reason": "{\"visible_text\": \"GRANOLA PEKAN GL.FRI 325G SYNNØVE\", \"verdict\": \"CORRECT\", \"rea",
+    "bbox_size": "32x44"
+  },
+  {
+    "ann_id": 10714,
+    "cat_id": 342,
+    "label": "HAVREFRAS 375G",
+    "is_corrupted_cat": true,
+    "verdict": "UNCERTAIN",
+    "visible_text": "Havre fras",
+    "reason": "The product name 'Havre fras' is visible and matches 'HAVREFRAS'. However, the weight '375G' is not visible on the package, so the label cannot be fully confirmed.",
+    "bbox_size": "110x183"
+  },
+  {
+    "ann_id": 9620,
+    "cat_id": 6,
+    "label": "Eldorado Økologiske Gårdsegg",
+    "is_corrupted_cat": false,
+    "verdict": "UNCERTAIN",
+    "visible_text": "",
+    "reason": "parse: {\"visible_text\": \"ELDORADO ØKOLOGISKE GÅRDSEGG 10 STK M/L ØKOLOGISK BIO\", \"verdi",
+    "bbox_size": "748x235"
+  },
+  {
+    "ann_id": 10731,
+    "cat_id": 355,
+    "label": "unknown_product",
+    "is_corrupted_cat": false,
+    "verdict": "WRONG",
+    "visible_text": "SJOKO-RINGER",
+    "reason": "The product name 'SJOKO-RINGER' is clearly visible.",
+    "bbox_size": "103x189"
+  },
+  {
+    "ann_id": 12122,
+    "cat_id": 53,
+    "label": "COCO POPS CHOCOS 330G KELLOGG'S",
+    "is_corrupted_cat": true,
+    "verdict": "WRONG",
+    "visible_text": "Kellogg's, COCO pops, CHOCOS, WIN, NBA (logo), Nintendo 64 (logo)",
+    "reason": "The weight '330G' is not visible on the product packaging.",
+    "bbox_size": "190x219"
+  },
+  {
+    "ann_id": 17311,
+    "cat_id": 355,
+    "label": "unknown_product",
+    "is_corrupted_cat": false,
+    "verdict": "WRONG",
+    "visible_text": "AXA GRANOLA STRAWBERRY & RASPBERRY NO ADDED SUGAR 300g",
+    "reason": "I can clearly identify the brand (AXA), product type (GRANOLA), flavor (STRAWBERRY & RASPBERRY), and weight (300g).",
+    "bbox_size": "151x202"
+  },
+  {
+    "ann_id": 30222,
+    "cat_id": 12,
+    "label": "Leksands Rutbit",
+    "is_corrupted_cat": false,
+    "verdict": "CORRECT",
+    "visible_text": "LEKSANDS RUTBIT",
+    "reason": "The visible text 'LEKSANDS RUTBIT' matches the provided label 'Leksands Rutbit'.",
+    "bbox_size": "132x126"
+  },
+  {
+    "ann_id": 8106,
+    "cat_id": 80,
+    "label": "FROKOSTEGG FRITTGÅENDE L 12STK PRIOR",
+    "is_corrupted_cat": true,
+    "verdict": "UNCERTAIN",
+    "visible_text": "",
+    "reason": "parse: {\"visible_text\": \"PRIOR, FROKOSTEGG, 12 egg fra",
+    "bbox_size": "580x181"
+  },
+  {
+    "ann_id": 5708,
+    "cat_id": 341,
+    "label": "EVERGOOD CLASSIC HELE BØNNER 500G",
+    "is_corrupted_cat": false,
+    "verdict": "UNCERTAIN",
+    "visible_text": "EVERGOOD Classic E BØNNER (likely HELE BØNNER)",
+    "reason": "The visible text 'EVERGOOD Classic E BØNNER' strongly suggests 'EVERGOOD CLASSIC HELE BØNNER', but '500G' is not visible to confirm the full label.",
+    "bbox_size": "60x117"
+  },
+  {
+    "ann_id": 2525,
+    "cat_id": 355,
+    "label": "unknown_product",
+    "is_corrupted_cat": false,
+    "verdict": "WRONG",
+    "visible_text": "Swiss Chocolate Coffee, Malt kaffe og sjokolade, SWISS CHOCOLAT",
+    "reason": "The product name 'Swiss Chocolate Coffee' is visible, so it is not an unknown product.",
+    "bbox_size": "102x213"
+  },
+  {
+    "ann_id": 4082,
+    "cat_id": 160,
+    "label": "ALI ORIGINAL KOKMALT 250G",
+    "is_corrupted_cat": true,
+    "verdict": "UNCERTAIN",
+    "visible_text": "",
+    "reason": "parse: {\"visible_text\": \"ALI ORIGINAL KOKMALT 250G\", \"verdict\": \"",
+    "bbox_size": "114x227"
+  },
+  {
+    "ann_id": 11408,
+    "cat_id": 186,
+    "label": "SUPERGRØT SKOGSBÆR 57G BARE BRA",
+    "is_corrupted_cat": true,
+    "verdict": "UNCERTAIN",
+    "visible_text": "",
+    "reason": "parse: {\"visible_text\": \"Bare Bra, Naturlig godset, SUPERGRØ",
+    "bbox_size": "193x199"
+  },
+  {
+    "ann_id": 25280,
+    "cat_id": 355,
+    "label": "unknown_product",
+    "is_corrupted_cat": false,
+    "verdict": "WRONG",
+    "visible_text": "HAVRE, BOISSON DE (partially visible), L",
+    "reason": "Visible text like 'HAVRE' and 'BOISSON DE' (partially) identifies the product as an oat beverage, so it's not 'unknown'.",
+    "bbox_size": "108x86"
+  },
+  {
+    "ann_id": 24509,
+    "cat_id": 303,
+    "label": "KNEKKEBRØD HAVRE 220G SIGDAL",
+    "is_corrupted_cat": true,
+    "verdict": "UNCERTAIN",
+    "visible_text": "",
+    "reason": "parse: {\"visible_text\": \"KNEKKEBRØD, HAVRE, SIGDAL",
+    "bbox_size": "70x77"
+  },
+  {
+    "ann_id": 10021,
+    "cat_id": 216,
+    "label": "Sunnmørsegg",
+    "is_corrupted_cat": false,
+    "verdict": "CORRECT",
+    "visible_text": "SUNNMØRS-EGG",
+    "reason": "The visible text 'SUNNMØRS-EGG' matches the provided label 'Sunnmørsegg' very closely, with only a hyphen difference.",
+    "bbox_size": "230x69"
+  },
+  {
+    "ann_id": 24216,
+    "cat_id": 317,
+    "label": "POWERKNEKKEBRØD GL.FRI 225G SCHÄR",
+    "is_corrupted_cat": false,
+    "verdict": "WRONG",
+    "visible_text": "PIZZA SAUCE",
+    "reason": "The visible text clearly says 'PIZZA SAUCE' while the database label is for 'POWERKNEKKEBRØD GL.FRI 225G SCHÄR', which is a type of crackerbread. The products are entirely different.",
+    "bbox_size": "116x59"
+  },
+  {
+    "ann_id": 2309,
+    "cat_id": 320,
+    "label": "EARL GREY TEA 50POS FIRST PRICE",
+    "is_corrupted_cat": false,
+    "verdict": "CORRECT",
+    "visible_text": "First Price EARL GREY TEA 100 g e 50 stk.",
+    "reason": "The visible text 'First Price EARL GREY TEA' and '50 stk.' (50 pieces/portions) perfectly match the database label 'EARL GREY TEA 50POS FIRST PRICE'.",
+    "bbox_size": "292x232"
+  },
+  {
+    "ann_id": 13496,
+    "cat_id": 30,
+    "label": "SJOKORINGER 375G ELDORADO",
+    "is_corrupted_cat": false,
+    "verdict": "UNCERTAIN",
+    "visible_text": "",
+    "reason": "parse: {\"visible_text\": \"SJOKO-RINGER\", \"verdict\": \"UNCER",
+    "bbox_size": "54x146"
+  },
+  {
+    "ann_id": 4021,
+    "cat_id": 219,
+    "label": "GREEN WORLD KAFFE ØKOL FILTERMALT 250G",
+    "is_corrupted_cat": false,
+    "verdict": "UNCERTAIN",
+    "visible_text": "",
+    "reason": "parse: {\"visible_text\": \"GREEN WORLD, FILTERMALT\", \"verdict\":",
+    "bbox_size": "196x342"
+  },
+  {
+    "ann_id": 19487,
+    "cat_id": 62,
+    "label": "KAVRINGER 350G WASA",
+    "is_corrupted_cat": true,
+    "verdict": "WRONG",
+    "visible_text": "KAVRINGER, UTG. EN 2026, MED MINST 100 G, CA. 25",
+    "reason": "The text '350G' and 'WASA' are not visible. I can see 'MED MINST 100 G' instead of '350G'.",
+    "bbox_size": "296x174"
+  },
+  {
+    "ann_id": 715,
+    "cat_id": 355,
+    "label": "unknown_product",
+    "is_corrupted_cat": false,
+    "verdict": "WRONG",
+    "visible_text": "roberti, GRAN RESERVE (partially readable)",
+    "reason": "The brand name 'roberti' is clearly visible, and 'GRAN RESERVE' is partially readable, so it is not an 'unknown_product'.",
+    "bbox_size": "89x144"
+  },
+  {
+    "ann_id": 31093,
+    "cat_id": 92,
+    "label": "KNEKKEBRØD GODT FOR DEG 235G SIGDAL",
+    "is_corrupted_cat": true,
+    "verdict": "UNCERTAIN",
+    "visible_text": "",
+    "reason": "parse: {\"visible_text\": \"SIGDAL, GODT FOR DEG, K",
+    "bbox_size": "144x166"
+  },
+  {
+    "ann_id": 33265,
+    "cat_id": 204,
+    "label": "MELLOMBAR SALT KARAMELL 138G ELDORADO",
+    "is_corrupted_cat": true,
+    "verdict": "UNCERTAIN",
+    "visible_text": "",
+    "reason": "parse: {\"visible_text\": \"MellomBar, SALT KARAMELL\", \"verdict",
+    "bbox_size": "125x175"
+  },
+  {
+    "ann_id": 18555,
+    "cat_id": 228,
+    "label": "BRUSCHETTE FINE CHEESE MARETTI",
+    "is_corrupted_cat": true,
+    "verdict": "UNCERTAIN",
+    "visible_text": "Maretti Bruschette Crisps",
+    "reason": "The visible text 'Maretti Bruschette Crisps' matches the brand 'Maretti' and product type 'Bruschette', but 'FINE CHEESE' is not explicitly visible in the image. It may be a specific flavor not mentioned on the main text shown.",
+    "bbox_size": "150x181"
+  },
+  {
+    "ann_id": 12033,
+    "cat_id": 355,
+    "label": "unknown_product",
+    "is_corrupted_cat": false,
+    "verdict": "WRONG",
+    "visible_text": "AXA Roasted oats GRANOLA STRAWBERRY & SUNFLOWER SEED NO ADDED SUGAR FIBER-RICH DOUBLE SERVINGS",
+    "reason": "The product clearly shows 'AXA Granola Strawberry & Sunflower Seed' and is not an 'unknown_product'. There is also text about 'no added sugar', 'fiber-rich', and 'double servings'.",
+    "bbox_size": "171x254"
+  },
+  {
+    "ann_id": 24485,
+    "cat_id": 38,
+    "label": "KNEKKEBRØD DIN STUND CHIA&HAVSALT 270G W",
+    "is_corrupted_cat": true,
+    "verdict": "UNCERTAIN",
+    "visible_text": "",
+    "reason": "parse: {\"visible_text\": \"DIN STUND HAVSALT\", \"verdict\": \"UNCERTAIN",
+    "bbox_size": "65x219"
+  },
+  {
+    "ann_id": 3569,
+    "cat_id": 141,
+    "label": "EVERGOOD CLASSIC PRESSMALT 250G",
+    "is_corrupted_cat": false,
+    "verdict": "WRONG",
+    "visible_text": "",
+    "reason": "{\"visible_text\": \"EVERGOOD CLASSIC 250G\", \"verdict\": \"WRONG\", \"reason\": \"The lab",
+    "bbox_size": "143x307"
+  },
+  {
+    "ann_id": 25595,
+    "cat_id": 12,
+    "label": "Leksands Rutbit",
+    "is_corrupted_cat": false,
+    "verdict": "CORRECT",
+    "visible_text": "LEKSANDS RUTBIT",
+    "reason": "The visible text 'LEKSANDS RUTBIT' perfectly matches the provided label.",
+    "bbox_size": "255x180"
+  },
+  {
+    "ann_id": 11630,
+    "cat_id": 30,
+    "label": "SJOKORINGER 375G ELDORADO",
+    "is_corrupted_cat": false,
+    "verdict": "UNCERTAIN",
+    "visible_text": "",
+    "reason": "parse: {\"visible_text\": \"SJOKO- RINGER SPRØ RINGER SJ",
+    "bbox_size": "237x463"
+  },
+  {
+    "ann_id": 9652,
+    "cat_id": 139,
+    "label": "EGG FRITTGÅENDE M/L/XL SOLEGG 6STK PRIOR",
+    "is_corrupted_cat": true,
+    "verdict": "CORRECT",
+    "visible_text": "",
+    "reason": "{\n  \"visible_text\": \"PRIOR Solegg 6 egg med solgul plomme fra frittgående norske",
+    "bbox_size": "345x185"
+  },
+  {
+    "ann_id": 1283,
+    "cat_id": 355,
+    "label": "unknown_product",
+    "is_corrupted_cat": false,
+    "verdict": "WRONG",
+    "visible_text": "Lipton EARL GREY, EARL GREY, 43.50 (price)",
+    "reason": "The brand 'Lipton' and product name 'Earl Grey' are clearly visible, so it is not an unknown product.",
+    "bbox_size": "208x94"
+  },
+  {
+    "ann_id": 27714,
+    "cat_id": 280,
+    "label": "RISKAKER 100G FIRST PRICE",
+    "is_corrupted_cat": true,
+    "verdict": "UNCERTAIN",
+    "visible_text": "",
+    "reason": "parse: {\"visible_text\": \"FIRST PRICE. Above the barcode, blurry text that appears",
+    "bbox_size": "87x142"
+  },
+  {
+    "ann_id": 32112,
+    "cat_id": 271,
+    "label": "FRUKOST KNEKKEBRØD 240G WASA",
+    "is_corrupted_cat": true,
+    "verdict": "UNCERTAIN",
+    "visible_text": "",
+    "reason": "parse: {\"visible_text\": \"Wasa, FRUKOST\", \"verdict\": \"",
+    "bbox_size": "142x145"
+  },
+  {
+    "ann_id": 32068,
+    "cat_id": 290,
+    "label": "SANDWICH CHEESE TOMAT&BASILIKUM 40G WASA",
+    "is_corrupted_cat": false,
+    "verdict": "WRONG",
+    "visible_text": "MellomBar SJOKOLADE & KRISP",
+    "reason": "The visible text 'MellomBar SJOKOLADE & KRISP' does not match the product label 'SANDWICH CHEESE TOMAT&BASILIKUM 40G WASA'. This product appears to be a chocolate and crisp bar, not cheese.",
+    "bbox_size": "141x41"
+  },
+  {
+    "ann_id": 2341,
+    "cat_id": 171,
+    "label": "ALI ORIGINAL FILTERMALT 250G",
+    "is_corrupted_cat": true,
+    "verdict": "CORRECT",
+    "visible_text": "FILTERMALT 100% ARABICA KAFFE ALi ORIGINAL 250 G",
+    "reason": "All components of the label 'ALI ORIGINAL FILTERMALT 250G' are clearly visible on the product image: 'ALi', 'ORIGINAL', 'FILTERMALT', and '250 G'.",
+    "bbox_size": "206x375"
+  },
+  {
+    "ann_id": 2926,
+    "cat_id": 348,
+    "label": "ALI ORIGINAL HELE BØNNER 250G",
+    "is_corrupted_cat": false,
+    "verdict": "UNCERTAIN",
+    "visible_text": "",
+    "reason": "parse: {\"visible_text\": \"ALI 250 G\", \"verdict\": \"UNC",
+    "bbox_size": "132x120"
+  },
+  {
+    "ann_id": 103,
+    "cat_id": 219,
+    "label": "GREEN WORLD KAFFE ØKOL FILTERMALT 250G",
+    "is_corrupted_cat": false,
+    "verdict": "UNCERTAIN",
+    "visible_text": "",
+    "reason": "parse: {\"visible_text\": \"GREEN WORLD\", \"verdict\": \"UNCERTAIN",
+    "bbox_size": "57x125"
+  },
+  {
+    "ann_id": 2558,
+    "cat_id": 144,
+    "label": "FRIELE FROKOST KOKMALT 250G",
+    "is_corrupted_cat": false,
+    "verdict": "UNCERTAIN",
+    "visible_text": "",
+    "reason": "parse: {\"visible_text\": \"FRIELE FROKOST ORIGINAL 1",
+    "bbox_size": "167x267"
+  },
+  {
+    "ann_id": 24529,
+    "cat_id": 251,
+    "label": "KNEKKEBRØD SOLSIKKE GL.FRI 190G SIGDAL",
+    "is_corrupted_cat": true,
+    "verdict": "UNCERTAIN",
+    "visible_text": "",
+    "reason": "parse: {\"visible_text\": \"SIGD... (partially visible in logo and",
+    "bbox_size": "107x149"
+  },
+  {
+    "ann_id": 29405,
+    "cat_id": 92,
+    "label": "KNEKKEBRØD GODT FOR DEG 235G SIGDAL",
+    "is_corrupted_cat": true,
+    "verdict": "UNCERTAIN",
+    "visible_text": "",
+    "reason": "parse: {\"visible_text\": \"SIGDAL GODT FOR DEG 30% FR",
+    "bbox_size": "121x119"
+  },
+  {
+    "ann_id": 3754,
+    "cat_id": 45,
+    "label": "LADY GREY TEA 25POS TWININGS",
+    "is_corrupted_cat": true,
+    "verdict": "UNCERTAIN",
+    "visible_text": "",
+    "reason": "parse: {\"visible_text\": \"TWININGS OF LONDON Lady Grey Tea SINCE 170",
+    "bbox_size": "254x148"
+  },
+  {
+    "ann_id": 13112,
+    "cat_id": 7,
+    "label": "PUFFET HAVRE 340G FIRST PRICE",
+    "is_corrupted_cat": true,
+    "verdict": "CORRECT",
+    "visible_text": "FIRST PRICE PUFFET HAVRE 340G sprøde knasende",
+    "reason": "The visible text 'FIRST PRICE PUFFET HAVRE 340G' directly matches the components of the provided label 'PUFFET HAVRE 340G FIRST PRICE'.",
+    "bbox_size": "122x78"
+  },
+  {
+    "ann_id": 24676,
+    "cat_id": 12,
+    "label": "Leksands Rutbit",
+    "is_corrupted_cat": false,
+    "verdict": "CORRECT",
+    "visible_text": "LEKSANDS RUTBIT",
+    "reason": "The visible text 'LEKSANDS RUTBIT' perfectly matches the provided label 'Leksands Rutbit' (case-insensitive).",
+    "bbox_size": "138x114"
+  },
+  {
+    "ann_id": 20325,
+    "cat_id": 82,
+    "label": "FRØ & HAVSALT 200G LEKSANDS",
+    "is_corrupted_cat": true,
+    "verdict": "UNCERTAIN",
+    "visible_text": "LEKSANDS FRØ & HAVSALT SPRØD & VÄLSMÄKANDE 0.12",
+    "reason": "The brand 'LEKSANDS' and product name 'FRØ & HAVSALT' are correct, but the weight '200G' is not visible in the image.",
+    "bbox_size": "211x164"
+  },
+  {
+    "ann_id": 14618,
+    "cat_id": 34,
+    "label": "SMACKS 330G KELLOGG'S",
+    "is_corrupted_cat": true,
+    "verdict": "WRONG",
+    "visible_text": "Kellogg's SMACKS",
+    "reason": "The weight '330G' is not visible on the product in the image.",
+    "bbox_size": "111x167"
+  },
+  {
+    "ann_id": 3831,
+    "cat_id": 355,
+    "label": "unknown_product",
+    "is_corrupted_cat": false,
+    "verdict": "WRONG",
+    "visible_text": "STARBUCKS SIGNATURE CHOCOLATE 42% VELVETY & SMOOTH CREAMY & INDULGENT",
+    "reason": "The brand 'STARBUCKS' and product name 'SIGNATURE CHOCOLATE' are clearly visible, so it is not an unknown product.",
+    "bbox_size": "217x248"
+  },
+  {
+    "ann_id": 13260,
+    "cat_id": 53,
+    "label": "COCO POPS CHOCOS 330G KELLOGG'S",
+    "is_corrupted_cat": true,
+    "verdict": "UNCERTAIN",
+    "visible_text": "Kellogg's COCO pops CHOCOS WIN NBA",
+    "reason": "The weight '330G' is not visible in the image.",
+    "bbox_size": "78x137"
+  },
+  {
+    "ann_id": 11270,
+    "cat_id": 75,
+    "label": "CRUESLI 4 NUTS 450G QUAKER",
+    "is_corrupted_cat": true,
+    "verdict": "UNCERTAIN",
+    "visible_text": "QUAKER Cruesli 4 NUTS",
+    "reason": "The brand 'QUAKER' and product name 'CRUESLI 4 NUTS' are visible and match the label. However, the weight '450G' is not visible on the product packaging in the image.",
+    "bbox_size": "202x290"
+  },
+  {
+    "ann_id": 10668,
+    "cat_id": 97,
+    "label": "CHEERIOS MULTI 375G NESTLE",
+    "is_corrupted_cat": true,
+    "verdict": "UNCERTAIN",
+    "visible_text": "",
+    "reason": "parse: {\"visible_text\": \"Cheerios, Multi (below Cheerios)\", \"ver",
+    "bbox_size": "107x158"
+  },
+  {
+    "ann_id": 3195,
+    "cat_id": 118,
+    "label": "BLÅ JAVA HELE BØNNER 500G JACOBS UTVALGT",
+    "is_corrupted_cat": false,
+    "verdict": "UNCERTAIN",
+    "visible_text": "",
+    "reason": "parse: {\"visible_text\": \"Jacobs UTVALGT BLÅ JAVA fyldig og rund med",
+    "bbox_size": "209x274"
+  },
+  {
+    "ann_id": 24752,
+    "cat_id": 349,
+    "label": "KNEKKEBRØD SPORT+ 210G WASA",
+    "is_corrupted_cat": true,
+    "verdict": "UNCERTAIN",
+    "visible_text": "",
+    "reason": "parse: {\"visible_text\": \"wasa, SPORT+\", \"verdict\": \"UNCERTAIN",
+    "bbox_size": "138x118"
+  },
+  {
+    "ann_id": 3832,
+    "cat_id": 298,
+    "label": "O'BOY ORIGINAL 450G FREIA",
+    "is_corrupted_cat": true,
+    "verdict": "CORRECT",
+    "visible_text": "Oboy THE ORIGINAL Great Taste SINCE 1960 450 g FOREVER A CHOCOLATE Freia",
+    "reason": "All visible elements (brand 'Oboy', 'ORIGINAL', '450 g', and 'Freia') match the provided label.",
+    "bbox_size": "220x365"
+  },
+  {
+    "ann_id": 572,
+    "cat_id": 320,
+    "label": "EARL GREY TEA 50POS FIRST PRICE",
+    "is_corrupted_cat": false,
+    "verdict": "CORRECT",
+    "visible_text": "First Price EARL GREY TEA 50g 50 BAGS FINE BLEND EARL GREY (and a Fairtrade logo)",
+    "reason": "The brand 'First Price' and product name 'Earl Grey Tea' are clearly visible. '50 BAGS' is visible, which corresponds to '50POS' (50 portions) in the label.",
+    "bbox_size": "178x256"
+  },
+  {
+    "ann_id": 10920,
+    "cat_id": 78,
+    "label": "MUSLI HAVRE&MANDEL 400G BARE BRA",
+    "is_corrupted_cat": true,
+    "verdict": "UNCERTAIN",
+    "visible_text": "NYHET Bare Bra MÜSLI UTEN TILSATT SUKKER HAVRE & MANDEL crunchy",
+    "reason": "Brand 'Bare Bra', product 'MÜSLI', and flavor 'HAVRE & MANDEL' are visible and match. However, the weight '400G' is not visible on the product packaging in the image.",
+    "bbox_size": "115x145"
+  },
+  {
+    "ann_id": 1920,
+    "cat_id": 355,
+    "label": "unknown_product",
+    "is_corrupted_cat": false,
+    "verdict": "WRONG",
+    "visible_text": "KAFFEHUGEN Italiensk mørk espresso Kaffebønner av nøye utvalgte",
+    "reason": "The product brand 'KAFFEHUGEN' and product type 'Italiensk mørk espresso' are clearly visible, so it is not an 'unknown_product'.",
+    "bbox_size": "89x108"
+  },
+  {
+    "ann_id": 9661,
+    "cat_id": 253,
+    "label": "SOFT FLORA LETT 235G",
+    "is_corrupted_cat": true,
+    "verdict": "UNCERTAIN",
+    "visible_text": "Soft FLORA Lett og god smak Min. 12.22 Kampanje tilbud",
+    "reason": "The visible text includes 'Soft FLORA' and 'Lett' (light), but no weight information like '235G' is visible on the product packaging.",
+    "bbox_size": "285x120"
+  },
+  {
+    "ann_id": 24257,
+    "cat_id": 101,
+    "label": "SANDWICH CHEESE HERBS 30G WASA",
+    "is_corrupted_cat": false,
+    "verdict": "WRONG",
+    "visible_text": "TORO ORIGINAL BRUN SAUS KLASSISK",
+    "reason": "The visible brand is 'TORO' and the product is 'BRUN SAUS' (brown sauce), not 'SANDWICH CHEESE HERBS WASA'.",
+    "bbox_size": "162x163"
+  },
+  {
+    "ann_id": 5882,
+    "cat_id": 219,
+    "label": "GREEN WORLD KAFFE ØKOL FILTERMALT 250G",
+    "is_corrupted_cat": false,
+    "verdict": "UNCERTAIN",
+    "visible_text": "",
+    "reason": "parse: {\"visible_text\": \"GREEN WORLD MILD 250 G\", \"ver",
+    "bbox_size": "116x260"
+  },
+  {
+    "ann_id": 2590,
+    "cat_id": 127,
+    "label": "FRIELE FROKOST HEL 500G",
+    "is_corrupted_cat": false,
+    "verdict": "UNCERTAIN",
+    "visible_text": "FRIELE, FROKOSTKAFFE, ORIGINAL, SIDEN 1799",
+    "reason": "While 'FRIELE' and 'FROKOST' are visible, 'HEL' (likely for whole beans) and '500G' (weight) are not visible on the packaging to confirm the full label.",
+    "bbox_size": "177x239"
+  },
+  {
+    "ann_id": 20568,
+    "cat_id": 246,
+    "label": "HUSMAN KNEKKEBRØD 260G WASA",
+    "is_corrupted_cat": true,
+    "verdict": "UNCERTAIN",
+    "visible_text": "",
+    "reason": "parse: {\"visible_text\": \"Wasa HUSMAN\", \"verdict\": \"",
+    "bbox_size": "193x120"
+  },
+  {
+    "ann_id": 28883,
+    "cat_id": 315,
+    "label": "4-KORN 675G AXA",
+    "is_corrupted_cat": true,
+    "verdict": "UNCERTAIN",
+    "visible_text": "",
+    "reason": "parse: {\"visible_text\": \"None legible due to extreme blurriness.\", \"verdict\":",
+    "bbox_size": "121x166"
+  },
+  {
+    "ann_id": 32376,
+    "cat_id": 338,
+    "label": "HUSMAN KNEKKEBRØD 520G WASA",
+    "is_corrupted_cat": true,
+    "verdict": "UNCERTAIN",
+    "visible_text": "HUSMAN Wasa Krispigt rågknäckebröd Baka med samma recept i över 90 år.",
+    "reason": "The visible text confirms 'HUSMAN' and 'Wasa' (brand and product name components) but does not show 'KNEKKEBRØD' or '520G'. The language 'rågknäckebröd' is Swedish, while 'KNEKKEBRØD' is Norwegian. Without seeing 'KNEKKEBRØD' or '520G' and given the language discrepancy, the label cannot be fully confirmed as correct or incorrect.",
+    "bbox_size": "447x205"
+  },
+  {
+    "ann_id": 11027,
+    "cat_id": 180,
+    "label": "MÜSLI PAPAYA GLUTENFRI 350G AXA",
+    "is_corrupted_cat": false,
+    "verdict": "UNCERTAIN",
+    "visible_text": "",
+    "reason": "parse: {\"visible_text\": \"3.5 (on price tag)\", \"verdict",
+    "bbox_size": "71x67"
+  },
+  {
+    "ann_id": 27983,
+    "cat_id": 208,
+    "label": "FLATBRØD 190G IDEAL",
+    "is_corrupted_cat": true,
+    "verdict": "UNCERTAIN",
+    "visible_text": "",
+    "reason": "parse: {\"visible_text\": \"IDEAL\", \"verdict\": \"UNCERTAIN",
+    "bbox_size": "175x147"
+  },
+  {
+    "ann_id": 25570,
+    "cat_id": 280,
+    "label": "RISKAKER 100G FIRST PRICE",
+    "is_corrupted_cat": true,
+    "verdict": "CORRECT",
+    "visible_text": "First Price RISKAKER HAVREKAKER 100G",
+    "reason": "The visible text 'First Price RISKAKER' and '100G' match the components of the provided label. 'HAVREKAKER' is also visible, providing more detail.",
+    "bbox_size": "136x161"
+  }
+]

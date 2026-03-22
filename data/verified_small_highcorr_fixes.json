@@ -1,0 +1,20 @@
+[
+  {
+    "ann_id": 20,
+    "old_cat": 81,
+    "new_cat": 46,
+    "source": "GR\u00d8NN TE CHAI\u2192GR\u00d8NN TE SITRON TWININGS text-confirmed"
+  },
+  {
+    "ann_id": 7623,
+    "old_cat": 104,
+    "new_cat": 72,
+    "source": "SM\u00d8R USALTET\u2192EGG FRITTG\u00c5ENDE 12STK PRIOR text-confirmed"
+  },
+  {
+    "ann_id": 7959,
+    "old_cat": 104,
+    "new_cat": 275,
+    "source": "SM\u00d8R USALTET\u2192EGG FRITTG\u00c5ENDE 18STK FIRST PRICE text-confirmed"
+  }
+]
