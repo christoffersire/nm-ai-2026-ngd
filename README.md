@@ -148,7 +148,8 @@ Upload zip at app.ainm.no. Max 420 MB, ≤3 weight files, ≤10 .py files.
 | v14d | 300ep both (cleaned data) | 0.8848 | 68.9s | Worst — removal hurt most |
 | v15a | v13 weights + full TTA both | 0.9113 | 95.8s | Full TTA hurt by -0.0014 |
 | v16 | v16-1280 + v3-1536 (conf=0.01) | 0.9117 | 73.3s | Lower conf hurt |
-| v16b | v16-1280 + v3-1536 (conf=0.05) | 0.9119 | 69.4s | Data changes didn't help |
+| v16b | v16-1280 + v3-1536 (conf=0.05) | 0.9119 | 69.4s | 61 unknown relabels didn't help |
+| v13b | v13 + multi-scale TTA (1280+960) | 0.9117 | 126.6s | Multi-scale hurt by -0.0010 |
 
 ## Data Cleaning
 
@@ -182,7 +183,9 @@ Upload zip at app.ainm.no. Max 420 MB, ≤3 weight files, ≤10 .py files.
 - **Data quality is the biggest lever**: 10 manual fixes → +0.0108
 - **Removing data is worse than keeping wrong labels** — v14 proved this conclusively
 - **Full TTA on both models hurts** by -0.0014 (v15a confirmed)
+- **Multi-scale TTA (1280+960) hurts** by -0.0010 (v13b confirmed)
 - **conf=0.01 vs 0.05**: slight negative impact on public score
+- **Unknown product relabeling (61 fixes) didn't help** — v16b scored 0.9119 vs v13's 0.9127
 - **Copy-paste augmentation hurts** on dense shelf images
 - **Classifier stage hurts** — detector's own classification is better
 - **ONNX required** — sandbox ultralytics 8.1.0 can't load newer .pt files
