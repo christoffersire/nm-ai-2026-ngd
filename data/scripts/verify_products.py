@@ -23,7 +23,7 @@ RAW_DIR = DATA_DIR / "raw"
 REF_DIR = RAW_DIR / "product_images"
 
 API_BASE = "https://kassal.app/api/v1"
-API_KEY = "hLW4tjE0ZxddvLsk9Ow2uNPVUDXV58aLGojGFjfm"
+API_KEY = "<REDACTED>"
 
 ANNOTATIONS_PATH = RAW_DIR / "annotations.json"
 METADATA_PATH = DATA_DIR / "metadata.json"
